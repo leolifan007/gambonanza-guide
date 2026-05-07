@@ -447,6 +447,159 @@ ul { list-style: none; padding: 0; }
 }
 .hero-chess-row span{font-size:2rem;line-height:1;color:var(--cream);font-family:var(--font-display);}
 
+/* ─── Hero Radial Chess Pieces ─── */
+.hero-chess-radial {
+  position: absolute; top: 50%; left: 50%; z-index: 1; pointer-events: none;
+}
+.r-piece {
+  position: absolute;
+  font-family: var(--font-display);
+  color: var(--gold);
+  transform-origin: 0 0;
+  opacity: 0.08;
+  font-size: 3.5rem;
+  line-height: 1;
+  transition: opacity 0.3s ease;
+}
+.hero:hover .r-piece { opacity: 0.14; }
+
+/* ─── Outline Pixel Art Icons ─── */
+.outline-icon {
+  border: 2px solid var(--gold);
+  background: transparent;
+  box-shadow: 0 0 0 1px var(--dark);
+}
+.guide-card-image svg.outline-svg {
+  /* pixel-crisp rendering */
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+/* ─── Sub-Page Content Cards ─── */
+.content-card {
+  border: var(--border-thin); border-radius: var(--radius);
+  padding: var(--space-md); margin-bottom: var(--space-md);
+  background: var(--dark-2);
+  border-left: 3px solid var(--gold);
+}
+.content-card h3 {
+  display: flex; align-items: center; gap: var(--space-sm);
+  margin-bottom: var(--space-sm);
+}
+.content-card h3::before {
+  content: '▶';
+  font-family: var(--font-display);
+  color: var(--gold);
+  font-size: 1rem;
+}
+
+/* ─── Callout Boxes ─── */
+.callout {
+  padding: var(--space-md); margin: var(--space-md) 0;
+  border-radius: var(--radius);
+  border-left: 4px solid;
+}
+.callout-verdict {
+  background: rgba(212,168,74,0.1);
+  border-color: var(--gold);
+}
+.callout-synergy {
+  background: rgba(92,184,92,0.08);
+  border-color: var(--green);
+}
+.callout-danger {
+  background: rgba(168,93,106,0.1);
+  border-color: var(--rose);
+}
+.callout-tip {
+  background: rgba(74,155,155,0.08);
+  border-color: var(--teal);
+}
+.callout strong { color: var(--cream); }
+
+.synergy-list {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-sm);
+  list-style: none; padding: 0;
+}
+.synergy-list li {
+  border: var(--border-thin); padding: var(--space-sm);
+  border-radius: var(--radius);
+  background: var(--dark);
+  font-size: 0.9rem;
+}
+.synergy-list li strong { color: var(--gold); display: block; margin-bottom: 4px; }
+
+/* ─── Section Dividers ─── */
+.section-divider {
+  border: none; border-top: 2px dashed rgba(245,230,211,0.1);
+  margin: var(--space-lg) 0;
+  position: relative;
+  text-align: center;
+}
+.section-divider::after {
+  content: '♟ ♚ ♞';
+  position: absolute;
+  top: -0.7em; left: 50%; transform: translateX(-50%);
+  background: var(--dark);
+  padding: 0 var(--space-md);
+  color: var(--rose-light);
+  font-size: 0.8rem;
+  letter-spacing: 0.3em;
+  white-space: nowrap;
+}
+.section-alt .section-divider::after { background: var(--dark-2); }
+
+/* ─── Sub-page Hero (compact) ─── */
+.page-hero {
+  min-height: 45vh; display: flex; align-items: center;
+  background: linear-gradient(135deg, var(--dark) 0%, var(--dark-2) 50%, #0f0a1a 100%);
+  position: relative; overflow: hidden;
+  padding: var(--space-lg) 0;
+}
+.page-hero-content {
+  position: relative; z-index: 2;
+  max-width: var(--content-w); margin: 0 auto;
+  text-align: center; padding: 0 var(--space-md);
+}
+.page-hero-content h1 {
+  font-size: 2.8rem; margin-bottom: var(--space-sm);
+}
+.page-hero-content h1 span { color: var(--gold); }
+
+/* ─── Content body (sub-pages) ─── */
+.content-body {
+  max-width: var(--content-w); margin: 0 auto;
+  padding: var(--space-lg) var(--space-md);
+}
+.content-body h2 {
+  margin-top: var(--space-lg); margin-bottom: var(--space-sm);
+  border-bottom: var(--border-thin); padding-bottom: var(--space-sm);
+}
+.content-body h3 { margin-top: var(--space-md); margin-bottom: var(--space-sm); }
+.content-body p { line-height: 1.8; color: var(--cream-dark); }
+.content-body blockquote {
+  border-left: 3px solid var(--gold);
+  padding-left: var(--space-md);
+  margin: var(--space-md) 0;
+  color: var(--cream);
+  font-style: italic;
+  background: rgba(212,168,74,0.05);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+.content-body ol, .content-body ul {
+  padding-left: var(--space-md);
+  margin-bottom: var(--space-md);
+  list-style: disc;
+  color: var(--cream-dark);
+}
+.content-body ol { list-style: decimal; }
+.content-body li {
+  margin-bottom: 6px; line-height: 1.7;
+}
+.content-body strong { color: var(--cream); }
+
 /* ─── Responsive: Tablet (1024px and down) ─── */
 @media (max-width: 1024px) {
   .guide-grid { grid-template-columns: repeat(2, 1fr); }
