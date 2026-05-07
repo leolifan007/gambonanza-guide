@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="keywords" content="{{ .Site.Params.keywords }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="/css/style.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script>
+  {{ block "head" . }}{{ end }}
+</head>
+<body>
+  {{ partial "header" . }}
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer" . }}
+</body>
+</html>

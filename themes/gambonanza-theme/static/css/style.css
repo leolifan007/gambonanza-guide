@@ -1,0 +1,173 @@
+/* ============================================
+   GAMBONANZA GUIDE — SVG Image Assets (Inline)
+   These are embedded SVG chess piece graphics
+   Used as background images and card decorations
+   ============================================ */
+
+/* Hero Chess Pattern Background */
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg,
+      rgba(10,13,20,0.2) 0%,
+      rgba(10,13,20,0.85) 60%,
+      rgba(10,13,20,1) 100%
+    ),
+    repeating-linear-gradient(
+      45deg,
+      transparent,
+      transparent 20px,
+      rgba(240,197,94,0.02) 20px,
+      rgba(240,197,94,0.02) 21px
+    ),
+    repeating-linear-gradient(
+      -45deg,
+      transparent,
+      transparent 20px,
+      rgba(240,197,94,0.02) 20px,
+      rgba(240,197,94,0.02) 21px
+    );
+  z-index: 0;
+}
+
+/* Hero decorative chessboard pattern */
+.hero-bg::before {
+  content: '';
+  position: absolute;
+  right: -100px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 500px;
+  height: 500px;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(240,197,94,0.06) 0px,
+    rgba(240,197,94,0.06) 60px,
+    transparent 60px,
+    transparent 120px
+  ),
+  repeating-linear-gradient(
+    90deg,
+    rgba(240,197,94,0.06) 0px,
+    rgba(240,197,94,0.06) 60px,
+    transparent 60px,
+    transparent 120px
+  );
+  border-radius: 8px;
+  opacity: 0.5;
+}
+
+/* Guide card visual backgrounds using CSS gradients */
+.guide-card:nth-child(1) .guide-card-image {
+  background: linear-gradient(135deg, #0a1628 0%, #1a3050 50%, #0a2040 100%);
+  position: relative;
+  overflow: hidden;
+}
+.guide-card:nth-child(1) .guide-card-image::after {
+  content: '♟️';
+  position: absolute;
+  font-size: 8rem;
+  opacity: 0.08;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.guide-card:nth-child(2) .guide-card-image {
+  background: linear-gradient(135deg, #1a0a28 0%, #3a1050 50%, #1a0a28 100%);
+  position: relative;
+  overflow: hidden;
+}
+.guide-card:nth-child(2) .guide-card-image::after {
+  content: '💥';
+  position: absolute;
+  font-size: 5rem;
+  opacity: 0.15;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.guide-card:nth-child(3) .guide-card-image {
+  background: linear-gradient(135deg, #0a2818 0%, #105030 50%, #0a2818 100%);
+  position: relative;
+  overflow: hidden;
+}
+.guide-card:nth-child(3) .guide-card-image::after {
+  content: '👑';
+  position: absolute;
+  font-size: 5rem;
+  opacity: 0.15;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.guide-card:nth-child(4) .guide-card-image {
+  background: linear-gradient(135deg, #281a0a 0%, #503010 50%, #281a0a 100%);
+  position: relative;
+  overflow: hidden;
+}
+.guide-card:nth-child(4) .guide-card-image::after {
+  content: '🎰';
+  position: absolute;
+  font-size: 5rem;
+  opacity: 0.15;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.guide-card:nth-child(5) .guide-card-image {
+  background: linear-gradient(135deg, #0a0a28 0%, #101050 50%, #0a0a28 100%);
+  position: relative;
+  overflow: hidden;
+}
+.guide-card:nth-child(5) .guide-card-image::after {
+  content: '🏆';
+  position: absolute;
+  font-size: 5rem;
+  opacity: 0.15;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.guide-card:nth-child(6) .guide-card-image {
+  background: linear-gradient(135deg, #280a0a 0%, #501010 50%, #280a0a 100%);
+  position: relative;
+  overflow: hidden;
+}
+.guide-card:nth-child(6) .guide-card-image::after {
+  content: '♟️';
+  position: absolute;
+  font-size: 5rem;
+  opacity: 0.15;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Gambit showcase chess piece decorative */
+.gambit-showcase {
+  position: relative;
+  overflow: hidden;
+}
+.gambit-showcase::before {
+  content: '♚';
+  position: absolute;
+  font-size: 20rem;
+  color: rgba(240,197,94,0.04);
+  right: -50px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  line-height: 1;
+}
+
+/* Hero decorative chess pieces */
+.hero-content .hero-badge::before {
+  content: '♟ ';
+  font-size: 1.1em;
+}

@@ -1,0 +1,25 @@
+baseURL = 'https://gambonanza.guide/'
+languageCode = 'en-us'
+title = 'Gambonanza Guide — Complete Strategy, Gambits & Walkthrough'
+theme = 'gambonanza-theme'
+publishDir = 'public'
+disableHugoGeneratorInject = false
+
+[params]
+  description = 'The #1 most complete Gambonanza strategy guide. Master 150+ Gambits, beat all 8 bosses, and learn the casino economy. Updated May 2026.'
+  author = 'Gambonanza Guide'
+  keywords = 'Gambonanza guide, Gambonanza strategy, Gambonanza Gambits, Gambonanza bosses, Gambonanza tips, Gambonanza walkthrough, chess roguelike, Balatro chess'
+  steam_url = 'https://store.steampowered.com/app/3182810/Gambonanza/'
+  steam_price = '$10.99'
+  release_date = 'May 1, 2026'
+  publisher = 'Blukulélé'
+  site_name = 'Gambonanza Guide'
+  twitter_card = 'summary_large_image'
+  og_image = 'https://gambonanza.guide/og-image.png'
+
+[outputs]
+  home = ['HTML']
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'

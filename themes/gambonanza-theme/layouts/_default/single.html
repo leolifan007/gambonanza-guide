@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ partial "page-header" . }}
+<section class="section">
+  <div class="container">
+    <div class="content-layout">
+      <article class="main-content">
+        {{ .Content }}
+      </article>
+      <aside class="sidebar">
+        <div class="toc">
+          <h4>📑 Contents</h4>
+          <ol>
+            <li><a href="#basics">Basics</a></li>
+            <li><a href="#board">The Board</a></li>
+            <li><a href="#cards">Cards</a></li>
+            <li><a href="#gambits">Gambits</a></li>
+            <li><a href="#tips">Pro Tips</a></li>
+          </ol>
+        </div>
+        <div class="sidebar-widget" style="margin-top: 20px;">
+          <h4>🎮 Steam</h4>
+          <p style="font-size:0.9rem; margin-bottom: 12px;">Get Gambonanza on Steam — $10.99</p>
+          <a href="{{ .Site.Params.steam_url }}" class="btn-primary" style="display:block; text-align:center; font-size:0.9rem; padding: 10px;">Buy Now</a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+{{ end }}

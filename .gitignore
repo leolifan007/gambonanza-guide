@@ -1,0 +1,18 @@
+# Hugo build output (regenerated)
+public/
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Zip archives
+*.zip
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
