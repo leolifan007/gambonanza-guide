@@ -465,11 +465,6 @@ ul { list-style: none; padding: 0; }
   background: transparent;
   box-shadow: 0 0 0 1px var(--dark);
 }
-.guide-card-image svg.outline-svg {
-  /* pixel-crisp rendering */
-  image-rendering: pixelated;
-  image-rendering: crisp-edges;
-}
 
 /* ─── Sub-Page Content Cards ─── */
 .content-card {
@@ -691,7 +686,7 @@ ul { list-style: none; padding: 0; }
 
   /* Cards & Grids */
   .guide-grid { grid-template-columns: 1fr; }
-  .guide-card-image { height: 100px; }
+  .guide-card-image { overflow: hidden; }
   .mechanics-grid { grid-template-columns: 1fr; }
   .section { padding: var(--space-lg) 0; }
 
@@ -713,7 +708,7 @@ ul { list-style: none; padding: 0; }
   .logo-text { font-size: 1rem; }
   .btn-steam { padding: 6px 12px; font-size: 0.8rem; }
   .features-strip .container { grid-template-columns: 1fr; }
-  .guide-card-image { height: 80px; }
+  .guide-card-image { overflow: hidden; }
   .guide-card-body { padding: var(--space-sm); }
   .gambit-list li { padding: 10px 0; }
   .section-header h2 { font-size: 1.5rem; }
