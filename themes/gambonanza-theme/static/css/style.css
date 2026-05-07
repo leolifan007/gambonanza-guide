@@ -538,6 +538,15 @@ ul { list-style: none; padding: 0; }
 .footer-bottom p {
   font-size: 0.8rem; color: var(--rose-light); margin: 0;
 }
+.footer-disclaimer {
+  font-size: 0.7rem;
+  color: rgba(245, 230, 211, 0.5);
+  margin-top: 6px;
+  line-height: 1.4;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /* ─── Chess Decorative Elements ─── */
 .chess-bg{
