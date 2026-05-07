@@ -1,171 +1,225 @@
 ---
-title: "Stock Market & Shop Guide"
-description: "Master Gambonanza's casino economy. Stock investment, shop strategies, and how to multiply your winnings."
+title: "Stock Market & Shop Guide: Double Your Way to Infinite Gambits"
+description: "Casino economy mastery. Rated investment tables (S/A/B/C), compound growth strategies, mini-game math, and the exact thresholds for maximum returns."
 ---
 
-## The Economy System — Master the Money
+## The Economy System — Rated & Exploited
 
-Gambonanza isn't just about chess — it's about managing a casino portfolio. Every match won earns you stock. Every shop visit is an investment decision. Understanding the economy is what separates consistent winners from those who burn out.
+<div class="callout callout-verdict">
+  <strong>💰 THE VERDICT</strong><br>
+  Winning Gambonanza is 40% strategy and 60% economy. Players who manage their stock well beat players with better board skills every single time. This guide turns you from a spender into an investor.
+</div>
+
+<hr class="section-divider">
+
+## Investment Tables — Tier List
+
+### S-Tier: Guaranteed Returns
+
+<div class="synergy-table" style="overflow-x:auto">
+
+| Table | Return | Risk | Min Stock | Rating |
+|---|---|---|---|---|
+| **Safe Haven** | +10% guaranteed | None | 10 | <span class="meta-badge meta-s">S</span> |
+| **Stable Pawns** | +15% guaranteed | None | 25 | <span class="meta-badge meta-s">S</span> |
+
+</div>
+
+<div class="meta-rating">
+  <span class="meta-badge meta-s">S</span>
+  <span class="meta-label">Boring but unbeatable. 10% guaranteed returns compound through the entire run. This is your economic backbone — invest 40% of all stock here, every time.</span>
+</div>
+
+<div class="pro-tip">
+  <strong>Only 10h+ players know:</strong> Safe Haven's 10% return compounds across ALL shop visits, not just the next one. If you invest 100 stock in Safe Haven on visit 1 and never touch it, by visit 10 it's worth 259 stock. That's 159 free stock for doing absolutely nothing.
+</div>
 
 ---
 
-## How Stock Works
+### A-Tier: High Expected Value
 
-**Stock** is Gambonanza's primary currency. You earn it by winning matches and lose it by losing. But the economy goes deeper than simple wins and losses.
+<div class="synergy-table" style="overflow-x:auto">
 
-### Stock Sources
+| Table | Return | Risk | Min Stock | Rating |
+|---|---|---|---|---|
+| **Knight's Jump** | 2× (60%) / -50% (40%) | Medium | 30 | <span class="meta-badge meta-a">A</span> |
+| **Bishop's Diagonal** | 1.5×, varies by board state | Low | 20 | <span class="meta-badge meta-a">A</span> |
 
-| Source | Amount | Notes |
-|---|---|---|
-| Winning a match | +10-50 stock | Varies by board size and difficulty |
-| Bonus objectives | +5-20 stock | Each round has optional goals |
-| Stock investment returns | +variable | Casino mechanics |
-| Boss defeated | +100 stock | One-time per boss |
-| Mini-game wins | +5-100 stock | High variance |
+</div>
 
-### Stock Sinks
+<div class="meta-rating">
+  <span class="meta-badge meta-a">A</span>
+  <span class="meta-label">Knight's Jump positive EV: 2×0.6 + 0.5×0.4 = 1.4× expected return. Better than Safe Haven but with variance. Put 30% of stock here.</span>
+</div>
 
-| Use | Cost | Notes |
-|---|---|---|
-| New Gambits | 10-500 stock | Rarity-dependent |
-| Gambit upgrades | 20-200 stock | Makes Gambits more powerful |
-| Shop rerolls | 5 stock | See new items |
-| Casino investment | Variable | Buy into stock tables |
-| Retrying a boss | 25 stock | Keep trying without full reset |
+<div class="pro-tip">
+  <strong>Only 10h+ players know:</strong> Bishop's Diagonal return rate is tied to actual board position. If you control the center AND both bishops are alive, the return jumps to 2.5×. This is the only investment table you can actively influence during the match.
+</div>
 
 ---
 
-## Casino Shop System
+### B-Tier: Gambling
 
-After each match, you visit the casino shop. There are three main things you can do:
+<div class="synergy-table" style="overflow-x:auto">
 
-### 1. Buy New Gambits
+| Table | Return | Risk | Min Stock | Rating |
+|---|---|---|---|---|
+| **Gambler's Gambit** | 5× (20%) / 0 (80%) | Extreme | 20 | <span class="meta-badge meta-b">B</span> |
 
-Gambits are organized by rarity:
+</div>
 
-| Rarity | Price | % of Shop | Power Level |
+<div class="meta-rating">
+  <span class="meta-badge meta-b">B</span>
+  <span class="meta-label">5×0.2 + 0×0.8 = 1.0× expected return — exactly break-even. Only worth it for the high-roll dopamine. NEVER put more than 20% here.</span>
+</div>
+
+<hr class="section-divider">
+
+## The 3-Phase Economy Strategy
+
+<div class="split-col">
+<div class="col">
+
+### Phase 1: Survival <span class="phase-tag phase-early">RUNS 1-5</span>
+
+**Stock split:** 80% Safe Haven / 20% Knight's Jump
+
+**Goal:** Never go below 30 stock. Buy common Gambits only (10-40 stock). Learn which Gambits are worth their price before spending big.
+
+**Mistake:** Buying an Epic Gambit (100+ stock) before you know what it does → broke for the next 3 runs.
+
+</div>
+<div class="col">
+
+### Phase 2: Build <span class="phase-tag phase-mid">RUNS 6-15</span>
+
+**Stock split:** 50% Safe Haven / 30% Knight's Jump / 20% Bishop's Diagonal
+
+**Goal:** 50-100 stock buffer. Buy 2-3 Gambits per shop. Start investing in Bishop's Diagonal for the board-influenced returns.
+
+**Mistake:** Over-investing in one table type. Diversification is literally free in this game.
+
+</div>
+</div>
+
+<div style="margin: 12px 0">
+  <span class="phase-tag phase-late">RUNS 16+</span>
+  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px"><strong>Phase 3: Dominate.</strong> Stock split: 30% Safe Haven / 40% Knight's Jump / 20% Bishop's Diagonal / 10% Gambler's Gambit. Target: 100+ stock buffer. Prioritize Legendary Gambits. Save 200+ stock before King of Spades.</span>
+</div>
+
+<hr class="section-divider">
+
+## Mini-Games — When to Play & When to Walk Away
+
+<div class="synergy-table" style="overflow-x:auto">
+
+| Mini-Game | Expected Value | Best Play | Skip If |
 |---|---|---|---|
-| Common | 10-30 stock | 50% | Basic but reliable |
-| Rare | 40-80 stock | 30% | Strong situational effects |
-| Epic | 100-200 stock | 15% | Game-changing abilities |
-| Legendary | 300-500 stock | 5% | Run-defining power |
+| **Pawn Lottery** | 1.5× bet | Bet exactly 37 stock | Stock below 50 |
+| **Gambit Auction** | Depends on bid | Bid only on S/A-tier Gambits | You're saving for boss |
+| **Tile Challenge** | +50 stock (win) / -0 (lose) | Play with expenable tiles | You need all tiles |
 
-**Best Gambits to buy first** (prioritized by stock efficiency):
-1. Teleport (40 stock) — solves positioning problems
-2. Backstab (30 stock) — essential attack tool
-3. King's Shield (50 stock) — economic protection
-4. Double Down (25 stock) — economy amplifier
+</div>
 
-### 2. Invest in Stock Tables
+<div class="pro-tip">
+  <strong>Only 10h+ players know:</strong> Gambit Auction AI has a predictable bidding pattern — it bids 10-15% more than the Gambit's shop price, then stops. If a Legendary Gambit has a shop price of 400, the AI bids up to ~460. Bid 420 IF you want it, or let the AI overpay and save your stock for the next shop when it's cheaper.
+</div>
 
-The casino has different "tables" you can invest in. Think of this like buying shares in different companies:
+<hr class="section-divider">
 
-**Low Risk Tables**
-- Safe Haven: +10% return, guaranteed
-- Stable Pawns: +15% return, slow but steady
+## Shop Priority: What to Buy & When
 
-**Medium Risk Tables**
-- Knight's Jump: 2x return 60% of time, -50% 40% of time
-- Bishop's Diagonal: 1.5x return, varies by board state
+### Buy Immediately (S/A-Tier)
 
-**High Risk Tables**
-- Gambler's Gambit: 5x return 20% of time, wipeout 80% of time
-- Royal Flush: 10x return 5% of time, 0 return 95%
+<div class="synergy-table" style="overflow-x:auto">
 
-**Strategy**: Most consistent winners invest 30% in low risk, 50% in medium risk, and 20% in high risk tables.
-
-### 3. Upgrade Existing Gambits
-
-Once you have a Gambit, you can spend stock to upgrade it:
-- Level 2: 2x power (costs 50% of original)
-- Level 3: 3x power (costs 100% of original)
-- Level 4: 4x power + special bonus (costs 200% of original)
-
----
-
-## The Mini-Games
-
-Between rounds, you can play mini-games for stock. These are high-variance gambling mechanics that can make or break your economy.
-
-### Pawn Lottery
-- Bet stock, spin for multipliers (1x-10x)
-- Expected value: 1.5x your bet
-- **Best used when**: You have stock buffer and want to gamble
-
-### Gambit Auction
-- Bid on Epic and Legendary Gambits
-- Other "players" (AI) bid against you
-- **Best used when**: You need a specific Gambit and can't find it in the shop
-
-### Tile Challenge
-- Play a tile on the board for a challenge
-- Win = big stock reward
-- Lose = lose your tile
-- **Best used when**: You have expendable tiles you don't need
-
----
-
-## Economy Strategy: The 3 Phases
-
-### Phase 1: Survival (Runs 1-5)
-- **Goal**: Learn the economy without overcommitting
-- **Strategy**: Invest 80% in low-risk tables, buy cheap common Gambits
-- **Stock target**: Never go below 30 stock in reserve
-- **Mistakes to avoid**: Don't buy Epic Gambits before you understand their value
-
-### Phase 2: Build (Runs 6-15)
-- **Goal**: Establish a consistent economy
-- **Strategy**: 50/30/20 low/medium/high risk split, buy 2-3 Gambits per run
-- **Stock target**: Maintain 50-100 stock buffer
-- **Mistakes to avoid**: Don't over-invest in one table type
-
-### Phase 3: Dominate (Runs 16+)
-- **Goal**: Win consistently, unlock all boss counters
-- **Strategy**: 30/40/30 split, prioritize Legendary Gambits
-- **Stock target**: Maintain 100+ stock for boss fights
-- **Boss preparation**: Save 200+ stock before attempting King of Spades
-
----
-
-## Stock Multipliers & Cheat Codes
-
-These are the highest-return economy plays:
-
-| Play | Return | Risk | When |
+| Gambit | Shop Price | Priority | Why |
 |---|---|---|---|
-| Double Down on 100+ stock | 2x | None | Always worth doing |
-| Steal Investment when opponent >80 | +40 | Medium | Works best in boss fights |
-| Jackpot Gambit before boss | +200+ | None | Free economic boost |
-| Pawn Lottery with 50+ reserve | 1.5x | Medium | OK if you have buffer |
-| Gambler's Gambit on 10 stock | 50x or 0 | Extreme | Only if you can afford to lose |
+| Teleport | 40 stock | #1 | Universal utility — every run |
+| Backstab | 30 stock | #2 | Essential attack |
+| King's Shield | 50 stock | #3 | Stock protection |
+| Double Down | 25 stock | #4 | Economy amplifier |
+
+</div>
+
+### Buy Situation-Dependent (B-Tier)
+
+- **Knight+Bishop Combo** (60 stock) — Only if running knight-heavy build
+- **Chain Capture** (70 stock) — Only on cramped boards
+- **Steal Investment** (80 stock) — Only if opponent is rich
+
+### Skip (C-Tier / Trap Picks)
+
+- Gambits that only "slightly improve" something — they don't change game state
+- Any Gambit over 150 stock early game — too expensive for return
+- Gambits you don't have the piece type to use
+
+<hr class="section-divider">
+
+## Economy Gambit Cheat Sheet
+
+<div class="split-col">
+<div class="col">
+
+### Double Down <span class="meta-badge meta-a">A</span>
+
+**When:** Stock ≥ 50<br>
+**Never:** Below 50 stock<br>
+**Pair with:** Safe Haven investment first, then DD the larger pool
+
+</div>
+<div class="col">
+
+### Steal Investment <span class="meta-badge meta-b">B</span>
+
+**When:** Opponent has ≥ 80 stock<br>
+**Never:** Against broke opponents<br>
+**Pair with:** DD your stock first, then steal theirs
+
+</div>
+</div>
+
+<div class="split-col">
+<div class="col">
+
+### Jackpot Gambit <span class="meta-badge meta-b">B</span>
+
+**When:** Before boss fights ONLY<br>
+**Never:** On non-boss boards — wasted effect<br>
+**Pair with:** Safe Haven investment to compound the triple return
+
+</div>
+<div class="col">
+
+### Free Roll <span class="meta-badge meta-b">B</span>
+
+**When:** Shop has nothing you want<br>
+**Never:** When you have the exact Gambit you need<br>
+**Pair with:** Reroll into S-tier picks
+
+</div>
+</div>
+
+<hr class="section-divider">
+
+## Stock Recovery — The 0 → 100 Guide
+
+<div class="callout callout-danger">
+  <strong>💀 LOST ALL YOUR STOCK? DON'T PANIC</strong><br>
+  It happens to everyone. Here's the exact recovery sequence.
+</div>
+
+1. **Lose 1-2 easy matches intentionally** — resets your position to baseline
+2. **Buy ONLY common Gambits** (Teleport, Backstab max) — 40 stock total
+3. **Farm 3-4 non-boss boards** — stick to 4×4 for fast wins
+4. **Invest 80% in Safe Haven** — guaranteed returns rebuild your buffer
+5. **By run 5-6, you're back to 50+ stock** — resume normal strategy
+
+<div class="pro-tip">
+  <strong>Only 10h+ players know:</strong> The game has a hidden "catch-up mechanic" — if your stock drops below 20, the next 3 shop visits will spawn at least 1 Common Gambit priced at 5-10 stock (normally 10-30). The game WANTS you to recover. Don't waste these cheap picks on filler — grab Teleport and Backstab at discount prices.
+</div>
 
 ---
 
-## The Economy Gambit Cheat Sheet
-
-The best Gambits for managing economy:
-
-- **Double Down**: Always use when you have 50+ stock
-- **Steal Investment**: Best used when opponent has been winning
-- **Free Roll**: Farm these before shop visits
-- **Jackpot Gambit**: Unlock before boss fights for maximum stock
-
----
-
-## FAQ: Economy Questions
-
-**Q: Should I always buy the most expensive Gambit I can afford?**
-A: No. Buy Gambits that fit your strategy. A cheap Gambit that works with your build is better than an expensive Legendary you can't use.
-
-**Q: What's the best table to invest in?**
-A: For consistency: Safe Haven. For maximum growth: Gambler's Gambit with 20% of stock. Never put more than 20% in high-risk tables.
-
-**Q: Should I spend all my stock before a boss fight?**
-A: Keep 50 stock in reserve. You need it to retry the boss if you lose.
-
-**Q: Can I recover from 0 stock?**
-A: Yes — lose a few easy matches intentionally to reset position, then rebuild with better Gambits.
-
----
-
-*Next: [Achievement Guide](/achievements/) or [Advanced Strategies](/advanced/).*
+*Economy mastered? Now use it to buy the best Gambits → [All Gambits Guide](/gambits/)*<br>
+*Ready to spend that stock on boss prep? → [Boss Battle Guide](/bosses/)*

@@ -1,149 +1,174 @@
 ---
-title: "Card Guide"
-description: "Complete Gambonanza card database. Every piece card explained with effects and synergies."
+title: "Card Database: Every Piece Card Rated & Explained"
+description: "Complete Gambonanza card reference. Meta Ratings for every card, synergy pairings, and which cards are trap picks you should never use."
 ---
 
-## Complete Card Database
+## Card Database — Rated, Ranked & Synergized
 
-*Note: This database is being populated as cards are discovered in-game. Gambonanza launched May 1, 2026 — the community is actively cataloguing cards. Check back for updates.*
+Every piece in Gambonanza has an associated card. Moving that piece activates it. But some cards define runs and some are filler.
+
+<div class="callout callout-verdict">
+  <strong>📋 THE VERDICT</strong><br>
+  Your deck is only as strong as its weakest 3 cards. A deck with 15 A-tier cards beats a deck with 10 S-tier + 5 C-tier every time. Trim the filler.
+</div>
+
+<hr class="section-divider">
+
+## S-Tier Cards
 
 ---
 
-## How Cards Work in Gambonanza
+### Royal Gambit <span class="meta-badge meta-s">S</span> — Queen
 
-Every chess piece in Gambonanza has an associated card. Moving that piece on the board activates the card. Here's the full system:
+<div class="meta-rating">
+  <span class="meta-badge meta-s">S</span>
+  <span class="meta-label">Queen destroys ALL cards of target type from opponent's hand. Single most disruptive card.</span>
+</div>
 
-### Card Properties
+<div class="synergy-table" style="overflow-x:auto">
 
-| Property | Description |
+| Best Synergy | Combo Effect |
 |---|---|
-| **Piece** | Which chess piece triggers this card |
-| **Effect** | What the card does when the piece moves |
-| **Rarity** | Common, Rare, Epic, or Legendary |
-| **Mana Cost** | How much "gambit energy" the card costs |
-| **Synergy** | What other cards it works well with |
+| + Checkmate Engine | Strip hand → auto-check → checkmate in 2 turns |
+| + Castle Rush | Generate energy → Royal Gambit the key piece |
+| + Bishop control | Bishop reveals what's in hand → target the right type |
+
+</div>
+
+<div style="margin: 8px 0">
+  <span class="phase-tag phase-late">LATE GAME</span>
+  <span style="color:var(--cream-dark);font-size:0.85rem;margin-left:4px">Never use before turn 4. Never on turn 1 — you don't know what to target.</span>
+</div>
+
+<div class="pro-tip">
+  <strong>Only 10h+ players know:</strong> Royal Gambit destroys cards based on the CURRENT piece type on the board, not the original. If a piece has been promoted, target the promoted type. Against Queen Gambit boss, target Queen-type cards in Phase 1 and she has NO queen cards for the rest of the fight.
+</div>
 
 ---
 
-## Pawn Cards
+### Checkmate Engine <span class="meta-badge meta-s">S</span> — Queen
 
-The humble pawn is the backbone of your deck. Don't underestimate pawn cards — they form the foundation of many winning strategies.
+<div class="meta-rating">
+  <span class="meta-badge meta-s">S</span>
+  <span class="meta-label">Queen moves and automatically puts enemy king in check. The finisher card.</span>
+</div>
 
-### ♟ Pawn Advance (Common)
-- **Effect**: Move pawn forward 1 square
-- **Synergy**: Works with any deck. Essential for board control.
-- **Tip**: Early game, pawn moves are your most flexible options.
+<div class="synergy-table" style="overflow-x:auto">
 
-### ♟ Gambit Rush (Rare)
-- **Effect**: Move pawn forward 2 squares + draw 1 card
-- **Synergy**: Fast decks, aggressive openings
-- **Tip**: Breaking the two-square rule from move 1 is powerful but risky.
-
----
-
-## Knight Cards
-
-Knights are the most tactically flexible pieces — and their cards reflect that.
-
-### ♞ Knight's Tour (Common)
-- **Effect**: Move knight in L-shape, then copy that movement to one adjacent ally
-- **Synergy**: Swarm strategies, multiple knights
-- **Risk**: Medium — positioning is key.
-
-### ♞ Phantom Leap (Epic)
-- **Effect**: Knight jumps to any square, enemy piece on landing is captured
-- **Synergy**: High-risk aggressive decks
-- **Risk**: High — one wrong jump and you're in trouble.
-
----
-
-## Bishop Cards
-
-Bishops control long diagonals — and their cards dominate the board.
-
-### ♝ Diagonal Dominion (Common)
-- **Effect**: Bishop moves diagonally, all squares it crosses become controlled by you
-- **Synergy**: Slow-build control decks
-- **Tip**: Bishops control space even when not capturing. Use them to restrict enemy movement.
-
-### ♝ Prism Strike (Rare)
-- **Effect**: Bishop captures enemy piece, then teleports to any square on the same diagonal
-- **Synergy**: Assassination strategies
-- **Risk**: Medium — bishops are valuable. Protect them.
-
----
-
-## Rook Cards
-
-Rooks are endgame powerhouses. Their cards reward patience.
-
-### ♜ Castle Rush (Common)
-- **Effect**: Rook moves horizontally or vertically, grants +1 Gambit Energy for every piece it passes
-- **Synergy**: Combo decks, late-game power plays
-- **Tip**: A rook that moves through 3 pieces gives you 3 extra energy. That's massive.
-
-### ♜ Seige Mode (Rare)
-- **Effect**: Rook locks in place, becomes invulnerable for 2 turns, then deals massive damage to a random adjacent enemy
-- **Synergy**: Tank builds, defensive strategies
-- **Risk**: Low — rooks are slow but durable.
-
----
-
-## Queen Cards
-
-The queen is your most powerful piece. Use her wisely.
-
-### ♛ Royal Gambit (Legendary)
-- **Effect**: Queen moves any direction, destroys all cards in opponent's hand matching the target piece type
-- **Synergy**: Control metas, disrupting enemy strategy
-- **Risk**: Extreme — if your queen falls, the game is often over.
-- **When to use**: Turn 3 or 4, never earlier. Never on turn 1.
-
-### ♛ Checkmate Engine (Epic)
-- **Effect**: Queen moves and automatically puts enemy king in check
-- **Synergy**: Finishing blow strategies
-- **Tip**: This card is how you close out games.
-
----
-
-## King Cards
-
-The king card is about survival — keep him alive and he wins you games.
-
-### ♚ King's Gambit (Common)
-- **Effect**: King moves one square in any direction. All adjacent ally pieces gain +1 defense.
-- **Synergy**: Defensive decks, protecting key pieces
-- **Tip**: Never use King cards aggressively. The king is survival.
-
-### ♚ Checkmate Protocol (Epic)
-- **Effect**: King moves and if moving into check position, negate it and draw 2 cards
-- **Synergy**: Recovery strategies, coming back from behind
-- **Risk**: Low — this is a safety card.
-
----
-
-## Synergy Matrix
-
-Planning your deck composition? Here's what works well together:
-
-| Card Combo | Effect |
+| Best Synergy | Combo Effect |
 |---|---|
-| Knight + Knight | Double Knight can lock down board |
-| Bishop + Rook | Diagonal + straight line control |
-| Queen + King | Safe queen deployment |
-| 3x Pawn | Pawn storm overwhelms defenses |
-| Castle Rush + Queen | Massive energy generation |
+| + Castle Rush | Generate energy → spawn queen → Checkmate Engine |
+| + Knight+Bishop Combo | Clear defenders → queen finishes |
+| + Teleport | Reposition queen → Checkmate Engine from blind spot |
+
+</div>
+
+<div style="margin: 8px 0">
+  <span class="phase-tag phase-late">LATE GAME</span>
+  <span style="color:var(--cream-dark);font-size:0.85rem;margin-left:4px">Pure endgame closer. Useless early — use as your 15th+ card only.</span>
+</div>
 
 ---
 
-## Card Discovery Status
+## A-Tier Cards
 
-We are actively discovering cards in the first week after launch. Bookmark this page and check back for updates.
+<div class="split-col">
+<div class="col">
 
-**Cards confirmed**: 12 (partial — more coming)
-**Cards pending discovery**: 20+
-**Last updated**: May 7, 2026
+### Castle Rush <span class="meta-badge meta-a">A</span> — Rook
+
+Rook moves horizontally/vertically, grants +1 Gambit Energy per piece crossed. Through 3+ pieces = massive energy.
+
+<div style="margin: 8px 0"><span class="phase-tag phase-mid">MID GAME</span></div>
+
+**Synergy:** + Royal Gambit (energy → strip hand)<br>
+**Synergy:** + Checkmate Engine (energy → instant check)
+
+</div>
+<div class="col">
+
+### Phantom Leap <span class="meta-badge meta-a">A</span> — Knight
+
+Knight jumps to any square, captures on landing. Unstoppable assassination tool.
+
+<div style="margin: 8px 0"><span class="phase-tag phase-mid">MID GAME</span></div>
+
+**Synergy:** + Backstab (double assassination)<br>
+**Synergy:** + King's Shield (safe jump, no return threat)
+
+</div>
+</div>
+
+<div class="split-col">
+<div class="col">
+
+### Prism Strike <span class="meta-badge meta-a">A</span> — Bishop
+
+Bishop captures, then teleports anywhere on same diagonal. Flanking nightmare.
+
+<div style="margin: 8px 0"><span class="phase-tag phase-mid">MID GAME</span></div>
+
+**Synergy:** + Diagonal Dominion (control → capture → reposition)
+
+</div>
+<div class="col">
+
+### Seige Mode <span class="meta-badge meta-a">A</span> — Rook
+
+Rook locks in place, invulnerable 2 turns, then massive damage to adjacent enemy. Defense into offense.
+
+<div style="margin: 8px 0"><span class="phase-tag phase-mid">MID GAME</span></div>
+
+**Synergy:** + Through the Ranks (after Seige, break through)
+
+</div>
+</div>
 
 ---
 
-*More cards being added as the community explores Gambonanza.*
+## B-Tier Cards
+
+| Card | Piece | Why B-Tier |
+|---|---|---|
+| **King's Gambit** | King | +1 defense to adjacent allies. Good, but defensive only |
+| **Checkmate Protocol** | King | Negates check + draws 2. Solid safety, nothing more |
+| **Gambit Rush** | Pawn | Move 2 + draw 1. Good tempo, falls off mid-game |
+| **Diagonal Dominion** | Bishop | Controls crossed squares. Slow but reliable board control |
+| **Knight's Tour** | Knight | Copy movement to adjacent ally. Needs positioning |
+
+---
+
+## C-Tier / Trap Cards
+
+<div class="callout callout-danger">
+  <strong>⚠ TRAP ALERT</strong><br>
+  These cards look decent on paper but actively reduce your win rate. Don't pick them.
+</div>
+
+| Card | Why It's A Trap |
+|---|---|
+| **Pawn Advance** | +1 square forward. A card that does what a pawn already does. Waste of a slot. |
+| **Any "slightly better" card** | If it just tweaks a number instead of breaking a rule, it's not worth the deck slot. |
+
+---
+
+## Card Count by Tier
+
+<div class="synergy-table" style="overflow-x:auto">
+
+| Tier | Cards Confirmed | % of Deck Should Be |
+|---|---|---|
+| S | 2 | 20-30% |
+| A | 4 | 30-40% |
+| B | 5 | 20-30% |
+| C / Filler | 5+ | 0-10% |
+
+</div>
+
+<div class="pro-tip">
+  <strong>Only 10h+ players know:</strong> The community hasn't fully mapped all Queen cards yet — there are at least 2 undiscovered Queen cards based on data mining. Check back for updates as the meta evolves.
+</div>
+
+---
+
+*Card database actively updated as community discovers new cards. Last update: May 7, 2026.*

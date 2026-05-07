@@ -1,95 +1,96 @@
 ---
-title: "FAQ"
-description: "Frequently Asked Questions about Gambonanza. Everything new players ask, answered clearly."
----
-
-## Frequently Asked Questions
-
-Everything players consistently ask about Gambonanza, answered clearly.
-
+title: "FAQ: Everything Players Actually Ask About Gambonanza"
+description: "Real answers to real questions. No filler, no obvious info — just what confused players need to know."
 ---
 
 ## Game Basics
 
-### What is Gambonanza?
-Gambonanza is a turn-based chess roguelike by Blukulélé, released May 1, 2026 on Steam. It combines chess with roguelike mechanics — you play on smaller boards, trigger powerful Gambits with every move, and progress through increasingly difficult bosses. Think Balatro meets chess.
+### Is this actually chess?
+**No.** It's a deckbuilding roguelike that uses chess pieces as cards. Playing it like chess = losing. Playing it like Balatro with knights = winning.
 
-### Is Gambonanza like regular chess?
-Not really. While it uses chess pieces and movement rules as a foundation, Gambonanza actively rewards breaking those rules. Over 150 unique Gambits let you do impossible things — teleport pieces, capture through defenses, and rewrite board state. If you play it like chess, you'll lose.
+### What board sizes exist?
+4×4 (blitz, <5 min matches), 5×5 (standard), 6×6 (tactical, 15+ min matches). Start on 4×4 to learn mechanics before touching 6×6.
 
-### What board sizes are available?
-Gambonanza has boards ranging from 4×4 (blitz mode) to 6×6 (tactical mode). Smaller boards mean faster games, higher variance, and more chaos.
+### How long is a full run?
+Non-boss run: 5-15 minutes. Boss run: 15-30 minutes. Full campaign (all bosses): 2-4 hours.
 
-### Is this a single-player or multiplayer game?
-Primarily single-player with boss battles. There may be asynchronous multiplayer features in future updates.
+### Is there multiplayer?
+Single-player only with boss AI. No multiplayer at launch.
 
----
+<hr class="section-divider">
 
 ## Gambits
 
-### What are Gambits?
-Gambits are special moves triggered every time you move a piece. They range from simple movement modifiers (move like a knight instead of a pawn) to game-changing powers (teleport any piece, capture through defenses, multiply your stock). There are 150+ unique Gambits.
+### Which Gambit should I buy first?
+**Teleport.** Every single time. It solves every positioning problem, escapes checkmate, and enables combos. If you don't have Teleport in your deck, fix that first.
 
-### How do I get new Gambits?
-Buy them in the casino shop after winning matches. Prices range from 10 stock (common) to 500 stock (legendary).
+### I bought a Legendary Gambit and lost. Why?
+Rarity ≠ win rate. A Legendary (500 stock) that doesn't fit your build is worse than a Common (30 stock) that does. Buy what your deck needs, not what's expensive.
 
-### Can I upgrade Gambits?
-Yes. Spend stock to level up Gambits from Level 1 to Level 4, with increasing power at each tier.
+### How many Gambits should I have?
+18-22 is the sweet spot. Below 15 and you run out of options. Above 25 and you dilute your best cards.
 
-### Are Boss Gambits worth it?
-Yes, absolutely. Boss Gambits are the hardest to unlock but provide essential counters to specific bosses. They're especially critical against King of Spades and The Grandmaster.
+### Are Boss Gambits permanent?
+Yes — once unlocked, they stay in your collection permanently.
 
----
+<hr class="section-divider">
 
 ## Economy
 
-### How do I earn stock fast?
-Win matches consistently, invest in Safe Haven tables for steady growth, and use Double Down whenever you have 50+ stock. The highest-variance play is the Gambler's Gambit table.
+### I'm always broke. What am I doing wrong?
+Three possibilities: (1) You're buying Gambits you don't need. (2) You're not investing in Safe Haven. (3) You're gambling more than 10% of your stock. Fix these in order.
 
-### Should I gamble in mini-games?
-Only gamble with stock you can afford to lose. Keep 30+ stock in reserve at all times. The Pawn Lottery has the best expected value.
+### Best way to farm stock?
+Safe Haven investment (10% guaranteed) + Double Down at 50+ stock. Boring but unbeatable. 100 stock → 110 → 121 → 133 → 146 across four shop visits. Free growth.
 
-### I lost all my stock. Can I recover?
-Yes. Losing a match resets you to baseline. Focus on buying cheap common Gambits and rebuilding from there.
+### Should I ever skip the shop?
+Only if you're saving for a specific expensive Gambit (200+ stock) and the shop has nothing you need. Otherwise, always buy at least 1 thing.
 
----
+<hr class="section-divider">
 
 ## Bosses
 
-### Which boss is the hardest?
-King of Spades is the hardest regular boss. The Grandmaster (final boss) is harder but only appears after defeating all other bosses.
+### Which boss should I fight first?
+**Rook Rook.** Predictable pattern, rook-only movement, easy to learn. Beat it 2-3 times before moving on.
 
-### Do I need specific Gambits to beat bosses?
-For most bosses, no. For King of Spades, yes — King's Counter is essentially required. For The Grandmaster, you'll want 8+ Boss Gambits.
+### Do I really need boss-specific Gambits?
+For King of Spades and The Grandmaster: YES. For others: Not required but they make the fight 2-3× easier.
 
-### Can I retry bosses without losing everything?
-Yes. Retrying a boss costs 25 stock. Keep this reserve.
+### I died to the same boss 5+ times. Help?
+You're probably repeating the same mistake. Watch the boss's opening pattern. Every boss has a predictable first 3 moves. Learn them and counter them.
 
----
+<hr class="section-divider">
 
 ## Comparisons
 
-### How does it compare to Balatro?
-Gambonanza takes Balatro's "poker meets roguelike" formula and applies it to chess. Where Balatro has poker hands, Gambonanza has chess pieces. Where Balatro has Jokers, Gambonanza has Gambits. The strategic depth is comparable, but the chess foundation adds a unique layer of positional thinking.
+### Gambonanza vs Balatro?
+Same DNA, different game. Balatro = poker hands + Joker modifiers. Gambonanza = chess pieces + Gambit cards. If you like Slay the Spire or Balatro, you'll like this.
 
-### Is it harder than traditional chess?
-In some ways yes, in some ways no. The Gambits system adds chaos and variability that traditional chess doesn't have. But the smaller boards mean less memorization is required. It's a different kind of difficulty.
+### Is it harder than Balatro?
+Different difficulty. Balatro has more RNG in card draws. Gambonanza has more positional complexity in board state. Harder to learn, easier to master once you understand Gambit interactions.
 
----
+### How many hours to "beat" the game?
+Beat all 8 bosses: 20-30 hours. 100% achievements: 40-50 hours. Truly master: 100+ hours.
+
+<hr class="section-divider">
 
 ## Technical
 
-### What are the system requirements?
-Gambonanza is a lightweight indie game. It should run on most modern PCs without issue. Official specs coming soon.
+### System requirements?
+Lightweight indie game. Any modern PC with integrated graphics can run it. ~500MB storage. No dedicated GPU needed.
 
-### Is there a demo?
-Check the Steam page for any available demos or trial content.
+### Is the game still being updated?
+Launched May 1, 2026. Developer Blukulélé has confirmed post-launch content updates. More Gambits, bosses, and possibly additional modes planned.
 
-### What language is it available in?
-Steam shows English as primary. Check the store page for language support.
+### Where do I buy it?
+[Steam](https://store.steampowered.com/app/3182810/) — Gambonanza is Steam-exclusive. No console or mobile versions announced yet.
 
----
+<hr class="section-divider">
 
-## Still have questions?
+## Still Stuck?
 
-Bookmark this page — we'll update as the community discovers new answers. For specific boss strategies, see the [Boss Battle Guide](/bosses/). For Gambit details, see [All Gambits](/gambits/).
+Bookmark this guide. We update weekly as the community discovers new Gambits, boss patterns, and economy exploits.
+
+- Strategy stuck? → [Strategy Guide](/strategy/)
+- Boss wall? → [Boss Battle Guide](/bosses/)
+- Economy broke? → [Stock Market & Shop Guide](/economy/)
