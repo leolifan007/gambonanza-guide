@@ -20,6 +20,11 @@ disableHugoGeneratorInject = false
 [outputs]
   home = ['HTML']
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [taxonomies]
   tag = 'tags'
   category = 'categories'
