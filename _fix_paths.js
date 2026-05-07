@@ -8,7 +8,14 @@ function fixHtml(filePath) {
   let html = fs.readFileSync(filePath, "utf-8");
   const rel = path.relative(publicDir, path.dirname(filePath));
   const depth = rel ? rel.split(path.sep).length : 0;
-  const prefix = depth === 0 ? "." : "../".repeat(depth);
+  // prefix without trailing slash — template adds it via "/${p1}"
+  const prefix = depth === 0 ? "." : ".." + "/..".repeat(depth - 1);
+  
+  // Fix href="/" (root path — logo, Home button)
+  html = html.replace(/href="\/"/g, () => {
+    const rootHref = depth === 0 ? "." : ".." + "/..".repeat(depth - 1);
+    return `href="${rootHref}"`;
+  });
   
   // Fix href="/xxx/" style links
   html = html.replace(
