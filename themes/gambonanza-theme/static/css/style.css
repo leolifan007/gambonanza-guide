@@ -185,10 +185,25 @@ ul { list-style: none; padding: 0; }
   margin-left: 4px;
 }
 
+/* ─── Page Content Layout ─── */
+.content-layout {
+  display: flex;
+  gap: 32px;
+  align-items: flex-start;
+}
+.main-content {
+  flex: 1;
+  min-width: 0;
+}
+
 /* ─── Sidebar ─── */
 .sidebar {
+  width: 260px;
+  flex-shrink: 0;
   position: sticky;
   top: 80px;
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
 }
 .toc {
   max-height: 70vh;
