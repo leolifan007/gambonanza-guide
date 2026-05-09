@@ -24,6 +24,10 @@ disableHugoGeneratorInject = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = true
 
 [taxonomies]
   tag = 'tags'
