@@ -1,4 +1,4 @@
-baseURL = 'https://gambonanzaguide.com/'
+baseURL = 'https://leolifan007.github.io/gambonanza-guide/'
 languageCode = 'en-us'
 title = 'Gambonanza Guide — Complete Strategy, Gambits & Walkthrough'
 theme = 'gambonanza-theme'
@@ -15,7 +15,7 @@ disableHugoGeneratorInject = false
   publisher = 'Blukulélé'
   site_name = 'Gambonanza Guide'
   twitter_card = 'summary_large_image'
-  og_image = 'https://gambonanzaguide.com/og-image.png'
+  og_image = 'https://leolifan007.github.io/gambonanza-guide/og-image.png'
 
 [outputs]
   home = ['HTML']
