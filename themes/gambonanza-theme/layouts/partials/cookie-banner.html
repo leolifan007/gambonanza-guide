@@ -1,0 +1,112 @@
+<!-- Cookie Consent Banner -->
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-labelledby="cookie-title" aria-modal="true">
+  <div class="cookie-banner-inner">
+    <div class="cookie-banner-text">
+      <p id="cookie-title">
+        🍪 We use cookies to deliver personalised advertisements and analyse site traffic.
+        <a href="/privacy/" class="cookie-policy-link">Privacy Policy</a>
+      </p>
+    </div>
+    <div class="cookie-banner-actions">
+      <button id="cookie-accept-all" class="cookie-btn cookie-btn-accept">Accept All</button>
+      <button id="cookie-reject" class="cookie-btn cookie-btn-reject">Reject Non‑Essential</button>
+      <button id="cookie-customize" class="cookie-btn cookie-btn-customize">Customise</button>
+    </div>
+  </div>
+
+  <!-- Customise Panel -->
+  <div id="cookie-customise-panel" class="cookie-customise-panel" style="display:none;">
+    <div class="cookie-category-row">
+      <div class="cookie-category-info">
+        <strong>Necessary</strong>
+        <p>Essential for the site to function. Cannot be disabled.</p>
+      </div>
+      <div class="cookie-toggle-wrap">
+        <input type="checkbox" id="cookie-necessary" checked disabled class="cookie-toggle">
+        <label for="cookie-necessary"></label>
+      </div>
+    </div>
+    <div class="cookie-category-row">
+      <div class="cookie-category-info">
+        <strong>Analytics</strong>
+        <p>Help us understand how visitors interact with our content.</p>
+      </div>
+      <div class="cookie-toggle-wrap">
+        <input type="checkbox" id="cookie-analytics" class="cookie-toggle">
+        <label for="cookie-analytics"></label>
+      </div>
+    </div>
+    <div class="cookie-category-row">
+      <div class="cookie-category-info">
+        <strong>Advertising</strong>
+        <p>Used by Google AdSense to personalise advertisements.</p>
+      </div>
+      <div class="cookie-toggle-wrap">
+        <input type="checkbox" id="cookie-advertising" class="cookie-toggle">
+        <label for="cookie-advertising"></label>
+      </div>
+    </div>
+    <div class="cookie-customise-footer">
+      <button id="cookie-save-prefs" class="cookie-btn cookie-btn-accept">Save Preferences</button>
+      <button id="cookie-cancel-prefs" class="cookie-btn cookie-btn-reject">Cancel</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  var BANNER_ID = 'cookie-banner';
+  var PREFS_KEY = 'gambonanza_cookie_prefs';
+
+  function getPrefs() {
+    try { return JSON.parse(localStorage.getItem(PREFS_KEY)); } catch(e) { return null; }
+  }
+  function setPrefs(prefs) {
+    localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
+  }
+
+  function showBanner() {
+    document.getElementById(BANNER_ID).style.display = 'block';
+  }
+  function hideBanner() {
+    document.getElementById(BANNER_ID).style.display = 'none';
+  }
+  function showCustomise() {
+    document.getElementById('cookie-customise-panel').style.display = 'block';
+  }
+  function hideCustomise() {
+    document.getElementById('cookie-customise-panel').style.display = 'none';
+  }
+
+  var prefs = getPrefs();
+  if (!prefs) {
+    showBanner();
+  }
+
+  document.getElementById('cookie-accept-all').addEventListener('click', function() {
+    setPrefs({ necessary: true, analytics: true, advertising: true, all: true });
+    hideBanner();
+  });
+
+  document.getElementById('cookie-reject').addEventListener('click', function() {
+    setPrefs({ necessary: true, analytics: false, advertising: false, all: false });
+    hideBanner();
+  });
+
+  document.getElementById('cookie-customize').addEventListener('click', function() {
+    showCustomise();
+  });
+
+  document.getElementById('cookie-cancel-prefs').addEventListener('click', function() {
+    hideCustomise();
+  });
+
+  document.getElementById('cookie-save-prefs').addEventListener('click', function() {
+    var analytics = document.getElementById('cookie-analytics').checked;
+    var advertising = document.getElementById('cookie-advertising').checked;
+    setPrefs({ necessary: true, analytics: analytics, advertising: advertising, all: false });
+    hideCustomise();
+    hideBanner();
+  });
+})();
+</script>

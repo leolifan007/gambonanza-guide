@@ -18,88 +18,142 @@ description: "The definitive Gambonanza Gambit database. S/A/B/C meta ratings, P
 
 These Gambits fundamentally change how you play. Build your run around them.
 
----
-
-### Teleport
-
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Instantly move any piece to any unoccupied square. The single most versatile Gambit in the game.</span>
-</div>
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Best Pieces | Best Tiles | Why It Breaks The Game |
-|---|---|---|
-| **King** | Any safe corner | Teleport king out of checkmate → free life |
-| **Queen** | Center squares | Queen appears anywhere on the board instantly |
-| **Rook** | Back rank | Teleport rook to 7th rank for instant mate threats |
-
-</div>
-
-<div style="margin: 12px 0">
-  <span class="phase-tag phase-early">EARLY</span> <span class="phase-tag phase-mid">MID</span> <span class="phase-tag phase-late">LATE</span>
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Usable every stage. Early = escape tool. Late = checkmate setup.</span>
-</div>
-
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Teleport can move a piece onto a Gambit Square AND trigger its effect in the same move. Teleporting a knight onto a "Free Gambit" tile gives you the tile bonus + the knight's move, effectively doubling your turn value. This interaction alone makes Teleport the most abusable Gambit in the game.
+<div class="s-tier-nav">
+  <span class="nav-label">⚡ Quick nav:</span>
+  <a href="#teleport" class="nav-anchor">♟ Teleport</a>
+  <a href="#ultimate-counter" class="nav-anchor">☠ Ultimate Counter</a>
+  <a href="#heal-board" class="nav-anchor">❤ Heal Board</a>
 </div>
 
 ---
 
-### The Ultimate Counter
+### ♟ <span id="teleport">Teleport</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">1-turn god mode against ALL bosses. The single most important boss Gambit. Save for Phase 3.</span>
-</div>
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Best Pieces | Best Tiles | Why It Breaks The Game |
-|---|---|---|
-| **Any piece** | Any tile | Works universally — zero positioning requirements |
-| **King** | Aggressive position | Counteractive → push king forward safely for 1 turn |
-| **Queen** | Center | Maximum offense during the invulnerability window |
-
-</div>
-
-<div style="margin: 12px 0">
-  <span class="phase-tag phase-late">LATE</span>
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Pure endgame. Use in the final phase of any boss fight.</span>
-</div>
-
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> The Ultimate Counter doesn't actually make you invulnerable — it makes your pieces "invisible" to boss targeting. This means the boss still takes their turn but wastes it moving aimlessly. Use this turn to reposition ALL your pieces aggressively, because the boss literally can't see them.
+<div class="gambit-card gambit-s">
+  <div class="gambit-card-header">
+    <div>
+      <span class="meta-badge meta-s">S</span>
+      <span class="phase-tag phase-early">EARLY</span>
+      <span class="phase-tag phase-mid">MID</span>
+      <span class="phase-tag phase-late">LATE</span>
+    </div>
+    <p class="gambit-summary">Instantly move any piece to any unoccupied square — the single most versatile Gambit in the game.</p>
+  </div>
+  <div class="gambit-card-body">
+    <div class="synergy-cards">
+      <div class="synergy-card">
+        <div class="synergy-card-icon">♔</div>
+        <div class="synergy-card-content">
+          <strong>Best with King</strong>
+          <span>Teleport king out of checkmate → free life</span>
+        </div>
+      </div>
+      <div class="synergy-card">
+        <div class="synergy-card-icon">♕</div>
+        <div class="synergy-card-content">
+          <strong>Best with Queen</strong>
+          <span>Queen appears anywhere on the board instantly</span>
+        </div>
+      </div>
+      <div class="synergy-card">
+        <div class="synergy-card-icon">♖</div>
+        <div class="synergy-card-content">
+          <strong>Best with Rook</strong>
+          <span>Teleport rook to 7th rank for instant mate threats</span>
+        </div>
+      </div>
+    </div>
+    <div class="why-box">
+      <strong class="why-label">Why it breaks the game:</strong>
+      Teleport can move a piece onto a Gambit Square AND trigger its effect in the same move. Teleporting a knight onto a "Free Gambit" tile gives you the tile bonus + the knight's move, effectively <em>doubling your turn value</em>. This interaction alone makes Teleport the most abusable Gambit in the game.
+    </div>
+  </div>
 </div>
 
 ---
 
-### Heal Board
+### ☠ <span id="ultimate-counter">The Ultimate Counter</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Return all captured pieces to the board. The ultimate comeback mechanic.</span>
+<div class="gambit-card gambit-s">
+  <div class="gambit-card-header">
+    <div>
+      <span class="meta-badge meta-s">S</span>
+      <span class="phase-tag phase-late">LATE</span>
+    </div>
+    <p class="gambit-summary">1-turn god mode against ALL bosses. The single most important boss Gambit — save for Phase 3.</p>
+  </div>
+  <div class="gambit-card-body">
+    <div class="synergy-cards">
+      <div class="synergy-card">
+        <div class="synergy-card-icon">♜</div>
+        <div class="synergy-card-content">
+          <strong>Best with Any piece</strong>
+          <span>Works universally — zero positioning requirements</span>
+        </div>
+      </div>
+      <div class="synergy-card">
+        <div class="synergy-card-icon">♔</div>
+        <div class="synergy-card-content">
+          <strong>Best with King</strong>
+          <span>Counteractive → push king forward safely for 1 turn</span>
+        </div>
+      </div>
+      <div class="synergy-card">
+        <div class="synergy-card-icon">♕</div>
+        <div class="synergy-card-content">
+          <strong>Best with Queen</strong>
+          <span>Maximum offense during the invulnerability window</span>
+        </div>
+      </div>
+    </div>
+    <div class="why-box">
+      <strong class="why-label">Why it breaks the game:</strong>
+      The Ultimate Counter doesn't actually make you invulnerable — it makes your pieces "invisible" to boss targeting. The boss still takes their turn but wastes it moving aimlessly. Use this turn to reposition ALL your pieces aggressively, because the boss literally can't see them.
+    </div>
+  </div>
 </div>
 
-<div class="synergy-table" style="overflow-x:auto">
+---
 
-| Best Pieces | Best Tiles | Why It Breaks The Game |
-|---|---|---|
-| **Sacrificed Knights** | Flank tiles | Knights you traded away come back in flanking position |
-| **Sacrificed Pawns** | Back rank | Pawns return ON the back rank — instant promotion setup |
-| **Sacrificed Queen** | Center | Queen comes back and threatens everything |
+### ❤ <span id="heal-board">Heal Board</span>
 
-</div>
-
-<div style="margin: 12px 0">
-  <span class="phase-tag phase-late">LATE</span>
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">The more you've lost, the more value this generates. Worse early game.</span>
-</div>
-
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Pieces returned by Heal Board are placed on YOUR choice of empty squares, not their original positions. This means you can deliberately sacrifice pieces in bad positions early, then Heal Board them into perfect attacking formations. It's not a recovery tool — it's a repositioning tool disguised as healing.
+<div class="gambit-card gambit-s">
+  <div class="gambit-card-header">
+    <div>
+      <span class="meta-badge meta-s">S</span>
+      <span class="phase-tag phase-late">LATE</span>
+    </div>
+    <p class="gambit-summary">Return all captured pieces to the board — the ultimate comeback mechanic.</p>
+  </div>
+  <div class="gambit-card-body">
+    <div class="synergy-cards">
+      <div class="synergy-card">
+        <div class="synergy-card-icon">♞</div>
+        <div class="synergy-card-content">
+          <strong>Best with Sacrificed Knights</strong>
+          <span>Knights you traded away come back in flanking position</span>
+        </div>
+      </div>
+      <div class="synergy-card">
+        <div class="synergy-card-icon">♙</div>
+        <div class="synergy-card-content">
+          <strong>Best with Sacrificed Pawns</strong>
+          <span>Pawns return ON the back rank — instant promotion setup</span>
+        </div>
+      </div>
+      <div class="synergy-card">
+        <div class="synergy-card-icon">♕</div>
+        <div class="synergy-card-content">
+          <strong>Best with Sacrificed Queen</strong>
+          <span>Queen comes back and threatens everything</span>
+        </div>
+      </div>
+    </div>
+    <div class="why-box">
+      <strong class="why-label">Why it breaks the game:</strong>
+      Pieces returned by Heal Board are placed on YOUR choice of empty squares, not their original positions. Deliberately sacrifice pieces in bad positions early, then Heal Board them into perfect attacking formations. It's not a recovery tool — it's a <em>repositioning tool</em> disguised as healing.
+    </div>
+  </div>
 </div>
 
 <hr class="section-divider">
