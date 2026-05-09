@@ -15,7 +15,7 @@ disableHugoGeneratorInject = false
   publisher = 'Blukulélé'
   site_name = 'Gambonanza Guide'
   twitter_card = 'summary_large_image'
-  og_image = 'https://gambonanza.guide/og-image.png'
+  og_image = 'https://gambonanzaguide.com/og-image.png'
 
 [outputs]
   home = ['HTML']
@@ -26,8 +26,8 @@ disableHugoGeneratorInject = false
       unsafe = true
   [markup.tableOfContents]
     startLevel = 2
-    endLevel = 3
-    ordered = true
+    endLevel = 2
+    ordered = false
 
 [taxonomies]
   tag = 'tags'
