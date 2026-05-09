@@ -1,6 +1,6 @@
-baseURL = 'https://leolifan007.github.io/gambonanza-guide/'
+baseURL = 'https://gambonanzaguide.com/'
 languageCode = 'en-us'
-title = 'Gambonanza Guide — Complete Strategy, Gambits & Walkthrough'
+title = 'Gambonanza Guide - Complete Strategy, Gambits and Walkthrough'
 theme = 'gambonanza-theme'
 publishDir = 'public'
 disableHugoGeneratorInject = false
@@ -10,12 +10,12 @@ disableHugoGeneratorInject = false
   author = 'Gambonanza Guide'
   keywords = 'Gambonanza guide, Gambonanza strategy, Gambonanza Gambits, Gambonanza bosses, Gambonanza tips, Gambonanza walkthrough, chess roguelike, Balatro chess'
   steam_url = 'https://store.steampowered.com/app/3182810/Gambonanza/'
-  steam_price = '$10.99'
+  steam_price = '.99'
   release_date = 'May 1, 2026'
-  publisher = 'Blukulélé'
+  publisher = 'Blukulele'
   site_name = 'Gambonanza Guide'
   twitter_card = 'summary_large_image'
-  og_image = 'https://leolifan007.github.io/gambonanza-guide/og-image.png'
+  og_image = 'https://gambonanzaguide.com/og-image.png'
 
 [outputs]
   home = ['HTML']
