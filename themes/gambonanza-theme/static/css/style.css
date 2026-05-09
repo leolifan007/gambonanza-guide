@@ -248,8 +248,9 @@ ul { list-style: none; padding: 0; }
   padding: 2px 8px;
 }
 
-/* ─── Ad Slot Placeholder ─── */
+/* ─── Ad Slot Placeholder (hidden until AdSense approved) ─── */
 .ad-slot {
+  display: none;
   width: 100%;
 }
 .ad-label {

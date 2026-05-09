@@ -4,6 +4,7 @@
   <div class="container">
     <div class="content-layout">
       <article class="main-content">
+        {{- /* AdSense ad slots — hidden until approved */ -}}
         <!-- Ad Slot: Before Content -->
         <div class="ad-slot" style="margin-bottom:24px">
           <div class="ad-label">— Sponsored —</div>
@@ -12,6 +13,7 @@
         
         {{ .Content }}
 
+        {{- /* AdSense ad slots — hidden until approved */ -}}
         <!-- Ad Slot: After Content -->
         <div class="ad-slot" style="margin-top:32px">
           <div class="ad-label">— Sponsored —</div>
