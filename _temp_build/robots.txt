@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://leolifan007.github.io/gambonanza-guide/sitemap.xml
