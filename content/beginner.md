@@ -268,3 +268,8 @@ Now go lose a few more times. That's part of the process. Come back when you've 
 </div>
 
 *Next up: [All 150+ Gambits Explained →](/gambits/) — or jump to [Boss Battle Guide →](/bosses/) if you've already met your first boss and want revenge.*
+
+
+---
+
+*Guide last updated: May 11, 2026 (patch v1.1.0).*

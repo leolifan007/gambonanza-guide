@@ -312,3 +312,8 @@ Bookmark this guide. We update weekly as the community discovers new strategies,
   <span style="color:var(--cream-dark);font-size:0.85rem">All 8 bosses analyzed.</span>
 </div>
 </div>
+
+
+---
+
+*Guide last updated: May 11, 2026 (patch v1.1.0).*

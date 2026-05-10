@@ -1,16 +1,6 @@
 ---
-title: "Gambonanza Guide — Complete Strategy, Cards & Walkthrough"
-description: "The most complete Gambonanza guide. Master every card, chess mechanic, and build winning strategies."
----
-
-*Welcome to the most complete Gambonanza guide online. Master every card, chess mechanic, and build winning strategies. Updated regularly as the meta evolves.*
-
----
-
-## What Is Gambonanza?
-
-Gambonanza is a **deckbuilding roguelike** that uses chess pieces as cards. Released May 2026 by Annapurna Interactive. Every piece you move activates a card — building a synergistic deck is the entire game. Playing it like chess gets you killed. Playing it like a roguelike with chess pieces is how you win.
-
+title: "Gambonanza Guide v1.1.0 — Complete Strategy, Cards & Walkthrough"
+description: "The most complete Gambonanza guide v1.1.0. Master every card, chess mechanic, and build winning strategies."
 ---
 
 ## Complete Guide — Pick Your Path
@@ -132,5 +122,4 @@ Data miners have confirmed at least 2 Queen cards not yet documented in the comm
 
 ---
 
-*Guide last updated: May 9, 2026. Meta is actively evolving — check back for card discoveries and patch notes.*
-
+*Guide last updated: May 10, 2026 (patch v1.1.0). Meta is actively evolving — check back for card discoveries and patch notes.*

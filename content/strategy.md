@@ -276,3 +276,8 @@ Three proven openers. Pick one per run and commit.
 
 *Want to see how the pros build their economy? → [Stock Market & Shop Guide](/economy/)*<br>
 *Need boss-specific strategies? → [Boss Battle Guide](/bosses/)*
+
+
+---
+
+*Guide last updated: May 11, 2026 (patch v1.1.0).*

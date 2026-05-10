@@ -223,3 +223,8 @@ description: "Casino economy mastery. Rated investment tables (S/A/B/C), compoun
 
 *Economy mastered? Now use it to buy the best Gambits → [All Gambits Guide](/gambits/)*<br>
 *Ready to spend that stock on boss prep? → [Boss Battle Guide](/bosses/)*
+
+
+---
+
+*Guide last updated: May 11, 2026 (patch v1.1.0).*

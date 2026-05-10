@@ -177,3 +177,8 @@ Ready to reach out? We're here and we read everything. Whether it's a quick ques
 <hr class="section-divider">
 
 *Gambonanza Guide — Built by players, for players. Updated regularly with community-sourced strategies and insights.*
+
+
+---
+
+*Guide last updated: May 11, 2026 (patch v1.1.0).*

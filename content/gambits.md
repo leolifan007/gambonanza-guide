@@ -1,4 +1,4 @@
----
+﻿---
 title: "All Gambits Guide: Meta Ratings, Synergies & Pro Strats"
 description: "The definitive Gambonanza Gambit database. S/A/B/C meta ratings, Piece×Tile synergy tables, Early vs Late Game analysis, and Pro Tips for every top-tier Gambit. 150+ entries catalogued."
 ---
@@ -471,4 +471,5 @@ For your first 10 runs, prioritize these Gambits in this exact order:
 
 ---
 
-*Gambit database verified against Prima Games review and community reports. 150+ Gambits total — we've catalogued the top 60 with full ratings. More added as meta evolves. Last updated: May 7, 2026.*
+*Gambit database verified against Prima Games review and community reports. 150+ Gambits total — we've catalogued the top 60 with full ratings. More added as meta evolves. Last updated: May 11, 2026 (patch v1.1.0).*
+

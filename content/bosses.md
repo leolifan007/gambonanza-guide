@@ -433,3 +433,8 @@ Uses ALL piece types, ALL abilities, and gets progressively harder with each HP 
 
 *Want boss-specific Gambit details? → [All Gambits Guide](/gambits/)*<br>
 *Need to rebuild your economy for the boss? → [Stock Market & Shop Guide](/economy/)*
+
+
+---
+
+*Guide last updated: May 11, 2026 (patch v1.1.0).*

@@ -148,3 +148,8 @@ These unlock naturally through gameplay. No special strategy needed:
 
 *Got your achievements? Now optimize your build → [Strategy Guide](/strategy/)*<br>
 *Which Gambits are worth the achievement grind? → [All Gambits Guide](/gambits/)*
+
+
+---
+
+*Guide last updated: May 11, 2026 (patch v1.1.0).*

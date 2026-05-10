@@ -1,4 +1,4 @@
----
+﻿---
 title: "Privacy Policy"
 description: "How Gambonanza Guide collects, uses, and protects your personal information when you visit our website."
 ---
@@ -6,7 +6,7 @@ description: "How Gambonanza Guide collects, uses, and protects your personal in
 ## Privacy Policy
 
 <div class="callout callout-tip">
-  <strong>📋 LAST UPDATED:</strong> May 8, 2026<br>
+  <strong>📋 LAST UPDATED:</strong> May 11, 2026 (patch v1.1.0)<br>
   This policy describes how Gambonanza Guide ("we," "us," or "our") handles your information when you use our website at <strong>gambonanza.guide</strong> and related subdomains.
 </div>
 
@@ -331,3 +331,4 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
   <strong>🍪 MANAGE YOUR COOKIES</strong><br>
   You can manage your cookie preferences at any time by adjusting your browser settings or using our cookie consent banner. To learn more about how cookies work on this site, see the <a href="#cookies">Cookies section</a> above.
 </div>
+

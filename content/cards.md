@@ -1,4 +1,4 @@
----
+﻿---
 title: "Card Database: Every Piece Card Rated & Explained"
 description: "Complete Gambonanza card reference. Meta Ratings for every card, synergy pairings, and which cards are trap picks you should never use."
 ---
@@ -171,4 +171,5 @@ Rook locks in place, invulnerable 2 turns, then massive damage to adjacent enemy
 
 ---
 
-*Card database actively updated as community discovers new cards. Last update: May 7, 2026.*
+*Card database actively updated as community discovers new cards. Last update: May 11, 2026 (patch v1.1.0).*
+
