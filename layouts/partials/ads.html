@@ -1,0 +1,14 @@
+{{- /* Google AdSense Universal Ad Slot Partial */ -}}
+{{- /* Usage: {{ partial "ads.html" (dict "position" "before-content") }} */ -}}
+{{- /* Positions: before-content, after-content, sidebar, header */ -}}
+
+<div class="ad-slot ad-slot--{{ .position | default "inline" }}">
+  <div class="ad-label">Advertisement</div>
+    <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7551387157478980"
+     data-ad-slot="{{ .slot | default "" }}"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+  <div class="ad-placeholder">Google AdSense</div>
+</div>
