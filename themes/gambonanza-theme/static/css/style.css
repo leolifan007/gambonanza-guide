@@ -909,18 +909,10 @@ ul { list-style: none; padding: 0; }
 .page-hero {
   min-height: 30vh; display: flex; align-items: center;
   background:
-    linear-gradient(180deg, rgba(10,13,20,0.10) 0%, rgba(26,15,26,0.50) 50%, rgba(26,15,26,0.90) 100%),
-    url('/images/hero-bg.webp');
-  background-size: cover;
-  background-position: center top;
-  background-repeat: no-repeat;
+    linear-gradient(180deg, rgba(10,13,20,0.15) 0%, rgba(26,15,26,0.35) 40%, rgba(26,15,26,0.85) 100%),
+    url('/images/hero-bg.webp') center top / cover no-repeat;
   position: relative; overflow: hidden;
   padding: var(--space-lg) 0;
-}
-.page-hero::before {
-  content:''; position:absolute; top:0; left:0; right:0; bottom:0;
-  background: linear-gradient(180deg, transparent 50%, rgba(26,15,26,0.70) 100%);
-  z-index: 1;
 }
 .page-hero-content {
   position: relative; z-index: 2;
@@ -928,7 +920,7 @@ ul { list-style: none; padding: 0; }
   text-align: center; padding: 0 var(--space-md);
 }
 .page-hero-content h1 {
-  font-size: 1.8rem; margin-bottom: var(--space-sm);
+  font-family: var(--font-display); font-size: 1.2rem; margin-bottom: var(--space-sm);
   line-height: 1.4;
 }
 .page-hero-content h1 span { color: var(--gold); }
