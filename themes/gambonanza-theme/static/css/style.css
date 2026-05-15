@@ -1350,6 +1350,24 @@ ul { list-style: none; padding: 0; }
 
 .latest-article-card {
   display: block; text-decoration: none; color: inherit;
+  position: relative;
+}
+
+.new-badge {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  background: linear-gradient(135deg, #e63946, #c1121f);
+  color: #fff;
+  font-size: 0.35rem;
+  font-weight: 700;
+  font-family: var(--font-display), monospace;
+  letter-spacing: 0.08em;
+  padding: 3px 8px;
+  border-radius: 3px;
+  z-index: 2;
+  text-transform: uppercase;
+  box-shadow: 0 2px 6px rgba(230,57,70,0.4);
 }
 .latest-article-meta {
   display: flex;

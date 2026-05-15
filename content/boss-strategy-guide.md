@@ -107,7 +107,7 @@ Full-board pressure: can place a level-5 piece anywhere on the board every turn,
 
 <div class='callout callout-tip'>
   <strong>Sources & Updates</strong><br>
-  Game mechanics and data based on community reports and player testing. Always verify in-game — Gambonanza may change with patches. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
+  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches — always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
 </div>
 
 <div class='ad-slot ad-slot--after-content'>

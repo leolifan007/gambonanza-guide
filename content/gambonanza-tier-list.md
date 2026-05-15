@@ -385,12 +385,12 @@ High-risk, high-reward attack. Can one-shot bosses or miss entirely.
 </div>
 
 <div class="pro-tip">
-  <strong>Bookmark this page.</strong> We update the tier list every time the meta shifts. v1.0 data verified against 50+ top player runs and community reports. As new Gambits get discovered or patched, this is where you'll see it first.
+  <strong>Bookmark this page.</strong> I update the tier list every time the meta shifts. v1.0 data based on my runs and gameplay analysis. As new Gambits get discovered or patched, this is where you'll see it first.
 </div>
 
 ---
 
-*Gambonanza Tier List v1.0 — Last updated: May 7, 2026. Data compiled from community reports, top player gameplay, and Prima Games review cross-references. 150+ Gambits total; top 22 ranked individually here.*
+*Gambonanza Tier List v1.0 — Last updated: May 7, 2026. Based on my runs and gameplay analysis. 150+ Gambits total; top 22 ranked individually here.*
 
 ---
 

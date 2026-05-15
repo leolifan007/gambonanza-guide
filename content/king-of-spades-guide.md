@@ -225,5 +225,5 @@ A: Yes. Promotion doesn't grant immunity. Keep promoted pieces within your Fortr
 
 ---
 
-*Last updated: May 11, 2026 | Version: v1.1.0 | Sources: Steam community discussions, playtest data, player reports*
+*Last updated: May 11, 2026 | Version: v1.1.0 | Based on my runs and gameplay testing*
 

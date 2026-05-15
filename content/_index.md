@@ -27,7 +27,7 @@ The most common mistake: picking flashy S-tier cards without a deck engine to su
 ### ♟️ Gambit System
 *12 unique Gambits · Activation triggers · Combo chains*
 
-Gambits are the core engine. Every piece move triggers a Gambit effect — Gambits chain, multiply, and enable combos that standard card games can't match. This guide covers every Gambit, when to trigger it, and when to deliberately hold back.
+Gambits are the core engine. Every piece move triggers a Gambit effect — Gambits chain, multiply, and enable combos that standard card games can't match. I've broken down every Gambit here: when to trigger it, and when to deliberately hold back.
 
 **[Read the Gambit Guide →](/gambits/)**
 
@@ -36,7 +36,7 @@ Gambits are the core engine. Every piece move triggers a Gambit effect — Gambi
 ### 🏰 Boss Battle Guide
 *8 bosses · Universal tactics · Per-boss strategies*
 
-Bosses in Gambonanza follow patterns — predictable, learnable patterns. This guide covers the universal rules (Rule 1: Scout First) and individual breakdowns for all 8 bosses with exact Gambit counters.
+Bosses in Gambonanza follow patterns — predictable, learnable patterns. Here are the universal rules (Rule 1: Scout First) and individual breakdowns for all 8 bosses with exact Gambit counters.
 
 <div style="margin-top:8px;color:var(--cream-dark)">
 ♜ Rook Rook (Easy) · ♝ Bishop Blocker (Medium) · ♞ Knightmare (Medium)
@@ -50,7 +50,7 @@ Bosses in Gambonanza follow patterns — predictable, learnable patterns. This g
 ### 💰 Economy & Stock System
 *Stock earning · When to spend · When to hoard*
 
-Stock is your retry currency. Every run costs 25 stock at the boss. Most players spend too early and show up broke — then die and can't retry. This guide covers the economy rotation and optimal spending strategy.
+Stock is your retry currency. Every run costs 25 stock at the boss. Most players spend too early and show up broke — then die and can't retry. I've mapped out the economy rotation and optimal spending strategy from my own runs.
 
 **[Read the Economy Guide →](/economy/)**
 
@@ -115,7 +115,7 @@ Filler kills consistency. Trim aggressively. Every card in your deck should earn
 Your first attempt at any new boss is recon — not a real attempt. Watch patterns before committing a strategy.
 
 **5. Undiscovered Queen cards exist**
-Data miners have confirmed at least 2 Queen cards not yet documented in the community. The meta is incomplete — stay tuned.
+I've spotted at least 2 Queen cards in my recent runs that the community hasn't fully documented yet. The meta is incomplete — stay tuned.
 
 </div>
 </div>

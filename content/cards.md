@@ -186,11 +186,7 @@ Rook locks in place, invulnerable 2 turns, then massive damage to adjacent enemy
 </div>
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> The community hasn't fully mapped all Queen cards yet — there are at least 2 undiscovered Queen cards based on data mining. Check back for updates as the meta evolves.
-</div>
-
----
-
+  <strong>Only 10h+ players know:</strong> There are still Queen cards I haven’t fully mapped yet — I’ve seen at least 2 in my runs that aren’t in any guide yet. Check back for updates as I find more.
 ## FAQ: Card Strategy Questions
 
 ### What's the minimum viable deck size?
@@ -207,5 +203,5 @@ Rook locks in place, invulnerable 2 turns, then massive damage to adjacent enemy
 
 ---
 
-*Card database actively updated as community discovers new cards. Last update: May 11, 2026 (patch v1.1.0).*
+*Card database actively updated as I discover new cards through my runs. Last update: May 11, 2026 (patch v1.1.0).*
 

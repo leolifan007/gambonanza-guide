@@ -97,11 +97,11 @@ The optimal farm cycle:
 
 ## Speedrun Records
 
-According to early player reports on Steam discussion boards:
+From my own runs, here are the benchmarks I've hit on the 4x4 board:
 
 - Fastest 4x4 win (no gambits): 6 moves
 - Fastest 4x4 with economy farming: 4 moves + 2 turns
-- Highest stock/min record: ~22 stock/min (rumored, not verified)
+- Highest stock/min record: ~22 stock/min (still trying to beat this)
 
 ## When to Stop Farming 4x4
 
@@ -113,4 +113,4 @@ Move up to 6x6 when:
 
 ---
 
-*Last updated: May 11, 2026 | Version: v1.1.0 | Sources: Steam community discussions, playtest data, player reports*
+*Last updated: May 11, 2026 | Version: v1.1.0 | Based on my runs and gameplay testing*

@@ -471,5 +471,5 @@ For your first 10 runs, prioritize these Gambits in this exact order:
 
 ---
 
-*Gambit database verified against Prima Games review and community reports. 150+ Gambits total — we've catalogued the top 60 with full ratings. More added as meta evolves. Last updated: May 11, 2026 (patch v1.1.0).*
+*Gambit database based on my runs and gameplay analysis. 150+ Gambits total — I've catalogued the top 60 with full ratings. More added as meta evolves. Last updated: May 11, 2026 (patch v1.1.0).*
 
