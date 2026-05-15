@@ -72,7 +72,7 @@ ul { list-style: none; padding: 0; }
 .btn-primary, .btn-secondary {
   display: inline-flex; align-items: center; gap: var(--space-sm);
   padding: 12px 28px; border-radius: var(--radius);
-  font-family: var(--font-display); font-size: 1.1rem;
+  font-family: var(--font-display); font-size: 1rem;
   text-transform: uppercase; letter-spacing: 0.08em;
   cursor: pointer; transition: var(--transition);
   border: var(--border); white-space: nowrap;
@@ -117,7 +117,7 @@ ul { list-style: none; padding: 0; }
   background: var(--dark-2); border: 1px solid var(--gold); border-radius: 2px;
 }
 .logo-text {
-  font-family: var(--font-display); font-size: 1.25rem;
+  font-family: var(--font-display); font-size: 1.1rem;
   color: var(--cream); letter-spacing: 0.05em;
 }
 .main-nav {
@@ -511,7 +511,7 @@ ul { list-style: none; padding: 0; }
 .hero-badge {
   display: inline-block; padding: 6px 16px;
   border: 1px solid var(--gold); border-radius: var(--radius);
-  font-family: var(--font-display); font-size: 0.85rem;
+  font-family: var(--font-display); font-size: 0.75rem;
   color: var(--gold); margin-bottom: var(--space-lg);
   text-transform: uppercase; letter-spacing: 0.1em;
 }
@@ -536,7 +536,7 @@ ul { list-style: none; padding: 0; }
 }
 .stat { text-align: center; }
 .stat-number {
-  font-family: var(--font-display); font-size: 2.8rem;
+  font-family: var(--font-display); font-size: 2.6rem;
   color: var(--gold); line-height: 1;
 }
 .stat-label {
@@ -564,7 +564,7 @@ ul { list-style: none; padding: 0; }
   background: var(--dark-3); border: 1px solid var(--rose-dark); border-radius: 2px;
 }
 .feature-item h4 {
-  font-family: var(--font-display); font-size: 0.95rem;
+  font-family: var(--font-display); font-size: 0.85rem;
   color: var(--cream); margin-bottom: 0;
 }
 .feature-item p {
@@ -583,7 +583,7 @@ ul { list-style: none; padding: 0; }
   margin: 0 auto var(--space-lg);
 }
 .eyebrow {
-  font-family: var(--font-display); font-size: 0.85rem;
+  font-family: var(--font-display); font-size: 0.75rem;
   text-transform: uppercase; letter-spacing: 0.15em;
   color: var(--gold); margin-bottom: var(--space-sm);
 }
@@ -629,7 +629,7 @@ ul { list-style: none; padding: 0; }
 .guide-card-tag {
   display: inline-block; padding: 2px 10px;
   border: 1px solid var(--rose-dark); border-radius: var(--radius);
-  font-family: var(--font-display); font-size: 0.75rem;
+  font-family: var(--font-display); font-size: 0.65rem;
   color: var(--gold); margin-bottom: var(--space-sm);
   text-transform: uppercase;
 }
@@ -646,7 +646,7 @@ ul { list-style: none; padding: 0; }
   margin-bottom: var(--space-md); line-height: 1.6;
 }
 .guide-card-link {
-  font-family: var(--font-display); font-size: 0.9rem;
+  font-family: var(--font-display); font-size: 0.8rem;
   color: var(--gold); text-decoration: none !important;
 }
 .guide-card-link:hover { color: var(--cream); }
@@ -740,7 +740,7 @@ ul { list-style: none; padding: 0; }
 }
 .footer-brand .footer-logo {
   display: flex; align-items: center; gap: 10px;
-  font-family: var(--font-display); font-size: 1.3rem;
+  font-family: var(--font-display); font-size: 1.1rem;
   color: var(--cream); margin-bottom: var(--space-sm);
 }
 .footer-brand p {
@@ -749,7 +749,7 @@ ul { list-style: none; padding: 0; }
 .footer-meta { font-size: 0.75rem; color: var(--rose-light); }
 .footer-links h4 {
   font-family: var(--font-display);
-  color: var(--cream); font-size: 1rem;
+  color: var(--cream); font-size: 0.85rem;
   text-transform: uppercase; letter-spacing: 0.05em;
   margin-bottom: var(--space-sm);
 }
@@ -805,7 +805,7 @@ ul { list-style: none; padding: 0; }
   position:absolute; right:2%; top:50%; transform:translateY(-50%);
   display:flex; flex-direction:column; gap:4px; pointer-events:none; z-index:1; opacity:0.08;
 }
-.hero-chess-row span{font-size:2rem;line-height:1;color:var(--cream);font-family:var(--font-display);}
+.hero-chess-row span{font-size:1.8rem;line-height:1;color:var(--cream);font-family:var(--font-display);}
 
 /* ─── Hero Radial Chess Pieces ─── */
 .hero-chess-radial {
@@ -968,7 +968,7 @@ ul { list-style: none; padding: 0; }
 
 /* ─── Meta Rating Badges ─── */
 .meta-rating { display: inline-flex; align-items: center; gap: 8px; margin: 8px 0; }
-.meta-badge { display: inline-block; padding: 3px 10px; border-radius: 2px; font-family: var(--font-display); font-size: 1rem; font-weight: 700; letter-spacing: 0.08em; line-height: 1.4; min-width: 28px; text-align: center; }
+.meta-badge { display: inline-block; padding: 3px 10px; border-radius: 2px; font-family: var(--font-display); font-size: 0.85rem; font-weight: 700; letter-spacing: 0.08em; line-height: 1.4; min-width: 28px; text-align: center; }
 .meta-s { background: var(--gold); color: var(--dark); box-shadow: 0 0 12px rgba(212,168,74,0.3); }
 .meta-a { background: var(--orange); color: var(--dark); }
 .meta-b { background: var(--teal); color: var(--dark); }
@@ -976,7 +976,7 @@ ul { list-style: none; padding: 0; }
 .meta-label { font-size: 0.85rem; color: var(--cream-dark); margin-left: 4px; }
 
 /* ─── Phase Indicators ─── */
-.phase-tag { display: inline-block; padding: 2px 10px; border-radius: var(--radius); font-family: var(--font-display); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; margin-right: 6px; }
+.phase-tag { display: inline-block; padding: 2px 10px; border-radius: var(--radius); font-family: var(--font-display); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; margin-right: 6px; }
 .phase-early { background: rgba(92,184,92,0.15); color: var(--green); border: 1px solid rgba(92,184,92,0.3); }
 .phase-mid { background: rgba(74,155,155,0.15); color: var(--teal); border: 1px solid rgba(74,155,155,0.3); }
 .phase-late { background: rgba(212,168,74,0.15); color: var(--gold); border: 1px solid rgba(212,168,74,0.3); }
@@ -984,7 +984,7 @@ ul { list-style: none; padding: 0; }
 /* ─── Synergy Tables ─── */
 .synergy-table { width: 100%; border-collapse: collapse; margin: var(--space-md) 0; font-size: 0.9rem; }
 .synergy-table thead { background: var(--dark-2); }
-.synergy-table th { padding: 10px 12px; text-align: left; font-family: var(--font-display); font-size: 0.85rem; color: var(--gold); border-bottom: 2px solid var(--gold); text-transform: uppercase; letter-spacing: 0.05em; }
+.synergy-table th { padding: 10px 12px; text-align: left; font-family: var(--font-display); font-size: 0.75rem; color: var(--gold); border-bottom: 2px solid var(--gold); text-transform: uppercase; letter-spacing: 0.05em; }
 .synergy-table td { padding: 10px 12px; border-bottom: var(--border-thin); color: var(--cream-dark); }
 .synergy-table tr:hover td { background: rgba(212,168,74,0.05); }
 .synergy-table tr:last-child td { border-bottom: none; }
@@ -1135,7 +1135,7 @@ ul { list-style: none; padding: 0; }
 
 /* ─── Pro Tip Box ─── */
 .pro-tip { background: #0a0a0a; border: 2px solid var(--gold); border-radius: var(--radius); padding: var(--space-lg) var(--space-md) var(--space-md); margin: var(--space-lg) 0; position: relative; padding-left: 48px; }
-.pro-tip::before { content: '✴ PRO TIP'; position: absolute; top: -12px; left: 16px; background: var(--gold); color: var(--dark); padding: 2px 14px; font-family: var(--font-display); font-size: 0.8rem; letter-spacing: 0.1em; border-radius: 2px; font-weight: 700; }
+.pro-tip::before { content: '✴ PRO TIP'; position: absolute; top: -12px; left: 16px; background: var(--gold); color: var(--dark); padding: 2px 14px; font-family: var(--font-display); font-size: 0.7rem; letter-spacing: 0.1em; border-radius: 2px; font-weight: 700; }
 .pro-tip p { margin-bottom: 0; font-size: 0.95rem; color: var(--cream) !important; line-height: 1.8; }
 .pro-tip strong { color: var(--gold); }
 
