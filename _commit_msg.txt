@@ -1,0 +1,1 @@
+fix: remove stale project-level style.css that overrode theme CSS
