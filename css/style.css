@@ -121,8 +121,11 @@ ul { list-style: none; padding: 0; }
   color: var(--cream); letter-spacing: 0.05em;
 }
 .main-nav {
-  display: flex; gap: 6px; flex-wrap: wrap;
+  display: flex; gap: 6px; flex-wrap: nowrap;
+  overflow-x: auto; -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
 }
+.main-nav::-webkit-scrollbar { display: none; }
 .main-nav a {
   padding: 6px 12px; border-radius: var(--radius);
   font-size: 0.85rem; color: var(--cream-dark);
@@ -1347,6 +1350,18 @@ ul { list-style: none; padding: 0; }
 .cookie-toggle:checked + label::after { left: 23px; }
 .cookie-toggle:disabled + label { opacity: 0.4; cursor: not-allowed; }
 
+.latest-article-card { position: relative; }
+.card-cover-overlay {
+  position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+  z-index: 1; border-radius: var(--radius);
+}
+.latest-article-card h3,
+.latest-article-card p,
+.latest-article-card .latest-article-meta {
+  position: relative; z-index: 2;
+}
+
+/* ─── Latest Articles Strip ─── */
 /* ─── Latest Articles Strip ─── */
 .latest-articles {
   display: grid;
