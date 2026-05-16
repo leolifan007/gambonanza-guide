@@ -3,6 +3,15 @@ title: 'Rook & Bishop Guide — Mastering the Support Pieces'
 description: 'Complete guide to Rook and Bishop in Gambonanza. The two most underrated pieces — Rook suppression power and Bishop control tactics. Includes Gambit combos and advanced formations.'
 lastUpdated: '2026-05-14'
 version: 'v1.1.0'
+see_also:
+  - title: 'Strategy Guide'
+    url: '/strategy/'
+  - title: 'Endgame Killer Tips'
+    url: '/endgame-killer-tips/'
+  - title: 'All Gambits Guide'
+    url: '/gambits/'
+  - title: 'King of Spades - Boss Breakdown'
+    url: '/king-of-spades-guide/'
 ---
 
 ## The Backbone, Not The Sidekick

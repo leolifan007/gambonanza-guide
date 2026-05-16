@@ -1,6 +1,13 @@
 ---
 title: "FAQ: Real Answers to What Actually Confuses Gambonanza Players"
 description: "No filler, no obvious questions. Real Q&A drawn from community experience — the things that actually trip you up, ranked by how often they ruin runs."
+see_also:
+  - title: 'Beginner Guide'
+    url: '/beginner/'
+  - title: 'Complete Walkthrough'
+    url: '/complete-walkthrough/'
+  - title: 'Boss Battle Guide'
+    url: '/bosses/'
 ---
 
 ## The FAQ — What Players Actually Need to Know

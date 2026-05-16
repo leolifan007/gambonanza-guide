@@ -1,6 +1,13 @@
 ---
 title: "4x4 Fast Farm Guide: Speedrun Your Economy on Small Boards"
 description: "Master the 4x4 board for maximum stock per minute. Knight aggro openers, farm routes, economy gambit synergies, and known speedrun strats from early players."
+see_also:
+  - title: 'Stock Market & Shop Guide'
+    url: '/economy/'
+  - title: 'Recommended Seeds'
+    url: '/recommended-seeds/'
+  - title: 'Complete Walkthrough'
+    url: '/complete-walkthrough/'
 ---
 
 ## Why 4x4 Boards Are Your ATM

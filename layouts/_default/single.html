@@ -17,6 +17,16 @@
           <h4>📑 Quick Jump</h4>
           {{ .TableOfContents }}
         </div>
+        {{ with .Params.see_also }}
+        <div class="related-guides">
+          <h4>📌 Related Guides</h4>
+          <ul>
+          {{ range . }}
+            <li><a href="{{ .url }}">{{ .title }}</a></li>
+          {{ end }}
+          </ul>
+        </div>
+        {{ end }}
       </aside>
     </div>
   </div>

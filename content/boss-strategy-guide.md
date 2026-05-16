@@ -3,6 +3,13 @@ title: 'All 5 Bosses — Full Guide: Mechanics, Counters & Gambit Loadouts'
 description: 'Complete strategy guide for all 5 Gambonanza bosses. Jester, King of Spades, Blitzking, Queen of Hearts, and Grand Master mechanics explained. Recommended Gambits, phase strategy, and comeback tips for each fight.'
 lastUpdated: '2026-05-14'
 version: 'v1.2.0'
+see_also:
+  - title: 'Boss Battle Guide'
+    url: '/bosses/'
+  - title: 'King of Spades - Boss Breakdown'
+    url: '/king-of-spades-guide/'
+  - title: 'Complete Walkthrough'
+    url: '/complete-walkthrough/'
 ---
 
 ## Bosses Are Not the Whole Game — But You Must Win Them

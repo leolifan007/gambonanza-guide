@@ -3,6 +3,13 @@ title: 'Recommended Seeds — Best Opening Seed Collection for Gambonanza'
 description: 'Community-verified best opening seeds for Gambonanza. Includes all-round seeds, economy builds, ranked seeds, and high-variance gambler seeds. Updated with player-verified configurations.'
 lastUpdated: '2026-05-14'
 version: 'v1.1.0'
+see_also:
+  - title: 'Stock Market & Shop Guide'
+    url: '/economy/'
+  - title: 'Beginner Guide'
+    url: '/beginner/'
+  - title: '4x4 Fast Farm Guide'
+    url: '/4x4-fast-farm-guide/'
 ---
 
 ## Gambonanza Seed Quick-Reference

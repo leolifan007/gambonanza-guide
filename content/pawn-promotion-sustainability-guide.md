@@ -1,6 +1,13 @@
 ---
 title: "Pawn Promotion & Sustainability: Don't Break Your Build When Pawns Evolve"
 description: "Pawn promotion breaks relic synergies, changes your board dynamic, and can kill a run. Learn exactly when to promote, what to promote to, and how to keep your build intact."
+see_also:
+  - title: 'All Gambits Guide'
+    url: '/gambits/'
+  - title: 'Strategy Guide'
+    url: '/strategy/'
+  - title: 'Complete Walkthrough'
+    url: '/complete-walkthrough/'
 ---
 
 ## The Promotion Trap

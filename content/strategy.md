@@ -1,6 +1,15 @@
 ---
 title: "Strategy Guide: Win Consistently — From Beginner to Gambit God"
 description: "Proven strategies with Meta Ratings. Three opening builds ranked S/A/B, exact Gambit combos, deck composition math, endgame checkmate patterns, and tilt management."
+see_also:
+  - title: 'Endgame Killer Tips'
+    url: '/endgame-killer-tips/'
+  - title: 'Rook & Bishop Guide'
+    url: '/rook-bishop-guide/'
+  - title: 'Complete Walkthrough'
+    url: '/complete-walkthrough/'
+  - title: 'All Gambits Guide'
+    url: '/gambits/'
 ---
 
 ## Strategy Guide — Rated Builds & Proven Tactics

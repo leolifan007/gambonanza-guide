@@ -1,6 +1,11 @@
 ---
 title: "Certainty Over Luck: The Best Deterministic Gambits Ranked"
 description: "Gambonanza Gambits that always work (no 1/3 dice rolls). Ranked by reliability, cost efficiency, and which RNG-dependent Gambits you should skip entirely."
+see_also:
+  - title: 'All Gambits Guide'
+    url: '/gambits/'
+  - title: 'Tier List - Every Gambit Ranked'
+    url: '/gambonanza-tier-list/'
 ---
 
 ## Why Deterministic Gambits Win

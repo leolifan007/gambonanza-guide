@@ -4,6 +4,11 @@ title: "King of Spades Guide: Mechanics, Counters & Three Proven Builds"
 
 description: "The community's second-hardest boss. Teleport mechanics explained, piece priority ranking, and three builds: solid control, speed push, and no-damage sniper."
 
+see_also:
+  - title: 'Boss Battle Guide'
+    url: '/bosses/'
+  - title: 'All 5 Bosses - Quick Reference'
+    url: '/boss-strategy-guide/'
 ---
 
 ## Why King of Spades?

@@ -1,6 +1,13 @@
 ---
 title: "How to Break Chess and Dominate Gambonanza in 5 Runs"
 description: "Stop playing chess. Start breaking rules. The only beginner guide that tells you what actually works — from God-Tier starter Gambits to the 'Just Win' formula that trivializes your first 10 runs."
+see_also:
+  - title: 'Complete Walkthrough'
+    url: '/complete-walkthrough/'
+  - title: 'Decision Framework'
+    url: '/decision-framework-guide/'
+  - title: 'All Gambits Guide'
+    url: '/gambits/'
 ---
 
 ## The Verdict — Why You're Going to Lose (And Why That's Fine)

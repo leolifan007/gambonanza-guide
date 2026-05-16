@@ -1,6 +1,13 @@
 ---
 title: "Boss Battle Guide: Beat Every Boss Without Losing Your Mind"
 description: "Universal boss tactics → individual breakdowns with colored headers → exact Gambit counters. The only Gambonanza boss guide written by someone who's died to all 8 of them."
+see_also:
+  - title: 'All 5 Bosses - Quick Reference'
+    url: '/boss-strategy-guide/'
+  - title: 'King of Spades - Boss Breakdown'
+    url: '/king-of-spades-guide/'
+  - title: 'Complete Walkthrough'
+    url: '/complete-walkthrough/'
 ---
 
 ## Universal Boss Tactics

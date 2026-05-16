@@ -3,6 +3,13 @@ title: 'Endgame Killer Tips — Closing Out Games from 6×6+'
 description: 'Master the endgame in Gambonanza. Bishop deadlock solutions, King hunting timings, relic timing control, Pawn promotion traps, and a comeback checklist for when everything goes wrong.'
 lastUpdated: '2026-05-14'
 version: 'v1.1.0'
+see_also:
+  - title: 'Complete Walkthrough'
+    url: '/complete-walkthrough/'
+  - title: 'Rook & Bishop Guide'
+    url: '/rook-bishop-guide/'
+  - title: 'Strategy Guide'
+    url: '/strategy/'
 ---
 
 ## The Endgame Is Not Just Grind

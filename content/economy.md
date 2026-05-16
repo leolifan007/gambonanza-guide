@@ -1,6 +1,13 @@
 ---
 title: "Stock Market & Shop Guide: Double Your Way to Infinite Gambits"
 description: "Casino economy mastery. Rated investment tables (S/A/B/C), compound growth strategies, mini-game math, and the exact thresholds for maximum returns."
+see_also:
+  - title: '4x4 Fast Farm Guide'
+    url: '/4x4-fast-farm-guide/'
+  - title: 'Recommended Seeds'
+    url: '/recommended-seeds/'
+  - title: 'Complete Walkthrough'
+    url: '/complete-walkthrough/'
 ---
 
 ## The Economy System — Rated & Exploited

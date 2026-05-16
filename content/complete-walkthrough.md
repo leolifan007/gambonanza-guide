@@ -3,6 +3,15 @@ title: 'Complete Walkthrough — From Opening to Grand Master'
 description: 'Full step-by-step roadmap for Gambonanza. Covers seed selection, opening economy, mid-game transition, every boss fight, and endgame strategy. For beginners who want a clear plan.'
 lastUpdated: '2026-05-14'
 version: 'v1.1.0'
+see_also:
+  - title: 'Beginner Guide'
+    url: '/beginner/'
+  - title: 'All 5 Bosses - Quick Reference'
+    url: '/boss-strategy-guide/'
+  - title: 'Endgame Killer Tips'
+    url: '/endgame-killer-tips/'
+  - title: 'Rook & Bishop Guide'
+    url: '/rook-bishop-guide/'
 ---
 
 ## This Is Not a Quick Primer — It's Your Campaign Map

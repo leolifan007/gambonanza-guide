@@ -25,6 +25,13 @@ These Gambits fundamentally change how you play. Build your run around them.
   <a href="#heal-board" class="nav-anchor">❤ Heal Board</a>
 </div>
 
+see_also:
+  - title: 'Tier List - Every Gambit Ranked'
+    url: '/gambonanza-tier-list/'
+  - title: 'Deterministic Gambits Guide'
+    url: '/deterministic-gambits-guide/'
+  - title: 'Card Database'
+    url: '/cards/'
 ---
 
 ### ♟ <span id="teleport">Teleport</span>

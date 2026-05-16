@@ -44,6 +44,13 @@ These three Gambits <strong>fundamentally rewrite the rules of the game.</strong
 
 > **Pro Tip:** Teleport + Gambit Square = double value. Moving a knight onto a "Free Gambit" tile via Teleport triggers both the tile effect AND the knight's move — effectively doubling your turn.
 
+see_also:
+  - title: 'All Gambits Guide'
+    url: '/gambits/'
+  - title: 'Deterministic Gambits Guide'
+    url: '/deterministic-gambits-guide/'
+  - title: 'Card Database'
+    url: '/cards/'
 ---
 
 ### 2️⃣ The Ultimate Counter 🏆 <span style="color:var(--gold)">— Boss Killer #1</span>

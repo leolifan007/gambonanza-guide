@@ -1,6 +1,13 @@
 ---
 title: "Gambonanza Decision Framework: Stop Making Costly Mistakes"
 description: "Learn how to read the board, when to attack vs defend, your personal mistake pattern, and the exact decision tree that stops you from throwing runs."
+see_also:
+  - title: 'Beginner Guide'
+    url: '/beginner/'
+  - title: 'Complete Walkthrough'
+    url: '/complete-walkthrough/'
+  - title: 'Strategy Guide'
+    url: '/strategy/'
 ---
 
 ## Why You Keep Losing (And It's Not Your Chess)

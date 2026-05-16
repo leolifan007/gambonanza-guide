@@ -16,6 +16,13 @@ Every piece in Gambonanza has an associated card. Moving that piece activates it
 
 ## S-Tier Cards
 
+see_also:
+  - title: 'All Gambits Guide'
+    url: '/gambits/'
+  - title: 'Tier List - Every Gambit Ranked'
+    url: '/gambonanza-tier-list/'
+  - title: 'Strategy Guide'
+    url: '/strategy/'
 ---
 
 ### Royal Gambit <span class="meta-badge meta-s">S</span> — Queen
