@@ -987,16 +987,14 @@ ul { list-style: none; padding: 0; }
 .synergy-table td:first-child { color: var(--cream); font-weight: 600; }
 
 /* ─── Edge-to-Edge Tables & Centered Images in Section Cards ─── */
-/* synergy-table IS the h2+ card wrapper — remove left/right padding so inner table stretches edge-to-edge */
-.main-content h2 + .synergy-table,
-.main-content h2 + [style*="overflow-x"] {
+/* Whether synergy-table IS h2+ card or standalone: remove left/right padding so the table stretches edge-to-edge */
+.main-content .synergy-table {
   padding-left: 0;
   padding-right: 0;
 }
 
-/* Inner table stays 100% of its (now padding-free) container */
-.main-content h2 + .synergy-table table,
-.main-content h2 + [style*="overflow-x"] table {
+/* Inner table fills the card */
+.main-content .synergy-table table {
   width: 100%;
   border-radius: 0;
 }
