@@ -1,56 +1,104 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 340" font-family="'Segoe UI',Arial,sans-serif">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#1a1a2e"/>
-      <stop offset="100%" stop-color="#16213e"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 380" width="100%" height="auto">
+<defs>
+  <filter id="g"><feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.5"/></filter>
+  <filter id="s"><feDropShadow dx="1" dy="1.5" stdDeviation="1.5" flood-color="#000" flood-opacity="0.6"/></filter>
+  <style>
+    .bg{fill:#120812}.cl{fill:#2A1420}.cd{fill:#1C0A14}.hl{fill:#142E1A}
+    .sl{font:10px 'Segoe UI',monospace;fill:#C08870;text-anchor:middle;dominant-baseline:central}
+    .pw{font:26px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#F0E0CC}
+    .pb{font:26px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#D44030}
+    .ps{font:26px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#F0C040}
+    .l{font:15px Tahoma,sans-serif;fill:#E0D0C0}
+    .ls{font:11.5px Tahoma,sans-serif;fill:#B08070}
+    .tl{font:13px Tahoma,sans-serif;fill:#C09050;font-weight:700}
+    .ho{fill:none;stroke:#F0A030;stroke-width:2.5;stroke-dasharray:5,3}
+    .do{fill:none;stroke:#D44030;stroke-width:2;stroke-dasharray:4,3}
+    .so{fill:none;stroke:#4CAF50;stroke-width:2.5;stroke-dasharray:5,3}
+    .lg{font:11px Tahoma,sans-serif;fill:#C08870;text-anchor:middle;dominant-baseline:central}
+  </style>
+</defs>
 
-  <rect width="340" height="340" rx="12" fill="url(#bg)"/>
-  <text x="170" y="24" text-anchor="middle" fill="#e6a817" font-size="14" font-weight="bold">5×5 Tile Value Map</text>
+<rect class="bg" width="440" height="380" rx="8" filter="url(#g)"/>
+<text x="220" y="34" class="tl" font-size="14" text-anchor="middle">5×5  Tile Value Map</text>
+<text x="220" y="48" class="ls" text-anchor="middle">Center dominates — Corners collapse first under Crumble</text>
 
-  <!-- 5x5 grid -->
-  <g transform="translate(45,35)">
-    <!-- Row 0: D C B C D -->
-    <rect x="0"   y="0"   width="50" height="50" fill="#2a1a1a" stroke="#ef5350" stroke-width="2.5" rx="4"/><text x="25" y="32" text-anchor="middle" fill="#ef5350" font-size="20" font-weight="bold">D</text>
-    <rect x="50"  y="0"   width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="75" y="32" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
-    <rect x="100" y="0"   width="50" height="50" fill="#1a1a2e" stroke="#a0a0c0" stroke-width="1.5" rx="4"/><text x="125" y="32" text-anchor="middle" fill="#a0a0c0" font-size="20">B</text>
-    <rect x="150" y="0"   width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="175" y="32" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
-    <rect x="200" y="0"   width="50" height="50" fill="#2a1a1a" stroke="#ef5350" stroke-width="2.5" rx="4"/><text x="225" y="32" text-anchor="middle" fill="#ef5350" font-size="20" font-weight="bold">D</text>
+<!-- 5×5 Board -->
+<g transform="translate(60,56)">
+  <!-- Row 0: D C B C D -->
+  <rect x="0"   y="0"   width="48" height="48" class="cl" rx="4"/><text x="24" y="27" class="pb">&#9823;</text>
+  <rect x="48"  y="0"   width="48" height="48" class="cd" rx="4"/><text x="72" y="27" class="pw">&#9818;</text>
+  <rect x="96"  y="0"   width="48" height="48" class="cl" rx="4"/><text x="120" y="27" class="pw">&#9816;</text>
+  <rect x="144" y="0"   width="48" height="48" class="cd" rx="4"/><text x="168" y="27" class="pw">&#9818;</text>
+  <rect x="192" y="0"   width="48" height="48" class="cl" rx="4"/><text x="216" y="27" class="pb">&#9823;</text>
+  <!-- Row 1: C A A A C -->
+  <rect x="0"   y="48"  width="48" height="48" class="cd" rx="4"/><text x="24" y="75" class="pw">&#9818;</text>
+  <rect x="48"  y="48"  width="48" height="48" class="cl" rx="4"/><text x="72" y="75" class="ps">&#9819;</text>
+  <rect x="96"  y="48"  width="48" height="48" class="cd" rx="4"/><text x="120" y="75" class="ps">&#9819;</text>
+  <rect x="144" y="48"  width="48" height="48" class="cl" rx="4"/><text x="168" y="75" class="ps">&#9819;</text>
+  <rect x="192" y="48"  width="48" height="48" class="cd" rx="4"/><text x="216" y="75" class="pw">&#9818;</text>
+  <!-- Row 2: B A S A B -->
+  <rect x="0"   y="96"  width="48" height="48" class="cl" rx="4"/><text x="24" y="123" class="pw">&#9816;</text>
+  <rect x="48"  y="96"  width="48" height="48" class="cd" rx="4"/><text x="72" y="123" class="ps">&#9819;</text>
+  <rect x="96"  y="96"  width="48" height="48" class="hl" rx="4"/><text x="120" y="123" class="ps" font-size="28">&#9814;</text>
+  <rect x="144" y="96"  width="48" height="48" class="cl" rx="4"/><text x="168" y="123" class="ps">&#9819;</text>
+  <rect x="192" y="96"  width="48" height="48" class="cd" rx="4"/><text x="216" y="123" class="pw">&#9816;</text>
+  <!-- Row 3: C A A A C -->
+  <rect x="0"   y="144" width="48" height="48" class="cd" rx="4"/><text x="24" y="171" class="pw">&#9818;</text>
+  <rect x="48"  y="144" width="48" height="48" class="cl" rx="4"/><text x="72" y="171" class="ps">&#9819;</text>
+  <rect x="96"  y="144" width="48" height="48" class="cd" rx="4"/><text x="120" y="171" class="ps">&#9819;</text>
+  <rect x="144" y="144" width="48" height="48" class="cl" rx="4"/><text x="168" y="171" class="ps">&#9819;</text>
+  <rect x="192" y="144" width="48" height="48" class="cd" rx="4"/><text x="216" y="171" class="pw">&#9818;</text>
+  <!-- Row 4: D C B C D -->
+  <rect x="0"   y="192" width="48" height="48" class="cl" rx="4"/><text x="24" y="219" class="pb">&#9823;</text>
+  <rect x="48"  y="192" width="48" height="48" class="cd" rx="4"/><text x="72" y="219" class="pw">&#9818;</text>
+  <rect x="96"  y="192" width="48" height="48" class="cl" rx="4"/><text x="120" y="219" class="pw">&#9816;</text>
+  <rect x="144" y="192" width="48" height="48" class="cd" rx="4"/><text x="168" y="219" class="pw">&#9818;</text>
+  <rect x="192" y="192" width="48" height="48" class="cl" rx="4"/><text x="216" y="219" class="pb">&#9823;</text>
 
-    <!-- Row 1: C A A A C -->
-    <rect x="0"   y="50"  width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="25" y="82" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
-    <rect x="50"  y="50"  width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="75" y="82" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
-    <rect x="100" y="50"  width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="125" y="82" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
-    <rect x="150" y="50"  width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="175" y="82" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
-    <rect x="200" y="50"  width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="225" y="82" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
+  <!-- S center: green dashed highlight -->
+  <rect x="99" y="99" width="42" height="42" class="so" rx="2"/>
+  <!-- A ring: gold dashed highlights -->
+  <rect x="51" y="51" width="42" height="42" class="ho" rx="2"/>
+  <rect x="99" y="51" width="42" height="42" class="ho" rx="2"/>
+  <rect x="147" y="51" width="42" height="42" class="ho" rx="2"/>
+  <rect x="51" y="99" width="42" height="42" class="ho" rx="2"/>
+  <rect x="147" y="99" width="42" height="42" class="ho" rx="2"/>
+  <rect x="51" y="147" width="42" height="42" class="ho" rx="2"/>
+  <rect x="99" y="147" width="42" height="42" class="ho" rx="2"/>
+  <rect x="147" y="147" width="42" height="42" class="ho" rx="2"/>
+  <!-- D corners: red dashed highlights -->
+  <rect x="3" y="3" width="42" height="42" class="do" rx="2"/>
+  <rect x="195" y="3" width="42" height="42" class="do" rx="2"/>
+  <rect x="3" y="195" width="42" height="42" class="do" rx="2"/>
+  <rect x="195" y="195" width="42" height="42" class="do" rx="2"/>
+</g>
 
-    <!-- Row 2: B A S A B -->
-    <rect x="0"   y="100" width="50" height="50" fill="#1a1a2e" stroke="#a0a0c0" stroke-width="1.5" rx="4"/><text x="25" y="132" text-anchor="middle" fill="#a0a0c0" font-size="20">B</text>
-    <rect x="50"  y="100" width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="75" y="132" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
-    <rect x="100" y="100" width="50" height="50" fill="#1b3a1b" stroke="#4caf50" stroke-width="3" rx="4"><animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/></rect><text x="125" y="132" text-anchor="middle" fill="#4caf50" font-size="22" font-weight="bold">S</text>
-    <rect x="150" y="100" width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="175" y="132" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
-    <rect x="200" y="100" width="50" height="50" fill="#1a1a2e" stroke="#a0a0c0" stroke-width="1.5" rx="4"/><text x="225" y="132" text-anchor="middle" fill="#a0a0c0" font-size="20">B</text>
+<!-- Column labels -->
+<text x="84"  y="50" class="lg">a</text>
+<text x="132" y="50" class="lg">b</text>
+<text x="180" y="50" class="lg">c</text>
+<text x="228" y="50" class="lg">d</text>
+<text x="276" y="50" class="lg">e</text>
 
-    <!-- Row 3: C A A A C -->
-    <rect x="0"   y="150" width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="25" y="182" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
-    <rect x="50"  y="150" width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="75" y="182" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
-    <rect x="100" y="150" width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="125" y="182" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
-    <rect x="150" y="150" width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="175" y="182" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
-    <rect x="200" y="150" width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="225" y="182" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
+<!-- Row labels -->
+<text x="54"  y="80" class="lg">5</text>
+<text x="54"  y="128" class="lg">4</text>
+<text x="54"  y="176" class="lg">3</text>
+<text x="54"  y="224" class="lg">2</text>
+<text x="54"  y="272" class="lg">1</text>
 
-    <!-- Row 4: D C B C D -->
-    <rect x="0"   y="200" width="50" height="50" fill="#2a1a1a" stroke="#ef5350" stroke-width="2.5" rx="4"/><text x="25" y="232" text-anchor="middle" fill="#ef5350" font-size="20" font-weight="bold">D</text>
-    <rect x="50"  y="200" width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="75" y="232" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
-    <rect x="100" y="200" width="50" height="50" fill="#1a1a2e" stroke="#a0a0c0" stroke-width="1.5" rx="4"/><text x="125" y="232" text-anchor="middle" fill="#a0a0c0" font-size="20">B</text>
-    <rect x="150" y="200" width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="175" y="232" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
-    <rect x="200" y="200" width="50" height="50" fill="#2a1a1a" stroke="#ef5350" stroke-width="2.5" rx="4"/><text x="225" y="232" text-anchor="middle" fill="#ef5350" font-size="20" font-weight="bold">D</text>
-  </g>
+<!-- Legend -->
+<g transform="translate(50,310)">
+  <rect x="0" y="0" width="14" height="14" fill="#142E1A" stroke="#4CAF50" stroke-width="1.5" rx="2"/>
+  <text x="20" y="12" fill="#81C784" font-size="10" font-weight="bold">S ♔ Center (safe from Crumble)</text>
 
-  <!-- Legend -->
-  <g transform="translate(45,300)">
-    <rect x="0" y="0" width="16" height="16" fill="#1b3a1b" stroke="#4caf50" stroke-width="2" rx="3"/><text x="22" y="13" fill="#4caf50" font-size="11" font-weight="bold">S Supreme</text>
-    <rect x="95" y="0" width="16" height="16" fill="#0f3460" stroke="#5c6bc0" stroke-width="1.5" rx="3"/><text x="117" y="13" fill="#9fa8da" font-size="11">A Anchor</text>
-    <rect x="180" y="0" width="16" height="16" fill="#1a1a2e" stroke="#a0a0c0" stroke-width="1" rx="3"/><text x="202" y="13" fill="#a0a0c0" font-size="11">B Bridge</text>
-  </g>
+  <rect x="0" y="20" width="14" height="14" fill="none" stroke="#F0A030" stroke-width="1.5" rx="2"/>
+  <text x="20" y="32" fill="#F0A030" font-size="10">A ♕ Mid-ring (collapses last)</text>
+
+  <rect x="220" y="0" width="14" height="14" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="2"/>
+  <text x="240" y="12" fill="#C08870" font-size="10">B ♗ Bridge</text>
+
+  <rect x="220" y="20" width="14" height="14" fill="#2A1420" stroke="#D44030" stroke-width="1.5" rx="2"/>
+  <text x="240" y="32" fill="#D44030" font-size="10">D-C ♙/♘ Edges (1st to collapse)</text>
+</g>
 </svg>
