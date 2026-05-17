@@ -809,13 +809,25 @@ ul { list-style: none; padding: 0; }
 .synergy-table td:first-child { color: var(--cream); font-weight: 600; }
 
 /* ─── Edge-to-Edge Tables & Centered Images in Section Cards ─── */
-/* Whether synergy-table IS h2+ card or standalone: remove left/right padding so the table stretches edge-to-edge */
+/* ALL synergy-tables get a gold card frame — whether h2+* or standalone */
 .main-content .synergy-table {
+  border: 2px solid var(--gold);
+  background: var(--dark-2);
+  border-radius: var(--radius);
+  overflow: hidden;
   padding-left: 0;
   padding-right: 0;
+  margin-bottom: 2rem;
 }
 
-/* Inner table fills the card */
+/* When synergy-table IS h2+*: share top border with h2, pull up to overlap */
+.main-content h2 + .synergy-table {
+  border-top: none;
+  border-radius: 0 0 var(--radius) var(--radius);
+  margin-top: -1.5rem;
+}
+
+/* Table inside fills the card */
 .main-content .synergy-table table {
   width: 100%;
   border-radius: 0;
