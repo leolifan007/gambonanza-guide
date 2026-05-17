@@ -808,6 +808,34 @@ ul { list-style: none; padding: 0; }
 .synergy-table tr:last-child td { border-bottom: none; }
 .synergy-table td:first-child { color: var(--cream); font-weight: 600; }
 
+/* ─── Edge-to-Edge Tables & Centered Images in Section Cards ─── */
+/* Make table wrappers/synergy-tables stretch to the full card width (break out of 1.5rem padding) */
+.main-content h2 + * > table,
+.main-content h2 + * .synergy-table {
+  width: calc(100% + 3rem);
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+  border-radius: 0;
+}
+
+/* Ensure inner table within synergy-table also stretches */
+.main-content h2 + * .synergy-table table {
+  width: 100%;
+  border-radius: 0;
+}
+
+/* Center images inside cards */
+.main-content h2 + * img {
+  margin: 1rem auto !important;
+  display: block;
+}
+
+/* Center figure/figcaption content */
+.main-content h2 + * figure {
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
 /* ─── Gambit Cards (S-Tier showcase) ─── */
 .gambit-card {
   border: 2px solid rgba(245,230,211,0.1);

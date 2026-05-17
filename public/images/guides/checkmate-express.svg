@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 160" font-family="'Segoe UI',Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <marker id="arr" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e6a817"/>
+    </marker>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="780" height="160" rx="12" fill="url(#bg)"/>
+
+  <!-- Step 1: Early Check -->
+  <g transform="translate(20,20)">
+    <rect width="175" height="120" rx="10" fill="#0f3460" stroke="#42a5f5" stroke-width="2"/>
+    <rect width="175" height="34" rx="10" fill="#1565c0"/>
+    <rect x="0" y="18" width="175" height="16" fill="#1565c0"/>
+    <text x="88" y="24" text-anchor="middle" fill="#fff" font-size="13" font-weight="bold">SETUP</text>
+    <text x="88" y="65" text-anchor="middle" fill="#64b5f6" font-size="24">⚡</text>
+    <text x="88" y="88" text-anchor="middle" fill="#f5f5f5" font-size="13">Early Check</text>
+    <text x="88" y="108" text-anchor="middle" fill="#90caf9" font-size="10">King in check</text>
+  </g>
+
+  <!-- Arrow -->
+  <line x1="200" y1="80" x2="225" y2="80" stroke="#e6a817" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- Step 2: Teleport Queen -->
+  <g transform="translate(230,20)">
+    <rect width="175" height="120" rx="10" fill="#1b0f00" stroke="#f57c00" stroke-width="2"/>
+    <rect width="175" height="34" rx="10" fill="#e65100"/>
+    <rect x="0" y="18" width="175" height="16" fill="#e65100"/>
+    <text x="88" y="24" text-anchor="middle" fill="#fff" font-size="13" font-weight="bold">EXECUTE</text>
+    <text x="88" y="65" text-anchor="middle" fill="#ffb74d" font-size="24">♛⚡</text>
+    <text x="88" y="88" text-anchor="middle" fill="#f5f5f5" font-size="13">Teleport Queen</text>
+    <text x="88" y="108" text-anchor="middle" fill="#ffe0b2" font-size="10">→ Opponent back rank</text>
+  </g>
+
+  <!-- Arrow -->
+  <line x1="410" y1="80" x2="435" y2="80" stroke="#e6a817" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- Step 3: Double Move -->
+  <g transform="translate(440,20)">
+    <rect width="175" height="120" rx="10" fill="#1b0f00" stroke="#f57c00" stroke-width="2"/>
+    <rect width="175" height="34" rx="10" fill="#e65100"/>
+    <rect x="0" y="18" width="175" height="16" fill="#e65100"/>
+    <text x="88" y="24" text-anchor="middle" fill="#fff" font-size="13" font-weight="bold">AMPLIFY</text>
+    <text x="88" y="65" text-anchor="middle" fill="#ffb74d" font-size="24">⟐⚡</text>
+    <text x="88" y="88" text-anchor="middle" fill="#f5f5f5" font-size="13">Double Move</text>
+    <text x="88" y="108" text-anchor="middle" fill="#ffe0b2" font-size="10">2 actions in 1 turn</text>
+  </g>
+
+  <!-- Arrow -->
+  <line x1="620" y1="80" x2="645" y2="80" stroke="#e6a817" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- Step 4: Checkmate -->
+  <g transform="translate(650,20)">
+    <rect width="115" height="120" rx="10" fill="#0d2a0d" stroke="#4caf50" stroke-width="3" filter="url(#glow)"/>
+    <rect width="115" height="34" rx="10" fill="#2e7d32"/>
+    <rect x="0" y="18" width="115" height="16" fill="#2e7d32"/>
+    <text x="58" y="24" text-anchor="middle" fill="#fff" font-size="13" font-weight="bold">WIN</text>
+    <text x="58" y="65" text-anchor="middle" fill="#4caf50" font-size="28" filter="url(#glow)">♛✕</text>
+    <text x="58" y="92" text-anchor="middle" fill="#4caf50" font-size="16" font-weight="bold">MATE</text>
+    <text x="58" y="110" text-anchor="middle" fill="#81c784" font-size="10">~90%</text>
+  </g>
+</svg>
