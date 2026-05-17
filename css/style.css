@@ -809,17 +809,16 @@ ul { list-style: none; padding: 0; }
 .synergy-table td:first-child { color: var(--cream); font-weight: 600; }
 
 /* ─── Edge-to-Edge Tables & Centered Images in Section Cards ─── */
-/* Make table wrappers/synergy-tables stretch to the full card width (break out of 1.5rem padding) */
-.main-content h2 + * > table,
-.main-content h2 + * .synergy-table {
-  width: calc(100% + 3rem);
-  margin-left: -1.5rem;
-  margin-right: -1.5rem;
-  border-radius: 0;
+/* synergy-table IS the h2+ card wrapper — remove left/right padding so inner table stretches edge-to-edge */
+.main-content h2 + .synergy-table,
+.main-content h2 + [style*="overflow-x"] {
+  padding-left: 0;
+  padding-right: 0;
 }
 
-/* Ensure inner table within synergy-table also stretches */
-.main-content h2 + * .synergy-table table {
+/* Inner table stays 100% of its (now padding-free) container */
+.main-content h2 + .synergy-table table,
+.main-content h2 + [style*="overflow-x"] table {
   width: 100%;
   border-radius: 0;
 }
