@@ -28,7 +28,7 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 
 ## Tile Value Map (5×5)
 
-<img src="/images/guides/tile-value-5x5.svg" alt="5×5 Tile Value Map: piece-based tier guide" class="schema-diagram" loading="lazy" style="width:100%;max-width:440px;height:auto">
+<img src="/images/guides/tile-value-5x5.svg" alt="5×5 Tile Value Map: piece-based tier guide" class="schema-diagram" loading="lazy" style="width:100%;max-width:640px;height:auto">
 
 | Tier | Value | Crumble Safety | Best Piece |
 |------|-------|---------------|------------|

@@ -1,133 +1,133 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 280" width="100%" height="auto" style="max-width:760px;display:block;margin:0 auto" font-family="'Segoe UI','Inter',sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="100%" height="auto" style="max-width:760px;display:block;margin:0 auto" font-family="'Segoe UI','Inter',sans-serif">
   <defs>
     <filter id="s"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.5"/></filter>
     <filter id="g"><feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.6"/></filter>
+    <style>
+      .bg{fill:#120812}.cl{fill:#2A1420}.cd{fill:#1C0A14}.hl{fill:#142E1A}
+      .pw{font:28px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#F0E0CC}
+      .pb{font:28px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#D44030}
+      .ps{font:28px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#F0C040}
+      .l{font:15px Tahoma,sans-serif;fill:#E0D0C0}
+      .ls{font:11.5px Tahoma,sans-serif;fill:#B08070}
+      .tl{font:13px Tahoma,sans-serif;fill:#C09050;font-weight:700}
+    </style>
   </defs>
-  <rect width="760" height="280" rx="10" fill="#120812" filter="url(#g)"/>
+  <rect class="bg" width="760" height="340" rx="10" filter="url(#g)"/>
+
   <!-- Wave 1: Turns 3-4 (Corners) -->
   <g transform="translate(20,15)">
-    <text x="0" y="14" fill="#C09050" font-size="12" font-weight="bold">Wave 1 (Turn 3-4)</text>
+    <text x="0" y="14" class="tl" font-size="12">Wave 1 (Turn 3-4)</text>
     <g transform="translate(0,22)">
-      <!-- Row 0 -->
-      <rect x="0" y="0" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="22" y="28" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">D</text>
-      <rect x="44" y="0" width="44" height="44" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="3"/><text x="66" y="28" text-anchor="middle" fill="#C08870" font-size="16">C</text>
-      <rect x="88" y="0" width="44" height="44" fill="#2A1420" stroke="#C08870" stroke-width="1" rx="3"/><text x="110" y="28" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <rect x="132" y="0" width="44" height="44" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="3"/><text x="154" y="28" text-anchor="middle" fill="#C08870" font-size="16">C</text>
-      <rect x="176" y="0" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="198" y="28" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">D</text>
-      <!-- Row 1 -->
-      <rect x="0" y="44" width="44" height="44" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="3"/><text x="22" y="72" text-anchor="middle" fill="#C08870" font-size="16">C</text>
-      <rect x="44" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="66" y="72" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="88" y="44" width="44" height="44" fill="#1C0A14" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="110" y="72" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="132" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="154" y="72" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="176" y="44" width="44" height="44" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="3"/><text x="198" y="72" text-anchor="middle" fill="#C08870" font-size="16">C</text>
-      <!-- Row 2 -->
-      <rect x="0" y="88" width="44" height="44" fill="#2A1420" stroke="#C08870" stroke-width="1" rx="3"/><text x="22" y="116" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <rect x="44" y="88" width="44" height="44" fill="#1C0A14" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="66" y="116" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="88" y="88" width="44" height="44" fill="#142E1A" stroke="#4CAF50" stroke-width="2.5" rx="3" filter="url(#s)"/><text x="110" y="116" text-anchor="middle" fill="#81C784" font-size="16" font-weight="bold" filter="url(#s)">S</text>
-      <rect x="132" y="88" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="154" y="116" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="176" y="88" width="44" height="44" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="3"/><text x="198" y="116" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <!-- Row 3 -->
-      <rect x="0" y="132" width="44" height="44" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="3"/><text x="22" y="160" text-anchor="middle" fill="#C08870" font-size="16">C</text>
-      <rect x="44" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="66" y="160" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="88" y="132" width="44" height="44" fill="#1C0A14" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="110" y="160" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="132" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="154" y="160" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="176" y="132" width="44" height="44" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="3"/><text x="198" y="160" text-anchor="middle" fill="#C08870" font-size="16">C</text>
-      <!-- Row 4 -->
-      <rect x="0" y="176" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="22" y="204" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">D</text>
-      <rect x="44" y="176" width="44" height="44" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="3"/><text x="66" y="204" text-anchor="middle" fill="#C08870" font-size="16">C</text>
-      <rect x="88" y="176" width="44" height="44" fill="#2A1420" stroke="#C08870" stroke-width="1" rx="3"/><text x="110" y="204" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <rect x="132" y="176" width="44" height="44" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="3"/><text x="154" y="204" text-anchor="middle" fill="#C08870" font-size="16">C</text>
-      <rect x="176" y="176" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="198" y="204" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">D</text>
+      <rect x="0" y="0" width="44" height="44" class="cl" rx="3"/><text x="22" y="27" class="pb" font-size="24" font-weight="bold">D</text>
+      <rect x="44" y="0" width="44" height="44" class="cd" rx="3"/><text x="66" y="27" class="pw" font-size="24">C</text>
+      <rect x="88" y="0" width="44" height="44" class="cl" rx="3"/><text x="110" y="27" class="pw" font-size="24">B</text>
+      <rect x="132" y="0" width="44" height="44" class="cd" rx="3"/><text x="154" y="27" class="pw" font-size="24">C</text>
+      <rect x="176" y="0" width="44" height="44" class="cl" rx="3"/><text x="198" y="27" class="pb" font-size="24" font-weight="bold">D</text>
+      <rect x="0" y="44" width="44" height="44" class="cd" rx="3"/><text x="22" y="71" class="pw" font-size="24">C</text>
+      <rect x="44" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="66" y="71" class="ps" font-size="24">A</text>
+      <rect x="88" y="44" width="44" height="44" class="cd" rx="3"/><text x="110" y="71" class="ps" font-size="24">A</text>
+      <rect x="132" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="154" y="71" class="ps" font-size="24">A</text>
+      <rect x="176" y="44" width="44" height="44" class="cd" rx="3"/><text x="198" y="71" class="pw" font-size="24">C</text>
+      <rect x="0" y="88" width="44" height="44" class="cl" rx="3"/><text x="22" y="115" class="pw" font-size="24">B</text>
+      <rect x="44" y="88" width="44" height="44" class="cd" rx="3"/><text x="66" y="115" class="ps" font-size="24">A</text>
+      <rect x="88" y="88" width="44" height="44" class="hl" rx="3"/><text x="110" y="115" class="ps" font-size="24" font-weight="bold">S</text>
+      <rect x="132" y="88" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="154" y="115" class="ps" font-size="24">A</text>
+      <rect x="176" y="88" width="44" height="44" class="cd" rx="3"/><text x="198" y="115" class="pw" font-size="24">B</text>
+      <rect x="0" y="132" width="44" height="44" class="cd" rx="3"/><text x="22" y="159" class="pw" font-size="24">C</text>
+      <rect x="44" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="66" y="159" class="ps" font-size="24">A</text>
+      <rect x="88" y="132" width="44" height="44" class="cd" rx="3"/><text x="110" y="159" class="ps" font-size="24">A</text>
+      <rect x="132" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="154" y="159" class="ps" font-size="24">A</text>
+      <rect x="176" y="132" width="44" height="44" class="cd" rx="3"/><text x="198" y="159" class="pw" font-size="24">C</text>
+      <rect x="0" y="176" width="44" height="44" class="cl" rx="3"/><text x="22" y="203" class="pb" font-size="24" font-weight="bold">D</text>
+      <rect x="44" y="176" width="44" height="44" class="cd" rx="3"/><text x="66" y="203" class="pw" font-size="24">C</text>
+      <rect x="88" y="176" width="44" height="44" class="cl" rx="3"/><text x="110" y="203" class="pw" font-size="24">B</text>
+      <rect x="132" y="176" width="44" height="44" class="cd" rx="3"/><text x="154" y="203" class="pw" font-size="24">C</text>
+      <rect x="176" y="176" width="44" height="44" class="cl" rx="3"/><text x="198" y="203" class="pb" font-size="24" font-weight="bold">D</text>
     </g>
   </g>
-  <!-- Arrow -->
+
+  <!-- Arrow 1→2 -->
   <g transform="translate(240,110)">
     <line x1="0" y1="30" x2="50" y2="30" stroke="#C09050" stroke-width="3"/>
     <polygon points="50,22 65,30 50,38" fill="#C09050"/>
   </g>
+
   <!-- Wave 2: Turns 5-6 (Edges) -->
   <g transform="translate(310,15)">
-    <text x="0" y="14" fill="#C09050" font-size="12" font-weight="bold">Wave 2 (Turn 5-6)</text>
+    <text x="0" y="14" class="tl" font-size="12">Wave 2 (Turn 5-6)</text>
     <g transform="translate(0,22)">
-      <!-- Row 0 -->
-      <rect x="0" y="0" width="44" height="44" fill="#120812" stroke="#666" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="28" text-anchor="middle" fill="#666" font-size="14">?</text>
-      <rect x="44" y="0" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="66" y="28" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">C</text>
-      <rect x="88" y="0" width="44" height="44" fill="#2A1420" stroke="#C08870" stroke-width="1" rx="3"/><text x="110" y="28" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <rect x="132" y="0" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="154" y="28" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">C</text>
-      <rect x="176" y="0" width="44" height="44" fill="#120812" stroke="#666" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="28" text-anchor="middle" fill="#666" font-size="14">?</text>
-      <!-- Row 1 -->
-      <rect x="0" y="44" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="22" y="72" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">C</text>
-      <rect x="44" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="66" y="72" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="88" y="44" width="44" height="44" fill="#1C0A14" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="110" y="72" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="132" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="154" y="72" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="176" y="44" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="198" y="72" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">C</text>
-      <!-- Row 2 -->
-      <rect x="0" y="88" width="44" height="44" fill="#2A1420" stroke="#C08870" stroke-width="1" rx="3"/><text x="22" y="116" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <rect x="44" y="88" width="44" height="44" fill="#1C0A14" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="66" y="116" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="88" y="88" width="44" height="44" fill="#142E1A" stroke="#4CAF50" stroke-width="2.5" rx="3" filter="url(#s)"/><text x="110" y="116" text-anchor="middle" fill="#81C784" font-size="16" font-weight="bold" filter="url(#s)">S</text>
-      <rect x="132" y="88" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="154" y="116" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="176" y="88" width="44" height="44" fill="#120812" stroke="#C08870" stroke-width="1" rx="3"/><text x="198" y="116" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <!-- Row 3 -->
-      <rect x="0" y="132" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="22" y="160" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">C</text>
-      <rect x="44" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="66" y="160" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="88" y="132" width="44" height="44" fill="#1C0A14" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="110" y="160" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="132" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="154" y="160" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="176" y="132" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="198" y="160" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">C</text>
-      <!-- Row 4 -->
-      <rect x="0" y="176" width="44" height="44" fill="#120812" stroke="#666" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="204" text-anchor="middle" fill="#666" font-size="14">?</text>
-      <rect x="44" y="176" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="66" y="204" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">C</text>
-      <rect x="88" y="176" width="44" height="44" fill="#2A1420" stroke="#C08870" stroke-width="1" rx="3"/><text x="110" y="204" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <rect x="132" y="176" width="44" height="44" fill="#2A1420" stroke="#D44030" stroke-width="2" rx="3"/><text x="154" y="204" text-anchor="middle" fill="#D44030" font-size="16" font-weight="bold" filter="url(#s)">C</text>
-      <rect x="176" y="176" width="44" height="44" fill="#120812" stroke="#666" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="204" text-anchor="middle" fill="#666" font-size="14">?</text>
+      <rect x="0" y="0" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="27" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="44" y="0" width="44" height="44" class="cl" rx="3"/><text x="66" y="27" class="pb" font-size="24" font-weight="bold">C</text>
+      <rect x="88" y="0" width="44" height="44" class="cl" rx="3"/><text x="110" y="27" class="pw" font-size="24">B</text>
+      <rect x="132" y="0" width="44" height="44" class="cl" rx="3"/><text x="154" y="27" class="pb" font-size="24" font-weight="bold">C</text>
+      <rect x="176" y="0" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="27" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="0" y="44" width="44" height="44" class="cl" rx="3"/><text x="22" y="71" class="pb" font-size="24" font-weight="bold">C</text>
+      <rect x="44" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="66" y="71" class="ps" font-size="24">A</text>
+      <rect x="88" y="44" width="44" height="44" class="cd" rx="3"/><text x="110" y="71" class="ps" font-size="24">A</text>
+      <rect x="132" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="154" y="71" class="ps" font-size="24">A</text>
+      <rect x="176" y="44" width="44" height="44" class="cl" rx="3"/><text x="198" y="71" class="pb" font-size="24" font-weight="bold">C</text>
+      <rect x="0" y="88" width="44" height="44" class="cl" rx="3"/><text x="22" y="115" class="pw" font-size="24">B</text>
+      <rect x="44" y="88" width="44" height="44" class="cd" rx="3"/><text x="66" y="115" class="ps" font-size="24">A</text>
+      <rect x="88" y="88" width="44" height="44" class="hl" rx="3"/><text x="110" y="115" class="ps" font-size="24" font-weight="bold">S</text>
+      <rect x="132" y="88" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="154" y="115" class="ps" font-size="24">A</text>
+      <rect x="176" y="88" width="44" height="44" fill="#120812" stroke="#C08870" stroke-width="1" rx="3"/><text x="198" y="115" class="pw" font-size="24">B</text>
+      <rect x="0" y="132" width="44" height="44" class="cl" rx="3"/><text x="22" y="159" class="pb" font-size="24" font-weight="bold">C</text>
+      <rect x="44" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="66" y="159" class="ps" font-size="24">A</text>
+      <rect x="88" y="132" width="44" height="44" class="cd" rx="3"/><text x="110" y="159" class="ps" font-size="24">A</text>
+      <rect x="132" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="154" y="159" class="ps" font-size="24">A</text>
+      <rect x="176" y="132" width="44" height="44" class="cl" rx="3"/><text x="198" y="159" class="pb" font-size="24" font-weight="bold">C</text>
+      <rect x="0" y="176" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="203" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="44" y="176" width="44" height="44" class="cl" rx="3"/><text x="66" y="203" class="pb" font-size="24" font-weight="bold">C</text>
+      <rect x="88" y="176" width="44" height="44" class="cl" rx="3"/><text x="110" y="203" class="pw" font-size="24">B</text>
+      <rect x="132" y="176" width="44" height="44" class="cl" rx="3"/><text x="154" y="203" class="pb" font-size="24" font-weight="bold">C</text>
+      <rect x="176" y="176" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="203" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
     </g>
   </g>
-  <!-- Arrow -->
+
+  <!-- Arrow 2→3 -->
   <g transform="translate(530,110)">
     <line x1="0" y1="30" x2="50" y2="30" stroke="#C09050" stroke-width="3"/>
     <polygon points="50,22 65,30 50,38" fill="#C09050"/>
   </g>
+
   <!-- Wave 3: Turns 7-8 (Center only) -->
   <g transform="translate(600,15)">
-    <text x="0" y="14" fill="#C09050" font-size="12" font-weight="bold">Wave 3 (Turn 7-8)</text>
+    <text x="0" y="14" class="tl" font-size="12">Wave 3 (Turn 7-8)</text>
     <g transform="translate(0,22)">
-      <!-- Row 0 -->
-      <rect x="0" y="0" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="28" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <rect x="44" y="0" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="66" y="28" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <rect x="88" y="0" width="44" height="44" fill="#2A1420" stroke="#C08870" stroke-width="1" rx="3"/><text x="110" y="28" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <rect x="132" y="0" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="154" y="28" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <rect x="176" y="0" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="28" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <!-- Row 1 -->
-      <rect x="0" y="44" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="72" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <rect x="44" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="66" y="72" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="88" y="44" width="44" height="44" fill="#1C0A14" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="110" y="72" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="132" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="154" y="72" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="176" y="44" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="72" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <!-- Row 2 -->
-      <rect x="0" y="88" width="44" height="44" fill="#2A1420" stroke="#C08870" stroke-width="1" rx="3"/><text x="22" y="116" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <rect x="44" y="88" width="44" height="44" fill="#1C0A14" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="66" y="116" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="88" y="88" width="44" height="44" fill="#142E1A" stroke="#4CAF50" stroke-width="2.5" rx="3" filter="url(#s)"/><text x="110" y="116" text-anchor="middle" fill="#81C784" font-size="16" font-weight="bold" filter="url(#s)">S</text>
-      <rect x="132" y="88" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="154" y="116" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="176" y="88" width="44" height="44" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="3"/><text x="198" y="116" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <!-- Row 3 -->
-      <rect x="0" y="132" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="160" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <rect x="44" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="66" y="160" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="88" y="132" width="44" height="44" fill="#1C0A14" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="110" y="160" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="132" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5" rx="3"/><text x="154" y="160" text-anchor="middle" fill="#D4A84A" font-size="16" filter="url(#s)">A</text>
-      <rect x="176" y="132" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="160" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <!-- Row 4 -->
-      <rect x="0" y="176" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="204" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <rect x="44" y="176" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="66" y="204" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <rect x="88" y="176" width="44" height="44" fill="#2A1420" stroke="#C08870" stroke-width="1" rx="3"/><text x="110" y="204" text-anchor="middle" fill="#C08870" font-size="16">B</text>
-      <rect x="132" y="176" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="154" y="204" text-anchor="middle" fill="#555" font-size="14">?</text>
-      <rect x="176" y="176" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="204" text-anchor="middle" fill="#555" font-size="14">?</text>
+      <rect x="0" y="0" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="27" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="44" y="0" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="66" y="27" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="88" y="0" width="44" height="44" class="cl" rx="3"/><text x="110" y="27" class="pw" font-size="24">B</text>
+      <rect x="132" y="0" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="154" y="27" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="176" y="0" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="27" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="0" y="44" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="71" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="44" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="66" y="71" class="ps" font-size="24">A</text>
+      <rect x="88" y="44" width="44" height="44" class="cd" rx="3"/><text x="110" y="71" class="ps" font-size="24">A</text>
+      <rect x="132" y="44" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="154" y="71" class="ps" font-size="24">A</text>
+      <rect x="176" y="44" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="71" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="0" y="88" width="44" height="44" class="cl" rx="3"/><text x="22" y="115" class="pw" font-size="24">B</text>
+      <rect x="44" y="88" width="44" height="44" class="cd" rx="3"/><text x="66" y="115" class="ps" font-size="24">A</text>
+      <rect x="88" y="88" width="44" height="44" class="hl" rx="3"/><text x="110" y="115" class="ps" font-size="24" font-weight="bold">S</text>
+      <rect x="132" y="88" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="154" y="115" class="ps" font-size="24">A</text>
+      <rect x="176" y="88" width="44" height="44" class="cd" rx="3"/><text x="198" y="115" class="pw" font-size="24">B</text>
+      <rect x="0" y="132" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="159" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="44" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="66" y="159" class="ps" font-size="24">A</text>
+      <rect x="88" y="132" width="44" height="44" class="cd" rx="3"/><text x="110" y="159" class="ps" font-size="24">A</text>
+      <rect x="132" y="132" width="44" height="44" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="3"/><text x="154" y="159" class="ps" font-size="24">A</text>
+      <rect x="176" y="132" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="159" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="0" y="176" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="22" y="203" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="44" y="176" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="66" y="203" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="88" y="176" width="44" height="44" class="cl" rx="3"/><text x="110" y="203" class="pw" font-size="24">B</text>
+      <rect x="132" y="176" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="154" y="203" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
+      <rect x="176" y="176" width="44" height="44" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="3"/><text x="198" y="203" fill="#555" font-size="22" text-anchor="middle" dominant-baseline="central">?</text>
     </g>
   </g>
+
   <!-- Legend -->
-  <g transform="translate(20,255)">
-    <rect x="0" y="0" width="14" height="14" fill="#142E1A" stroke="#4CAF50" stroke-width="1.5" rx="2"/><text x="20" y="12" fill="#81C784" font-size="11">S = Supreme</text>
-    <rect x="110" y="0" width="14" height="14" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="2"/><text x="130" y="12" fill="#D4A84A" font-size="11">A = Anchor</text>
-    <rect x="220" y="0" width="14" height="14" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="2"/><text x="240" y="12" fill="#C08870" font-size="11">B = Bridge</text>
-    <rect x="320" y="0" width="14" height="14" fill="#2A1420" stroke="#D44030" stroke-width="1.5" rx="2"/><text x="340" y="12" fill="#D44030" font-size="11">C/D = Collapsing</text>
-    <rect x="460" y="0" width="14" height="14" fill="#120812" stroke="#666" stroke-width="1" stroke-dasharray="3,3" rx="2"/><text x="480" y="12" fill="#666" font-size="11">? = Gone</text>
+  <g transform="translate(20,305)">
+    <rect x="0" y="0" width="14" height="14" fill="#142E1A" stroke="#4CAF50" stroke-width="1.5" rx="2"/><text x="20" y="12" fill="#81C784" font-size="11" font-weight="bold">S = Supreme</text>
+    <rect x="120" y="0" width="14" height="14" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1" rx="2"/><text x="140" y="12" fill="#D4A84A" font-size="11">A = Anchor</text>
+    <rect x="240" y="0" width="14" height="14" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="2"/><text x="260" y="12" fill="#C08870" font-size="11">B = Bridge</text>
+    <rect x="360" y="0" width="14" height="14" fill="#2A1420" stroke="#D44030" stroke-width="1.5" rx="2"/><text x="380" y="12" fill="#D44030" font-size="11">C/D = Collapsing</text>
+    <rect x="510" y="0" width="14" height="14" fill="#120812" stroke="#555" stroke-width="1" stroke-dasharray="3,3" rx="2"/><text x="530" y="12" fill="#555" font-size="11">? = Gone</text>
   </g>
 </svg>
