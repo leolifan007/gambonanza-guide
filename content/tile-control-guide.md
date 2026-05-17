@@ -12,7 +12,7 @@ lastUpdated: '2026-05-17'
 version: 'v1.2.0'
 ---
 
-## Tile Control â€?TL;DR
+## Tile Control ï¿½?TL;DR
 
 <div class="callout callout-verdict">
 <strong>Center = wins. Edges = Crumble bait.</strong><br>
@@ -28,55 +28,55 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 
 ## Tile Value Map (5Ã—5)
 
-<img src="/images/guides/tile-value-5x5.svg" alt="5¡Á5 Tile Value Map: piece-based tier guide" class="schema-diagram" loading="lazy" width="440" height="380">
+<img src="/images/guides/tile-value-5x5.svg" alt="5Ã—5 Tile Value Map: piece-based tier guide" class="schema-diagram" loading="lazy" style="width:100%;max-width:440px;height:auto">
 
 | Tier | Value | Crumble Safety | Best Piece |
 |------|-------|---------------|------------|
-| **S** (center) | â˜…â˜…â˜?| Never collapses | Queen / Knight |
-| **A** (mid-ring) | â˜…â˜…â˜?| Collapses last | Rook / Bishop |
-| **B** (bridge) | â˜…â˜†â˜?| Collapses mid-game | Any |
-| **C** (corridor) | â˜†â˜†â˜?| Collapses early | Avoid |
-| **D** (edge) | â˜†â˜†â˜?| 1st to collapse | Avoid |
+| **S** (center) | â˜…â˜…ï¿½?| Never collapses | Queen / Knight |
+| **A** (mid-ring) | â˜…â˜…ï¿½?| Collapses last | Rook / Bishop |
+| **B** (bridge) | â˜…â˜†ï¿½?| Collapses mid-game | Any |
+| **C** (corridor) | â˜†â˜†ï¿½?| Collapses early | Avoid |
+| **D** (edge) | â˜†â˜†ï¿½?| 1st to collapse | Avoid |
 
 <hr class="section-divider">
 
-## Gambit Tiles â€?Quick Reference
+## Gambit Tiles ï¿½?Quick Reference
 
 | Tile | Effect | Priority |
 |------|--------|----------|
-| â™?Free Gambit | Free Gambit use (3-turn cooldown) | â˜…â˜…â˜?(always take) |
-| â˜?Stock Boost | +2-5 stock | â˜…â˜…â˜?(only if safe) |
-| â™?Heal Square | Restore 1 collapsed adjacent tile | â˜…â˜…â˜?(vs Crumble) |
-| âš?Power Square | Next move +1 range | â˜…â˜†â˜?(nice to have) |
-| âš?Trap Tile | Damages your piece | â˜†â˜†â˜?(avoid) |
+| ï¿½?Free Gambit | Free Gambit use (3-turn cooldown) | â˜…â˜…ï¿½?(always take) |
+| ï¿½?Stock Boost | +2-5 stock | â˜…â˜…ï¿½?(only if safe) |
+| ï¿½?Heal Square | Restore 1 collapsed adjacent tile | â˜…â˜…ï¿½?(vs Crumble) |
+| ï¿½?Power Square | Next move +1 range | â˜…â˜†ï¿½?(nice to have) |
+| ï¿½?Trap Tile | Damages your piece | â˜†â˜†ï¿½?(avoid) |
 
 > **Rule:** Free Gambit tiles are the most valuable on the board. Plan routes to revisit them after cooldown.
 
 <hr class="section-divider">
 
-## 2 Strategies â€?Pick One
+## 2 Strategies ï¿½?Pick One
 
-### âš?Center Lock (Recommended)
+### ï¿½?Center Lock (Recommended)
 
-<img src="/images/guides/center-lock-strategy.svg" alt="Center Lock Strategy: Knight center â†?Bishop/Rook reinforce â†?Fortress Gambit" style="width:100%;max-width:440px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/center-lock-strategy.svg" alt="Center Lock Strategy: Knight center ï¿½?Bishop/Rook reinforce ï¿½?Fortress Gambit" style="width:100%;max-width:440px;border-radius:8px;" loading="lazy">
 
-| âœ?Pros | â?Cons |
+| ï¿½?Pros | ï¿½?Cons |
 |---------|----------|
 | Safe from Crumble | Vulnerable to early aggression |
 | Max mobility | Can be flanked |
 
 ---
 
-### âš?Edge Gambit (Advanced)
+### ï¿½?Edge Gambit (Advanced)
 
-Deploy to edge Gambit tiles â†?farm stock â†?Earthquake/Board Shrink to collapse center â†?sweep in.
+Deploy to edge Gambit tiles ï¿½?farm stock ï¿½?Earthquake/Board Shrink to collapse center ï¿½?sweep in.
 
-| âœ?Pros | â?Cons |
+| ï¿½?Pros | ï¿½?Cons |
 |---------|----------|
 | Economy advantage | Very risky |
 | Turns Crumble into weapon | Needs specific Gambits |
 
-> **Best vs Jester:** Jester accelerates Crumble anyway â€?Edge Gambit works perfectly.
+> **Best vs Jester:** Jester accelerates Crumble anyway ï¿½?Edge Gambit works perfectly.
 
 <hr class="section-divider">
 
@@ -84,22 +84,22 @@ Deploy to edge Gambit tiles â†?farm stock â†?Earthquake/Board Shrink to collapse
 
 | Piece | Best Tile | Control Style |
 |-------|------------|----------------|
-| â™?Queen | S (center) | Dominates all 8 directions |
-| â™?Rook | A (mid-ring, file) | Locks down entire files |
-| â™?Bishop | A (mid-ring, diagonal) | Controls diagonals |
-| â™?Knight | S/A (center area) | Forks from center |
-| â™?Pawn | C/D (corridor/edge) | Only useful for promotion |
+| ï¿½?Queen | S (center) | Dominates all 8 directions |
+| ï¿½?Rook | A (mid-ring, file) | Locks down entire files |
+| ï¿½?Bishop | A (mid-ring, diagonal) | Controls diagonals |
+| ï¿½?Knight | S/A (center area) | Forks from center |
+| ï¿½?Pawn | C/D (corridor/edge) | Only useful for promotion |
 
 <hr class="section-divider">
 
 ## 5-Rule Checklist (Use Every Turn)
 
 ```
-â–?Am I moving toward higher-value tiles?  (S > A > B > C > D)
-â–?Will this tile still exist in 3 turns?  (check Crumble timeline)
-â–?Am I activating a Gambit tile?         (prioritize Free Gambit)
-â–?Does this expand or abandon territory?   (never give up S/A tiles)
-â–?Can opponent take this tile next turn?    (have a counter ready)
+ï¿½?Am I moving toward higher-value tiles?  (S > A > B > C > D)
+ï¿½?Will this tile still exist in 3 turns?  (check Crumble timeline)
+ï¿½?Am I activating a Gambit tile?         (prioritize Free Gambit)
+ï¿½?Does this expand or abandon territory?   (never give up S/A tiles)
+ï¿½?Can opponent take this tile next turn?    (have a counter ready)
 ```
 
 <hr class="section-divider">
