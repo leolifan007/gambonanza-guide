@@ -11,9 +11,10 @@
     .l{font:15px Tahoma,sans-serif;fill:#E0D0C0}
     .ls{font:11.5px Tahoma,sans-serif;fill:#B08070}
     .tl{font:13px Tahoma,sans-serif;fill:#C09050;font-weight:700}
+    /* All highlights: golden dashed #F0A030 */
     .ho{fill:none;stroke:#F0A030;stroke-width:2.5;stroke-dasharray:5,3}
-    .do{fill:none;stroke:#D44030;stroke-width:2;stroke-dasharray:4,3}
-    .so{fill:none;stroke:#4CAF50;stroke-width:2.5;stroke-dasharray:5,3}
+    .ho-thick{fill:none;stroke:#F0A030;stroke-width:3.5;stroke-dasharray:5,3}
+    .ho-thin{fill:none;stroke:#F0A030;stroke-width:1.5;stroke-dasharray:4,3}
   </style>
 </defs>
 <rect class="bg" width="640" height="510" rx="8" filter="url(#g)"/>
@@ -53,22 +54,22 @@
   <rect x="144" y="192" width="48" height="48" class="cd" rx="4"/><text x="168" y="217" class="pw">♚</text>
   <rect x="192" y="192" width="48" height="48" class="cl" rx="4"/><text x="216" y="217" class="pb">♟</text>
 
-  <!-- S center: green dashed highlight -->
-  <rect x="99" y="99" width="42" height="42" class="so" rx="2"/>
-  <!-- A ring: gold dashed highlights -->
-  <rect x="51" y="51" width="42" height="42" class="ho" rx="2"/>
-  <rect x="99" y="51" width="42" height="42" class="ho" rx="2"/>
-  <rect x="147" y="51" width="42" height="42" class="ho" rx="2"/>
-  <rect x="51" y="99" width="42" height="42" class="ho" rx="2"/>
-  <rect x="147" y="99" width="42" height="42" class="ho" rx="2"/>
-  <rect x="51" y="147" width="42" height="42" class="ho" rx="2"/>
-  <rect x="99" y="147" width="42" height="42" class="ho" rx="2"/>
-  <rect x="147" y="147" width="42" height="42" class="ho" rx="2"/>
-  <!-- D corners: red dashed highlights -->
-  <rect x="3" y="3" width="42" height="42" class="do" rx="2"/>
-  <rect x="195" y="3" width="42" height="42" class="do" rx="2"/>
-  <rect x="3" y="195" width="42" height="42" class="do" rx="2"/>
-  <rect x="195" y="195" width="42" height="42" class="do" rx="2"/>
+  <!-- S center: golden thick highlight -->
+  <rect x="96" y="96" width="48" height="48" class="ho-thick" rx="2"/>
+  <!-- A ring: golden standard highlights -->
+  <rect x="48" y="48" width="48" height="48" class="ho" rx="2"/>
+  <rect x="96" y="48" width="48" height="48" class="ho" rx="2"/>
+  <rect x="144" y="48" width="48" height="48" class="ho" rx="2"/>
+  <rect x="48" y="96" width="48" height="48" class="ho" rx="2"/>
+  <rect x="144" y="96" width="48" height="48" class="ho" rx="2"/>
+  <rect x="48" y="144" width="48" height="48" class="ho" rx="2"/>
+  <rect x="96" y="144" width="48" height="48" class="ho" rx="2"/>
+  <rect x="144" y="144" width="48" height="48" class="ho" rx="2"/>
+  <!-- D corners: golden thin highlights -->
+  <rect x="0" y="0" width="48" height="48" class="ho-thin" rx="2"/>
+  <rect x="192" y="0" width="48" height="48" class="ho-thin" rx="2"/>
+  <rect x="0" y="192" width="48" height="48" class="ho-thin" rx="2"/>
+  <rect x="192" y="192" width="48" height="48" class="ho-thin" rx="2"/>
 </g>
 <!-- Column labels (reference style) -->
 <text x="44"  y="88" class="sl">a</text>
@@ -83,19 +84,19 @@
 <text x="16"  y="266" class="sl">2</text>
 <text x="16"  y="314" class="sl">1</text>
 
-<!-- Legend - now fits within 640px viewBox -->
+<!-- Legend - fits within 640px viewBox -->
 <g transform="translate(20,370)">
-  <rect x="0" y="0" width="14" height="14" fill="#142E1A" stroke="#4CAF50" stroke-width="1.5" rx="2"/>
+  <rect x="0" y="0" width="14" height="14" fill="#142E1A" stroke="#F0A030" stroke-width="2" rx="2"/>
   <text x="20" y="12" fill="#81C784" font-size="11" font-weight="bold">S → Center (safe from Crumble)</text>
 
   <rect x="0" y="22" width="14" height="14" fill="none" stroke="#F0A030" stroke-width="1.5" rx="2"/>
   <text x="20" y="34" fill="#F0A030" font-size="11">A → Mid-ring (collapses last)</text>
 
-  <rect x="310" y="0" width="14" height="14" fill="#1C0A14" stroke="#C08870" stroke-width="1" rx="2"/>
+  <rect x="310" y="0" width="14" height="14" fill="#1C0A14" stroke="#F0A030" stroke-width="1" rx="2"/>
   <text x="330" y="12" fill="#C08870" font-size="11">B → Bridge (collapses mid-game)</text>
 
-  <rect x="310" y="22" width="14" height="14" fill="#2A1420" stroke="#D44030" stroke-width="1.5" rx="2"/>
-  <text x="330" y="34" fill="#D44030" font-size="11">C/D → Edges &amp; Corners (1st to collapse)</text>
+  <rect x="310" y="22" width="14" height="14" fill="#2A1420" stroke="#F0A030" stroke-width="1.5" rx="2"/>
+  <text x="330" y="34" fill="#F0A030" font-size="11">C/D → Edges &amp; Corners (1st to collapse)</text>
 </g>
 
 <text x="320" y="450" class="l" text-anchor="middle">Center tiles survive longest → control the middle = control the game</text>
