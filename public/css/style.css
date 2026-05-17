@@ -986,13 +986,20 @@ ul { list-style: none; padding: 0; }
 .synergy-table tr:last-child td { border-bottom: none; }
 .synergy-table td:first-child { color: var(--cream); font-weight: 600; }
 
+/* ─── Universal table styles ─── */
+/* ALL tables in main-content fill their container */
+.main-content table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
 /* ─── Edge-to-Edge Tables & Centered Images in Section Cards ─── */
 /* ALL synergy-tables get a gold card frame — whether h2+* or standalone */
 .main-content .synergy-table {
   border: 2px solid var(--gold);
   background: var(--dark-2);
   border-radius: var(--radius);
-  overflow: hidden;
+  overflow-x: auto;
   padding-left: 0;
   padding-right: 0;
   margin-bottom: 2rem;
@@ -1005,10 +1012,9 @@ ul { list-style: none; padding: 0; }
   margin-top: -1.5rem;
 }
 
-/* Table inside fills the card */
+/* Table inside fills the card (fallback if generic rule missed) */
 .main-content .synergy-table table {
   width: 100%;
-  border-radius: 0;
 }
 
 /* Center images inside cards */
