@@ -1,6 +1,6 @@
 ---
 title: "Tile Control Guide"
-description: "Which tiles matter, center vs edge, Gambit tile map, and a 5-rule checklist. Own the board, win the game."
+description: "Tile value map visualization, center vs edge strategy, and a 5-rule checklist. Own the board, win the game."
 see_also:
   - title: 'Crumble Mechanic Guide'
     url: '/crumble-mechanic-guide/'
@@ -9,7 +9,7 @@ see_also:
   - title: 'Queen Supremacy Guide'
     url: '/queen-supremacy-guide/'
 lastUpdated: '2026-05-17'
-version: 'v1.1.0'
+version: 'v1.2.0'
 ---
 
 ## Tile Control — TL;DR
@@ -26,36 +26,17 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 
 <hr class="section-divider">
 
-## Tile Value Maps
+## Tile Value Map (5×5)
 
-### 5×5 Board
-
-```
-D  C  B  C  D        D = Danger (collapses 1st)
-C  A  A  A  C        C = Corridor (connects to center)
-B  A  S  A  B        A = Anchor (stable, mid-ring)
-C  A  A  A  C        S = Supreme (center, never collapses)
-D  C  B  C  D
-```
-
-### 6×6 Board
-
-```
-D  C  C  C  C  D
-C  B  B  B  B  C
-C  B  A  A  B  C
-C  B  A  A  B  C
-C  B  B  B  B  C
-D  C  C  C  C  D
-```
+<img src="/images/guides/tile-value-5x5.svg" alt="5×5 Tile Value Map: S Supreme center, A Anchor mid-ring, B Bridge, C Corridor, D Danger edges" style="width:100%;max-width:340px;border-radius:8px;" loading="lazy">
 
 | Tier | Value | Crumble Safety | Best Piece |
 |------|-------|---------------|------------|
-| S (center) | ★★★ | Never | Queen / Knight |
-| A (mid-ring) | ★★☆ | Last | Rook / Bishop |
-| B (bridge) | ★☆☆ | Mid | Any |
-| C (corridor) | ☆☆☆ | Early | Avoid |
-| D (edge) | ☆☆☆ | 1st to collapse | Avoid |
+| **S** (center) | ★★★ | Never collapses | Queen / Knight |
+| **A** (mid-ring) | ★★☆ | Collapses last | Rook / Bishop |
+| **B** (bridge) | ★☆☆ | Collapses mid-game | Any |
+| **C** (corridor) | ☆☆☆ | Collapses early | Avoid |
+| **D** (edge) | ☆☆☆ | 1st to collapse | Avoid |
 
 <hr class="section-divider">
 
@@ -77,12 +58,7 @@ D  C  C  C  C  D
 
 ### ⚔ Center Lock (Recommended)
 
-```
-Turn 1: Knight → center
-Turn 2: Bishop/Rook → reinforce center
-Turn 3: Fortress Gambit on center piece
-→ Hold center, win from there
-```
+<img src="/images/guides/center-lock-strategy.svg" alt="Center Lock Strategy: Knight center → Bishop/Rook reinforce → Fortress Gambit" style="width:100%;max-width:440px;border-radius:8px;" loading="lazy">
 
 | ✅ Pros | ❌ Cons |
 |---------|----------|
@@ -93,11 +69,7 @@ Turn 3: Fortress Gambit on center piece
 
 ### ⚡ Edge Gambit (Advanced)
 
-```
-Deploy to edge Gambit tiles → farm stock
-→ Earthquake/Board Shrink to collapse center
-→ Sweep in when board shrinks
-```
+Deploy to edge Gambit tiles → farm stock → Earthquake/Board Shrink to collapse center → sweep in.
 
 | ✅ Pros | ❌ Cons |
 |---------|----------|
@@ -146,4 +118,4 @@ Deploy to edge Gambit tiles → farm stock
 
 ---
 
-*Last updated: May 17, 2026 | Version: v1.1.0*
+*Last updated: May 17, 2026 | Version: v1.2.0*

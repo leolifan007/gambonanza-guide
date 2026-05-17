@@ -9,7 +9,7 @@ see_also:
   - title: 'Queen Supremacy Guide'
     url: '/queen-supremacy-guide/'
 lastUpdated: '2026-05-17'
-version: 'v1.1.0'
+version: 'v1.2.0'
 ---
 
 ## Queen Supremacy — TL;DR
@@ -42,12 +42,7 @@ Pair her with 1 Gambit. Win.
 
 ### ① Teleport + Queen <span class="meta-badge meta-s">S</span>
 
-```
-Turn 1: Deploy Queen in back rank (safe)
-Turn 2: Teleport Queen to opponent's back rank → instant check
-Turn 3: Opponent flees → Queen controls 2+ escape squares
-Turn 4: Checkmate
-```
+<img src="/images/guides/queen-teleport-combo.svg" alt="Queen Teleport Combo: Deploy → Teleport → Flee → Checkmate in 4 turns" style="width:100%;max-width:800px;border-radius:8px;" loading="lazy">
 
 **Stock cost:** High | **Win rate:** ~90% if un-countered
 
@@ -55,11 +50,10 @@ Turn 4: Checkmate
 
 ### ② Double Move + Queen <span class="meta-badge meta-s">S</span>
 
-```
-Move 1: Position Queen to threaten 2 pieces
-Move 2: Capture the higher-value piece
-→ Insurmountable material advantage by turn 5
-```
+| Move | Action | Result |
+|------|--------|--------|
+| 1 | Position Queen to threaten 2 pieces | Opponent must respond |
+| 2 | Capture the higher-value piece | Insurmountable advantage by turn 5 |
 
 **Stock cost:** High | **Best on:** 4×4 (ends game in 3 turns)
 
@@ -67,11 +61,7 @@ Move 2: Capture the higher-value piece
 
 ### ③ Heal Board + Queen <span class="meta-badge meta-a">A</span>
 
-```
-Crumble destroys a tile → Queen loses a diagonal
-→ Play Heal Board → Queen's diagonal restored
-→ Repeat whenever Crumble hits your lane
-```
+Crumble destroys a tile → Queen loses a diagonal → **Heal Board restores it** → repeat.
 
 **Stock cost:** Medium | **Mandatory vs:** Jester, Grand Master
 
@@ -130,4 +120,4 @@ Crumble destroys a tile → Queen loses a diagonal
 
 ---
 
-*Last updated: May 17, 2026 | Version: v1.1.0*
+*Last updated: May 17, 2026 | Version: v1.2.0*

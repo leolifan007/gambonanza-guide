@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 340" font-family="'Segoe UI',Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="340" height="340" rx="12" fill="url(#bg)"/>
+  <text x="170" y="24" text-anchor="middle" fill="#e6a817" font-size="14" font-weight="bold">5×5 Tile Value Map</text>
+
+  <!-- 5x5 grid -->
+  <g transform="translate(45,35)">
+    <!-- Row 0: D C B C D -->
+    <rect x="0"   y="0"   width="50" height="50" fill="#2a1a1a" stroke="#ef5350" stroke-width="2.5" rx="4"/><text x="25" y="32" text-anchor="middle" fill="#ef5350" font-size="20" font-weight="bold">D</text>
+    <rect x="50"  y="0"   width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="75" y="32" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
+    <rect x="100" y="0"   width="50" height="50" fill="#1a1a2e" stroke="#a0a0c0" stroke-width="1.5" rx="4"/><text x="125" y="32" text-anchor="middle" fill="#a0a0c0" font-size="20">B</text>
+    <rect x="150" y="0"   width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="175" y="32" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
+    <rect x="200" y="0"   width="50" height="50" fill="#2a1a1a" stroke="#ef5350" stroke-width="2.5" rx="4"/><text x="225" y="32" text-anchor="middle" fill="#ef5350" font-size="20" font-weight="bold">D</text>
+
+    <!-- Row 1: C A A A C -->
+    <rect x="0"   y="50"  width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="25" y="82" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
+    <rect x="50"  y="50"  width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="75" y="82" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
+    <rect x="100" y="50"  width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="125" y="82" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
+    <rect x="150" y="50"  width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="175" y="82" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
+    <rect x="200" y="50"  width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="225" y="82" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
+
+    <!-- Row 2: B A S A B -->
+    <rect x="0"   y="100" width="50" height="50" fill="#1a1a2e" stroke="#a0a0c0" stroke-width="1.5" rx="4"/><text x="25" y="132" text-anchor="middle" fill="#a0a0c0" font-size="20">B</text>
+    <rect x="50"  y="100" width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="75" y="132" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
+    <rect x="100" y="100" width="50" height="50" fill="#1b3a1b" stroke="#4caf50" stroke-width="3" rx="4"><animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/></rect><text x="125" y="132" text-anchor="middle" fill="#4caf50" font-size="22" font-weight="bold">S</text>
+    <rect x="150" y="100" width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="175" y="132" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
+    <rect x="200" y="100" width="50" height="50" fill="#1a1a2e" stroke="#a0a0c0" stroke-width="1.5" rx="4"/><text x="225" y="132" text-anchor="middle" fill="#a0a0c0" font-size="20">B</text>
+
+    <!-- Row 3: C A A A C -->
+    <rect x="0"   y="150" width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="25" y="182" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
+    <rect x="50"  y="150" width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="75" y="182" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
+    <rect x="100" y="150" width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="125" y="182" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
+    <rect x="150" y="150" width="50" height="50" fill="#0f3460" stroke="#5c6bc0" stroke-width="2" rx="4"/><text x="175" y="182" text-anchor="middle" fill="#9fa8da" font-size="20">A</text>
+    <rect x="200" y="150" width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="225" y="182" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
+
+    <!-- Row 4: D C B C D -->
+    <rect x="0"   y="200" width="50" height="50" fill="#2a1a1a" stroke="#ef5350" stroke-width="2.5" rx="4"/><text x="25" y="232" text-anchor="middle" fill="#ef5350" font-size="20" font-weight="bold">D</text>
+    <rect x="50"  y="200" width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="75" y="232" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
+    <rect x="100" y="200" width="50" height="50" fill="#1a1a2e" stroke="#a0a0c0" stroke-width="1.5" rx="4"/><text x="125" y="232" text-anchor="middle" fill="#a0a0c0" font-size="20">B</text>
+    <rect x="150" y="200" width="50" height="50" fill="#1a1a2e" stroke="#7986cb" stroke-width="1.5" rx="4"/><text x="175" y="232" text-anchor="middle" fill="#7986cb" font-size="20">C</text>
+    <rect x="200" y="200" width="50" height="50" fill="#2a1a1a" stroke="#ef5350" stroke-width="2.5" rx="4"/><text x="225" y="232" text-anchor="middle" fill="#ef5350" font-size="20" font-weight="bold">D</text>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(45,300)">
+    <rect x="0" y="0" width="16" height="16" fill="#1b3a1b" stroke="#4caf50" stroke-width="2" rx="3"/><text x="22" y="13" fill="#4caf50" font-size="11" font-weight="bold">S Supreme</text>
+    <rect x="95" y="0" width="16" height="16" fill="#0f3460" stroke="#5c6bc0" stroke-width="1.5" rx="3"/><text x="117" y="13" fill="#9fa8da" font-size="11">A Anchor</text>
+    <rect x="180" y="0" width="16" height="16" fill="#1a1a2e" stroke="#a0a0c0" stroke-width="1" rx="3"/><text x="202" y="13" fill="#a0a0c0" font-size="11">B Bridge</text>
+  </g>
+</svg>

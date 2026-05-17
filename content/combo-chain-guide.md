@@ -1,6 +1,6 @@
 ---
 title: "Combo Chain Guide"
-description: "Stop playing 1 Gambit per turn. 5 chain combos, 4 chain types, and a timing cheat-sheet that doubles your value per turn."
+description: "Stop playing 1 Gambit per turn. Checkmate Express flowchart, Farm Loop diagram, and 4 chain types. Double your value per turn."
 see_also:
   - title: 'All Gambits Guide'
     url: '/gambits/'
@@ -9,7 +9,7 @@ see_also:
   - title: 'Queen Supremacy Guide'
     url: '/queen-supremacy-guide/'
 lastUpdated: '2026-05-17'
-version: 'v1.1.0'
+version: 'v1.2.0'
 ---
 
 ## Combo Chains — TL;DR
@@ -37,70 +37,39 @@ Chain them. Win.
 
 <hr class="section-divider">
 
-## The 5 Best Chains (Use These)
+## The 5 Best Chains
 
 ### ① Checkmate Express <span class="meta-badge meta-s">S</span>
 
-```
-Early Check → Teleport Queen to back rank → Double Move → checkmate
-```
-| | |
-|---|---|
-| **Cost** | High (3 Gambits) |
-| **Best for** | Late game, exposed King |
-| **Win rate** | ~90% |
+<img src="/images/guides/checkmate-express.svg" alt="Checkmate Express: Early Check → Teleport Queen → Double Move → Checkmate" style="width:100%;max-width:780px;border-radius:8px;" loading="lazy">
+
+**Cost:** High (3 Gambits) | **Best for:** Late game, exposed King | **Win rate:** ~90%
 
 ---
 
 ### ② Farm Loop <span class="meta-badge meta-s">S</span>
 
-```
-Heal collapsed Gambit tile → move piece onto it → trigger Free Gambit → repeat
-```
-| | |
-|---|---|
-| **Cost** | Medium (only Heal Board) |
-| **Best for** | Economy farming on 5×5+ |
-| **Stock per loop** | +8-12 |
+<img src="/images/guides/heal-board-loop.svg" alt="Farm Loop: Collapse → Heal → Restore + Gambit → Trigger → Repeat" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
+
+**Cost:** Medium (only Heal Board) | **Best for:** Economy farming on 5×5+ | **Stock per loop:** +8-12
 
 ---
 
 ### ③ Denial Cascade <span class="meta-badge meta-a">A</span>
 
-```
-Freeze opponent's key piece → Board Shrink around it → attack freely
-```
-| | |
-|---|---|
-| **Cost** | Medium |
-| **Best for** | Opponent has 1 dominant piece |
-| **Result** | Opponent loses 2 turns |
+Freeze key piece → Board Shrink around it → attack freely. **Result:** Opponent loses 2 turns.
 
 ---
 
 ### ④ Fork Factory <span class="meta-badge meta-a">A</span>
 
-```
-Knight Boost → Teleport Knight to fork → Double Move → capture 2
-```
-| | |
-|---|---|
-| **Cost** | High |
-| **Best for** | 2+ high-value pieces in range |
-| **Result** | +2 material in 1 turn |
+Knight Boost → Teleport Knight to fork → Double Move → capture 2. **Result:** +2 material in 1 turn.
 
 ---
 
 ### ⑤ Crumble Trap <span class="meta-badge meta-b">B</span>
 
-```
-Lure piece to edge → Earthquake (collapse tile) → attack isolated piece
-```
-| | |
-|---|---|
-| **Cost** | Low-Medium |
-| **Best for** | Opponent piece on crumbling edge |
-| **Result** | Free capture |
+Lure piece to edge → Earthquake → attack isolated piece. **Result:** Free capture.
 
 <hr class="section-divider">
 
@@ -120,15 +89,11 @@ Lure piece to edge → Earthquake (collapse tile) → attack isolated piece
 
 ## Deck Building for Chains
 
-Your deck needs 3 types:
-
 | Type | Count | Examples |
 |------|-------|---------|
 | Setup Gambits | 2-3 | Early Check, Freeze, Knight Boost |
 | Execute Gambits | 2-3 | Teleport, Double Move, Earthquake |
 | Utility | 1-2 | Heal Board, Fortress, Swap |
-
-### Stock Cost Guide
 
 | Chain Length | Total Cost | Affordable On... |
 |--------------|------------|-----------------|
@@ -150,4 +115,4 @@ Your deck needs 3 types:
 
 ---
 
-*Last updated: May 17, 2026 | Version: v1.1.0*
+*Last updated: May 17, 2026 | Version: v1.2.0*

@@ -1,6 +1,6 @@
 ---
 title: "Crumble Mechanic Guide"
-description: "Crumble destroys tiles predictably. 2 collapse wave tables, Heal Board loop, and the 3-positioning rules that turn Crumble into your weapon."
+description: "Crumble destroys tiles predictably. Board shrink visualization, Heal Board loop diagram, and 3 positioning rules."
 see_also:
   - title: 'Beginner Guide'
     url: '/beginner/'
@@ -9,7 +9,7 @@ see_also:
   - title: 'All Gambits Guide'
     url: '/gambits/'
 lastUpdated: '2026-05-17'
-version: 'v1.1.0'
+version: 'v1.2.0'
 ---
 
 ## Crumble — TL;DR
@@ -26,25 +26,9 @@ Edges collapse first. Center survives to the end. Control the center and Crumble
 
 <hr class="section-divider">
 
-## Collapse Wave Tables
+## How the Board Shrinks (5×5)
 
-### 5×5 Board
-
-| Wave | Turns | Tiles That Collapse |
-|------|--------|---------------------|
-| 1 | 3-4 | Corners |
-| 2 | 5-6 | Edge tiles next to corners |
-| 3 | 7-8 | Remaining edge tiles |
-| 4 | 9+ | Inner ring (rare — game ends first) |
-
-### 6×6 Board
-
-| Wave | Turns | Tiles That Collapse |
-|------|--------|---------------------|
-| 1 | 5-7 | Corners + far edges |
-| 2 | 8-10 | Edge tiles |
-| 3 | 11-13 | Inner-edge tiles |
-| 4 | 14+ | Inner tiles (very rare) |
+<img src="/images/guides/crumble-5x5-wave.svg" alt="5×5 Crumble Wave Visualization: corners → edges → center over 3 waves" style="width:100%;max-width:760px;border-radius:8px;" loading="lazy">
 
 > **Rule:** Center 4 tiles (5×5) or center 9 tiles (6×6) collapse last. Anchor there.
 
@@ -52,33 +36,11 @@ Edges collapse first. Center survives to the end. Control the center and Crumble
 
 ## Your 3 Golden Rules
 
-### ① Center Gravity
-Move pieces toward center. Every piece within 1 square of center is Crumble-safe for the entire game on 5×5.
-
-✅ DO | ❌ DON'T
------|------
-Centralize early | Anchor to edges
-Fight for center | Spread thin across board
-
----
-
-### ② Don't Anchor to Edges
-Edge pieces are Crumble bait. Either retreat before collapse or have a backup plan.
-
-✅ DO | ❌ DON'T
------|------
-Move Rook inward before collapse | Park Rook on edge file permanently
-Have backup plan | Assume edge piece will survive
-
----
-
-### ③ Use Crumble as a Weapon
-Crumble hits your opponent too.
-
-✅ DO | ❌ DON'T
------|------
-Lure opponent to edge → collapse = trapped | Only worry about your own position
-Control center, let edges disappear | Panic when tiles collapse
+| Rule | ✅ DO | ❌ DON'T |
+|------|-------|----------|
+| **① Center Gravity** | Centralize early, fight for center | Anchor to edges, spread thin |
+| **② Don't Anchor Edges** | Move Rook inward before collapse | Park Rook on edge permanently |
+| **③ Use Crumble as Weapon** | Lure opponent to edge → collapse = trapped | Only worry about your own position |
 
 <hr class="section-divider">
 
@@ -93,10 +55,7 @@ Control center, let edges disappear | Panic when tiles collapse
 
 ### The Heal Board Loop
 
-```
-Tile collapses → play Heal Board → tile restored WITH Gambit property
-→ move piece onto it → trigger Gambit → repeat next turn
-```
+<img src="/images/guides/heal-board-loop.svg" alt="Heal Board Loop: Collapse → Heal → Restore + Gambit → Trigger → Repeat (+8-12 stock)" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
 
 > **Pro tip:** Heal Board restores tiles **with their Gambit properties**. Collapsed Free Gambit tile? Heal it = Free Gambit tile back. Farm it again.
 
@@ -113,4 +72,4 @@ Tile collapses → play Heal Board → tile restored WITH Gambit property
 
 ---
 
-*Last updated: May 17, 2026 | Version: v1.1.0*
+*Last updated: May 17, 2026 | Version: v1.2.0*

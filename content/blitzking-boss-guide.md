@@ -1,6 +1,6 @@
 ---
 title: "Blitzking Boss Guide"
-description: "Blitzking gets 2 actions per turn. Use the Wasted-Turn Flowchart to beat him. 3-phase strategy + Gambit counter table."
+description: "Blitzking gets 2 actions per turn. Use the Wasted-Turn strategy to beat him. 3-phase flowchart + Gambit counter table."
 see_also:
   - title: 'Boss Battle Guide'
     url: '/bosses/'
@@ -9,7 +9,7 @@ see_also:
   - title: 'Decision Framework'
     url: '/decision-framework-guide/'
 lastUpdated: '2026-05-17'
-version: 'v1.1.0'
+version: 'v1.2.0'
 ---
 
 ## Blitzking — TL;DR
@@ -54,40 +54,11 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 
 ## 3-Phase Strategy Flowchart
 
-```
-Phase 1: Setup (Turns 1-3)
-  Deploy Knight to center
-    ↓
-  Develop 2nd piece (Bishop or Rook)
-    ↓
-  Play Freeze or Early Check if you have it
-    ↓
-  Goal: Force Blitzking to waste ≥1 action on defense
-
-Phase 2: Pressure (Turns 4-6)
-  Knight fork (threaten 2 pieces)
-    ↓
-  Blitzking must respond to both → wastes both actions
-    ↓
-  Deploy Queen if available
-    ↓
-  Goal: Build insurmountable material advantage
-
-Phase 3: Close (Turn 7+)
-  Check the King every turn
-    ↓
-  Each check = 1 guaranteed wasted Blitzking action
-    ↓
-  Two checks per turn = Blitzking plays 100% defense
-    ↓
-  Checkmate
-```
+<img src="/images/guides/blitzking-3phase.svg" alt="Blitzking 3-Phase Strategy: Setup → Pressure → Close" style="width:100%;max-width:680px;border-radius:8px;" loading="lazy">
 
 <hr class="section-divider">
 
 ## The Wasted-Turn Table
-
-Every forced defense neutralizes Blitzking's advantage:
 
 | Your Move | Blitzking's Response | Net Result |
 |----------|---------------------|------------|
@@ -124,4 +95,4 @@ Every forced defense neutralizes Blitzking's advantage:
 
 ---
 
-*Last updated: May 17, 2026 | Version: v1.1.0*
+*Last updated: May 17, 2026 | Version: v1.2.0*
