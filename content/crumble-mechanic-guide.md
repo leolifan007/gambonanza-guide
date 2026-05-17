@@ -28,7 +28,7 @@ Edges collapse first. Center survives to the end. Control the center and Crumble
 
 ## How the Board Shrinks (5×5)
 
-<img src="/images/guides/crumble-5x5-wave.svg" alt="5×5 Crumble Wave Visualization: corners → edges → center over 3 waves" style="width:100%;max-width:760px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/crumble-5x5-wave.svg" alt="5×5 Crumble Wave Visualization: corners → edges → center over 3 waves" style="width:100%;max-width:800px;border-radius:8px;" loading="lazy">
 
 > **Rule:** Center 4 tiles (5×5) or center 9 tiles (6×6) collapse last. Anchor there.
 
