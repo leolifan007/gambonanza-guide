@@ -140,10 +140,11 @@ Always verify `public/css/style.css` has changes before deploying.
 - [ ] **Screenshots for content pages** — 6 Steam screenshots downloaded but never embedded into .md files. Needs WebP conversion (quality 80, max 250KB each).
 - [ ] **sitemap.xml submission** to Google Search Console (user chose to delay)
 - [ ] **Gambonanza站内容页面完整度确认**: gambits/bosses/economy/cards/strategy all exist but need visual polish
+- [x] **sitemap.xml 与 public/sitemap.xml 同步** (2026-05-18): 源码 sitemap.xml 补充了6篇缺失页面（blitzking-boss-guide, combo-chain-guide, crumble-mechanic-guide, queen-supremacy-guide, tile-control-guide, endgame-killer-tips）
 
 ### Pending (staggered release)
-- [ ] Day 5 (May 16 15:31): Add **Endgame Killer Tips** to homepage Latest Guides
-- [ ] Day 7 (May 18 09:17): Add **Rook & Bishop Guide** to homepage Latest Guides
+- [x] Day 5 (May 16 15:31): Add **Endgame Killer Tips** to homepage Latest Guides ✅
+- [x] Day 7 (May 18 09:17): Add **Rook & Bishop Guide** to homepage Latest Guides ✅
 
 ### Future
 - [ ] AdSense初审提交（域名购入后）
@@ -180,6 +181,7 @@ Always verify `public/css/style.css` has changes before deploying.
 2. gh-pages deploy: only `git push --force`, never `git push :gh-pages` (delete)
 3. After deploy, always verify site is serving 200 OK
 4. Version stamping: every page should have version + Last Updated date (current: v1.1.0)
+5. **【重要】Sitemap 同步规则**: 每次执行网站自动更新工作时（包括 Hugo 构建部署、发布新文章、修改页面），必须同步更新 `sitemap.xml`。流程：Hugo 构建完成后，将 `public/sitemap.xml` 的内容完整覆盖到项目根目录的 `sitemap.xml`，然后 git commit push。时间戳以当天更新开放外链的时间为准。
 
 ### 404 Recovery (if it happens again)
 Root cause: `git push origin :gh-pages` (delete) creates a gap. Fix:
