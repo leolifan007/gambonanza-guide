@@ -1426,10 +1426,10 @@ ul { list-style: none; padding: 0; }
   padding: 1px 8px;
   border-radius: var(--radius);
 }
-.latest-article-card h3 { margin-bottom: 6px; font-size: 1rem; }
+.latest-article-card h3 { margin-bottom: 6px; font-size: 0.875rem; }
 .latest-article-card h3 a { color: var(--cream); text-decoration: none; }
 .latest-article-card h3 a:hover { color: var(--gold); }
-.latest-article-card p { font-size: 0.55rem; color: var(--cream-dark); margin-bottom: 8px; line-height: 1.5; }
+.latest-article-card p { font-size: 0.6875rem; color: var(--cream-dark); margin-bottom: 8px; line-height: 1.5; }
 .article-link {
   font-family: var(--font-display);
   font-size: 0.55rem;
