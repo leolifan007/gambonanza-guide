@@ -6,8 +6,10 @@ see_also:
     url: '/gambits/'
   - title: 'Rook & Bishop Guide'
     url: '/rook-bishop-guide/'
-  - title: 'Queen Supremacy Guide'
-    url: '/queen-supremacy-guide/'
+  - title: 'Bosses Overview'
+    url: '/bosses/'
+  - title: 'Boss Strategy Guide'
+    url: '/boss-strategy-guide/'
 lastUpdated: '2026-05-17'
 version: 'v1.2.0'
 ---

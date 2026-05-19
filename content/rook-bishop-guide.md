@@ -4,6 +4,8 @@ description: 'Gambonanza Rook and Bishop guide for 2026. Rook suppression power,
 lastUpdated: '2026-05-14'
 version: 'v1.1.0'
 see_also:
+  - title: 'Bosses Overview'
+    url: '/bosses/'
   - title: 'Strategy Guide'
     url: '/strategy/'
   - title: 'Endgame Killer Tips'
@@ -12,6 +14,10 @@ see_also:
     url: '/gambits/'
   - title: 'King of Spades - Boss Breakdown'
     url: '/king-of-spades-guide/'
+  - title: 'Blitzking Boss Guide'
+    url: '/blitzking-boss-guide/'
+  - title: 'Queen Supremacy Guide'
+    url: '/queen-supremacy-guide/'
 ---
 
 ## The Backbone, Not The Sidekick

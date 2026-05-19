@@ -9,6 +9,8 @@ see_also:
     url: '/bosses/'
   - title: 'All 5 Bosses - Quick Reference'
     url: '/boss-strategy-guide/'
+  - title: 'Blitzking Boss Guide'
+    url: '/blitzking-boss-guide/'
 ---
 
 ## Why King of Spades?

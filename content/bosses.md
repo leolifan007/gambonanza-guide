@@ -2,10 +2,14 @@
 title: "Gambonanza Bosses — All 8 Bosses Ranked by Difficulty (2026)"
 description: "Every Gambonanza boss ranked from easiest to hardest. Quick-reference stats, phase mechanics, and which Gambits counter each boss. Updated for patch v1.1.0."
 see_also:
+  - title: 'Blitzking Boss Guide'
+    url: '/blitzking-boss-guide/'
   - title: 'All 5 Bosses - Quick Reference'
     url: '/boss-strategy-guide/'
   - title: 'King of Spades - Boss Breakdown'
     url: '/king-of-spades-guide/'
+  - title: 'Queen Supremacy Guide'
+    url: '/queen-supremacy-guide/'
   - title: 'Complete Walkthrough'
     url: '/complete-walkthrough/'
 ---
@@ -441,6 +445,14 @@ Uses ALL piece types, ALL abilities, and gets progressively harder with each HP 
 *Want boss-specific Gambit details? → [All Gambits Guide](/gambits/)*<br>
 *Need to rebuild your economy for the boss? → [Stock Market & Shop Guide](/economy/)*
 
+### 📚 Individual Boss Guides
+
+- **Blitzking Boss Breakdown** → [Full Guide](/blitzking-boss-guide/)
+- **King of Spades Guide** → [Full Guide](/king-of-spades-guide/)
+- **Queen Supremacy Guide** → [Full Guide](/queen-supremacy-guide/)
+- **Rook & Bishop Guide** → [Full Guide](/rook-bishop-guide/)
+- **All 5 Bosses Quick Reference** → [Strategy Guide](/boss-strategy-guide/)
+- **Complete Walkthrough** → [Full Run Guide](/complete-walkthrough/)
 
 ---
 

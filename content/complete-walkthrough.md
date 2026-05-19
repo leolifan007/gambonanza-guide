@@ -8,6 +8,8 @@ see_also:
     url: '/beginner/'
   - title: 'All 5 Bosses - Quick Reference'
     url: '/boss-strategy-guide/'
+  - title: 'Bosses Overview'
+    url: '/bosses/'
   - title: 'Endgame Killer Tips'
     url: '/endgame-killer-tips/'
   - title: 'Rook & Bishop Guide'
