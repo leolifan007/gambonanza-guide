@@ -1,6 +1,6 @@
 ---
-title: 'Endgame Killer Tips — Closing Out Games from 6×6+'
-description: 'Master the endgame in Gambonanza. Bishop deadlock solutions, King hunting timings, relic timing control, Pawn promotion traps, and a comeback checklist for when everything goes wrong.'
+title: 'Gambonanza Endgame Tips (2026) — Killer Strategies for Closing Out Games'
+description: 'Gambonanza endgame guide for 2026. Bishop deadlock solutions, King hunting timings, relic timing control, Pawn promotion traps, and a comeback checklist. Updated for patch v1.1.0.'
 lastUpdated: '2026-05-14'
 version: 'v1.1.0'
 see_also:

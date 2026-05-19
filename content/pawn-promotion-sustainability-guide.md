@@ -1,6 +1,6 @@
 ---
-title: "Pawn Promotion & Sustainability: Don't Break Your Build When Pawns Evolve"
-description: "Pawn promotion breaks relic synergies, changes your board dynamic, and can kill a run. Learn exactly when to promote, what to promote to, and how to keep your build intact."
+title: "Gambonanza Pawn Promotion Guide (2026) — Don't Break Your Build When Pawns Evolve"
+description: "Gambonanza Pawn promotion guide for 2026. When to promote, what to promote to, and how to keep your build intact when Pawns evolve. Avoid breaking relic synergies. Updated for patch v1.1.0."
 see_also:
   - title: 'All Gambits Guide'
     url: '/gambits/'

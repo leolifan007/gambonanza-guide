@@ -1,8 +1,8 @@
 ---
 
-title: "King of Spades Guide: Mechanics, Counters & Three Proven Builds"
+title: "Gambonanza King of Spades Guide (2026) — Mechanics, Counters & Three Proven Builds"
 
-description: "The community's second-hardest boss. Teleport mechanics explained, piece priority ranking, and three builds: solid control, speed push, and no-damage sniper."
+description: "Gambonanza King of Spades boss guide for 2026. Teleport mechanics explained, piece priority ranking, and three proven builds: solid control, speed push, and no-damage sniper. Updated for patch v1.1.0."
 
 see_also:
   - title: 'Boss Battle Guide'

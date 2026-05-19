@@ -1,6 +1,6 @@
 ﻿---
-title: "Card Database: Every Piece Card Rated & Explained"
-description: "Complete Gambonanza card reference. Meta Ratings for every card, synergy pairings, and which cards are trap picks you should never use."
+title: "Gambonanza Card Database (2026) — Every Piece Card Rated & Ranked"
+description: "Complete Gambonanza card database for 2026. Every piece card with S/A/B meta ratings, synergy pairings, combo chains, and which cards are trap picks. Updated for patch v1.1.0."
 ---
 
 ## Card Database — Rated, Ranked & Synergized

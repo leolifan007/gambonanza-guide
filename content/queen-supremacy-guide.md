@@ -1,6 +1,6 @@
 ---
 title: "Queen Supremacy Guide"
-description: "When to deploy the Queen, 3 best Gambit combos, and a 4-step flowchart that wins games. Stop wasting your strongest piece."
+description: "Gambonanza Queen supremacy guide for 2026. When to deploy the Queen, 3 best Gambit combos, and a 4-step flowchart that wins games. Updated for patch v1.1.0."
 see_also:
   - title: 'All Gambits Guide'
     url: '/gambits/'

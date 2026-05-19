@@ -1,6 +1,6 @@
 ---
 title: "Crumble Mechanic Guide"
-description: "Crumble destroys tiles predictably. Board shrink visualization, Heal Board loop diagram, and 3 positioning rules."
+description: "Gambonanza Crumble mechanic guide for 2026. Board shrink visualization, Heal Board loop diagram, and 3 positioning rules to survive tile destruction. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
     url: '/beginner/'

@@ -1,6 +1,6 @@
 ---
-title: 'Rook & Bishop Guide — Mastering the Support Pieces'
-description: 'Complete guide to Rook and Bishop in Gambonanza. The two most underrated pieces — Rook suppression power and Bishop control tactics. Includes Gambit combos and advanced formations.'
+title: 'Gambonanza Rook & Bishop Guide (2026) — Mastering the Support Pieces'
+description: 'Gambonanza Rook and Bishop guide for 2026. Rook suppression power, Bishop control tactics, Gambit combos, and advanced formations for these underrated pieces. Updated for patch v1.1.0.'
 lastUpdated: '2026-05-14'
 version: 'v1.1.0'
 see_also:

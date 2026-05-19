@@ -1,6 +1,6 @@
 ---
-title: "4x4 Fast Farm Guide: Speedrun Your Economy on Small Boards"
-description: "Master the 4x4 board for maximum stock per minute. Knight aggro openers, farm routes, economy gambit synergies, and known speedrun strats from early players."
+title: "Gambonanza 4x4 Fast Farm Guide (2026) — Speedrun Your Economy on Small Boards"
+description: "Gambonanza 4x4 fast farm guide for 2026. Knight aggro openers, farm routes, economy Gambit synergies, and speedrun strategies for maximum stock per minute. Updated for patch v1.1.0."
 see_also:
   - title: 'Stock Market & Shop Guide'
     url: '/economy/'

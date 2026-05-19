@@ -1,6 +1,6 @@
 ---
 title: "Tile Control Guide"
-description: "Tile value map visualization, center vs edge strategy, and a 5-rule checklist. Own the board, win the game."
+description: "Gambonanza tile control guide for 2026. Tile value map visualization, center vs edge strategy, and a 5-rule checklist to own the board. Updated for patch v1.1.0."
 see_also:
   - title: 'Crumble Mechanic Guide'
     url: '/crumble-mechanic-guide/'

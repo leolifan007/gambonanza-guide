@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Decision Framework: Stop Making Costly Mistakes"
-description: "Learn how to read the board, when to attack vs defend, your personal mistake pattern, and the exact decision tree that stops you from throwing runs."
+title: "Gambonanza Decision Framework (2026) — Stop Making Costly Mistakes"
+description: "Gambonanza decision framework for 2026. How to read the board, when to attack vs defend, your personal mistake pattern, and the decision tree that stops you from throwing runs. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
     url: '/beginner/'

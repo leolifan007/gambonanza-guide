@@ -1,6 +1,6 @@
 ---
-title: "FAQ: Real Answers to What Actually Confuses Gambonanza Players"
-description: "No filler, no obvious questions. Real Q&A drawn from community experience — the things that actually trip you up, ranked by how often they ruin runs."
+title: "Gambonanza FAQ (2026) — Real Answers to the Most Common Questions"
+description: "Gambonanza FAQ for 2026. Real answers to the questions that actually trip players up — boss mechanics, Gambit combos, economy priorities, and hidden rules. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
     url: '/beginner/'

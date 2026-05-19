@@ -1,6 +1,6 @@
 ---
 title: "Combo Chain Guide"
-description: "Stop playing 1 Gambit per turn. Checkmate Express flowchart, Farm Loop diagram, and 4 chain types. Double your value per turn."
+description: "Gambonanza combo chain guide for 2026. Checkmate Express flowchart, Farm Loop diagram, and 4 chain types to double your value per turn. Updated for patch v1.1.0."
 see_also:
   - title: 'All Gambits Guide'
     url: '/gambits/'

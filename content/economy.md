@@ -1,6 +1,6 @@
 ---
-title: "Stock Market & Shop Guide: Double Your Way to Infinite Gambits"
-description: "Casino economy mastery. Rated investment tables (S/A/B/C), compound growth strategies, mini-game math, and the exact thresholds for maximum returns."
+title: "Gambonanza Economy & Shop Guide (2026) — Stock Strategy & Investment Tips"
+description: "Complete Gambonanza economy guide for 2026. S/A/B/C rated investment tables, compound growth strategies, shop spending priorities, and exact thresholds for maximum returns. Updated for patch v1.1.0."
 see_also:
   - title: '4x4 Fast Farm Guide'
     url: '/4x4-fast-farm-guide/'
