@@ -1,6 +1,6 @@
 ---
-title: 'Gambonanza Boss Guide (2026) — All 5 Bosses: Mechanics, Counters & Gambit Loadouts'
-description: 'Gambonanza boss guide for 2026. All 5 bosses — Jester, King of Spades, Blitzking, Queen of Hearts, Grand Master — with phase mechanics, counter Gambits, and comeback strategies. Updated for patch v1.1.0.'
+title: 'Gambonanza Boss Strategy Guide (2026) — How to Beat Every Boss'
+description: 'Step-by-step Gambonanza boss strategies for 2026. Phase-by-phase breakdowns, counter Gambits, and loadout recommendations for Jester, King of Spades, Blitzking, Queen of Hearts, and Grand Master. Updated for patch v1.1.0.'
 lastUpdated: '2026-05-14'
 version: 'v1.2.0'
 see_also:

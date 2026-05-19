@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Boss Guide (2026) — How to Beat All 8 Bosses"
-description: "Complete Gambonanza boss guide for 2026. Universal tactics, exact Gambit counters, and per-boss strategies for all 8 bosses including The Grandmaster. Updated for patch v1.1.0."
+title: "Gambonanza Bosses — All 8 Bosses Ranked by Difficulty (2026)"
+description: "Every Gambonanza boss ranked from easiest to hardest. Quick-reference stats, phase mechanics, and which Gambits counter each boss. Updated for patch v1.1.0."
 see_also:
   - title: 'All 5 Bosses - Quick Reference'
     url: '/boss-strategy-guide/'
