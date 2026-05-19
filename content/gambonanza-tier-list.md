@@ -1,6 +1,6 @@
 ﻿---
-title: "Gambonanza Tier List v1.0 — Every Gambit Ranked S/A/B/C"
-description: "The definitive Gambonanza v1.0 Tier List. All 150+ Gambits ranked S/A/B/C with detailed analysis, synergies, and pro tips. Must-Pick Gambits to Break the Game inside."
+title: "Gambonanza Tier List (2026) — Best Gambits & Builds Ranked S/A/B/C"
+description: "Complete Gambonanza tier list for 2026. All 150+ Gambits ranked S/A/B/C with synergies, pro tips, and best builds. Find the strongest Gambits for every strategy. Updated for patch v1.1.0."
 ---
 
 ## 🏆 Gambonanza Tier List v1.0 — Every Gambit Ranked

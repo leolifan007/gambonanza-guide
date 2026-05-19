@@ -1,6 +1,6 @@
 ---
-title: "How to Break Chess and Dominate Gambonanza in 5 Runs"
-description: "Stop playing chess. Start breaking rules. The only beginner guide that tells you what actually works — from God-Tier starter Gambits to the 'Just Win' formula that trivializes your first 10 runs."
+title: "Gambonanza Beginner's Guide (2026) — How to Win Your First 5 Runs"
+description: "Complete Gambonanza beginner guide for 2026. Learn the 5 rules that actually work, God-Tier starter Gambits, and the Just Win formula. Updated for patch v1.1.0."
 see_also:
   - title: 'Complete Walkthrough'
     url: '/complete-walkthrough/'

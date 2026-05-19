@@ -1,6 +1,6 @@
 ---
-title: "Achievement Guide: Unlock 100% — Every Steam Achievement Rated & Explained"
-description: "100% completion guide. All 22 achievements with Meta Ratings, difficulty tiers, exact strategies, and Pro Tips for the hardest unlocks (King Killer, Grandmaster Slayer, Full Arsenal)."
+title: "Gambonanza Achievements Guide (2026) — All 22 Steam Achievements Unlock Guide"
+description: "Complete Gambonanza achievement guide for 2026. All 22 Steam achievements with difficulty ratings, exact unlock strategies, and Pro Tips for the hardest ones. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
     url: '/beginner/'

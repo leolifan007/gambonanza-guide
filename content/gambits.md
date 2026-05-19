@@ -1,6 +1,6 @@
 ﻿---
-title: "All Gambits Guide: Meta Ratings, Synergies & Pro Strats"
-description: "The definitive Gambonanza Gambit database. S/A/B/C meta ratings, Piece×Tile synergy tables, Early vs Late Game analysis, and Pro Tips for every top-tier Gambit. 150+ entries catalogued."
+title: "Gambonanza All Gambits Guide (2026) — 150+ Gambits Rated & Ranked"
+description: "Complete Gambonanza Gambit database for 2026. 150+ Gambits with S/A/B/C meta ratings, Piece×Tile synergy tables, Early vs Late Game analysis, and Pro Tips. Updated for patch v1.1.0."
 ---
 
 ## The Gambit System — Rated, Ranked & Explained

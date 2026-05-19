@@ -1,6 +1,6 @@
 ---
-title: 'Complete Walkthrough — From Opening to Grand Master'
-description: 'Full step-by-step roadmap for Gambonanza. Covers seed selection, opening economy, mid-game transition, every boss fight, and endgame strategy. For beginners who want a clear plan.'
+title: 'Gambonanza Complete Walkthrough (2026) — Step-by-Step Run Guide'
+description: 'Full Gambonanza walkthrough for 2026. Step-by-step run guide from seed selection to Grandmaster. Covers opening economy, mid-game transition, every boss fight, and endgame strategy. Updated for patch v1.1.0.'
 lastUpdated: '2026-05-14'
 version: 'v1.1.0'
 see_also:

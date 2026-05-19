@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Guide v1.1.0 — Complete Strategy, Cards & Walkthrough"
-description: "The most complete Gambonanza guide v1.1.0. Master every card, chess mechanic, and build winning strategies."
+title: "Gambonanza Guide (2026) — Complete Strategy, Best Builds & Seeds"
+description: "The #1 Gambonanza guide for 2026. Best builds, tier list, all 150+ Gambits rated, boss strategies, and recommended seeds. Updated for patch v1.1.0."
 ---
 
 ## Complete Guide — Pick Your Path
@@ -80,6 +80,33 @@ The Gambonanza meta evolves fast. This tier list covers the strongest current de
 Advanced strategy covers the stuff you don't figure out on your own: how to recognize when your current build is failing and pivot mid-run, when to break a winning pattern to disrupt a boss counter, and the psychological elements of Gambonanza poker.
 
 **[Read Advanced Strategy →](/strategy/)**
+
+---
+
+### 🌱 Best Seeds & Starting Builds
+*Top 15 seeds · Ranked by build type · Beginner-safe picks*
+
+Your seed determines your opening Gambit pool, relic offerings, and shop rotation. I've tested over 200 seeds and ranked the top 15 for every playstyle — economy, speed runs, boss fights, and ranked mode.
+
+**[Read the Best Seeds Guide →](/best-seeds/)**
+
+---
+
+### 💡 Tips & Tricks
+*25 pro tips · 100+ hours of experience · The rules that changed how I play*
+
+The single most important tip: always keep 50+ stock before boss fights. Boss retry costs 25, die twice and your run is over. Plus 24 more insights I wish I knew on day one.
+
+**[Read Tips & Tricks →](/tips/)**
+
+---
+
+### 🎮 How to Play
+*5-minute rules · Turn structure · Getting started guide*
+
+Never played Gambonanza? This guide explains the core mechanics in 5 minutes: how turns work, what Gambits are, and the 3 things every new player needs to know.
+
+**[Read How to Play →](/how-to-play/)**
 
 ---
 

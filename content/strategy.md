@@ -1,6 +1,6 @@
 ---
-title: "Strategy Guide: Win Consistently — From Beginner to Gambit God"
-description: "Proven strategies with Meta Ratings. Three opening builds ranked S/A/B, exact Gambit combos, deck composition math, endgame checkmate patterns, and tilt management."
+title: "Gambonanza Strategy Guide (2026) — Advanced Tips & Meta Builds Ranked"
+description: "Proven Gambonanza strategies with Meta Ratings for 2026. Three S/A/B opening builds, exact Gambit combos, deck composition math, and endgame checkmate patterns. Updated for patch v1.1.0."
 see_also:
   - title: 'Endgame Killer Tips'
     url: '/endgame-killer-tips/'

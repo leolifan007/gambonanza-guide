@@ -1,6 +1,6 @@
 ---
-title: 'Recommended Seeds — Best Opening Seed Collection for Gambonanza'
-description: 'Community-verified best opening seeds for Gambonanza. Includes all-round seeds, economy builds, ranked seeds, and high-variance gambler seeds. Updated with player-verified configurations.'
+title: 'Gambonanza Recommended Seeds (2026) — Best Opening Seeds Collection'
+description: 'The best Gambonanza opening seeds for 2026. Community-verified seeds for all-round, economy, ranked mode, and high-variance builds. Updated with player-verified configurations for patch v1.1.0.'
 lastUpdated: '2026-05-14'
 version: 'v1.1.0'
 see_also:

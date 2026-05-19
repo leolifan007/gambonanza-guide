@@ -1,7 +1,7 @@
 import subprocess, os
 
 def deploy():
-    BASE = r'C:\Users\ROG\.qclaw\workspace-agent-d2068023\projects\gambonanza-guide'
+    BASE = r'C:\Users\ROG\.qclaw\workspace-x74fgmx0vyb8p5is\gambonanza-guide'
     os.chdir(BASE)
 
     # 1. Verify public/ exists and has index.html
