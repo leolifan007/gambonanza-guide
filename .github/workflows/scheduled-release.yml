@@ -44,13 +44,14 @@ jobs:
       - name: Deploy to gh-pages
         run: |
           git fetch origin gh-pages
-          git checkout gh-pages
-          rsync -a --delete ../public/ .
+          git worktree add /tmp/gh-pages gh-pages
+          rsync -a --delete public/ /tmp/gh-pages/
+          cd /tmp/gh-pages
           git add .
-          git commit -m "deploy: auto-publish $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git commit -m "deploy: auto-publish $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to deploy"
           git push origin gh-pages
 
-      - name: Merge content-polishing to main
+      - name: Merge to main
         run: |
           git checkout main
           git merge content-polishing --no-edit
