@@ -1,0 +1,57 @@
+name: 内容自动发布
+
+on:
+  schedule:
+    # 模拟人工发布：非整点随机时间
+    - cron: '11 1 * * 1-5'       # 09:11 CST (01:11 UTC) 周一至周五
+    - cron: '48 5 * * 1,3,5'     # 13:48 CST (05:48 UTC) 周一三五
+    - cron: '23 9 * * 2,4'       # 17:23 CST (09:23 UTC) 周二四
+  workflow_dispatch:
+    # 手动触发用于测试
+
+permissions:
+  contents: write
+
+jobs:
+  content-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout content-polishing branch
+        uses: actions/checkout@v4
+        with:
+          ref: content-polishing
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: false
+
+      - name: Configure Git
+        run: |
+          git config user.name "Gambonan Bot"
+          git config user.email "bot@gambonanzaguide.com"
+
+      - name: Auto-publish hidden articles
+        run: |
+          chmod +x .github/scripts/auto-publish.sh
+          bash .github/scripts/auto-publish.sh
+
+      - name: Hugo build
+        run: hugo --minify
+
+      - name: Deploy to gh-pages
+        run: |
+          git fetch origin gh-pages
+          git checkout gh-pages
+          rsync -a --delete ../public/ .
+          git add .
+          git commit -m "deploy: auto-publish $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git push origin gh-pages
+
+      - name: Merge content-polishing to main
+        run: |
+          git checkout main
+          git merge content-polishing --no-edit
+          git push origin main
