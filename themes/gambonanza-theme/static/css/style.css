@@ -234,10 +234,11 @@ ul { list-style: none; padding: 0; }
   box-shadow: 0 4px 20px rgba(0,0,0,0.4);
 }
 
-/* h3 styling within cards */
+/* Subheadings in cards - body font, 14px */
 .main-content h3 {
-  font-family: var(--font-display);
-  font-size: 0.55rem;
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 600;
   color: var(--gold);
   margin: 1.5rem 0 0.75rem;
   padding: 0.5rem 0;
@@ -764,8 +765,9 @@ ul { list-style: none; padding: 0; }
 }
 .footer-links a:hover { color: var(--gold); }
 .footer-bottom {
-  border-top: var(--border-thin);
-  padding-top: var(--space-md); text-align: center;
+  /* border-top removed for centered copyright */
+  padding-top: var(--space-md); 
+  text-align: center;
 }
 .footer-bottom p {
   font-size: 0.8rem; color: var(--rose-light); margin: 0;
