@@ -1,20 +1,20 @@
 ---
 title: "Contact & About This Guide"
-description: "Learn about Gambonanza Guide ‚Äî the most complete community-driven strategy resource for Gambonanza. Find out how to contact us, submit feedback, or report issues."
+description: "Learn about Gambonanza Guide ‚Ä?the most complete community-driven strategy resource for Gambonanza. Find out how to contact us, submit feedback, or report issues."
 ---
 
 ## About This Guide
 
 <div class="callout callout-verdict">
   <strong>üéØ OUR MISSION</strong><br>
-  To provide the most complete, accurate, and actionable Gambonanza strategy resource on the internet ‚Äî built by players, for players.
+  To provide the most complete, accurate, and actionable Gambonanza strategy resource on the internet ‚Ä?built by players, for players.
 </div>
 
-Gambonanza Guide was created by a team of dedicated Gambonanza players who fell in love with the game's depth and wanted to share what we learned. What started as a personal collection of notes and strategies quickly grew into something bigger ‚Äî a community resource that now serves thousands of players every month.
+Gambonanza Guide was created by a team of dedicated Gambonanza players who fell in love with the game's depth and wanted to share what we learned. What started as a personal collection of notes and strategies quickly grew into something bigger ‚Ä?a community resource that now serves thousands of players every month.
 
 We believe that great games deserve great guides. Gambonanza is a deceptively complex game: easy to pick up, hard to master. The difference between a new player struggling in their first few runs and a seasoned veteran consistently clearing all eight bosses often comes down to knowledge. That's where we come in.
 
-Our team brings together players from diverse gaming backgrounds ‚Äî strategy game veterans, deckbuilding roguelike enthusiasts, chess hobbyists, and competitive gamers ‚Äî who collectively have invested hundreds of hours analyzing every mechanic, testing every Gambit, and mapping every boss pattern.
+Our team brings together players from diverse gaming backgrounds ‚Ä?strategy game veterans, deckbuilding roguelike enthusiasts, chess hobbyists, and competitive gamers ‚Ä?who collectively have invested hundreds of hours analyzing every mechanic, testing every Gambit, and mapping every boss pattern.
 
 <hr class="section-divider">
 
@@ -27,20 +27,20 @@ Gambonanza Guide is organized into several comprehensive sections, each designed
 
 ### üèÜ Guides & Walkthroughs
 
-- **[150+ Gambits Database](/gambits/)** ‚Äî Complete breakdown of every Gambit in the game, ranked from S-tier to F-tier with detailed analysis of synergies, counters, and optimal usage scenarios
-- **[8 Boss Battle Guides](/bosses/)** ‚Äî Step-by-step strategies for every boss, including pattern analysis, recommended Gambit loadouts, and phase-by-phase walkthroughs
-- **[Beginner's Guide](/beginner/)** ‚Äî Everything a new player needs to know, from basic mechanics to your first successful boss kill
-- **[Advanced Strategy Guide](/strategy/)** ‚Äî Deep dives into economy optimization, build archetypes, and high-level tactics for experienced players
+- **[150+ Gambits Database](/gambits/)** ‚Ä?Complete breakdown of every Gambit in the game, ranked from S-tier to F-tier with detailed analysis of synergies, counters, and optimal usage scenarios
+- **[8 Boss Battle Guides](/bosses/)** ‚Ä?Step-by-step strategies for every boss, including pattern analysis, recommended Gambit loadouts, and phase-by-phase walkthroughs
+- **[Beginner's Guide](/beginner/)** ‚Ä?Everything a new player needs to know, from basic mechanics to your first successful boss kill
+- **[Advanced Strategy Guide](/strategy/)** ‚Ä?Deep dives into economy optimization, build archetypes, and high-level tactics for experienced players
 
 </div>
 <div class="col">
 
 ### üìä Tools & References
 
-- **[Economy Guide](/economy/)** ‚Äî Master the casino economy system, including Safe Haven strategy, Gambler's Gambit risk analysis, and optimal stock management across shop visits
-- **[Tier List](/gambonanza-tier-list/)** ‚Äî Complete Gambit tier list with explanations for every rating, updated regularly as the meta evolves
-- **[Achievements Guide](/achievements/)** ‚Äî Comprehensive achievement walkthrough covering every milestone, hidden achievement, and completion strategy
-- **[Card System Guide](/cards/)** ‚Äî Deep analysis of Gambit cards, their rarities, and how the card economy flows into your runs
+- **[Economy Guide](/economy/)** ‚Ä?Master the casino economy system, including Safe Haven strategy, Gambler's Gambit risk analysis, and optimal stock management across shop visits
+- **[Tier List](/gambonanza-tier-list/)** ‚Ä?Complete Gambit tier list with explanations for every rating, updated regularly as the meta evolves
+- **[Achievements Guide](/achievements/)** ‚Ä?Comprehensive achievement walkthrough covering every milestone, hidden achievement, and completion strategy
+- **[Card System Guide](/cards/)** ‚Ä?Deep analysis of Gambit cards, their rarities, and how the card economy flows into your runs
 
 </div>
 </div>
@@ -92,7 +92,7 @@ Your feedback directly shapes the quality of this guide. We take every piece of 
 ### How Your Feedback Helps
 
 - **Corrections:** If you spot an error in one of our guides, let us know immediately. Accuracy is our top priority, and we will fix errors promptly
-- **Suggestions:** Think we're missing a strategy? Want a deeper dive into a specific Gambit? Suggest it ‚Äî if it adds value, we will add it
+- **Suggestions:** Think we're missing a strategy? Want a deeper dive into a specific Gambit? Suggest it ‚Ä?if it adds value, we will add it
 - **Community Testing Results:** Have you tested a Gambit combination we haven't covered? Share your results! Community testing is how the best strategies emerge
 - **Translation Requests:** Want to see the guide in another language? Let us know what language you need
 
@@ -132,7 +132,7 @@ The best way to support us is to:
 - **Share the guide** with other Gambonanza players
 - **Contribute** by reporting errors or suggesting improvements
 - **Engage** in GitHub Discussions to help build the community
-- **Support via affiliate links** ‚Äî if you're buying Gambonanza on Steam, use our affiliate link to help fund the site
+- **Support via affiliate links** ‚Ä?if you're buying Gambonanza on Steam, use our affiliate link to help fund the site
 
 ### Can I contribute as a writer?
 
@@ -165,18 +165,18 @@ Ready to reach out? We're here and we read everything. Whether it's a quick ques
 
 <div class="split-col">
 <div class="col">
-  <strong><a href="https://github.com/leolifan007/gambonanza-guide/issues">‚Üí Report an Issue</a></strong><br>
+  <strong><a href="https://github.com/leolifan007/gambonanza-guide/issues">‚Ü?Report an Issue</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">Found something wrong? Let us know.</span>
 </div>
 <div class="col">
-  <strong><a href="https://github.com/leolifan007/gambonanza-guide/discussions">‚Üí Join Discussions</a></strong><br>
+  <strong><a href="https://github.com/leolifan007/gambonanza-guide/discussions">‚Ü?Join Discussions</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">Share your findings and strategies.</span>
 </div>
 </div>
 
 <hr class="section-divider">
 
-*Gambonanza Guide ‚Äî Built by players, for players. Updated regularly with community-sourced strategies and insights.*
+*Gambonanza Guide ‚Ä?Built by players, for players. Updated regularly with community-sourced strategies and insights.*
 
 
 ---

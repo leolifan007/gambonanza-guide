@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza FAQ (2026) ‚Äî Real Answers to the Most Common Questions"
-description: "Gambonanza FAQ for 2026. Real answers to the questions that actually trip players up ‚Äî boss mechanics, Gambit combos, economy priorities, and hidden rules. Updated for patch v1.1.0."
+title: "Gambonanza FAQ (v1.2.0) ‚Ä?Real Answers to the Most Common Questions"
+description: "Gambonanza FAQ for patch v1.2.0. Real answers to the questions that actually trip players up ‚Ä?boss mechanics, Gambit combos, economy priorities, and hidden rules. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
     url: '/beginner/'
@@ -10,16 +10,16 @@ see_also:
     url: '/bosses/'
 ---
 
-## The FAQ ‚Äî What Players Actually Need to Know
+## The FAQ ‚Ä?What Players Actually Need to Know
 
 <div class="callout callout-verdict">
   <strong>üéØ THE VERDICT</strong><br>
-  Most FAQ pages list obvious questions nobody asked. This one only includes stuff that REAL players get wrong ‚Äî the kind of mistakes that cost runs. If you're stuck, the answer is probably here.
+  Most FAQ pages list obvious questions nobody asked. This one only includes stuff that REAL players get wrong ‚Ä?the kind of mistakes that cost runs. If you're stuck, the answer is probably here.
 </div>
 
 <hr class="section-divider">
 
-## Game Basics ‚Äî The Stuff They Don't Tell You
+## Game Basics ‚Ä?The Stuff They Don't Tell You
 
 ### Is this actually chess?
 
@@ -27,7 +27,7 @@ see_also:
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Most common mistake new players make ‚Äî treating it like chess. Chess skill is a liability here.</span>
+  <span class="meta-label">Most common mistake new players make ‚Ä?treating it like chess. Chess skill is a liability here.</span>
 </div>
 
 ---
@@ -45,7 +45,7 @@ see_also:
 </div>
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> 4√ó4 boards don't just teach you the game ‚Äî they're also the best economy farms. A fast 4√ó4 win in under 3 minutes gives you the same stock reward as a 15-minute 6√ó6 grind. Speed runners farm 4√ó4 exclusively for stock.
+  <strong>Only 10h+ players know:</strong> 4√ó4 boards don't just teach you the game ‚Ä?they're also the best economy farms. A fast 4√ó4 win in under 3 minutes gives you the same stock reward as a 15-minute 6√ó6 grind. Speed runners farm 4√ó4 exclusively for stock.
 </div>
 
 ---
@@ -64,25 +64,25 @@ see_also:
 
 <div class="phase-tag phase-mid">BOSS RUN</div>
 <h4>15-30 minutes</h4>
-<p>Full boss attempts. Budget your time ‚Äî longer fights need more Gambits.</p>
+<p>Full boss attempts. Budget your time ‚Ä?longer fights need more Gambits.</p>
 
 </div>
 </div>
 
 <div style="margin: 12px 0">
   <span class="phase-tag phase-late">FULL CAMPAIGN</span>
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px"><strong>2-4 hours</strong> ‚Äî All bosses in sequence. Schedule a session.</span>
+  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px"><strong>2-4 hours</strong> ‚Ä?All bosses in sequence. Schedule a session.</span>
 </div>
 
 ---
 
 ### Is there multiplayer?
 
-Single-player only with boss AI. No multiplayer at launch ‚Äî Gambonanza is designed as a solo roguelike experience. Developer Blukul√©l√© has hinted at potential leaderboard features in future updates.
+Single-player only with boss AI. No multiplayer at launch ‚Ä?Gambonanza is designed as a solo roguelike experience. Developer Blukul√©l√© has hinted at potential leaderboard features in future updates.
 
 <hr class="section-divider">
 
-## Gambits ‚Äî The Questions That Cost You Runs
+## Gambits ‚Ä?The Questions That Cost You Runs
 
 ### Which Gambit should I buy first?
 
@@ -97,7 +97,7 @@ Single-player only with boss AI. No multiplayer at launch ‚Äî Gambonanza is desi
 - Triggers Gambit tile effects on the destination square
 - Enabled brutally effective attack formations
 
-Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brainstorm" ‚Äî it's not situational, it's universally broken in every build.
+Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brainstorm" ‚Ä?it's not situational, it's universally broken in every build.
 
 ---
 
@@ -105,7 +105,7 @@ Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brain
 
 <div class="callout callout-danger">
   <strong>‚ö†Ô∏è THE RARITY TRAP</strong><br>
-  <strong>Rarity ‚â† win rate.</strong> A Legendary (500 stock) that doesn't fit your build is worse than a Common (30 stock) that does. A well-placed Teleport (Common, 40 stock) beats any random Legendary that doesn't support your strategy. Buy what your deck needs, not what's expensive.
+  <strong>Rarity ‚â?win rate.</strong> A Legendary (500 stock) that doesn't fit your build is worse than a Common (30 stock) that does. A well-placed Teleport (Common, 40 stock) beats any random Legendary that doesn't support your strategy. Buy what your deck needs, not what's expensive.
 </div>
 
 **The math:** A Common Gambit that synergizes with your build provides 2-3√ó value per turn. A Legendary that's anti-synergistic provides 0.5√ó value. Simple: synergy > price tag, always.
@@ -118,27 +118,27 @@ Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brain
 
 | Gambit Count | Effect | Verdict |
 |---|---|---|
-| &lt;15 | Running out of options mid-match | ‚ùå Danger zone |
-| **18-22** | Optimal variety, consistent draws | ‚úÖ Sweet spot |
-| &gt;25 | Diluting best cards, inconsistent performance | ‚ùå Overbloated |
+| &lt;15 | Running out of options mid-match | ‚ù?Danger zone |
+| **18-22** | Optimal variety, consistent draws | ‚ú?Sweet spot |
+| &gt;25 | Diluting best cards, inconsistent performance | ‚ù?Overbloated |
 
 </div>
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> The number isn't the only factor ‚Äî your Gambit "density" matters more. 18 Gambits where 14 are S/A-tier is better than 22 Gambits where 10 are C-tier filler. Cut the filler aggressively.
+  <strong>Only 10h+ players know:</strong> The number isn't the only factor ‚Ä?your Gambit "density" matters more. 18 Gambits where 14 are S/A-tier is better than 22 Gambits where 10 are C-tier filler. Cut the filler aggressively.
 </div>
 
 ---
 
 ### Are Boss Gambits permanent?
 
-**Yes** ‚Äî once unlocked, they stay in your collection permanently across ALL runs. This is the main incentive for pushing past run-killing bosses. Every new boss unlocks a weapon you keep forever.
+**Yes** ‚Ä?once unlocked, they stay in your collection permanently across ALL runs. This is the main incentive for pushing past run-killing bosses. Every new boss unlocks a weapon you keep forever.
 
 **Priority order for boss Gambits:** The Grandmaster's Counter > Queen's Gambit Counter > Rook Rook's Shield > everything else.
 
 <hr class="section-divider">
 
-## Economy ‚Äî The #1 Reason Players Quit
+## Economy ‚Ä?The #1 Reason Players Quit
 
 ### I'm always broke. What am I doing wrong?
 
@@ -147,9 +147,9 @@ Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brain
   Exactly three things, in this order:
 </div>
 
-1. **You're buying Gambits you don't need** ‚Äî impulse shopping is the #1 economy killer
-2. **You're not investing in Safe Haven** ‚Äî the 10% guaranteed return is free money you're leaving on the table
-3. **You're gambling more than 10% of your stock** ‚Äî Gambler's Gambit is not your friend when you're poor
+1. **You're buying Gambits you don't need** ‚Ä?impulse shopping is the #1 economy killer
+2. **You're not investing in Safe Haven** ‚Ä?the 10% guaranteed return is free money you're leaving on the table
+3. **You're gambling more than 10% of your stock** ‚Ä?Gambler's Gambit is not your friend when you're poor
 
 Fix these in order. If you fix #1 but ignore #2, you'll plateau at 30-50 stock. If you fix #1 and #2 but ignore #3, you'll hit 80 stock then lose 60 of it on a bad gamble.
 
@@ -172,11 +172,11 @@ Let's see the compound growth in action:
 | 2 | - | 121 | N/A |
 | 3 | - | 133 | N/A |
 | 4 | - | 146 | N/A |
-| 5 | 146 stock (DD) | ‚Äî | **292 stock** |
+| 5 | 146 stock (DD) | ‚Ä?| **292 stock** |
 
 </div>
 
-**100 stock ‚Üí 292 across five shop visits.** All you did was invest in Safe Haven and Double Down once. That's 192 free stock for clicking two buttons.
+**100 stock ‚Ü?292 across five shop visits.** All you did was invest in Safe Haven and Double Down once. That's 192 free stock for clicking two buttons.
 
 ---
 
@@ -190,7 +190,7 @@ Otherwise, always buy **at least 1 thing**. Even a cheap Common Gambit is better
 
 <hr class="section-divider">
 
-## Bosses ‚Äî What Nobody Tells You
+## Bosses ‚Ä?What Nobody Tells You
 
 ### Which boss should I fight first?
 
@@ -226,14 +226,14 @@ Otherwise, always buy **at least 1 thing**. Even a cheap Common Gambit is better
 
 <div class="callout callout-tip">
   <strong>üß† THE PATTERN PROBLEM</strong><br>
-  You're probably repeating the same mistake. Watch the boss's <strong>opening pattern.</strong> Every boss has a predictable first <strong>3 moves</strong>. Memorize them ‚Äî then counter them specifically.
+  You're probably repeating the same mistake. Watch the boss's <strong>opening pattern.</strong> Every boss has a predictable first <strong>3 moves</strong>. Memorize them ‚Ä?then counter them specifically.
 </div>
 
 **The fix:** Next run, don't even try to win. Just watch the first 3 moves and restart. Do this 3-4 times. You'll spot the pattern immediately and know exactly how to counter it.
 
 <hr class="section-divider">
 
-## Comparisons ‚Äî For the Doubters
+## Comparisons ‚Ä?For the Doubters
 
 ### Gambonanza vs Balatro?
 
@@ -262,7 +262,7 @@ If you like **Slay the Spire's** decision complexity or **Balatro's** "one more 
 |---|---|---|
 | Beat all 8 bosses | 20-30 | ~60% complete |
 | 100% achievements | 40-50 | All achievements |
-| True mastery | 100+ | Mental ‚Äî game doesn't track this |
+| True mastery | 100+ | Mental ‚Ä?game doesn't track this |
 
 </div>
 
@@ -281,7 +281,7 @@ If you like **Slay the Spire's** decision complexity or **Balatro's** "one more 
 
 ### Is the game still being updated?
 
-**Yes.** Launched May 1, 2026. Developer Blukul√©l√© has confirmed post-launch content updates ‚Äî more Gambits, bosses, and possibly additional modes. The meta will shift.
+**Yes.** Launched May 1, 2026. Developer Blukul√©l√© has confirmed post-launch content updates ‚Ä?more Gambits, bosses, and possibly additional modes. The meta will shift.
 
 ---
 
@@ -289,7 +289,7 @@ If you like **Slay the Spire's** decision complexity or **Balatro's** "one more 
 
 <div class="callout callout-verdict">
   <strong>üéÆ STEAM EXCLUSIVE</strong><br>
-  <a href="https://store.steampowered.com/app/3182810/">Gambonanza on Steam</a> ‚Äî No console or mobile versions announced. Price: ~$10.99.
+  <a href="https://store.steampowered.com/app/3182810/">Gambonanza on Steam</a> ‚Ä?No console or mobile versions announced. Price: ~$10.99.
 </div>
 
 <hr class="section-divider">
@@ -300,22 +300,22 @@ Bookmark this guide. We update weekly as the community discovers new strategies,
 
 <div class="split-col">
 <div class="col">
-  <strong><a href="/beginner/">‚Üí Beginner Guide</a></strong><br>
+  <strong><a href="/beginner/">‚Ü?Beginner Guide</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">Start here if you're new.</span>
 </div>
 <div class="col">
-  <strong><a href="/gambits/">‚Üí All Gambits Guide</a></strong><br>
+  <strong><a href="/gambits/">‚Ü?All Gambits Guide</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">150+ Gambits ranked.</span>
 </div>
 </div>
 
 <div class="split-col">
 <div class="col">
-  <strong><a href="/strategy/">‚Üí Advanced Strategy</a></strong><br>
+  <strong><a href="/strategy/">‚Ü?Advanced Strategy</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">Pro-level tactics.</span>
 </div>
 <div class="col">
-  <strong><a href="/bosses/">‚Üí Boss Battle Guide</a></strong><br>
+  <strong><a href="/bosses/">‚Ü?Boss Battle Guide</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">All 8 bosses analyzed.</span>
 </div>
 </div>

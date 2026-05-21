@@ -1,6 +1,6 @@
 ---
 title: "Combo Chain Guide"
-description: "Gambonanza combo chain guide for 2026. Checkmate Express flowchart, Farm Loop diagram, and 4 chain types to double your value per turn. Updated for patch v1.1.0."
+description: "Gambonanza combo chain guide for patch v1.2.0. Checkmate Express flowchart, Farm Loop diagram, and 4 chain types to double your value per turn. Updated for patch v1.1.0."
 see_also:
   - title: 'All Gambits Guide'
     url: '/gambits/'
@@ -12,7 +12,7 @@ lastUpdated: '2026-05-17'
 version: 'v1.2.0'
 ---
 
-## Combo Chains ‚Äî TL;DR
+## Combo Chains ‚Ä?TL;DR
 
 <div class="callout callout-verdict">
 <strong>1 Gambit per turn = beginner. 3 Gambits in 1 turn = game breaker.</strong><br>
@@ -21,7 +21,7 @@ Chain them. Win.
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Win rate on 6√ó6 jumped 45% ‚Üí 72% after I learned chains.</span>
+  <span class="meta-label">Win rate on 6√ó6 jumped 45% ‚Ü?72% after I learned chains.</span>
 </div>
 
 <hr class="section-divider">
@@ -30,46 +30,46 @@ Chain them. Win.
 
 | Type | What Happens | Example |
 |------|---------------|---------|
-| Setup ‚Üí Execute | Gambit A preps, Gambit B hits | Early Check ‚Üí Knight Fork |
-| Amplify ‚Üí Amplify | Each Gambit boosts the next | Double Move ‚Üí Teleport ‚Üí Capture |
-| Deny ‚Üí Punish | Remove opponent options, then strike | Freeze ‚Üí Board Shrink ‚Üí Mate |
-| Loop | Gambit feeds back into itself | Heal ‚Üí Gambit Tile ‚Üí Free Gambit ‚Üí Heal |
+| Setup ‚Ü?Execute | Gambit A preps, Gambit B hits | Early Check ‚Ü?Knight Fork |
+| Amplify ‚Ü?Amplify | Each Gambit boosts the next | Double Move ‚Ü?Teleport ‚Ü?Capture |
+| Deny ‚Ü?Punish | Remove opponent options, then strike | Freeze ‚Ü?Board Shrink ‚Ü?Mate |
+| Loop | Gambit feeds back into itself | Heal ‚Ü?Gambit Tile ‚Ü?Free Gambit ‚Ü?Heal |
 
 <hr class="section-divider">
 
 ## The 5 Best Chains
 
-### ‚ë† Checkmate Express <span class="meta-badge meta-s">S</span>
+### ‚ë?Checkmate Express <span class="meta-badge meta-s">S</span>
 
-<img src="/images/guides/checkmate-express.svg" alt="Checkmate Express: Early Check ‚Üí Teleport Queen ‚Üí Double Move ‚Üí Checkmate" style="width:100%;max-width:780px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/checkmate-express.svg" alt="Checkmate Express: Early Check ‚Ü?Teleport Queen ‚Ü?Double Move ‚Ü?Checkmate" style="width:100%;max-width:780px;border-radius:8px;" loading="lazy">
 
 **Cost:** High (3 Gambits) | **Best for:** Late game, exposed King | **Win rate:** ~90%
 
 ---
 
-### ‚ë° Farm Loop <span class="meta-badge meta-s">S</span>
+### ‚ë?Farm Loop <span class="meta-badge meta-s">S</span>
 
-<img src="/images/guides/heal-board-loop.svg" alt="Farm Loop: Collapse ‚Üí Heal ‚Üí Restore + Gambit ‚Üí Trigger ‚Üí Repeat" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/heal-board-loop.svg" alt="Farm Loop: Collapse ‚Ü?Heal ‚Ü?Restore + Gambit ‚Ü?Trigger ‚Ü?Repeat" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
 
 **Cost:** Medium (only Heal Board) | **Best for:** Economy farming on 5√ó5+ | **Stock per loop:** +8-12
 
 ---
 
-### ‚ë¢ Denial Cascade <span class="meta-badge meta-a">A</span>
+### ‚ë?Denial Cascade <span class="meta-badge meta-a">A</span>
 
-Freeze key piece ‚Üí Board Shrink around it ‚Üí attack freely. **Result:** Opponent loses 2 turns.
-
----
-
-### ‚ë£ Fork Factory <span class="meta-badge meta-a">A</span>
-
-Knight Boost ‚Üí Teleport Knight to fork ‚Üí Double Move ‚Üí capture 2. **Result:** +2 material in 1 turn.
+Freeze key piece ‚Ü?Board Shrink around it ‚Ü?attack freely. **Result:** Opponent loses 2 turns.
 
 ---
 
-### ‚ë§ Crumble Trap <span class="meta-badge meta-b">B</span>
+### ‚ë?Fork Factory <span class="meta-badge meta-a">A</span>
 
-Lure piece to edge ‚Üí Earthquake ‚Üí attack isolated piece. **Result:** Free capture.
+Knight Boost ‚Ü?Teleport Knight to fork ‚Ü?Double Move ‚Ü?capture 2. **Result:** +2 material in 1 turn.
+
+---
+
+### ‚ë?Crumble Trap <span class="meta-badge meta-b">B</span>
+
+Lure piece to edge ‚Ü?Earthquake ‚Ü?attack isolated piece. **Result:** Free capture.
 
 <hr class="section-divider">
 
@@ -105,7 +105,7 @@ Lure piece to edge ‚Üí Earthquake ‚Üí attack isolated piece. **Result:** Free ca
 
 ## Common Mistakes
 
-| ‚ùå Mistake | ‚úÖ Fix |
+| ‚ù?Mistake | ‚ú?Fix |
 |------------|---------|
 | Forcing chains that aren't there | Play a single Gambit instead |
 | Ignoring Farm Loop | Heal Board = free stock for chains |

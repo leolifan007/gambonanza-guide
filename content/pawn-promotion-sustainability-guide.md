@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Pawn Promotion Guide (2026) ‚Äî Don't Break Your Build When Pawns Evolve"
-description: "Gambonanza Pawn promotion guide for 2026. When to promote, what to promote to, and how to keep your build intact when Pawns evolve. Avoid breaking relic synergies. Updated for patch v1.1.0."
+title: "Gambonanza Pawn Promotion Guide v1.2.0 ‚Ä?Don't Break Your Build When Pawns Evolve"
+description: "Gambonanza Pawn promotion guide for patch v1.2.0. When to promote, what to promote to, and how to keep your build intact when Pawns evolve. Avoid breaking relic synergies. Updated for patch v1.1.0."
 see_also:
   - title: 'All Gambits Guide'
     url: '/gambits/'
@@ -13,8 +13,8 @@ see_also:
 ## The Promotion Trap
 
 <div class="callout callout-verdict">
-  <strong>‚ôü PROMOTION ‚â† AUTOMATIC UPGRADE</strong><br>
-  Promoting a pawn to a queen sounds good ‚Äî until your "Pawns only" relic stops working and you lose the economy engine that carried you through 10 runs. Promotion is a strategic decision, not a default.
+  <strong>‚ô?PROMOTION ‚â?AUTOMATIC UPGRADE</strong><br>
+  Promoting a pawn to a queen sounds good ‚Ä?until your "Pawns only" relic stops working and you lose the economy engine that carried you through 10 runs. Promotion is a strategic decision, not a default.
 </div>
 
 <div class="meta-rating">
@@ -25,11 +25,11 @@ see_also:
 
 <hr class="section-divider">
 
-Promotion in Gambonanza works differently than standard chess. It's not just about getting a queen ‚Äî it's about what you LOSE when a pawn stops being a pawn. Certain Gambits, relics, and economy bonuses only trigger on pawn moves.
+Promotion in Gambonanza works differently than standard chess. It's not just about getting a queen ‚Ä?it's about what you LOSE when a pawn stops being a pawn. Certain Gambits, relics, and economy bonuses only trigger on pawn moves.
 
 <div class="callout callout-danger">
-  <strong>‚ö† THE BIG TRAP</strong><br>
-  The most common community complaint: "I promoted my last pawn to a queen and my Pawn Gambit stopped working." This is by design. Once a piece promotes, it's no longer a pawn ‚Äî and any Gambit that says "on pawn capture" or "when a pawn moves" simply doesn't apply. Plan your promotion timing carefully.
+  <strong>‚ö?THE BIG TRAP</strong><br>
+  The most common community complaint: "I promoted my last pawn to a queen and my Pawn Gambit stopped working." This is by design. Once a piece promotes, it's no longer a pawn ‚Ä?and any Gambit that says "on pawn capture" or "when a pawn moves" simply doesn't apply. Plan your promotion timing carefully.
 </div>
 
 <hr class="section-divider">
@@ -53,8 +53,8 @@ Promotion in Gambonanza works differently than standard chess. It's not just abo
 ## The Pawn Economy Loop
 
 <div class="callout callout-tip">
-  <strong>‚ôü THE PAWN CYCLE</strong><br>
-  Pawns generate stock through Pawn-specific Gambits. The most sustainable loop: use Pawn Gambits to earn stock ‚Üí use stock to buy more Gambits ‚Üí Pawns stay on the board earning. If you promote, the loop breaks.
+  <strong>‚ô?THE PAWN CYCLE</strong><br>
+  Pawns generate stock through Pawn-specific Gambits. The most sustainable loop: use Pawn Gambits to earn stock ‚Ü?use stock to buy more Gambits ‚Ü?Pawns stay on the board earning. If you promote, the loop breaks.
 </div>
 
 <div class="split-col">
@@ -103,16 +103,16 @@ Promotion in Gambonanza works differently than standard chess. It's not just abo
 
 | Gambit | Works Before Promotion | Works After Promotion | Note |
 |--------|----------------------|---------------------|------|
-| Teleport | ‚úÖ | ‚úÖ | Universal |
-| Backstab | ‚úÖ | ‚úÖ | Works on any piece capture |
-| Pawn Storm | ‚úÖ | ‚ùå | Stops when last pawn promotes |
-| Safe Haven (pawns) | ‚úÖ | ‚ùå | Check the Gambit text |
-| Double Down | ‚úÖ | ‚úÖ | Economy independent of piece type |
-| King's Shield | ‚úÖ | ‚úÖ | Protects king, not pawns |
+| Teleport | ‚ú?| ‚ú?| Universal |
+| Backstab | ‚ú?| ‚ú?| Works on any piece capture |
+| Pawn Storm | ‚ú?| ‚ù?| Stops when last pawn promotes |
+| Safe Haven (pawns) | ‚ú?| ‚ù?| Check the Gambit text |
+| Double Down | ‚ú?| ‚ú?| Economy independent of piece type |
+| King's Shield | ‚ú?| ‚ú?| Protects king, not pawns |
 
 <div class="callout callout-danger">
-  <strong>‚ùì NOT SURE?</strong><br>
-  Check the Gambit description. If it says "when a Pawn..." or "on Pawn capture" ‚Äî promoting will reduce or remove that effect. If the effect is tied to "piece" or "any capture" ‚Äî promote freely.
+  <strong>‚ù?NOT SURE?</strong><br>
+  Check the Gambit description. If it says "when a Pawn..." or "on Pawn capture" ‚Ä?promoting will reduce or remove that effect. If the effect is tied to "piece" or "any capture" ‚Ä?promote freely.
 </div>
 
 <hr class="section-divider">
@@ -135,13 +135,13 @@ A practical rule of thumb for sustainability:
 
 <div class="pro-tip">
   <strong>üß† Long run mindset</strong><br>
-  Games that go 30+ turns are won by players who kept their economy intact. The player who promotes 4 pawns by turn 20 might look strong ‚Äî but the player who kept 2 pawns as pawns, invested in Safe Haven, and bought Teleport + Backstab is sitting on 200+ stock at turn 30. Who wins? The stock.
+  Games that go 30+ turns are won by players who kept their economy intact. The player who promotes 4 pawns by turn 20 might look strong ‚Ä?but the player who kept 2 pawns as pawns, invested in Safe Haven, and bought Teleport + Backstab is sitting on 200+ stock at turn 30. Who wins? The stock.
 </div>
 
 ---
 
-*Need the full economy breakdown? ‚Üí [Stock Market & Shop Guide](/economy/)*<br>
-*Want to apply this to pawn-specific Gambits? ‚Üí [All Gambits Guide](/gambits/)*
+*Need the full economy breakdown? ‚Ü?[Stock Market & Shop Guide](/economy/)*<br>
+*Want to apply this to pawn-specific Gambits? ‚Ü?[All Gambits Guide](/gambits/)*
 
 ---
 

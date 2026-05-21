@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: "Privacy Policy"
 description: "How Gambonanza Guide collects, uses, and protects your personal information when you visit our website."
 ---
@@ -6,7 +6,7 @@ description: "How Gambonanza Guide collects, uses, and protects your personal in
 ## Privacy Policy
 
 <div class="callout callout-tip">
-  <strong>ğŸ“‹ LAST UPDATED:</strong> May 11, 2026 (patch v1.1.0)<br>
+  <strong>?? LAST UPDATED:</strong> May 11, 2026 (patch v1.1.0)<br>
   This policy describes how Gambonanza Guide ("we," "us," or "our") handles your information when you use our website at <strong>gambonanza.guide</strong> and related subdomains.
 </div>
 
@@ -55,8 +55,8 @@ The information we collect serves several legitimate purposes essential to opera
 Gambonanza Guide is provided as a free resource supported by advertising revenue. Your information helps us:
 
 - **Serve relevant advertisements** through Google AdSense, Google's advertising platform
-- **Measure ad performance** â€” understand which ads are being viewed and clicked
-- **Prevent fraudulent activity** â€” detect click fraud, bot traffic, and other abuse
+- **Measure ad performance** ¡ª understand which ads are being viewed and clicked
+- **Prevent fraudulent activity** ¡ª detect click fraud, bot traffic, and other abuse
 - **Report aggregate statistics** to advertisers without revealing individual user identities
 
 ### Website Improvement and Analytics
@@ -70,9 +70,9 @@ We use aggregated data to continuously improve the site:
 
 ### Security and Operations
 
-- **Protect against malicious activity** â€” detect DDoS attacks, scraping bots, and unauthorized access attempts
-- **Debug technical issues** â€” troubleshoot errors and performance bottlenecks
-- **Maintain service availability** â€” monitor traffic patterns to ensure server capacity
+- **Protect against malicious activity** ¡ª detect DDoS attacks, scraping bots, and unauthorized access attempts
+- **Debug technical issues** ¡ª troubleshoot errors and performance bottlenecks
+- **Maintain service availability** ¡ª monitor traffic patterns to ensure server capacity
 
 ### Legal Basis for Processing
 
@@ -319,7 +319,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 - Requesting archived versions of this policy
 
 <div class="callout callout-verdict">
-  <strong>ğŸ“§ CONTACT US</strong><br>
+  <strong>?? CONTACT US</strong><br>
   The best way to reach us is through our <a href="/contact/">Contact & About page</a>. We aim to respond to all privacy-related inquiries within 5-7 business days.
 </div>
 
@@ -328,7 +328,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 ## Cookie Consent
 
 <div class="callout callout-tip">
-  <strong>ğŸª MANAGE YOUR COOKIES</strong><br>
+  <strong>?? MANAGE YOUR COOKIES</strong><br>
   You can manage your cookie preferences at any time by adjusting your browser settings or using our cookie consent banner. To learn more about how cookies work on this site, see the <a href="#cookies">Cookies section</a> above.
 </div>
 
