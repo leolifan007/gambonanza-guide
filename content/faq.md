@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza FAQ (v1.2.0) ‚Ä?Real Answers to the Most Common Questions"
-description: "Gambonanza FAQ for patch v1.2.0. Real answers to the questions that actually trip players up ‚Ä?boss mechanics, Gambit combos, economy priorities, and hidden rules. Updated for patch v1.1.0."
+title: "Gambonanza FAQ (v1.1.0) ‚Ä?Real Answers to the Most Common Questions"
+description: "Gambonanza FAQ for patch v1.1.0. Real answers to the questions that actually trip players up ‚Ä?boss mechanics, Gambit combos, economy priorities, and hidden rules. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
     url: '/beginner/'
@@ -281,7 +281,7 @@ If you like **Slay the Spire's** decision complexity or **Balatro's** "one more 
 
 ### Is the game still being updated?
 
-**Yes.** Launched May 1, 2026. Developer Blukul√©l√© has confirmed post-launch content updates ‚Ä?more Gambits, bosses, and possibly additional modes. The meta will shift.
+**Yes.** Launched May 1, v1.1.0. Developer Blukul√©l√© has confirmed post-launch content updates ‚Ä?more Gambits, bosses, and possibly additional modes. The meta will shift.
 
 ---
 
@@ -323,4 +323,4 @@ Bookmark this guide. We update weekly as the community discovers new strategies,
 
 ---
 
-*Guide last updated: May 11, 2026 (patch v1.1.0).*
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*

@@ -1,7 +1,7 @@
 ---
-title: 'Gambonanza Recommended Seeds (v1.2.0) â€?Best Opening Seeds Collection'
-description: 'The best Gambonanza opening seeds for patch v1.2.0. Community-verified seeds for all-round, economy, ranked mode, and high-variance builds. Updated with player-verified configurations for patch v1.1.0.'
-lastUpdated: '2026-05-14'
+title: 'Gambonanza Recommended Seeds (v1.1.0) â€?Best Opening Seeds Collection'
+description: 'The best Gambonanza opening seeds for patch v1.1.0. Community-verified seeds for all-round, economy, ranked mode, and high-variance builds. Updated with player-verified configurations for patch v1.1.0.'
+lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
 see_also:
   - title: 'Stock Market & Shop Guide'
@@ -68,8 +68,8 @@ Ranked mode uses a fixed seed pool. These have been verified with high-score run
 
 ## Changelog
 
-- **v1.0** (2026-05-11): Initial release, community-verified seeds
-- **v1.1** (2026-05-14): Full English rewrite
+- **v1.0** (v1.1.0-05-11): Initial release, community-verified seeds
+- **v1.1** (v1.1.0-05-14): Full English rewrite
 
 <div class='callout callout-tip'>
   <strong>Sources & Updates</strong><br>

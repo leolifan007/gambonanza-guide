@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Decision Framework (v1.2.0) â€?Stop Making Costly Mistakes"
-description: "Gambonanza decision framework for patch v1.2.0. How to read the board, when to attack vs defend, your personal mistake pattern, and the decision tree that stops you from throwing runs. Updated for patch v1.1.0."
+title: "Gambonanza Decision Framework (v1.1.0) â€?Stop Making Costly Mistakes"
+description: "Gambonanza decision framework for patch v1.1.0. How to read the board, when to attack vs defend, your personal mistake pattern, and the decision tree that stops you from throwing runs. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
     url: '/beginner/'
@@ -147,4 +147,4 @@ Losing 3 runs in a row? Here's the exact protocol:
 
 ---
 
-*Guide last updated: May 11, 2026 (patch v1.1.0).*
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*

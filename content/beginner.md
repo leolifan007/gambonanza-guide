@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Beginner's Guide v1.2.0 â€?How to Win Your First 5 Runs"
-description: "Complete Gambonanza beginner guide for patch v1.2.0. Learn the 5 rules that actually work, God-Tier starter Gambits, and the Just Win formula. Updated for patch v1.1.0."
+title: "Gambonanza Beginner's Guide v1.1.0 â€?How to Win Your First 5 Runs"
+description: "Complete Gambonanza beginner guide for patch v1.1.0. Learn the 5 rules that actually work, God-Tier starter Gambits, and the Just Win formula. Updated for patch v1.1.0."
 see_also:
   - title: 'Complete Walkthrough'
     url: '/complete-walkthrough/'
@@ -279,4 +279,4 @@ Now go lose a few more times. That's part of the process. Come back when you've 
 
 ---
 
-*Guide last updated: May 11, 2026 (patch v1.1.0).*
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*

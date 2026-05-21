@@ -1,7 +1,7 @@
 ---
-title: 'Gambonanza Endgame Tips (v1.2.0) â€?Killer Strategies for Closing Out Games'
-description: 'Gambonanza endgame guide for patch v1.2.0. Bishop deadlock solutions, King hunting timings, relic timing control, Pawn promotion traps, and a comeback checklist. Updated for patch v1.1.0.'
-lastUpdated: '2026-05-14'
+title: 'Gambonanza Endgame Tips (v1.1.0) â€?Killer Strategies for Closing Out Games'
+description: 'Gambonanza endgame guide for patch v1.1.0. Bishop deadlock solutions, King hunting timings, relic timing control, Pawn promotion traps, and a comeback checklist. Updated for patch v1.1.0.'
+lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
 see_also:
   - title: 'Complete Walkthrough'

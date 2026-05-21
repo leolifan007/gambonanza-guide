@@ -1,6 +1,6 @@
 ---
 title: "Tile Control Guide"
-description: "Gambonanza tile control guide for patch v1.2.0. Tile value map visualization, center vs edge strategy, and a 5-rule checklist to own the board. Updated for patch v1.1.0."
+description: "Gambonanza tile control guide for patch v1.1.0. Tile value map visualization, center vs edge strategy, and a 5-rule checklist to own the board. Updated for patch v1.1.0."
 see_also:
   - title: 'Crumble Mechanic Guide'
     url: '/crumble-mechanic-guide/'
@@ -8,8 +8,8 @@ see_also:
     url: '/decision-framework-guide/'
   - title: 'Queen Supremacy Guide'
     url: '/queen-supremacy-guide/'
-lastUpdated: '2026-05-17'
-version: 'v1.2.0'
+lastUpdated: 'v1.1.0-05-17'
+version: 'v1.1.0'
 ---
 
 ## Tile Control ï¿?TL;DR
@@ -118,4 +118,4 @@ Deploy to edge Gambit tiles ï¿?farm stock ï¿?Earthquake/Board Shrink to collapse
 
 ---
 
-*Last updated: May 17, 2026 | Version: v1.2.0*
+*Last updated: May 17, v1.1.0 | Version: v1.1.0*

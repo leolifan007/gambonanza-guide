@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Strategy Guide v1.2.0 â€?Advanced Tips & Meta Builds Ranked"
-description: "Proven Gambonanza strategies with Meta Ratings for patch v1.2.0. Three S/A/B opening builds, exact Gambit combos, deck composition math, and endgame checkmate patterns. Updated for patch v1.1.0."
+title: "Gambonanza Strategy Guide v1.1.0 â€?Advanced Tips & Meta Builds Ranked"
+description: "Proven Gambonanza strategies with Meta Ratings for patch v1.1.0. Three S/A/B opening builds, exact Gambit combos, deck composition math, and endgame checkmate patterns. Updated for patch v1.1.0."
 see_also:
   - title: 'Endgame Killer Tips'
     url: '/endgame-killer-tips/'
@@ -289,4 +289,4 @@ Three proven openers. Pick one per run and commit.
 
 ---
 
-*Guide last updated: May 11, 2026 (patch v1.1.0).*
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*

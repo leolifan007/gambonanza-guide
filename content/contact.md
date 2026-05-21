@@ -181,4 +181,4 @@ Ready to reach out? We're here and we read everything. Whether it's a quick ques
 
 ---
 
-*Guide last updated: May 11, 2026 (patch v1.1.0).*
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*

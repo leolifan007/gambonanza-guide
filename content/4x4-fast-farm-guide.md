@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza 4x4 Fast Farm Guide (2026) â€” Speedrun Your Economy on Small Boards"
-description: "Gambonanza 4x4 fast farm guide for 2026. Knight aggro openers, farm routes, economy Gambit synergies, and speedrun strategies for maximum stock per minute. Updated for patch v1.1.0."
+title: "Gambonanza 4x4 Fast Farm Guide (v1.1.0) â€?Speedrun Your Economy on Small Boards"
+description: "Gambonanza 4x4 fast farm guide for v1.1.0. Knight aggro openers, farm routes, economy Gambit synergies, and speedrun strategies for maximum stock per minute. Updated for patch v1.1.0."
 see_also:
   - title: 'Stock Market & Shop Guide'
     url: '/economy/'
@@ -62,7 +62,7 @@ The optimal farm cycle:
 
 1. **Match 1-3**: Play Knight Aggro. Ignore economy. Build muscle memory.
 2. **Match 4-6**: Introduce 1-2 economy gambits (Double Down, Stock Split)
-3. **Match 7+**: Full optimization â€” attack openers into economy finish
+3. **Match 7+**: Full optimization â€?attack openers into economy finish
 
 ### Stock Projection (10 Matches)
 
@@ -73,7 +73,7 @@ The optimal farm cycle:
 | 7-10 | Full optimization | ~30/match | 231 |
 
 <div class="pro-tip">
-  Stock resets aren't punishing on 4x4. If you lose a match, you're back in the game within 3 minutes. Don't get tilted â€” just queue the next 4x4 and go again.
+  Stock resets aren't punishing on 4x4. If you lose a match, you're back in the game within 3 minutes. Don't get tilted â€?just queue the next 4x4 and go again.
 </div>
 
 ## Best Gambits for 4x4 Farming
@@ -99,7 +99,7 @@ The optimal farm cycle:
 
 - Don't play defensive gambits (no room to retreat anyway)
 - Don't invest in long-term economy gambits (match too short)
-- Don't play "fair" chess â€” the board is rigged for aggression
+- Don't play "fair" chess â€?the board is rigged for aggression
 - Don't promote pawns (wastes 1-2 turns you don't have)
 
 ## Speedrun Records
@@ -120,4 +120,4 @@ Move up to 6x6 when:
 
 ---
 
-*Last updated: May 11, 2026 | Version: v1.1.0 | Based on my runs and gameplay testing*
+*Last updated: May 11, v1.1.0 | Version: v1.1.0 | Based on my runs and gameplay testing*

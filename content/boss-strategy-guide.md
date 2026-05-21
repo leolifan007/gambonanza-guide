@@ -1,8 +1,8 @@
 ---
-title: 'Gambonanza Boss Strategy Guide v1.2.0 â€?How to Beat Every Boss'
-description: 'Step-by-step Gambonanza boss strategies for patch v1.2.0. Phase-by-phase breakdowns, counter Gambits, and loadout recommendations for Jester, King of Spades, Blitzking, Queen of Hearts, and Grand Master. Updated for patch v1.1.0.'
-lastUpdated: '2026-05-14'
-version: 'v1.2.0'
+title: 'Gambonanza Boss Strategy Guide v1.1.0 â€?How to Beat Every Boss'
+description: 'Step-by-step Gambonanza boss strategies for patch v1.1.0. Phase-by-phase breakdowns, counter Gambits, and loadout recommendations for Jester, King of Spades, Blitzking, Queen of Hearts, and Grand Master. Updated for patch v1.1.0.'
+lastUpdated: 'v1.1.0-05-14'
+version: 'v1.1.0'
 see_also:
   - title: 'Boss Battle Guide'
     url: '/bosses/'

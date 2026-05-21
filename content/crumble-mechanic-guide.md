@@ -1,6 +1,6 @@
 ---
 title: "Crumble Mechanic Guide"
-description: "Gambonanza Crumble mechanic guide for patch v1.2.0. Board shrink visualization, Heal Board loop diagram, 3 trap scenarios with solutions, and 5 counter-plays for every board size. Updated for patch v1.2.0."
+description: "Gambonanza Crumble mechanic guide for patch v1.1.0. Board shrink visualization, Heal Board loop diagram, 3 trap scenarios with solutions, and 5 counter-plays for every board size. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
     url: '/beginner/'
@@ -8,8 +8,8 @@ see_also:
     url: '/tile-control-guide/'
   - title: 'All Gambits Guide'
     url: '/gambits/'
-lastUpdated: '2026-05-21'
-version: 'v1.2.0'
+lastUpdated: 'v1.1.0-05-21'
+version: 'v1.1.0'
 ---
 
 ## Crumble â€?TL;DR
@@ -225,4 +225,4 @@ They have 3 center tiles. You have 0. Crumble hasn't even started yet, and you'r
 
 ---
 
-*Last updated: May 21, 2026 | Version: v1.2.0*
+*Last updated: May 21, v1.1.0 | Version: v1.1.0*

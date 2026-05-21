@@ -1,6 +1,6 @@
 ---
 title: "Combo Chain Guide"
-description: "Gambonanza combo chain guide for patch v1.2.0. Checkmate Express flowchart, Farm Loop diagram, and 4 chain types to double your value per turn. Updated for patch v1.1.0."
+description: "Gambonanza combo chain guide for patch v1.1.0. Checkmate Express flowchart, Farm Loop diagram, and 4 chain types to double your value per turn. Updated for patch v1.1.0."
 see_also:
   - title: 'All Gambits Guide'
     url: '/gambits/'
@@ -8,8 +8,8 @@ see_also:
     url: '/deterministic-gambits-guide/'
   - title: 'Queen Supremacy Guide'
     url: '/queen-supremacy-guide/'
-lastUpdated: '2026-05-17'
-version: 'v1.2.0'
+lastUpdated: 'v1.1.0-05-17'
+version: 'v1.1.0'
 ---
 
 ## Combo Chains â€?TL;DR
@@ -115,4 +115,4 @@ Lure piece to edge â†?Earthquake â†?attack isolated piece. **Result:** Free capt
 
 ---
 
-*Last updated: May 17, 2026 | Version: v1.2.0*
+*Last updated: May 17, v1.1.0 | Version: v1.1.0*

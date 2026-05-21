@@ -1,7 +1,7 @@
 ---
-title: "Gambonanza Best Seeds (v1.2.0) â€?Top 15 Seeds Ranked for Every Build"
-description: "The best Gambonanza seeds for patch v1.2.0. Top 15 seeds ranked S/A/B for economy builds, speed runs, boss fights, and ranked mode. Includes how to use seeds and what makes a good seed. Updated for patch v1.1.0."
-lastUpdated: '2026-05-19'
+title: "Gambonanza Best Seeds (v1.1.0) â€?Top 15 Seeds Ranked for Every Build"
+description: "The best Gambonanza seeds for patch v1.1.0. Top 15 seeds ranked S/A/B for economy builds, speed runs, boss fights, and ranked mode. Includes how to use seeds and what makes a good seed. Updated for patch v1.1.0."
+lastUpdated: 'v1.1.0-05-19'
 version: 'v1.1.0'
 see_also:
   - title: 'Recommended Seeds Collection'
@@ -110,8 +110,8 @@ Yes! Seeds are deterministic, so any seed that works for you will work identical
 
 ## Changelog
 
-- **v1.1** (2026-05-19): Expanded from 5 seeds to 15, added category rankings, expanded FAQ
-- **v1.0** (2026-05-11): Initial release with 5 community-verified seeds
+- **v1.1** (v1.1.0-05-19): Expanded from 5 seeds to 15, added category rankings, expanded FAQ
+- **v1.0** (v1.1.0-05-11): Initial release with 5 community-verified seeds
 
 <div class='callout callout-tip'>
   <strong>Sources & Updates</strong><br>

@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Economy & Shop Guide v1.2.0 â€?Stock Strategy & Investment Tips"
-description: "Complete Gambonanza economy guide for patch v1.2.0. S/A/B/C rated investment tables, compound growth strategies, shop spending priorities, and exact thresholds for maximum returns. Updated for patch v1.1.0."
+title: "Gambonanza Economy & Shop Guide v1.1.0 â€?Stock Strategy & Investment Tips"
+description: "Complete Gambonanza economy guide for patch v1.1.0. S/A/B/C rated investment tables, compound growth strategies, shop spending priorities, and exact thresholds for maximum returns. Updated for patch v1.1.0."
 see_also:
   - title: '4x4 Fast Farm Guide'
     url: '/4x4-fast-farm-guide/'
@@ -234,4 +234,4 @@ see_also:
 
 ---
 
-*Guide last updated: May 11, 2026 (patch v1.1.0).*
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*

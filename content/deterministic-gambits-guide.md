@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Deterministic Gambits (v1.2.0) â€?The Best Reliable Gambits Ranked"
-description: "Gambonanza deterministic Gambits guide for patch v1.2.0. Reliable Gambits ranked by consistency and cost efficiency â€?no RNG dice rolls. Which chance-based Gambits to skip entirely. Updated for patch v1.1.0."
+title: "Gambonanza Deterministic Gambits (v1.1.0) â€?The Best Reliable Gambits Ranked"
+description: "Gambonanza deterministic Gambits guide for patch v1.1.0. Reliable Gambits ranked by consistency and cost efficiency â€?no RNG dice rolls. Which chance-based Gambits to skip entirely. Updated for patch v1.1.0."
 see_also:
   - title: 'All Gambits Guide'
     url: '/gambits/'
@@ -138,4 +138,4 @@ After this core, buy A-Tier depending on your build. B-Tier only as filler.
 
 ---
 
-*Guide last updated: May 11, 2026 (patch v1.1.0).*
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*

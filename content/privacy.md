@@ -6,7 +6,7 @@ description: "How Gambonanza Guide collects, uses, and protects your personal in
 ## Privacy Policy
 
 <div class="callout callout-tip">
-  <strong>?? LAST UPDATED:</strong> May 11, 2026 (patch v1.1.0)<br>
+  <strong>?? LAST UPDATED:</strong> May 11, v1.1.0 (patch v1.1.0)<br>
   This policy describes how Gambonanza Guide ("we," "us," or "our") handles your information when you use our website at <strong>gambonanza.guide</strong> and related subdomains.
 </div>
 

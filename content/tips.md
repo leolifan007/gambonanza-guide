@@ -1,7 +1,7 @@
 ---
-title: "Gambonanza Tips & Tricks (v1.2.0) â€?25 Pro Tips That Changed How I Play"
-description: "The best Gambonanza tips and tricks for patch v1.2.0. 25 pro tips from 100+ hours of gameplay, covering economy management, Gambit combos, boss patterns, and hidden mechanics. Updated for patch v1.1.0."
-lastUpdated: '2026-05-19'
+title: "Gambonanza Tips & Tricks (v1.1.0) â€?25 Pro Tips That Changed How I Play"
+description: "The best Gambonanza tips and tricks for patch v1.1.0. 25 pro tips from 100+ hours of gameplay, covering economy management, Gambit combos, boss patterns, and hidden mechanics. Updated for patch v1.1.0."
+lastUpdated: 'v1.1.0-05-19'
 version: 'v1.1.0'
 see_also:
   - title: 'Beginner Guide'
@@ -110,7 +110,7 @@ Seriously. Don't stress about winning early. Use your first 5 runs to learn boss
 
 ## Changelog
 
-- **v1.1** (2026-05-19): Initial release with 25 pro tips
+- **v1.1** (v1.1.0-05-19): Initial release with 25 pro tips
 
 <div class='callout callout-tip'>
   <strong>Sources & Updates</strong><br>

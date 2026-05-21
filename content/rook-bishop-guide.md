@@ -1,7 +1,7 @@
 ---
-title: 'Gambonanza Rook & Bishop Guide v1.2.0 â€?Mastering the Support Pieces'
-description: 'Gambonanza Rook and Bishop guide for patch v1.2.0. Rook suppression power, Bishop control tactics, Gambit combos, and advanced formations for these underrated pieces. Updated for patch v1.1.0.'
-lastUpdated: '2026-05-14'
+title: 'Gambonanza Rook & Bishop Guide v1.1.0 â€?Mastering the Support Pieces'
+description: 'Gambonanza Rook and Bishop guide for patch v1.1.0. Rook suppression power, Bishop control tactics, Gambit combos, and advanced formations for these underrated pieces. Updated for patch v1.1.0.'
+lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
 see_also:
   - title: 'Bosses Overview'

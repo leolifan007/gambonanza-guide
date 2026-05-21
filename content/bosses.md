@@ -1,5 +1,5 @@
 ---
-title: "Gambonanza Bosses â€?All 8 Bosses Ranked by Difficulty (v1.2.0)"
+title: "Gambonanza Bosses â€?All 8 Bosses Ranked by Difficulty (v1.1.0)"
 description: "Every Gambonanza boss ranked from easiest to hardest. Quick-reference stats, phase mechanics, and which Gambits counter each boss. Updated for patch v1.1.0."
 see_also:
   - title: 'Blitzking Boss Guide'
@@ -456,4 +456,4 @@ Uses ALL piece types, ALL abilities, and gets progressively harder with each HP 
 
 ---
 
-*Guide last updated: May 11, 2026 (patch v1.1.0).*
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*

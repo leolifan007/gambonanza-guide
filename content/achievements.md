@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Achievements Guide v1.2.0 â€?All 22 Steam Achievements Unlock Guide"
-description: "Complete Gambonanza achievement guide for patch v1.2.0. All 22 Steam achievements with difficulty ratings, exact unlock strategies, and Pro Tips for the hardest ones. Updated for patch v1.1.0."
+title: "Gambonanza Achievements Guide v1.1.0 â€?All 22 Steam Achievements Unlock Guide"
+description: "Complete Gambonanza achievement guide for patch v1.1.0. All 22 Steam achievements with difficulty ratings, exact unlock strategies, and Pro Tips for the hardest ones. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
     url: '/beginner/'
@@ -159,4 +159,4 @@ These unlock naturally through gameplay. No special strategy needed:
 
 ---
 
-*Guide last updated: May 11, 2026 (patch v1.1.0).*
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*

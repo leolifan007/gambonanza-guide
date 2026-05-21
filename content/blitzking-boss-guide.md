@@ -12,8 +12,8 @@ see_also:
     url: '/queen-supremacy-guide/'
   - title: 'Decision Framework'
     url: '/decision-framework-guide/'
-lastUpdated: '2026-05-17'
-version: 'v1.2.0'
+lastUpdated: 'v1.1.0-05-17'
+version: 'v1.1.0'
 ---
 
 ## Blitzking â€?TL;DR
@@ -99,4 +99,4 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 
 ---
 
-*Last updated: May 17, 2026 | Version: v1.2.0*
+*Last updated: May 17, v1.1.0 | Version: v1.1.0*

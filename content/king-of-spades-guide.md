@@ -1,8 +1,8 @@
 ---
 
-title: "Gambonanza King of Spades Guide v1.2.0 â€?Mechanics, Counters & Three Proven Builds"
+title: "Gambonanza King of Spades Guide v1.1.0 â€?Mechanics, Counters & Three Proven Builds"
 
-description: "Gambonanza King of Spades boss guide for patch v1.2.0. Teleport mechanics explained, piece priority ranking, and three proven builds: solid control, speed push, and no-damage sniper. Updated for patch v1.1.0."
+description: "Gambonanza King of Spades boss guide for patch v1.1.0. Teleport mechanics explained, piece priority ranking, and three proven builds: solid control, speed push, and no-damage sniper. Updated for patch v1.1.0."
 
 see_also:
   - title: 'Boss Battle Guide'
@@ -232,5 +232,5 @@ A: Yes. Promotion doesn't grant immunity. Keep promoted pieces within your Fortr
 
 ---
 
-*Last updated: May 11, 2026 | Version: v1.1.0 | Based on my runs and gameplay testing*
+*Last updated: May 11, v1.1.0 | Version: v1.1.0 | Based on my runs and gameplay testing*
 

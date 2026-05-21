@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Card Database (v1.2.0) ¡ª Every Piece Card Rated & Ranked"
-description: "Complete Gambonanza card database for patch v1.2.0. Every piece card with S/A/B meta ratings, synergy pairings, combo chains, and which cards are trap picks. Updated for patch v1.1.0."
+title: "Gambonanza Card Database (v1.1.0) ¡ª Every Piece Card Rated & Ranked"
+description: "Complete Gambonanza card database for patch v1.1.0. Every piece card with S/A/B meta ratings, synergy pairings, combo chains, and which cards are trap picks. Updated for patch v1.1.0."
 ---
 
 ## Card Database ¡ª Rated, Ranked & Synergized
@@ -210,5 +210,5 @@ Rook locks in place, invulnerable 2 turns, then massive damage to adjacent enemy
 
 ---
 
-*Card database actively updated as I discover new cards through my runs. Last update: May 11, 2026 (patch v1.1.0).*
+*Card database actively updated as I discover new cards through my runs. Last update: May 11, v1.1.0 (patch v1.1.0).*
 

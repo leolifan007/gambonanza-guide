@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Tier List (v1.2.0) ！ Best Gambits & Builds Ranked S/A/B/C"
-description: "Complete Gambonanza tier list for patch v1.2.0. All 150+ Gambits ranked S/A/B/C with synergies, pro tips, and best builds. Find the strongest Gambits for every strategy. Updated for patch v1.1.0."
+title: "Gambonanza Tier List (v1.1.0) ！ Best Gambits & Builds Ranked S/A/B/C"
+description: "Complete Gambonanza tier list for patch v1.1.0. All 150+ Gambits ranked S/A/B/C with synergies, pro tips, and best builds. Find the strongest Gambits for every strategy. Updated for patch v1.1.0."
 ---
 
 ## ?? Gambonanza Tier List v1.0 ！ Every Gambit Ranked
@@ -397,8 +397,8 @@ High-risk, high-reward attack. Can one-shot bosses or miss entirely.
 
 ---
 
-*Gambonanza Tier List v1.0 ！ Last updated: May 7, 2026. Based on my runs and gameplay analysis. 150+ Gambits total; top 22 ranked individually here.*
+*Gambonanza Tier List v1.0 ！ Last updated: May 7, v1.1.0. Based on my runs and gameplay analysis. 150+ Gambits total; top 22 ranked individually here.*
 
 ---
 
-*Guide last updated: May 11, 2026 (patch v1.1.0).*
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*

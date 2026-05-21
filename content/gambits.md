@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza All Gambits Guide v1.2.0 ！ 150+ Gambits Rated & Ranked"
-description: "Complete Gambonanza Gambit database for patch v1.2.0. 150+ Gambits with S/A/B/C meta ratings, Piece〜Tile synergy tables, Early vs Late Game analysis, and Pro Tips. Updated for patch v1.1.0."
+title: "Gambonanza All Gambits Guide v1.1.0 ！ 150+ Gambits Rated & Ranked"
+description: "Complete Gambonanza Gambit database for patch v1.1.0. 150+ Gambits with S/A/B/C meta ratings, Piece〜Tile synergy tables, Early vs Late Game analysis, and Pro Tips. Updated for patch v1.1.0."
 ---
 
 ## The Gambit System ！ Rated, Ranked & Explained
@@ -478,5 +478,5 @@ For your first 10 runs, prioritize these Gambits in this exact order:
 
 ---
 
-*Gambit database based on my runs and gameplay analysis. 150+ Gambits total ！ I've catalogued the top 60 with full ratings. More added as meta evolves. Last updated: May 11, 2026 (patch v1.1.0).*
+*Gambit database based on my runs and gameplay analysis. 150+ Gambits total ！ I've catalogued the top 60 with full ratings. More added as meta evolves. Last updated: May 11, v1.1.0 (patch v1.1.0).*
 
