@@ -25,22 +25,12 @@
 - Schedule: 非整点随机时间 (09:11, 13:48, 17:23 CST)
 - workflow_dispatch: 支持手动
 
-## gh CLI 认证
+# gh CLI 认证 (可选)
 
-需要 GitHub CLI 登录后才能远程触发部署：
+用于查看部署日志等，不部署必须。
 
 ```powershell
 gh auth login
-# 流程:
-# 1. GitHub.com → HTTPS
-# 2. 登录浏览器 → 已授权设备
-# 3. 建议也勾选 "SSH密钥" 用于 git 操作
-```
-
-登录后可以用:
-```powershell
-gh run list --repo leolifan007/gambonanza-guide        # 查看最近部署
-gh run view <run-id> --log                      # 查看构建日志
 ```
 
 ## 代码修改后手动部署流程
@@ -53,14 +43,11 @@ git checkout main
 git add .
 git commit -m "描述改动"
 
-# 3. 推送到 origin main
+# 3. 推送到 origin main → 自动触发部署！
 git push origin main
-
-# 4. 触发部署 (需要 gh CLI 登录后)
-gh run workflow dispatch scheduled-release.yml -f ref=main
-
-# 5. 或者网页触发: https://github.com/leolifan007/gambonanza-guide/actions
 ```
+
+**部署会自动触发**，无需手动操作。
 
 ## 文章管理
 
