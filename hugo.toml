@@ -29,6 +29,7 @@ disableHugoGeneratorInject = false
     endLevel = 2
     ordered = false
 
+# Disable taxonomies to remove /categories/ and /tags/ from sitemap
 [taxonomies]
-  tag = 'tags'
-  category = 'categories'
+  tag = ''
+  category = ''
