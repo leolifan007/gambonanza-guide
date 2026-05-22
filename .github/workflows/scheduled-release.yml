@@ -22,16 +22,18 @@ jobs:
           ref: content-polishing
           fetch-depth: 0
 
+      - name: Sync with main
+        run: |
+          git config user.name "Gambonan Bot"
+          git config user.email "bot@gambonanzaguide.com"
+          git fetch origin main
+          git merge origin/main --no-edit || { echo "::error::Merge conflict with main — manual fix required"; exit 1; }
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: false
-
-      - name: Configure Git
-        run: |
-          git config user.name "Gambonan Bot"
-          git config user.email "bot@gambonanzaguide.com"
 
       - name: Auto-publish hidden articles
         run: |
@@ -42,17 +44,18 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+
+      - name: Push content-polishing changes
         run: |
-          git fetch origin gh-pages
-          git worktree add /tmp/gh-pages gh-pages
-          rsync -a --delete public/ /tmp/gh-pages/
-          cd /tmp/gh-pages
-          git add .
-          git commit -m "deploy: auto-publish $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to deploy"
-          git push origin gh-pages
+          git push origin content-polishing
 
       - name: Merge to main
         run: |
+          git fetch origin main
           git checkout main
           git merge content-polishing --no-edit
           git push origin main
