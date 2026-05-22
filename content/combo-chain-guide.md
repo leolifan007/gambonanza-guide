@@ -12,7 +12,7 @@ lastUpdated: 'v1.1.0-05-17'
 version: 'v1.1.0'
 ---
 
-## Combo Chains â€?TL;DR
+## Combo Chains ğŸ”¥ TL;DR
 
 <div class="callout callout-verdict">
 <strong>1 Gambit per turn = beginner. 3 Gambits in 1 turn = game breaker.</strong><br>
@@ -21,7 +21,7 @@ Chain them. Win.
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Win rate on 6Ã—6 jumped 45% â†?72% after I learned chains.</span>
+  <span class="meta-label">Win rate on 6Ã—6 jumped 45% â†’ 72% after I learned chains.</span>
 </div>
 
 <hr class="section-divider">
@@ -30,46 +30,46 @@ Chain them. Win.
 
 | Type | What Happens | Example |
 |------|---------------|---------|
-| Setup â†?Execute | Gambit A preps, Gambit B hits | Early Check â†?Knight Fork |
-| Amplify â†?Amplify | Each Gambit boosts the next | Double Move â†?Teleport â†?Capture |
-| Deny â†?Punish | Remove opponent options, then strike | Freeze â†?Board Shrink â†?Mate |
-| Loop | Gambit feeds back into itself | Heal â†?Gambit Tile â†?Free Gambit â†?Heal |
+| Setup â†’ Execute | Gambit A preps, Gambit B hits | Early Check â†’ Knight Fork |
+| Amplify â†’ Amplify | Each Gambit boosts the next | Double Move â†’ Teleport â†’ Capture |
+| Deny â†’ Punish | Remove opponent options, then strike | Freeze â†’ Board Shrink â†’ Mate |
+| Loop | Gambit feeds back into itself | Heal â†’ Gambit Tile â†’ Free Gambit â†’ Heal |
 
 <hr class="section-divider">
 
 ## The 5 Best Chains
 
-### â‘?Checkmate Express <span class="meta-badge meta-s">S</span>
+### ğŸ”¥ Checkmate Express <span class="meta-badge meta-s">S</span>
 
-<img src="/images/guides/checkmate-express.svg" alt="Checkmate Express: Early Check â†?Teleport Queen â†?Double Move â†?Checkmate" style="width:100%;max-width:780px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/checkmate-express.svg" alt="Checkmate Express: Early Check â†’ Teleport Queen â†’ Double Move â†’ Checkmate" style="width:100%;max-width:780px;border-radius:8px;" loading="lazy">
 
 **Cost:** High (3 Gambits) | **Best for:** Late game, exposed King | **Win rate:** ~90%
 
 ---
 
-### â‘?Farm Loop <span class="meta-badge meta-s">S</span>
+### ğŸ”¥ Farm Loop <span class="meta-badge meta-s">S</span>
 
-<img src="/images/guides/heal-board-loop.svg" alt="Farm Loop: Collapse â†?Heal â†?Restore + Gambit â†?Trigger â†?Repeat" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/heal-board-loop.svg" alt="Farm Loop: Collapse â†’ Heal â†’ Restore + Gambit â†’ Trigger â†’ Repeat" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
 
 **Cost:** Medium (only Heal Board) | **Best for:** Economy farming on 5Ã—5+ | **Stock per loop:** +8-12
 
 ---
 
-### â‘?Denial Cascade <span class="meta-badge meta-a">A</span>
+### ğŸ”¥ Denial Cascade <span class="meta-badge meta-a">A</span>
 
-Freeze key piece â†?Board Shrink around it â†?attack freely. **Result:** Opponent loses 2 turns.
-
----
-
-### â‘?Fork Factory <span class="meta-badge meta-a">A</span>
-
-Knight Boost â†?Teleport Knight to fork â†?Double Move â†?capture 2. **Result:** +2 material in 1 turn.
+Freeze key piece â†’ Board Shrink around it â†’ attack freely. **Result:** Opponent loses 2 turns.
 
 ---
 
-### â‘?Crumble Trap <span class="meta-badge meta-b">B</span>
+### ğŸ”¥ Fork Factory <span class="meta-badge meta-a">A</span>
 
-Lure piece to edge â†?Earthquake â†?attack isolated piece. **Result:** Free capture.
+Knight Boost â†’ Teleport Knight to fork â†’ Double Move â†’ capture 2. **Result:** +2 material in 1 turn.
+
+---
+
+### ğŸ”¥ Crumble Trap <span class="meta-badge meta-b">B</span>
+
+Lure piece to edge â†’ Earthquake â†’ attack isolated piece. **Result:** Free capture.
 
 <hr class="section-divider">
 
@@ -105,13 +105,13 @@ Lure piece to edge â†?Earthquake â†?attack isolated piece. **Result:** Free capt
 
 ## Common Mistakes
 
-| â?Mistake | âœ?Fix |
+| âš ï¸ Mistake | âœ… Fix |
 |------------|---------|
-| Forcing chains that aren't there | Play a single Gambit instead |
-| Ignoring Farm Loop | Heal Board = free stock for chains |
-| Telegraphing (hesitating after setup) | Execute in consecutive turns |
-| Chaining vs Grand Master | GM has counter-chains. Single Gambits safer. |
-| Not checking opponent's Gambits | Freeze/Swap = your chain backfires |
+| âš ï¸ Forcing chains that aren't there | âœ… Play a single Gambit instead |
+| âš ï¸ Ignoring Farm Loop | âœ… Heal Board = free stock for chains |
+| âš ï¸ Telegraphing (hesitating after setup) | âœ… Execute in consecutive turns |
+| âš ï¸ Chaining vs Grand Master | âœ… GM has counter-chains. Single Gambits safer. |
+| âš ï¸ Not checking opponent's Gambits | âœ… Freeze/Swap = your chain backfires |
 
 ---
 
