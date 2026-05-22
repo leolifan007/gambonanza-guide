@@ -12,7 +12,7 @@ lastUpdated: 'v1.1.0-05-17'
 version: 'v1.1.0'
 ---
 
-## Combo Chains 🔥 TL;DR
+## Combo Chains  TL;DR
 
 <div class="callout callout-verdict">
 <strong>1 Gambit per turn = beginner. 3 Gambits in 1 turn = game breaker.</strong><br>
@@ -39,7 +39,7 @@ Chain them. Win.
 
 ## The 5 Best Chains
 
-### 🔥 Checkmate Express <span class="meta-badge meta-s">S</span>
+###  Checkmate Express <span class="meta-badge meta-s">S</span>
 
 <img src="/images/guides/checkmate-express.svg" alt="Checkmate Express: Early Check → Teleport Queen → Double Move → Checkmate" style="width:100%;max-width:780px;border-radius:8px;" loading="lazy">
 
@@ -47,7 +47,7 @@ Chain them. Win.
 
 ---
 
-### 🔥 Farm Loop <span class="meta-badge meta-s">S</span>
+###  Farm Loop <span class="meta-badge meta-s">S</span>
 
 <img src="/images/guides/heal-board-loop.svg" alt="Farm Loop: Collapse → Heal → Restore + Gambit → Trigger → Repeat" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
 
@@ -55,19 +55,19 @@ Chain them. Win.
 
 ---
 
-### 🔥 Denial Cascade <span class="meta-badge meta-a">A</span>
+###  Denial Cascade <span class="meta-badge meta-a">A</span>
 
 Freeze key piece → Board Shrink around it → attack freely. **Result:** Opponent loses 2 turns.
 
 ---
 
-### 🔥 Fork Factory <span class="meta-badge meta-a">A</span>
+###  Fork Factory <span class="meta-badge meta-a">A</span>
 
 Knight Boost → Teleport Knight to fork → Double Move → capture 2. **Result:** +2 material in 1 turn.
 
 ---
 
-### 🔥 Crumble Trap <span class="meta-badge meta-b">B</span>
+###  Crumble Trap <span class="meta-badge meta-b">B</span>
 
 Lure piece to edge → Earthquake → attack isolated piece. **Result:** Free capture.
 
@@ -105,13 +105,13 @@ Lure piece to edge → Earthquake → attack isolated piece. **Result:** Free ca
 
 ## Common Mistakes
 
-| ⚠️ Mistake | ✅ Fix |
+|  Mistake |  Fix |
 |------------|---------|
-| ⚠️ Forcing chains that aren't there | ✅ Play a single Gambit instead |
-| ⚠️ Ignoring Farm Loop | ✅ Heal Board = free stock for chains |
-| ⚠️ Telegraphing (hesitating after setup) | ✅ Execute in consecutive turns |
-| ⚠️ Chaining vs Grand Master | ✅ GM has counter-chains. Single Gambits safer. |
-| ⚠️ Not checking opponent's Gambits | ✅ Freeze/Swap = your chain backfires |
+|  Forcing chains that aren't there |  Play a single Gambit instead |
+|  Ignoring Farm Loop |  Heal Board = free stock for chains |
+|  Telegraphing (hesitating after setup) |  Execute in consecutive turns |
+|  Chaining vs Grand Master |  GM has counter-chains. Single Gambits safer. |
+|  Not checking opponent's Gambits |  Freeze/Swap = your chain backfires |
 
 ---
 
