@@ -48,35 +48,35 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 | 🔥 Stock Boost | +2-5 stock | ★★☆ (only if safe) |
 | 🔥 Heal Square | Restore 1 collapsed adjacent tile | ★★☆ (vs Crumble) |
 | 🔥 Power Square | Next move +1 range | ★☆☆ (nice to have) |
-| �?Trap Tile | Damages your piece | ☆☆�?(avoid) |
+| 💀 Trap Tile | Damages your piece | ☆☆☆ (avoid) |
 
 > **Rule:** Free Gambit tiles are the most valuable on the board. Plan routes to revisit them after cooldown.
 
 <hr class="section-divider">
 
-## 2 Strategies �?Pick One
+## 2 Strategies 🔥 Pick One
 
-### �?Center Lock (Recommended)
+### 🔥 Center Lock (Recommended)
 
-<img src="/images/guides/center-lock-strategy.svg" alt="Center Lock Strategy: Knight center �?Bishop/Rook reinforce �?Fortress Gambit" style="width:100%;max-width:440px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/center-lock-strategy.svg" alt="Center Lock Strategy: Knight center → Bishop/Rook reinforce → Fortress Gambit" style="width:100%;max-width:440px;border-radius:8px;" loading="lazy">
 
-| �?Pros | �?Cons |
+| ✅ Pros | ❌ Cons |
 |---------|----------|
 | Safe from Crumble | Vulnerable to early aggression |
 | Max mobility | Can be flanked |
 
 ---
 
-### �?Edge Gambit (Advanced)
+### 🔥 Edge Gambit (Advanced)
 
-Deploy to edge Gambit tiles �?farm stock �?Earthquake/Board Shrink to collapse center �?sweep in.
+Deploy to edge Gambit tiles → farm stock → Earthquake/Board Shrink to collapse center → sweep in.
 
-| �?Pros | �?Cons |
+| ✅ Pros | ❌ Cons |
 |---------|----------|
 | Economy advantage | Very risky |
 | Turns Crumble into weapon | Needs specific Gambits |
 
-> **Best vs Jester:** Jester accelerates Crumble anyway �?Edge Gambit works perfectly.
+> **Best vs Jester:** Jester accelerates Crumble anyway → Edge Gambit works perfectly.
 
 <hr class="section-divider">
 
@@ -84,22 +84,22 @@ Deploy to edge Gambit tiles �?farm stock �?Earthquake/Board Shrink to collap
 
 | Piece | Best Tile | Control Style |
 |-------|------------|----------------|
-| �?Queen | S (center) | Dominates all 8 directions |
-| �?Rook | A (mid-ring, file) | Locks down entire files |
-| �?Bishop | A (mid-ring, diagonal) | Controls diagonals |
-| �?Knight | S/A (center area) | Forks from center |
-| �?Pawn | C/D (corridor/edge) | Only useful for promotion |
+| ♕ Queen | S (center) | Dominates all 8 directions |
+| ♖ Rook | A (mid-ring, file) | Locks down entire files |
+| ♗ Bishop | A (mid-ring, diagonal) | Controls diagonals |
+| ♘ Knight | S/A (center area) | Forks from center |
+| ♙ Pawn | C/D (corridor/edge) | Only useful for promotion |
 
 <hr class="section-divider">
 
 ## 5-Rule Checklist (Use Every Turn)
 
 ```
-�?Am I moving toward higher-value tiles?  (S > A > B > C > D)
-�?Will this tile still exist in 3 turns?  (check Crumble timeline)
-�?Am I activating a Gambit tile?         (prioritize Free Gambit)
-�?Does this expand or abandon territory?   (never give up S/A tiles)
-�?Can opponent take this tile next turn?    (have a counter ready)
+✅ Am I moving toward higher-value tiles?  (S > A > B > C > D)
+✅ Will this tile still exist in 3 turns?  (check Crumble timeline)
+✅ Am I activating a Gambit tile?         (prioritize Free Gambit)
+✅ Does this expand or abandon territory?   (never give up S/A tiles)
+✅ Can opponent take this tile next turn?    (have a counter ready)
 ```
 
 <hr class="section-divider">
