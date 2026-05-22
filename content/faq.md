@@ -13,7 +13,7 @@ see_also:
 ## The FAQ—What Players Actually Need to Know
 
 <div class="callout callout-verdict">
-  <strong>馃幆 THE VERDICT</strong><br>
+  <strong>✅ THE VERDICT</strong><br>
   Most FAQ pages list obvious questions nobody asked. This one only includes stuff that REAL players get wrong—the kind of mistakes that cost runs. If you're stuck, the answer is probably here.
 </div>
 
@@ -324,5 +324,6 @@ Bookmark this guide. We update weekly as the community discovers new strategies,
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
 

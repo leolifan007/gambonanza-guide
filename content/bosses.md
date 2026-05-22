@@ -38,7 +38,7 @@ Boss retry costs 25 stock. Going in broke = no second chance. Keep a minimum 50 
 <div class="split-col">
 <div class="col">
 
-### 馃幆 Rule 3: Boss Gambits Are Not Optional
+### ✅ Rule 3: Boss Gambits Are Not Optional
 
 For King of Spades and The Grandmaster, boss-specific counters (King's Counter, The Ultimate Counter) are essentially **required**. For all other bosses, they make the fight 2-3脳 easier. Prioritize unlocking them in the shop before attempting.
 
@@ -85,7 +85,7 @@ Rook Rook can move up to **4 squares** along ranks and files, triggering Gambits
   <span style="color:var(--cream-dark);font-size:0.9rem">Rook Rook is slow to develop. Rush knights and bishops aggressively. If you control diagonals by turn 3, the fight is already won.</span>
 </div>
 
-### 馃幆 Exact Gambit Counters
+### ✅ Exact Gambit Counters
 
 - **Pierce Through**—Break their defensive rank formation
 - **Knight+Bishop Combo**—Flank from angles the rook literally cannot reach
@@ -128,7 +128,7 @@ Bishop Bluku controls both diagonals simultaneously and can **swap squares** wit
   <span style="color:var(--cream-dark);font-size:0.9rem">Build pawn chains immediately. Every pawn you play blocks one diagonal. By turn 4, you want AT LEAST 3 pawns forming an interlocking wall.</span>
 </div>
 
-### 馃幆 Exact Gambit Counters
+### ✅ Exact Gambit Counters
 
 - **Bishop's Blind**—Removes bishop line-of-sight for 3 turns (boss-specific, essential)
 - **Surround**—Trap pieces in blocked positions
@@ -171,7 +171,7 @@ Knightmare moves in **triple L-shapes**—one knight move triggers three simulta
   <span style="color:var(--cream-dark);font-size:0.9rem">Survive the fork phase without losing a major piece, and Knightmare runs out of steam. Its late game is surprisingly weak.</span>
 </div>
 
-### 馃幆 Exact Gambit Counters
+### ✅ Exact Gambit Counters
 
 - **Knight's Parry**—Counter-attacks any knight special movement (boss-specific)
 - **Undo Move**—Recover from a fork that caught you
@@ -214,7 +214,7 @@ Queen Gambit has rook + bishop movement, +50% attack in the center, and an insta
   <span style="color:var(--cream-dark);font-size:0.9rem">Burns bright early, weakens late. Stall, trade pieces, and go for the war of attrition. She has no comeback mechanic after losing her queen.</span>
 </div>
 
-### 馃幆 Exact Gambit Counters
+### ✅ Exact Gambit Counters
 
 - **Queen's Gambit Counter**—Negates promotion ability (ESSENTIAL, boss-specific)
 - **Teleport**—Escape queen range instantly
@@ -257,7 +257,7 @@ The hardest regular boss. King of Spades teleports your pieces **off the board**
   <span style="color:var(--cream-dark);font-size:0.9rem">Pure attrition. You don't rush King of Spades. You slowly drain his Gambits while preserving your pieces. Long range + patience = win.</span>
 </div>
 
-### 馃幆 Exact Gambit Counters
+### ✅ Exact Gambit Counters
 
 - **King's Counter**—Blocks teleport for 3 turns (**REQUIRED—do not attempt without it**)
 - **Heal Board**—Return removed pieces in Phase 2
@@ -301,7 +301,7 @@ Not a boss—a **swarm**. 16 pawns advancing in formation, promoting if they rea
   <span style="color:var(--cream-dark);font-size:0.9rem">Aggression wins here. The longer you wait, the closer pawns get to promotion. Kill the front 2-3 pawns in the first 4 turns, then clean up the rest at your pace.</span>
 </div>
 
-### 馃幆 Exact Gambit Counters
+### ✅ Exact Gambit Counters
 
 - **Chain Capture**—Take out 2-3 pawns in one move chain
 - **Surround**—Trap advancing pawn groups
@@ -344,7 +344,7 @@ Castle Master can castle **both kingside AND queenside simultaneously**, creatin
   <span style="color:var(--cream-dark);font-size:0.9rem">This fight is won or lost in the first 5 moves. Prevent castling, and Castle Master is a mediocre opponent. Let them castle, and you're in for 20+ turns of grinding.</span>
 </div>
 
-### 馃幆 Exact Gambit Counters
+### ✅ Exact Gambit Counters
 
 - **Rook's Wall**—Block castling setup entirely (boss-specific)
 - **Pierce Through**—Attack through castle walls
@@ -413,7 +413,7 @@ Uses ALL piece types, ALL abilities, and gets progressively harder with each HP 
 </div>
 </div>
 
-### 馃幆 Exact Gambit Counters
+### ✅ Exact Gambit Counters
 
 - **The Ultimate Counter**—1-turn god mode, saves ALL pieces. Save for Phase 3, use on turn 2 of Phase 3 specifically.
 - **Jackpot Gambit**—Farm before the fight for free Boss Gambits
@@ -457,4 +457,5 @@ Uses ALL piece types, ALL abilities, and gets progressively harder with each HP 
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 

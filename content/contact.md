@@ -6,7 +6,7 @@ description: "Learn about Gambonanza Guide—the most complete community-driven 
 ## About This Guide
 
 <div class="callout callout-verdict">
-  <strong>馃幆 OUR MISSION</strong><br>
+  <strong>✅ OUR MISSION</strong><br>
   To provide the most complete, accurate, and actionable Gambonanza strategy resource on the internet—built by players, for players.
 </div>
 
@@ -182,4 +182,5 @@ Ready to reach out? We're here and we read everything. Whether it's a quick ques
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
