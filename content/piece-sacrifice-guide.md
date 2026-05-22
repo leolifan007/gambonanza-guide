@@ -1,4 +1,4 @@
----
+﻿---
 title: "When to Sacrifice Pieces in Gambonanza"
 description: "Gambonanza piece sacrifice strategy guide v1.1.0. When to trade a pawn for board advantage, sacrificing a bishop to break a Boss defense, Queen sacrifice value analysis, and trade decision framework for v1.1.0."
 see_also:
@@ -89,3 +89,4 @@ The Queen boss punishes piece clustering. Spread your trades out across the boar
 
 ### Crumble (Board Ability)
 Let the board collapse do the work. Position weak pieces (pawns) on edges and let Crumble remove them for free. Never sacrifice a center piece during Crumble.
+

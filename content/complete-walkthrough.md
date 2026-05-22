@@ -1,5 +1,5 @@
----
-title: 'Gambonanza Complete Walkthrough (v1.1.0) ?Step-by-Step Run Guide'
+﻿---
+title: 'Gambonanza Complete Walkthrough (v1.1.0)—Step-by-Step Run Guide'
 description: 'Full Gambonanza walkthrough for patch v1.1.0. Step-by-step run guide from seed selection to Grandmaster. Covers opening economy, mid-game transition, every boss fight, and endgame strategy. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
@@ -16,17 +16,17 @@ see_also:
     url: '/rook-bishop-guide/'
 ---
 
-## This Is Not a Quick Primer ?It's Your Campaign Map
+## This Is Not a Quick Primer—It's Your Campaign Map
 
-> Gambonanza blends chess with roguelike progression in a way that's incredibly satisfying ?but the learning curve hits hard. This guide won't drill you on micro-tactics. It tells you **what to do and when to do it**.
+> Gambonanza blends chess with roguelike progression in a way that's incredibly satisfying—but the learning curve hits hard. This guide won't drill you on micro-tactics. It tells you **what to do and when to do it**.
 
 <div class='callout callout-verdict'>
   <strong>Verdict</strong><br>
   Beginners make exactly two critical mistakes: over-expanding in the opening, and failing to transition in the mid-game. Fix those two things, and reaching Grand Master is just a matter of reps.
-  <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span> ?steep at first, but every run teaches you something.
+  <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span>—steep at first, but every run teaches you something.
 </div>
 
-## Phase 1: Opening (3×3 ?4×4)
+## Phase 1: Opening (3脳3—4脳4)
 
 ### Goal
 Build your economy foundation and fill Gambit slots.
@@ -39,20 +39,20 @@ Build your economy foundation and fill Gambit slots.
 
 <div class='callout callout-tip'>
   <strong>Golden Opening Formula</strong><br>
-  <strong>Turns 1?:</strong> Expansion ×2 + Gambit ×1<br>
-  <strong>Turns 4?:</strong> Economy ×2 + Defense ×1<br>
+  <strong>Turns 1?:</strong> Expansion 脳2 + Gambit 脳1<br>
+  <strong>Turns 4?:</strong> Economy 脳2 + Defense 脳1<br>
   Follow this ratio and you will almost never lose the opening phase.
 </div>
 
 ![Mid-game board layout showing piece positioning strategy](/images/screenshots/ss_3.jpg)
-*Mid-game ?pay attention to piece positioning and board control*
+*Mid-game—pay attention to piece positioning and board control*
 
 ### What to Avoid
 - **Over-recruiting**: Having more pieces than you can upgrade stalls your economy
 - **Skipping Gambits**: Playing Gambit-light in the opening sets you up for a painful boss phase
 - **King in the open**: One aggressive push and you're dead before turn 8
 
-## Phase 2: Mid-Game (4×4 ?5×5)
+## Phase 2: Mid-Game (4脳4—5脳5)
 
 ### Goal
 Transition into a combat-ready configuration and prepare for your first boss.
@@ -61,20 +61,20 @@ Transition into a combat-ready configuration and prepare for your first boss.
 
 ```
 First boss is Jester?
-├─ Yes ?Keep expanding, rush kill on 4×4 board
-└─ No ?Switch to defensive formation, fill Gambit slots
+鈹溾攢 Yes—Keep expanding, rush kill on 4脳4 board
+鈹斺攢 No—Switch to defensive formation, fill Gambit slots
 
 Already have 8+ pieces on board?
-├─ Yes ?Start clearing low-tier pieces, keep high-value ones
-└─ No ?Keep expanding but manage pace
+鈹溾攢 Yes—Start clearing low-tier pieces, keep high-value ones
+鈹斺攢 No—Keep expanding but manage pace
 ```
 
 ### Common Pitfalls
-- <span class='phase-tag'>Mid</span> **Over-expansion**: 10+ pieces on a 4×4 board with no gold to upgrade them ?the #1 death sentence
-- **Ignoring Gambits**: If you haven't filled your Gambit slots by mid-game, you will not survive the first boss at 5×5
-- **Holding onto pawns**: Low-tier pieces are dead weight past 4×4. Sell them without sentiment.
+- <span class='phase-tag'>Mid</span> **Over-expansion**: 10+ pieces on a 4脳4 board with no gold to upgrade them—the #1 death sentence
+- **Ignoring Gambits**: If you haven't filled your Gambit slots by mid-game, you will not survive the first boss at 5脳5
+- **Holding onto pawns**: Low-tier pieces are dead weight past 4脳4. Sell them without sentiment.
 
-## Phase 3: Boss Fights (5×5)
+## Phase 3: Boss Fights (5脳5)
 
 ### One-Liner Counters Per Boss
 
@@ -82,7 +82,7 @@ See the <a href='/boss-strategy-guide'>full Boss Strategy Guide</a> for in-depth
 
 | Boss | One-Liner Counter |
 |------|-------------------|
-| Jester | Predictable rhythm ?defend then punish |
+| Jester | Predictable rhythm—defend then punish |
 | King of Spades | Without King Bind, drop offensive formation entirely |
 | Blitzking | Grid Lock is your lifeline |
 | Queen of Hearts | Mirror formation, exploit the reversal |
@@ -93,37 +93,38 @@ See the <a href='/boss-strategy-guide'>full Boss Strategy Guide</a> for in-depth
   If you lose to the same boss 3 times in a row, stop bashing your head against it. Check: is your Gambit configuration correct for this fight? Are your relics the right type? Swapping one Gambit often does more than swapping ten pieces.
 </div>
 
-## Phase 4: Endgame (6×6+)
+## Phase 4: Endgame (6脳6+)
 
 ### Transition Checklist
-Sell all economy relics ?Equip full combat relics ?Open King hunting windows
+Sell all economy relics—Equip full combat relics—Open King hunting windows
 
 ### Win Condition Checkpoints
-Before entering 6×6, confirm:
+Before entering 6脳6, confirm:
 
 | Condition | Requirement |
 |-----------|-------------|
 | Gambit slots | At least 2, ideally 3 |
-| Combat relics | ?4 |
+| Combat relics |—4 |
 | King position | Not exposed, has defensive cover |
-| Core pieces | Queen + Rook ×2 + Bishop ×2 |
+| Core pieces | Queen + Rook 脳2 + Bishop 脳2 |
 
 If you can't meet these, lower your expectations and pursue a King-snipe comeback instead of a direct fight.
 
 ## 5 Mistakes Beginners Must Avoid
 
-1. **"More pieces = better"** ?Quality over quantity, always
-2. **"I'll save my Gambit for later"** ?Gambits are for using, not hoarding
-3. **"I'll skip the relic shop"** ?First thing at every new board size: check the relic shop
-4. **"Pawn promotion is always good"** ?Losing Pawn Gambit chain synergy can hurt more than it helps
-5. **"King exposed = panic"** ?If you can shore up defense within 3 turns, you're fine
+1. **"More pieces = better"**—Quality over quantity, always
+2. **"I'll save my Gambit for later"**—Gambits are for using, not hoarding
+3. **"I'll skip the relic shop"**—First thing at every new board size: check the relic shop
+4. **"Pawn promotion is always good"**—Losing Pawn Gambit chain synergy can hurt more than it helps
+5. **"King exposed = panic"**—If you can shore up defense within 3 turns, you're fine
 
 <div class='callout callout-tip'>
   <strong>Sources & Updates</strong><br>
-  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches ?always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
+  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches—always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
 </div>
 
 <div class='ad-slot ad-slot--after-content'>
   <div class='ad-label'>Advertisement</div>
   <div class='ad-placeholder'>Google AdSense</div>
 </div>
+

@@ -1,4 +1,4 @@
----
+﻿---
 lastmod: 2026-05-22T08:41:17+08:00
 title: "How to Fix a Broken Gambit Chain in Mid-Game"
 description: "Gambonanza gambit chain recovery guide v1.1.0. Why your combo stopped, how to restart it, salvage routes when you\u2019re stuck mid-board, and emergency fallback chains for v1.1.0."
@@ -91,3 +91,4 @@ You have 1/3 less time to diagnose. Use Recovery Route C by default \u2014 Knigh
 
 ### Queen
 Her board shuffles can disconnect your piece from its target. Keep a second piece nearby as a relay \u2014 if your main piece gets shuffled, the relay takes over.
+

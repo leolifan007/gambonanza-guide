@@ -1,9 +1,9 @@
----
+﻿---
 title: "Gambonanza Tier List (v1.1.0)  Best Gambits & Builds Ranked S/A/B/C"
 description: "Complete Gambonanza tier list for patch v1.1.0. All 150+ Gambits ranked S/A/B/C with synergies, pro tips, and best builds. Find the strongest Gambits for every strategy. Updated for patch v1.1.0."
 ---
 
-## ?? Gambonanza Tier List v1.0  Every Gambit Ranked
+##—? Gambonanza Tier List v1.0  Every Gambit Ranked
 
 <div class="callout callout-verdict" style="text-align:center;border-color:var(--gold);background:linear-gradient(135deg, rgba(212,175,55,0.15), rgba(212,175,55,0.05))">
   <strong style="font-family:var(--font-display);font-size:1.4rem;color:var(--gold)">?? Must-Pick Gambits to Break the Game in v1.0</strong><br>
@@ -29,7 +29,7 @@ These three Gambits <strong>fundamentally rewrite the rules of the game.</strong
 <div style="margin-top:12px;font-size:0.85rem;color:var(--cream-dark)">Selection rate among top players: <strong style="color:var(--gold)">97%+</strong></div>
 </div>
 
-### 1?? Teleport ?? <span style="color:var(--gold)"> The Best Gambit in the Game</span>
+### 1?? Teleport—? <span style="color:var(--gold)"> The Best Gambit in the Game</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
@@ -53,7 +53,7 @@ see_also:
     url: '/cards/'
 ---
 
-### 2?? The Ultimate Counter ?? <span style="color:var(--gold)"> Boss Killer #1</span>
+### 2?? The Ultimate Counter—? <span style="color:var(--gold)"> Boss Killer #1</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
@@ -70,7 +70,7 @@ see_also:
 
 ---
 
-### 3?? Heal Board ?? <span style="color:var(--gold)"> The Comeback King</span>
+### 3?? Heal Board—? <span style="color:var(--gold)"> The Comeback King</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
@@ -181,26 +181,26 @@ Excellent in the right build. Don't force them  pick them when they fit. A B-tie
 <div class="split-col">
 <div class="col">
 
-### ?? Knight+Bishop Combo <span class="meta-badge meta-b">B</span>
+###—? Knight+Bishop Combo <span class="meta-badge meta-b">B</span>
 Move using Knight AND Bishop range. Insane coverage, slow to set up.
 
 **Phase:** <span class="phase-tag phase-mid">MID</span>
 **Best with:** Knights, queens / Center, diagonal tiles
 **Downside:** Both piece types must be alive
 
-> ?? Use on a pawn 1 square from promotion for maximum promotion options.
+>—? Use on a pawn 1 square from promotion for maximum promotion options.
 
 </div>
 <div class="col">
 
-### ?? Jackpot Gambit <span class="meta-badge meta-b">B</span>
+###—? Jackpot Gambit <span class="meta-badge meta-b">B</span>
 Triple stock value + free Boss Gambit. Best right BEFORE boss fights.
 
 **Phase:** <span class="phase-tag phase-late">LATE</span>
 **Best with:** Any piece (pure economy Gambit)
 **Downside:** Useless on non-boss boards
 
-> ?? Always gives the counter for your NEXT boss. Sequence boss order to control which counter you get.
+>—? Always gives the counter for your NEXT boss. Sequence boss order to control which counter you get.
 
 </div>
 </div>
@@ -208,26 +208,26 @@ Triple stock value + free Boss Gambit. Best right BEFORE boss fights.
 <div class="split-col">
 <div class="col">
 
-### ?? Steal Investment <span class="meta-badge meta-b">B</span>
+###—? Steal Investment <span class="meta-badge meta-b">B</span>
 Take 50% of opponent's stock. Devastating in economy runs.
 
 **Phase:** <span class="phase-tag phase-mid">MID</span>
 **Best with:** Economy builders / Investment tiles
 **Downside:** Low value against poor opponents
 
-> ?? Works on BOSS stock pools too. Stealing from a rich boss = massive windfall.
+>—? Works on BOSS stock pools too. Stealing from a rich boss = massive windfall.
 
 </div>
 <div class="col">
 
-### ?? Double Down <span class="meta-badge meta-b">B</span>
+###—? Double Down <span class="meta-badge meta-b">B</span>
 Double your current stock. Simple, reliable.
 
 **Phase:** <span class="phase-tag phase-early">EARLY</span> <span class="phase-tag phase-mid">MID</span>
 **Best with:** Economy builds / Any tile
 **Downside:** Low base stock = low value
 
-> ?? Never Double Down below 50 stock. Wait for 80+  Double Down  Steal Investment for compound growth.
+>—? Never Double Down below 50 stock. Wait for 80+  Double Down  Steal Investment for compound growth.
 
 </div>
 </div>
@@ -235,7 +235,7 @@ Double your current stock. Simple, reliable.
 <div class="split-col">
 <div class="col">
 
-### ??? Sacrifice for Strength <span class="meta-badge meta-b">B</span>
+###—?? Sacrifice for Strength <span class="meta-badge meta-b">B</span>
 Sacrifice a piece to massively empower remaining pieces.
 
 **Phase:** <span class="phase-tag phase-mid">MID</span> <span class="phase-tag phase-late">LATE</span>
@@ -245,7 +245,7 @@ Sacrifice a piece to massively empower remaining pieces.
 </div>
 <div class="col">
 
-### ?? Bishop's Blind <span class="meta-badge meta-b">B</span>
+###—? Bishop's Blind <span class="meta-badge meta-b">B</span>
 Boss-specific: disables diagonal attacks from the target boss.
 
 **Phase:** <span class="phase-tag phase-mid">MID</span>
@@ -258,7 +258,7 @@ Boss-specific: disables diagonal attacks from the target boss.
 <div class="split-col">
 <div class="col">
 
-### ?? King's Counter <span class="meta-badge meta-b">B</span>
+###—? King's Counter <span class="meta-badge meta-b">B</span>
 Boss-specific: required for the King boss fight.
 
 **Phase:** <span class="phase-tag phase-late">LATE</span>
@@ -268,7 +268,7 @@ Boss-specific: required for the King boss fight.
 </div>
 <div class="col">
 
-### ?? Rook's Wall <span class="meta-badge meta-b">B</span>
+###—? Rook's Wall <span class="meta-badge meta-b">B</span>
 Boss-specific: creates a rook fortress wall against boss charge.
 
 **Phase:** <span class="phase-tag phase-mid">MID</span>
@@ -280,7 +280,7 @@ Boss-specific: creates a rook fortress wall against boss charge.
 
 <div class="col" style="max-width:100%">
 
-### ?? Knight's Parry <span class="meta-badge meta-b">B</span>
+###—? Knight's Parry <span class="meta-badge meta-b">B</span>
 Boss-specific: parries knight boss's forking attacks.
 
 **Phase:** <span class="phase-tag phase-mid">MID</span>
@@ -302,7 +302,7 @@ These have their place  but it's a small place. Only pick if your deck has room 
 <div class="split-col">
 <div class="col">
 
-### ?? Undo Move <span class="meta-badge meta-c">C</span>
+###—? Undo Move <span class="meta-badge meta-c">C</span>
 Reverse your last move. Decent safety net  but takes a slot that could be S-tier.
 **Only pick if:** Your deck is 20+ cards and you have room.
 **Phase:** <span class="phase-tag phase-early">EARLY</span>
@@ -310,7 +310,7 @@ Reverse your last move. Decent safety net  but takes a slot that could be S-tier
 </div>
 <div class="col">
 
-### ?? Gravity Flip <span class="meta-badge meta-c">C</span>
+###—? Gravity Flip <span class="meta-badge meta-c">C</span>
 Invert movement for 1 turn. High skill ceiling  but affects BOTH players equally.
 **Only pick if:** You're specifically memeing or speedrunning.
 **Phase:** <span class="phase-tag phase-mid">MID</span>
@@ -321,7 +321,7 @@ Invert movement for 1 turn. High skill ceiling  but affects BOTH players equally
 <div class="split-col">
 <div class="col">
 
-### ?? Surround <span class="meta-badge meta-c">C</span>
+###—? Surround <span class="meta-badge meta-c">C</span>
 Capture if enemy is surrounded on 2+ sides. Too position-dependent.
 **Only pick if:** You're running a swarm/knight spam build.
 **Phase:** <span class="phase-tag phase-mid">MID</span>
@@ -329,7 +329,7 @@ Capture if enemy is surrounded on 2+ sides. Too position-dependent.
 </div>
 <div class="col">
 
-### ?? Pierce Through <span class="meta-badge meta-c">C</span>
+###—? Pierce Through <span class="meta-badge meta-c">C</span>
 Capture and continue through. Decent with bishops, weak otherwise.
 **Only pick if:** You're running a bishop-heavy deck (upgrades to B-tier).
 **Phase:** <span class="phase-tag phase-early">EARLY</span>
@@ -339,7 +339,7 @@ Capture and continue through. Decent with bishops, weak otherwise.
 
 <div class="col" style="max-width:100%">
 
-### ?? Gambler's Strike <span class="meta-badge meta-c">C</span>
+###—? Gambler's Strike <span class="meta-badge meta-c">C</span>
 High-risk, high-reward attack. Can one-shot bosses or miss entirely.
 **Only pick if:** You're restarting the run anyway and want to yolo.
 **Phase:** <span class="phase-tag phase-late">LATE</span>
@@ -381,7 +381,7 @@ High-risk, high-reward attack. Can one-shot bosses or miss entirely.
 
 <hr class="section-divider">
 
-## ?? Share This Page
+##—? Share This Page
 
 **Know someone struggling with Gambonanza? Send them here.** This is the only tier list that breaks down every Gambit with actual math, not vibes.
 
@@ -402,3 +402,4 @@ High-risk, high-reward attack. Can one-shot bosses or miss entirely.
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+

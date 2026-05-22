@@ -1,4 +1,4 @@
----
+﻿---
 title: "Why Is My Stock Crashing? Economy Recovery Guide"
 description: "Gambonanza economy crash recovery guide v1.1.0. Why your stock is dropping, how to stop the bleed, emergency stock generation strategies, and economy rebuild plans for v1.1.0."
 see_also:
@@ -78,3 +78,4 @@ You have room for full recovery. Pivot to a Zone Control Gambit (gradual +3/turn
 - **Track your failed chain rate**: If you fail more than 50% of chains, your Gambit selection is too aggressive
 - **Build redundancy**: Have 2 Gambit chains partially active at all times. If one breaks, the other is your backup
 - **Watch the boss meter**: Most economy drains happen when boss abilities are about to trigger. Learn the timing
+
