@@ -55,7 +55,7 @@ Here's what actually matters—no filler, no "understand the basics," just the s
 Fire up the game, pick whatever looks cool, and just see what happens. You'll probably win a round or two, then get absolutely demolished by something you didn't see coming. That's the point.
 
 <div class="callout callout-tip">
-  <strong>馃幆 WHAT TO LEARN FROM THROWAWAY RUNS</strong>
+  <strong>✅ WHAT TO LEARN FROM THROWAWAY RUNS</strong>
 </div>
 
 1. **How small the board actually is**—4脳4 is TINY (16 squares total). Every move affects the entire board state.
@@ -280,4 +280,5 @@ Now go lose a few more times. That's part of the process. Come back when you've 
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
