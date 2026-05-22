@@ -1,5 +1,5 @@
 ﻿---
-title: "Gambonanza Bosses—All 8 Bosses Ranked by Difficulty (v1.1.0)"
+title: "Gambonanza Bosses-All 8 Bosses Ranked by Difficulty (v1.1.0)"
 description: "Every Gambonanza boss ranked from easiest to hardest. Quick-reference stats, phase mechanics, and which Gambits counter each boss. Updated for patch v1.1.0."
 see_also:
   - title: 'Blitzking Boss Guide'
@@ -23,7 +23,7 @@ see_also:
 
 ### 馃└ Rule 1: Scout First, Strike Second
 
-Your first move against any new boss should be a **throwaway**—move a piece you can afford to lose, watch what Gambit the boss triggers, and ONLY then commit your real strategy. Bosses have predictable opening patterns. If you don't know them, you're gambling.
+Your first move against any new boss should be a **throwaway**-move a piece you can afford to lose, watch what Gambit the boss triggers, and ONLY then commit your real strategy. Bosses have predictable opening patterns. If you don't know them, you're gambling.
 
 </div>
 <div class="col">
@@ -63,7 +63,7 @@ For King of Spades and The Grandmaster, boss-specific counters (King's Counter, 
 
 ### The Fight
 
-Rook Rook can move up to **4 squares** along ranks and files, triggering Gambits each step. It's a horizontal/vertical bulldozer—predictable but relentless. It always opens by charging a rook down the a or h file.
+Rook Rook can move up to **4 squares** along ranks and files, triggering Gambits each step. It's a horizontal/vertical bulldozer-predictable but relentless. It always opens by charging a rook down the a or h file.
 
 <div class="meta-rating">
   <span class="meta-badge meta-b">B</span>
@@ -74,7 +74,7 @@ Rook Rook can move up to **4 squares** along ranks and files, triggering Gambits
 
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
-| **Bishop** | Diagonal control tiles | Rooks can't reach diagonals—bishops nullify 50% of their board |
+| **Bishop** | Diagonal control tiles | Rooks can't reach diagonals-bishops nullify 50% of their board |
 | **Knight** | Center squares | Knights threaten from angles rooks can't respond to |
 | **Queen (promoted)** | Any back-rank tile | Out-ranges the rook with rook+bishop hybrid movement |
 
@@ -87,12 +87,12 @@ Rook Rook can move up to **4 squares** along ranks and files, triggering Gambits
 
 ### ✅ Exact Gambit Counters
 
-- **Pierce Through**—Break their defensive rank formation
-- **Knight+Bishop Combo**—Flank from angles the rook literally cannot reach
-- **Through the Ranks**—Counter their rank control with your own
+- **Pierce Through**-Break their defensive rank formation
+- **Knight+Bishop Combo**-Flank from angles the rook literally cannot reach
+- **Through the Ranks**-Counter their rank control with your own
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Rook Rook's AI can't handle a pawn sitting on the same file as its rook. Park a pawn in front of their rook and it will spend 3+ turns trying to figure out how to remove it—giving you free tempo to develop everything else.
+  <strong>Only 10h+ players know:</strong> Rook Rook's AI can't handle a pawn sitting on the same file as its rook. Park a pawn in front of their rook and it will spend 3+ turns trying to figure out how to remove it-giving you free tempo to develop everything else.
 </div>
 
 <hr class="section-divider">
@@ -118,7 +118,7 @@ Bishop Bluku controls both diagonals simultaneously and can **swap squares** wit
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
 | **Knight** | Any non-diagonal tile | Knights hit squares bishops can NEVER reach |
-| **Pawn wall (4+)** | Blocked diagonal tiles | Pawn chains are bishop-proof—they physically block all diagonals |
+| **Pawn wall (4+)** | Blocked diagonal tiles | Pawn chains are bishop-proof-they physically block all diagonals |
 | **Rook** | Rank/file tiles | Covers what the bishop abandons when repositioning |
 
 </div>
@@ -130,12 +130,12 @@ Bishop Bluku controls both diagonals simultaneously and can **swap squares** wit
 
 ### ✅ Exact Gambit Counters
 
-- **Bishop's Blind**—Removes bishop line-of-sight for 3 turns (boss-specific, essential)
-- **Surround**—Trap pieces in blocked positions
-- **Knight's Parry**—Blocks the swap mechanic
+- **Bishop's Blind**-Removes bishop line-of-sight for 3 turns (boss-specific, essential)
+- **Surround**-Trap pieces in blocked positions
+- **Knight's Parry**-Blocks the swap mechanic
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Bishop Bluku will ALWAYS prioritize swapping pieces on the same color square. Leave a "bait pawn" on the same color diagonal as their bishop—they'll waste their swap on it 85% of the time instead of going for your knights.
+  <strong>Only 10h+ players know:</strong> Bishop Bluku will ALWAYS prioritize swapping pieces on the same color square. Leave a "bait pawn" on the same color diagonal as their bishop-they'll waste their swap on it 85% of the time instead of going for your knights.
 </div>
 
 <hr class="section-divider">
@@ -149,7 +149,7 @@ Bishop Bluku controls both diagonals simultaneously and can **swap squares** wit
 
 ### The Fight
 
-Knightmare moves in **triple L-shapes**—one knight move triggers three simultaneous L-jumps to different squares, creating unavoidable fork positions. Every turn threatens 2-3 of your pieces simultaneously.
+Knightmare moves in **triple L-shapes**-one knight move triggers three simultaneous L-jumps to different squares, creating unavoidable fork positions. Every turn threatens 2-3 of your pieces simultaneously.
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
@@ -173,12 +173,12 @@ Knightmare moves in **triple L-shapes**—one knight move triggers three simulta
 
 ### ✅ Exact Gambit Counters
 
-- **Knight's Parry**—Counter-attacks any knight special movement (boss-specific)
-- **Undo Move**—Recover from a fork that caught you
-- **King's Shield**—Protect king from surprise forks
+- **Knight's Parry**-Counter-attacks any knight special movement (boss-specific)
+- **Undo Move**-Recover from a fork that caught you
+- **King's Shield**-Protect king from surprise forks
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Knightmare's AI has a fatal flaw—it will NEVER jump a knight to a square adjacent to your queen, even if that square gives checkmate. Park your queen in the center and watch Knightmare short-circuit, wasting turns on suboptimal forks.
+  <strong>Only 10h+ players know:</strong> Knightmare's AI has a fatal flaw-it will NEVER jump a knight to a square adjacent to your queen, even if that square gives checkmate. Park your queen in the center and watch Knightmare short-circuit, wasting turns on suboptimal forks.
 </div>
 
 <hr class="section-divider">
@@ -192,7 +192,7 @@ Knightmare moves in **triple L-shapes**—one knight move triggers three simulta
 
 ### The Fight
 
-Queen Gambit has rook + bishop movement, +50% attack in the center, and an instant promotion ability—she can turn ANY pawn into a queen in one turn. DO NOT let pawns survive on her side of the board.
+Queen Gambit has rook + bishop movement, +50% attack in the center, and an instant promotion ability-she can turn ANY pawn into a queen in one turn. DO NOT let pawns survive on her side of the board.
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
@@ -204,7 +204,7 @@ Queen Gambit has rook + bishop movement, +50% attack in the center, and an insta
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
 | **Knights (2+)** | Flank squares | Knights are the only pieces that safely approach a queen |
-| **Queen (your own)** | Back rank | Trade queens immediately—even trade is winning |
+| **Queen (your own)** | Back rank | Trade queens immediately-even trade is winning |
 | **Rook battery** | Same file, stacked | Penetrate while queen is distracted |
 
 </div>
@@ -216,9 +216,9 @@ Queen Gambit has rook + bishop movement, +50% attack in the center, and an insta
 
 ### ✅ Exact Gambit Counters
 
-- **Queen's Gambit Counter**—Negates promotion ability (ESSENTIAL, boss-specific)
-- **Teleport**—Escape queen range instantly
-- **Backstab**—Attack from behind her vision
+- **Queen's Gambit Counter**-Negates promotion ability (ESSENTIAL, boss-specific)
+- **Teleport**-Escape queen range instantly
+- **Backstab**-Attack from behind her vision
 
 <div class="pro-tip">
   <strong>Only 10h+ players know:</strong> Queen Gambit's promotion ability has a 4-turn cooldown. Count them. On turns 1, 5, 9, 13... she has it. On other turns, rush pawns freely. Track this cooldown and you control the tempo.
@@ -235,7 +235,7 @@ Queen Gambit has rook + bishop movement, +50% attack in the center, and an insta
 
 ### The Fight
 
-The hardest regular boss. King of Spades teleports your pieces **off the board** with every adjacent move. He's mobile, disruptive, and at 50% HP enters Phase 2 with trap placement. This fight is NOT about checkmate—it's about surviving his piece removal.
+The hardest regular boss. King of Spades teleports your pieces **off the board** with every adjacent move. He's mobile, disruptive, and at 50% HP enters Phase 2 with trap placement. This fight is NOT about checkmate-it's about surviving his piece removal.
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
@@ -247,7 +247,7 @@ The hardest regular boss. King of Spades teleports your pieces **off the board**
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
 | **Bishops (long range)** | Corner squares | Attack from outside his teleport radius |
-| **Rooks** | Edge files | Stay on board edges—he favors center approaches |
+| **Rooks** | Edge files | Stay on board edges-he favors center approaches |
 | **Everything NOT adjacent to him** | 3+ square distance | His teleport range is adjacent only |
 
 </div>
@@ -259,13 +259,13 @@ The hardest regular boss. King of Spades teleports your pieces **off the board**
 
 ### ✅ Exact Gambit Counters
 
-- **King's Counter**—Blocks teleport for 3 turns (**REQUIRED—do not attempt without it**)
-- **Heal Board**—Return removed pieces in Phase 2
-- **King's Shield**—Protect key pieces during teleport cooldowns
-- **Gravity Flip**—Invert movement to confuse his Phase 2 pattern
+- **King's Counter**-Blocks teleport for 3 turns (**REQUIRED-do not attempt without it**)
+- **Heal Board**-Return removed pieces in Phase 2
+- **King's Shield**-Protect key pieces during teleport cooldowns
+- **Gravity Flip**-Invert movement to confuse his Phase 2 pattern
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> King of Spades will NEVER teleport a piece that's adjacent to your own king. Park a sacrificial knight next to your king and it becomes your permanent bodyguard—the boss physically can't touch it. Abuse this to keep 1 piece alive through the entire fight.
+  <strong>Only 10h+ players know:</strong> King of Spades will NEVER teleport a piece that's adjacent to your own king. Park a sacrificial knight next to your king and it becomes your permanent bodyguard-the boss physically can't touch it. Abuse this to keep 1 piece alive through the entire fight.
 </div>
 
 <hr class="section-divider">
@@ -279,7 +279,7 @@ The hardest regular boss. King of Spades teleports your pieces **off the board**
 
 ### The Fight
 
-Not a boss—a **swarm**. 16 pawns advancing in formation, promoting if they reach the back rank. The trap: trying to capture them all. You can't. Focus-fire the advance pawns and let the rest clog each other.
+Not a boss-a **swarm**. 16 pawns advancing in formation, promoting if they reach the back rank. The trap: trying to capture them all. You can't. Focus-fire the advance pawns and let the rest clog each other.
 
 <div class="meta-rating">
   <span class="meta-badge meta-c">C</span>
@@ -291,7 +291,7 @@ Not a boss—a **swarm**. 16 pawns advancing in formation, promoting if they rea
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
 | **Bishops** | Diagonal blockade tiles | Mows down advancing pawns in a line |
-| **Rooks** | Back rank | Prevents promotion—the only real danger |
+| **Rooks** | Back rank | Prevents promotion-the only real danger |
 | **Anything ranged** | Chokepoint tiles | Force pawns into 1-square-wide corridors |
 
 </div>
@@ -303,9 +303,9 @@ Not a boss—a **swarm**. 16 pawns advancing in formation, promoting if they rea
 
 ### ✅ Exact Gambit Counters
 
-- **Chain Capture**—Take out 2-3 pawns in one move chain
-- **Surround**—Trap advancing pawn groups
-- **Backstab**—Attack from behind their formation
+- **Chain Capture**-Take out 2-3 pawns in one move chain
+- **Surround**-Trap advancing pawn groups
+- **Backstab**-Attack from behind their formation
 
 <div class="pro-tip">
   <strong>Only 10h+ players know:</strong> Pawn Storm's AI pathfinding is terrible. If you create a diagonal "wall" using just 2 bishops, the entire pawn formation will try to path around it for 3+ turns, buying you infinite time. Two bishops diagonally adjacent = the entire swarm is neutralized.
@@ -322,7 +322,7 @@ Not a boss—a **swarm**. 16 pawns advancing in formation, promoting if they rea
 
 ### The Fight
 
-Castle Master can castle **both kingside AND queenside simultaneously**, creating an impenetrable fortress. Once castled, their king is nearly unkillable—you have to squeeze them positionally instead of going for a direct checkmate.
+Castle Master can castle **both kingside AND queenside simultaneously**, creating an impenetrable fortress. Once castled, their king is nearly unkillable-you have to squeeze them positionally instead of going for a direct checkmate.
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
@@ -346,12 +346,12 @@ Castle Master can castle **both kingside AND queenside simultaneously**, creatin
 
 ### ✅ Exact Gambit Counters
 
-- **Rook's Wall**—Block castling setup entirely (boss-specific)
-- **Pierce Through**—Attack through castle walls
-- **Through the Ranks**—Long-range file pressure
+- **Rook's Wall**-Block castling setup entirely (boss-specific)
+- **Pierce Through**-Attack through castle walls
+- **Through the Ranks**-Long-range file pressure
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Castle Master's castling is triggered by moving the king. If you check their king on turn 2 (even a meaningless check that's easily blocked), the castling Gambit is permanently disabled for the entire fight—they physically can't castle after being checked. Rush check on turn 2 with a knight = this boss becomes a 2-star fight.
+  <strong>Only 10h+ players know:</strong> Castle Master's castling is triggered by moving the king. If you check their king on turn 2 (even a meaningless check that's easily blocked), the castling Gambit is permanently disabled for the entire fight-they physically can't castle after being checked. Rush check on turn 2 with a knight = this boss becomes a 2-star fight.
 </div>
 
 <hr class="section-divider">
@@ -376,9 +376,9 @@ Uses ALL piece types, ALL abilities, and gets progressively harder with each HP 
 
 | Phase | HP Range | Behavior | Counter |
 |---|---|---|---|
-| **Phase 1—Classic** | 100-66% | Standard chess opening, predictable patterns | Play normally, conserve Boss Gambits |
-| **Phase 2—Boss Mode** | 66-33% | Triggers boss-specific Gambits from ALL 7 previous bosses | Use individual boss counters as they appear |
-| **Phase 3—Perfect Play** | 33-0% | Maximum aggression, near-perfect moves | **The Ultimate Counter**—saves all your pieces for 1 turn |
+| **Phase 1-Classic** | 100-66% | Standard chess opening, predictable patterns | Play normally, conserve Boss Gambits |
+| **Phase 2-Boss Mode** | 66-33% | Triggers boss-specific Gambits from ALL 7 previous bosses | Use individual boss counters as they appear |
+| **Phase 3-Perfect Play** | 33-0% | Maximum aggression, near-perfect moves | **The Ultimate Counter**-saves all your pieces for 1 turn |
 
 </div>
 
@@ -415,12 +415,12 @@ Uses ALL piece types, ALL abilities, and gets progressively harder with each HP 
 
 ### ✅ Exact Gambit Counters
 
-- **The Ultimate Counter**—1-turn god mode, saves ALL pieces. Save for Phase 3, use on turn 2 of Phase 3 specifically.
-- **Jackpot Gambit**—Farm before the fight for free Boss Gambits
-- **Heal Board**—Essential Phase 2 recovery tool
+- **The Ultimate Counter**-1-turn god mode, saves ALL pieces. Save for Phase 3, use on turn 2 of Phase 3 specifically.
+- **Jackpot Gambit**-Farm before the fight for free Boss Gambits
+- **Heal Board**-Essential Phase 2 recovery tool
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Phase 2's boss pattern rotation is FIXED: Rook—Bishop—Knight—Queen—King—Pawn—Castle, always in that order. If you have the corresponding boss counter Gambit active for the exact turns they switch, you block 80% of Phase 2 damage. Memorize the rotation, pre-load counters 1 turn early.
+  <strong>Only 10h+ players know:</strong> Phase 2's boss pattern rotation is FIXED: Rook-Bishop-Knight-Queen-King-Pawn-Castle, always in that order. If you have the corresponding boss counter Gambit active for the exact turns they switch, you block 80% of Phase 2 damage. Memorize the rotation, pre-load counters 1 turn early.
 </div>
 
 <hr class="section-divider">
@@ -442,20 +442,21 @@ Uses ALL piece types, ALL abilities, and gets progressively harder with each HP 
 
 ---
 
-*Want boss-specific Gambit details?—[All Gambits Guide](/gambits/)*<br>
-*Need to rebuild your economy for the boss?—[Stock Market & Shop Guide](/economy/)*
+*Want boss-specific Gambit details?-[All Gambits Guide](/gambits/)*<br>
+*Need to rebuild your economy for the boss?-[Stock Market & Shop Guide](/economy/)*
 
 ### 馃摎 Individual Boss Guides
 
-- **Blitzking Boss Breakdown**—[Full Guide](/blitzking-boss-guide/)
-- **King of Spades Guide**—[Full Guide](/king-of-spades-guide/)
-- **Queen Supremacy Guide**—[Full Guide](/queen-supremacy-guide/)
-- **Rook & Bishop Guide**—[Full Guide](/rook-bishop-guide/)
-- **All 5 Bosses Quick Reference**—[Strategy Guide](/boss-strategy-guide/)
-- **Complete Walkthrough**—[Full Run Guide](/complete-walkthrough/)
+- **Blitzking Boss Breakdown**-[Full Guide](/blitzking-boss-guide/)
+- **King of Spades Guide**-[Full Guide](/king-of-spades-guide/)
+- **Queen Supremacy Guide**-[Full Guide](/queen-supremacy-guide/)
+- **Rook & Bishop Guide**-[Full Guide](/rook-bishop-guide/)
+- **All 5 Bosses Quick Reference**-[Strategy Guide](/boss-strategy-guide/)
+- **Complete Walkthrough**-[Full Run Guide](/complete-walkthrough/)
 
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
 
