@@ -1,27 +1,27 @@
 ---
-title: "Gambonanza Tier List (v1.1.0) ！ Best Gambits & Builds Ranked S/A/B/C"
+title: "Gambonanza Tier List (v1.1.0)  Best Gambits & Builds Ranked S/A/B/C"
 description: "Complete Gambonanza tier list for patch v1.1.0. All 150+ Gambits ranked S/A/B/C with synergies, pro tips, and best builds. Find the strongest Gambits for every strategy. Updated for patch v1.1.0."
 ---
 
-## ?? Gambonanza Tier List v1.0 ！ Every Gambit Ranked
+## ?? Gambonanza Tier List v1.0  Every Gambit Ranked
 
 <div class="callout callout-verdict" style="text-align:center;border-color:var(--gold);background:linear-gradient(135deg, rgba(212,175,55,0.15), rgba(212,175,55,0.05))">
   <strong style="font-family:var(--font-display);font-size:1.4rem;color:var(--gold)">?? Must-Pick Gambits to Break the Game in v1.0</strong><br>
-  <span style="font-size:1rem;color:var(--cream-dark)">Not all Gambits are created equal. Three picks are literally game-warping ！ the rest are filler, traps, or niche. Here's exactly where to spend your stock.</span>
+  <span style="font-size:1rem;color:var(--cream-dark)">Not all Gambits are created equal. Three picks are literally game-warping  the rest are filler, traps, or niche. Here's exactly where to spend your stock.</span>
 </div>
 
 <div class="pro-tip" style="margin-bottom:24px">
   <strong>Quick Navigation:</strong>
-  <a href="#s-tier" style="color:var(--gold)">S-Tier (Game-Warping)</a> ，
-  <a href="#a-tier" style="color:var(--teal)">A-Tier (Run-Defining)</a> ，
-  <a href="#b-tier" style="color:var(--blue)">B-Tier (Situational)</a> ，
-  <a href="#c-tier" style="color:var(--cream-dark)">C-Tier (Niche/Filler)</a> ，
+  <a href="#s-tier" style="color:var(--gold)">S-Tier (Game-Warping)</a> 
+  <a href="#a-tier" style="color:var(--teal)">A-Tier (Run-Defining)</a> 
+  <a href="#b-tier" style="color:var(--blue)">B-Tier (Situational)</a> 
+  <a href="#c-tier" style="color:var(--cream-dark)">C-Tier (Niche/Filler)</a> 
   <a href="#quick-ref">Quick Reference Table</a>
 </div>
 
 <hr class="section-divider">
 
-## <span id="s-tier">?? S-Tier ！ Game-Warping Gambits</span>
+## <span id="s-tier">?? S-Tier  Game-Warping Gambits</span>
 
 <div style="background:linear-gradient(135deg, rgba(212,175,55,0.2), rgba(212,175,55,0.05));border:2px solid var(--gold);border-radius:12px;padding:24px;margin-bottom:24px">
 These three Gambits <strong>fundamentally rewrite the rules of the game.</strong> If you see one in the shop, mortgage everything. Build your entire run around them. Without exaggeration, having one of these doubles your win rate. Having two makes the game trivial.
@@ -29,7 +29,7 @@ These three Gambits <strong>fundamentally rewrite the rules of the game.</strong
 <div style="margin-top:12px;font-size:0.85rem;color:var(--cream-dark)">Selection rate among top players: <strong style="color:var(--gold)">97%+</strong></div>
 </div>
 
-### 1?? Teleport ?? <span style="color:var(--gold)">！ The Best Gambit in the Game</span>
+### 1?? Teleport ?? <span style="color:var(--gold)"> The Best Gambit in the Game</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
@@ -42,7 +42,7 @@ These three Gambits <strong>fundamentally rewrite the rules of the game.</strong
 
 **Best synergies:** King (escape checkmate), Queen (appear anywhere instantly), Rook (back rank mate threats)
 
-> **Pro Tip:** Teleport + Gambit Square = double value. Moving a knight onto a "Free Gambit" tile via Teleport triggers both the tile effect AND the knight's move ！ effectively doubling your turn.
+> **Pro Tip:** Teleport + Gambit Square = double value. Moving a knight onto a "Free Gambit" tile via Teleport triggers both the tile effect AND the knight's move  effectively doubling your turn.
 
 see_also:
   - title: 'All Gambits Guide'
@@ -53,7 +53,7 @@ see_also:
     url: '/cards/'
 ---
 
-### 2?? The Ultimate Counter ?? <span style="color:var(--gold)">！ Boss Killer #1</span>
+### 2?? The Ultimate Counter ?? <span style="color:var(--gold)"> Boss Killer #1</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
@@ -66,36 +66,36 @@ see_also:
 
 **Best synergies:** Any piece (works universally), King (safe aggression push)
 
-> **Pro Tip:** The Ultimate Counter doesn't make you invulnerable ！ it makes your pieces "invisible" to boss targeting. The boss wastes their turn while you reposition everything aggressively.
+> **Pro Tip:** The Ultimate Counter doesn't make you invulnerable  it makes your pieces "invisible" to boss targeting. The boss wastes their turn while you reposition everything aggressively.
 
 ---
 
-### 3?? Heal Board ?? <span style="color:var(--gold)">！ The Comeback King</span>
+### 3?? Heal Board ?? <span style="color:var(--gold)"> The Comeback King</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
   <span class="meta-label">Return ALL captured pieces to the board on your choice of empty squares.</span>
 </div>
 
-**Why it's S-Tier:** Heal Board scales with failure ！ the more pieces you've lost, the more value it generates. In long runs where attrition is the real boss, this single Gambit can turn a losing board into a crushing victory. The fact that YOU choose where pieces return makes it a repositioning tool disguised as healing.
+**Why it's S-Tier:** Heal Board scales with failure  the more pieces you've lost, the more value it generates. In long runs where attrition is the real boss, this single Gambit can turn a losing board into a crushing victory. The fact that YOU choose where pieces return makes it a repositioning tool disguised as healing.
 
 <div class="phase-tag phase-late">LATE</div>
 
 **Best synergies:** Sacrificed Knights (return in flanking position), Pawns (return on back rank = instant promotion)
 
-> **Pro Tip:** Deliberately sacrifice pieces in bad positions early, then Heal Board them into perfect attacking formations. It's not a recovery tool ！ it's a repositioning tool disguised as healing.
+> **Pro Tip:** Deliberately sacrifice pieces in bad positions early, then Heal Board them into perfect attacking formations. It's not a recovery tool  it's a repositioning tool disguised as healing.
 
 <hr class="section-divider">
 
-## <span id="a-tier">?? A-Tier ！ Run-Defining Gambits</span>
+## <span id="a-tier">?? A-Tier  Run-Defining Gambits</span>
 
 <div style="background:linear-gradient(135deg, rgba(45,180,150,0.2), rgba(45,180,150,0.05));border:2px solid var(--teal);border-radius:12px;padding:24px;margin-bottom:24px">
-These Gambits define your build. You don't build around them ！ they build around you. Prioritize them in every shop. An A-tier Gambit in the right deck is often stronger than a bad S-tier pick that doesn't fit your strategy.
+These Gambits define your build. You don't build around them  they build around you. Prioritize them in every shop. An A-tier Gambit in the right deck is often stronger than a bad S-tier pick that doesn't fit your strategy.
 
 <div style="margin-top:12px;font-size:0.85rem;color:var(--cream-dark)">Selection rate among top players: <strong style="color:var(--teal)">80-95%</strong></div>
 </div>
 
-### Backstab <span style="color:var(--teal)">！ Essential Attack Tool</span>
+### Backstab <span style="color:var(--teal)"> Essential Attack Tool</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
@@ -110,7 +110,7 @@ These Gambits define your build. You don't build around them ！ they build aroun
 
 ---
 
-### Chain Capture <span style="color:var(--teal)">！ Multi-Kill Machine</span>
+### Chain Capture <span style="color:var(--teal)"> Multi-Kill Machine</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
@@ -125,7 +125,7 @@ These Gambits define your build. You don't build around them ！ they build aroun
 
 ---
 
-### King's Shield <span style="color:var(--teal)">！ Fortress Mode</span>
+### King's Shield <span style="color:var(--teal)"> Fortress Mode</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
@@ -140,22 +140,22 @@ These Gambits define your build. You don't build around them ！ they build aroun
 
 ---
 
-### Queen's Gambit Counter <span style="color:var(--teal)">！ Boss-Specific MVP</span>
+### Queen's Gambit Counter <span style="color:var(--teal)"> Boss-Specific MVP</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Negates Queen boss's promotion ability. Turns 4-star ★ 2-star fight.</span>
+  <span class="meta-label">Negates Queen boss's promotion ability. Turns 4-star  2-star fight.</span>
 </div>
 
 **Best with:** Any piece (center control), Pawn rushers (block her promotion, enable yours), Rook (open file pressure)
 
 **Phase:** <span class="phase-tag phase-mid">MID GAME</span>
 
-> **Pro Tip:** Also works against Pawn Storm promotions. Going Pawn Storm ★ Queen Gambit back-to-back? One Gambit neutralizes BOTH bosses' most dangerous mechanic.
+> **Pro Tip:** Also works against Pawn Storm promotions. Going Pawn Storm  Queen Gambit back-to-back? One Gambit neutralizes BOTH bosses' most dangerous mechanic.
 
 ---
 
-### Through the Ranks <span style="color:var(--teal)">！ Value Train</span>
+### Through the Ranks <span style="color:var(--teal)"> Value Train</span>
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
@@ -170,10 +170,10 @@ These Gambits define your build. You don't build around them ！ they build aroun
 
 <hr class="section-divider">
 
-## <span id="b-tier">?? B-Tier ！ Strong Situational Picks</span>
+## <span id="b-tier">?? B-Tier  Strong Situational Picks</span>
 
 <div style="background:linear-gradient(135deg, rgba(70,130,220,0.2), rgba(70,130,220,0.05));border:2px solid var(--blue);border-radius:12px;padding:24px;margin-bottom:24px">
-Excellent in the right build. Don't force them ！ pick them when they fit. A B-tier pick in the perfect deck outperforms an A-tier pick that's sitting in your hand unused.
+Excellent in the right build. Don't force them  pick them when they fit. A B-tier pick in the perfect deck outperforms an A-tier pick that's sitting in your hand unused.
 
 <div style="margin-top:12px;font-size:0.85rem;color:var(--cream-dark)">Selection rate among top players: <strong style="color:var(--blue)">50-75%</strong></div>
 </div>
@@ -227,7 +227,7 @@ Double your current stock. Simple, reliable.
 **Best with:** Economy builds / Any tile
 **Downside:** Low base stock = low value
 
-> ?? Never Double Down below 50 stock. Wait for 80+ ★ Double Down ★ Steal Investment for compound growth.
+> ?? Never Double Down below 50 stock. Wait for 80+  Double Down  Steal Investment for compound growth.
 
 </div>
 </div>
@@ -291,10 +291,10 @@ Boss-specific: parries knight boss's forking attacks.
 
 <hr class="section-divider">
 
-## <span id="c-tier">? C-Tier ！ Niche / Filler Gambits</span>
+## <span id="c-tier">? C-Tier  Niche / Filler Gambits</span>
 
 <div style="background:linear-gradient(135deg, rgba(160,160,160,0.15), rgba(160,160,160,0.05));border:2px solid #888;border-radius:12px;padding:24px;margin-bottom:24px">
-These have their place ！ but it's a small place. Only pick if your deck has room and the situation is perfect. Never prioritize them. Never reroll to find them.
+These have their place  but it's a small place. Only pick if your deck has room and the situation is perfect. Never prioritize them. Never reroll to find them.
 
 <div style="margin-top:12px;font-size:0.85rem;color:var(--cream-dark)">Selection rate among top players: <strong>5-25%</strong></div>
 </div>
@@ -303,7 +303,7 @@ These have their place ！ but it's a small place. Only pick if your deck has roo
 <div class="col">
 
 ### ?? Undo Move <span class="meta-badge meta-c">C</span>
-Reverse your last move. Decent safety net ！ but takes a slot that could be S-tier.
+Reverse your last move. Decent safety net  but takes a slot that could be S-tier.
 **Only pick if:** Your deck is 20+ cards and you have room.
 **Phase:** <span class="phase-tag phase-early">EARLY</span>
 
@@ -311,7 +311,7 @@ Reverse your last move. Decent safety net ！ but takes a slot that could be S-ti
 <div class="col">
 
 ### ?? Gravity Flip <span class="meta-badge meta-c">C</span>
-Invert movement for 1 turn. High skill ceiling ！ but affects BOTH players equally.
+Invert movement for 1 turn. High skill ceiling  but affects BOTH players equally.
 **Only pick if:** You're specifically memeing or speedrunning.
 **Phase:** <span class="phase-tag phase-mid">MID</span>
 
@@ -348,7 +348,7 @@ High-risk, high-reward attack. Can one-shot bosses or miss entirely.
 
 <hr class="section-divider">
 
-## <span id="quick-ref">?? Quick Reference ！ Full Gambit Tier Table</span>
+## <span id="quick-ref">?? Quick Reference  Full Gambit Tier Table</span>
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -360,7 +360,7 @@ High-risk, high-reward attack. Can one-shot bosses or miss entirely.
 | **?? A** | Backstab | Attack | Mid | Ignore protection = free kills |
 | **?? A** | Chain Capture | Attack | Early-Mid | Chain = 2-for-1 value |
 | **?? A** | King's Shield | Defense | All | Risk-free aggression enabler |
-| **?? A** | Queen's Gambit Counter | Boss | Mid | Turns 4￥ ★ 2￥ boss |
+| **?? A** | Queen's Gambit Counter | Boss | Mid | Turns 4  2 boss |
 | **?? A** | Through the Ranks | Movement | Late | Value train on open boards |
 | **?? B** | Knight+Bishop Combo | Movement | Mid | Coverage king, slow setup |
 | **?? B** | Jackpot Gambit | Economy | Late | Free boss counter |
@@ -387,7 +387,7 @@ High-risk, high-reward attack. Can one-shot bosses or miss entirely.
 
 <div style="text-align:center;margin:24px 0">
   <div style="display:inline-block;background:var(--dark-2);border:1px solid var(--gold);padding:16px 24px;border-radius:3px">
-    <span style="font-size:0.9rem;color:var(--gold)">★ Share this link: <strong style="color:var(--cream)">leolifan007.github.io/gambonanza-guide/gambonanza-tier-list/</strong></span>
+    <span style="font-size:0.9rem;color:var(--gold)"> Share this link: <strong style="color:var(--cream)">leolifan007.github.io/gambonanza-guide/gambonanza-tier-list/</strong></span>
   </div>
 </div>
 
@@ -397,7 +397,7 @@ High-risk, high-reward attack. Can one-shot bosses or miss entirely.
 
 ---
 
-*Gambonanza Tier List v1.0 ！ Last updated: May 7, v1.1.0. Based on my runs and gameplay analysis. 150+ Gambits total; top 22 ranked individually here.*
+*Gambonanza Tier List v1.0  Last updated: May 7, v1.1.0. Based on my runs and gameplay analysis. 150+ Gambits total; top 22 ranked individually here.*
 
 ---
 

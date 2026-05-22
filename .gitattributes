@@ -1,0 +1,17 @@
+# Enforce UTF-8 encoding for text files
+* text=auto charset=utf-8
+
+# Markdown files
+*.md text charset=utf-8
+
+# HTML files
+*.html text charset=utf-8
+
+# Configuration files
+*.toml text charset=utf-8
+*.yaml text charset=utf-8
+*.yml text charset=utf-8
+
+# CSS and JavaScript
+*.css text charset=utf-8
+*.js text charset=utf-8

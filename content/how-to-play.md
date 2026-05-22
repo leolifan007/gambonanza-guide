@@ -1,5 +1,5 @@
 ---
-title: "How to Play Gambonanza (v1.1.0) â€?Complete Rules & Getting Started Guide"
+title: "How to Play Gambonanza (v1.1.0) ?Complete Rules & Getting Started Guide"
 description: "Learn how to play Gambonanza in 5 minutes. Complete rules explanation, turn structure, win conditions, and the 3 things every new player needs to know. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-19'
 version: 'v1.1.0'
@@ -14,13 +14,13 @@ see_also:
     url: '/faq/'
 ---
 
-## How to Play Gambonanza â€?The 5-Minute Rules
+## How to Play Gambonanza ?The 5-Minute Rules
 
 > Gambonanza is a chess roguelike deckbuilder. You move chess pieces on a board, but instead of playing against another chess player, you're building a deck of Gambits (special powers) and fighting bosses. Think Slay the Spire meets chess.
 
 <div class='callout callout-verdict'>
   <strong>The Short Version</strong><br>
-  Move pieces â†?Trigger Gambits â†?Beat bosses â†?Invest stock â†?Repeat. Chess knowledge helps but isn't required. The game rewards deck synergy over positional play. <strong>If you've played Balatro or Slay the Spire, you'll pick this up fast.</strong>
+  Move pieces ?Trigger Gambits ?Beat bosses ?Invest stock ?Repeat. Chess knowledge helps but isn't required. The game rewards deck synergy over positional play. <strong>If you've played Balatro or Slay the Spire, you'll pick this up fast.</strong>
 </div>
 
 ## What Is Gambonanza?
@@ -30,7 +30,7 @@ Gambonanza is a roguelike deckbuilder where:
 - You play on a **chess board** (4Ã—4, 6Ã—6, or 8Ã—8)
 - You control **chess pieces** that have associated **cards**
 - Moving a piece **activates its card** (like playing a card in a deckbuilder)
-- Cards trigger **Gambits** â€?special powers that break chess rules
+- Cards trigger **Gambits** ?special powers that break chess rules
 - You fight **8 bosses** in sequence, investing stock (currency) between fights
 - If you die, you start over with a new run (roguelike)
 
@@ -40,20 +40,20 @@ The game is available on [Steam](https://store.steampowered.com/app/3182810/Gamb
 
 Each turn follows this sequence:
 
-1. **Move Phase** â€?Move one of your pieces (standard chess movement applies)
-2. **Card Activation** â€?The piece you moved activates its card ability
-3. **Gambit Trigger** â€?If conditions are met, your Gambits fire automatically
-4. **Boss Response** â€?The boss makes their move and triggers their abilities
-5. **Resolution** â€?Damage is calculated, effects are applied
+1. **Move Phase** ?Move one of your pieces (standard chess movement applies)
+2. **Card Activation** ?The piece you moved activates its card ability
+3. **Gambit Trigger** ?If conditions are met, your Gambits fire automatically
+4. **Boss Response** ?The boss makes their move and triggers their abilities
+5. **Resolution** ?Damage is calculated, effects are applied
 
 <div class='pro-tip'>
   <strong>Key Insight</strong><br>
-  Unlike regular chess, you only move ONE piece per turn. Choose carefully â€?the piece you move determines which card activates. Sometimes the best chess move isn't the best Gambonanza move.
+  Unlike regular chess, you only move ONE piece per turn. Choose carefully ?the piece you move determines which card activates. Sometimes the best chess move isn't the best Gambonanza move.
 </div>
 
 ## Win Conditions
 
-You win a run by defeating all 8 bosses. Each boss has a health bar â€?reduce it to zero and you advance to the next boss.
+You win a run by defeating all 8 bosses. Each boss has a health bar ?reduce it to zero and you advance to the next boss.
 
 You lose when:
 - Your King is captured (checkmate)
@@ -106,12 +106,12 @@ Gambits are the core mechanic. Here's how they work:
 - You **acquire Gambits** from the shop or as rewards
 - Each Gambit has a **trigger condition** (e.g., "When you move a Knight")
 - When the condition is met, the Gambit **automatically activates**
-- Gambits can **chain** â€?one Gambit triggering can trigger another
+- Gambits can **chain** ?one Gambit triggering can trigger another
 - Some Gambits are **active** (you choose when to use them) and some are **passive** (always on)
 
 <div class='callout callout-tip'>
   <strong>Gambit Synergy</strong><br>
-  The real power comes from Gambit synergy â€?Gambits that trigger each other in sequence. A well-built Gambit chain can deal 5-10x more damage than individual Gambits. Check the <a href='/gambits/'>All Gambits Guide</a> for the full synergy breakdown.
+  The real power comes from Gambit synergy ?Gambits that trigger each other in sequence. A well-built Gambit chain can deal 5-10x more damage than individual Gambits. Check the <a href='/gambits/'>All Gambits Guide</a> for the full synergy breakdown.
 </div>
 
 ## Stock & Economy
@@ -124,11 +124,11 @@ Stock is your currency. You earn it from:
 You spend it on:
 - Shop purchases (Gambits, relics)
 - Boss retries (25 stock per retry)
-- Shop rerolls (increasing cost: 10 â†?20 â†?40 â†?80)
+- Shop rerolls (increasing cost: 10 ?20 ?40 ?80)
 
 <div class='pro-tip'>
   <strong>Economy Tip</strong><br>
-  Invest in Safe Haven tables early â€?they give guaranteed +10% returns. The compound growth from rounds 1-3 pays for itself by round 6. Check the <a href='/economy/'>Economy Guide</a> for the full breakdown.
+  Invest in Safe Haven tables early ?they give guaranteed +10% returns. The compound growth from rounds 1-3 pays for itself by round 6. Check the <a href='/economy/'>Economy Guide</a> for the full breakdown.
 </div>
 
 ## Boss Progression
@@ -144,13 +144,13 @@ You spend it on:
 | 7 | King's Endgame | Very Hard | Escalating power |
 | 8 | The Grandmaster | Very Hard | All mechanics combined |
 
-## Getting Started â€?Your First Run
+## Getting Started ?Your First Run
 
 1. **Buy the game** on [Steam](https://store.steampowered.com/app/3182810/Gambonanza/) ($0.99)
-2. **Start a New Run** â€?no need to enter a seed for your first time
-3. **Play naturally** for the first 3 rounds â€?don't stress about strategy
+2. **Start a New Run** ?no need to enter a seed for your first time
+3. **Play naturally** for the first 3 rounds ?don't stress about strategy
 4. **After boss 1**, visit the shop and buy an economy relic
-5. **By boss 3**, you should have a clear build direction â€?commit to it
+5. **By boss 3**, you should have a clear build direction ?commit to it
 6. **Read the [Beginner Guide](/beginner/)** for detailed strategy
 
 <div class='callout callout-tip'>
@@ -160,11 +160,11 @@ You spend it on:
 
 ## Changelog
 
-- **v1.1** (v1.1.0-05-19): Initial release â€?complete rules & getting started guide
+- **v1.1** (v1.1.0-05-19): Initial release ?complete rules & getting started guide
 
 <div class='callout callout-tip'>
   <strong>Sources & Updates</strong><br>
-  All information is from my own gameplay experience. Gambonanza may change with patches â€?always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
+  All information is from my own gameplay experience. Gambonanza may change with patches ?always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
 </div>
 
 <div class='ad-slot ad-slot--after-content'>

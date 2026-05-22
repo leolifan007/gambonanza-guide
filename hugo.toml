@@ -1,3 +1,7 @@
+
+# Encoding settings
+hasCJKLanguage = true
+
 baseURL = 'https://gambonanzaguide.com/'
 locale = 'en-US'
 title = 'Gambonanza Guide - Complete Strategy, Gambits and Walkthrough'

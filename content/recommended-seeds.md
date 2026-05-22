@@ -1,5 +1,5 @@
 ---
-title: 'Gambonanza Recommended Seeds (v1.1.0) â€?Best Opening Seeds Collection'
+title: 'Gambonanza Recommended Seeds (v1.1.0) ?Best Opening Seeds Collection'
 description: 'The best Gambonanza opening seeds for patch v1.1.0. Community-verified seeds for all-round, economy, ranked mode, and high-variance builds. Updated with player-verified configurations for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
@@ -18,13 +18,13 @@ see_also:
 
 <div class='callout callout-verdict'>
   <strong>Verdict</strong><br>
-  Seed 1238513920 is the community's strongest all-rounder. Double Gambit slot opener + economy relic â€?works for every playstyle. Beginners and veterans alike. <strong>Rating:</strong> <span class='meta-badge meta-s'>S</span>
+  Seed 1238513920 is the community's strongest all-rounder. Double Gambit slot opener + economy relic ?works for every playstyle. Beginners and veterans alike. <strong>Rating:</strong> <span class='meta-badge meta-s'>S</span>
 </div>
 
 ## Community-Recommended Seeds
 
-![Opening board layout â€?good seed determines your initial advantage](/images/screenshots/ss_2.jpg)
-*Starting board â€?your seed determines the initial Gambit pool and relic pool*
+![Opening board layout ?good seed determines your initial advantage](/images/screenshots/ss_2.jpg)
+*Starting board ?your seed determines the initial Gambit pool and relic pool*
 
 | Seed | Highlights | Best For | Rating |
 |------|-----------|----------|--------|
@@ -36,7 +36,7 @@ see_also:
 
 <div class='pro-tip'>
   <strong>Seed Trivia</strong><br>
-  You can use spaces when entering seeds (e.g. 1238 513 920) to avoid typos. The seed algorithm hasn't been published, but the community has confirmed seeds do not affect difficulty â€?S-tier seeds don't make bosses weaker.
+  You can use spaces when entering seeds (e.g. 1238 513 920) to avoid typos. The seed algorithm hasn't been published, but the community has confirmed seeds do not affect difficulty ?S-tier seeds don't make bosses weaker.
 </div>
 
 ## How to Enter a Seed
@@ -63,7 +63,7 @@ Ranked mode uses a fixed seed pool. These have been verified with high-score run
 
 <div class='pro-tip'>
   <strong>Ranked Note</strong><br>
-  Using seeds in ranked mode does not affect matchmaking â€?your opponent is a real player and won't be affected by your seed choice. Use these seeds with confidence.
+  Using seeds in ranked mode does not affect matchmaking ?your opponent is a real player and won't be affected by your seed choice. Use these seeds with confidence.
 </div>
 
 ## Changelog
@@ -73,7 +73,7 @@ Ranked mode uses a fixed seed pool. These have been verified with high-score run
 
 <div class='callout callout-tip'>
   <strong>Sources & Updates</strong><br>
-  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches â€?always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
+  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches ?always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
 </div>
 
 <div class='ad-slot ad-slot--after-content'>

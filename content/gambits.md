@@ -1,20 +1,20 @@
 ---
-title: "Gambonanza All Gambits Guide v1.1.0 ！ 150+ Gambits Rated & Ranked"
-description: "Complete Gambonanza Gambit database for patch v1.1.0. 150+ Gambits with S/A/B/C meta ratings, Piece〜Tile synergy tables, Early vs Late Game analysis, and Pro Tips. Updated for patch v1.1.0."
+title: "Gambonanza All Gambits Guide v1.1.0  150+ Gambits Rated & Ranked"
+description: "Complete Gambonanza Gambit database for patch v1.1.0. 150+ Gambits with S/A/B/C meta ratings, PieceTile synergy tables, Early vs Late Game analysis, and Pro Tips. Updated for patch v1.1.0."
 ---
 
-## The Gambit System ！ Rated, Ranked & Explained
+## The Gambit System  Rated, Ranked & Explained
 
 **150+ Gambits.** Each one a rule-breaking chess power. But some are game-warping, and some are trap picks that look good but lose you the run. This guide tells you which is which.
 
 <div style="background:var(--dark-2);border:1px solid var(--gold);padding:16px;border-radius:3px;margin:16px 0;text-align:center">
   <strong style="font-family:var(--font-display);font-size:1.1rem;color:var(--gold)">HOW TO READ THIS GUIDE</strong><br>
-  <span style="font-size:0.9rem;color:var(--cream-dark)">Every top Gambit gets a <strong>Meta Rating</strong> (S/A/B/C), <strong>Synergy Table</strong> (Piece〜Tile combos), <strong>Phase Indicator</strong> (Early/Mid/Late), and <strong>Pro Tip</strong> (10+ hour insider knowledge).</span>
+  <span style="font-size:0.9rem;color:var(--cream-dark)">Every top Gambit gets a <strong>Meta Rating</strong> (S/A/B/C), <strong>Synergy Table</strong> (PieceTile combos), <strong>Phase Indicator</strong> (Early/Mid/Late), and <strong>Pro Tip</strong> (10+ hour insider knowledge).</span>
 </div>
 
 <hr class="section-divider">
 
-## S-Tier ！ Game-Warping Gambits
+## S-Tier  Game-Warping Gambits
 
 These Gambits fundamentally change how you play. Build your run around them.
 
@@ -44,7 +44,7 @@ see_also:
       <span class="phase-tag phase-mid">MID</span>
       <span class="phase-tag phase-late">LATE</span>
     </div>
-    <p class="gambit-summary">Instantly move any piece to any unoccupied square ！ the single most versatile Gambit in the game.</p>
+    <p class="gambit-summary">Instantly move any piece to any unoccupied square  the single most versatile Gambit in the game.</p>
   </div>
   <div class="gambit-card-body">
     <div class="synergy-cards">
@@ -52,7 +52,7 @@ see_also:
         <div class="synergy-card-icon">?</div>
         <div class="synergy-card-content">
           <strong>Best with King</strong>
-          <span>Teleport king out of checkmate ★ free life</span>
+          <span>Teleport king out of checkmate  free life</span>
         </div>
       </div>
       <div class="synergy-card">
@@ -87,7 +87,7 @@ see_also:
       <span class="meta-badge meta-s">S</span>
       <span class="phase-tag phase-late">LATE</span>
     </div>
-    <p class="gambit-summary">1-turn god mode against ALL bosses. The single most important boss Gambit ！ save for Phase 3.</p>
+    <p class="gambit-summary">1-turn god mode against ALL bosses. The single most important boss Gambit  save for Phase 3.</p>
   </div>
   <div class="gambit-card-body">
     <div class="synergy-cards">
@@ -95,14 +95,14 @@ see_also:
         <div class="synergy-card-icon">?</div>
         <div class="synergy-card-content">
           <strong>Best with Any piece</strong>
-          <span>Works universally ！ zero positioning requirements</span>
+          <span>Works universally  zero positioning requirements</span>
         </div>
       </div>
       <div class="synergy-card">
         <div class="synergy-card-icon">?</div>
         <div class="synergy-card-content">
           <strong>Best with King</strong>
-          <span>Counteractive ★ push king forward safely for 1 turn</span>
+          <span>Counteractive  push king forward safely for 1 turn</span>
         </div>
       </div>
       <div class="synergy-card">
@@ -115,7 +115,7 @@ see_also:
     </div>
     <div class="why-box">
       <strong class="why-label">Why it breaks the game:</strong>
-      The Ultimate Counter doesn't actually make you invulnerable ！ it makes your pieces "invisible" to boss targeting. The boss still takes their turn but wastes it moving aimlessly. Use this turn to reposition ALL your pieces aggressively, because the boss literally can't see them.
+      The Ultimate Counter doesn't actually make you invulnerable  it makes your pieces "invisible" to boss targeting. The boss still takes their turn but wastes it moving aimlessly. Use this turn to reposition ALL your pieces aggressively, because the boss literally can't see them.
     </div>
   </div>
 </div>
@@ -130,7 +130,7 @@ see_also:
       <span class="meta-badge meta-s">S</span>
       <span class="phase-tag phase-late">LATE</span>
     </div>
-    <p class="gambit-summary">Return all captured pieces to the board ！ the ultimate comeback mechanic.</p>
+    <p class="gambit-summary">Return all captured pieces to the board  the ultimate comeback mechanic.</p>
   </div>
   <div class="gambit-card-body">
     <div class="synergy-cards">
@@ -145,7 +145,7 @@ see_also:
         <div class="synergy-card-icon">?</div>
         <div class="synergy-card-content">
           <strong>Best with Sacrificed Pawns</strong>
-          <span>Pawns return ON the back rank ！ instant promotion setup</span>
+          <span>Pawns return ON the back rank  instant promotion setup</span>
         </div>
       </div>
       <div class="synergy-card">
@@ -158,14 +158,14 @@ see_also:
     </div>
     <div class="why-box">
       <strong class="why-label">Why it breaks the game:</strong>
-      Pieces returned by Heal Board are placed on YOUR choice of empty squares, not their original positions. Deliberately sacrifice pieces in bad positions early, then Heal Board them into perfect attacking formations. It's not a recovery tool ！ it's a <em>repositioning tool</em> disguised as healing.
+      Pieces returned by Heal Board are placed on YOUR choice of empty squares, not their original positions. Deliberately sacrifice pieces in bad positions early, then Heal Board them into perfect attacking formations. It's not a recovery tool  it's a <em>repositioning tool</em> disguised as healing.
     </div>
   </div>
 </div>
 
 <hr class="section-divider">
 
-## A-Tier ！ Run-Defining Gambits
+## A-Tier  Run-Defining Gambits
 
 These define your build strategy. Prioritize them in every shop.
 
@@ -238,7 +238,7 @@ These define your build strategy. Prioritize them in every shop.
 
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
-| **King** | Any safe tile | The king is the centerpiece ！ protect your investment |
+| **King** | Any safe tile | The king is the centerpiece  protect your investment |
 | **Pawns near king** | Adjacent tiles | Pawn wall + King's Shield = fortress for 2 turns |
 | **Economy builds** | Any tile | Stock value is tied to king survival |
 
@@ -250,7 +250,7 @@ These define your build strategy. Prioritize them in every shop.
 </div>
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> King's Shield doesn't just protect the king ！ it prevents stock loss on king capture for 2 turns. This means you can aggressively double down your stock, pop King's Shield, and go ALL-IN on offense without worrying about losing your economy. Risk-free aggression.
+  <strong>Only 10h+ players know:</strong> King's Shield doesn't just protect the king  it prevents stock loss on king capture for 2 turns. This means you can aggressively double down your stock, pop King's Shield, and go ALL-IN on offense without worrying about losing your economy. Risk-free aggression.
 </div>
 
 ---
@@ -278,7 +278,7 @@ These define your build strategy. Prioritize them in every shop.
 </div>
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Queen's Gambit Counter also works against Pawn Storm promotions. If you're going Pawn Storm ★ Queen Gambit back-to-back, this one Gambit neutralizes both bosses' most dangerous mechanic.
+  <strong>Only 10h+ players know:</strong> Queen's Gambit Counter also works against Pawn Storm promotions. If you're going Pawn Storm  Queen Gambit back-to-back, this one Gambit neutralizes both bosses' most dangerous mechanic.
 </div>
 
 ---
@@ -302,7 +302,7 @@ These define your build strategy. Prioritize them in every shop.
 
 <div style="margin: 12px 0">
   <span class="phase-tag phase-late">LATE GAME</span>
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Needs open board. Build toward this ！ it's not an early-game tool.</span>
+  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Needs open board. Build toward this  it's not an early-game tool.</span>
 </div>
 
 <div class="pro-tip">
@@ -311,7 +311,7 @@ These define your build strategy. Prioritize them in every shop.
 
 <hr class="section-divider">
 
-## B-Tier ！ Strong Situational Picks
+## B-Tier  Strong Situational Picks
 
 These are excellent in the right build. Don't force them into every deck.
 
@@ -330,7 +330,7 @@ Move a piece using Knight AND Bishop range simultaneously. Insane coverage, slow
 **Best Tiles:** Center, diagonal control tiles<br>
 **Weakness:** Requires both piece types alive on board
 
-<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">?? PRO TIP: Use this on a pawn 1 square from promotion. It can promote to ANYTHING reachable by a knight+bishop ！ far more promotion options than normal.</div>
+<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">?? PRO TIP: Use this on a pawn 1 square from promotion. It can promote to ANYTHING reachable by a knight+bishop  far more promotion options than normal.</div>
 
 </div>
 <div class="col">
@@ -347,7 +347,7 @@ Triple stock value + free Boss Gambit. Best used RIGHT before boss fights.
 **Best Tiles:** Safe haven tiles<br>
 **Weakness:** Useless on non-boss boards
 
-<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">?? PRO TIP: Jackpot Gambit's boss Gambit reward is NOT random ！ it always gives you the counter for the NEXT boss you fight. Sequence your boss order to control which counter you get.</div>
+<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">?? PRO TIP: Jackpot Gambit's boss Gambit reward is NOT random  it always gives you the counter for the NEXT boss you fight. Sequence your boss order to control which counter you get.</div>
 
 </div>
 </div>
@@ -384,14 +384,14 @@ Double your current stock. Simple, reliable, always useful.
 **Best Tiles:** Any<br>
 **Weakness:** Low base stock = low value
 
-<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">?? PRO TIP: Never Double Down at less than 50 stock. The return is mathematically bad below 50. Wait until you hit 80+ stock ★ Double Down ★ immediately Steal Investment for maximum compound growth.</div>
+<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">?? PRO TIP: Never Double Down at less than 50 stock. The return is mathematically bad below 50. Wait until you hit 80+ stock  Double Down  immediately Steal Investment for maximum compound growth.</div>
 
 </div>
 </div>
 
 <hr class="section-divider">
 
-## C-Tier ！ Niche/Filler Gambits
+## C-Tier  Niche/Filler Gambits
 
 These have their place but shouldn't be build priorities.
 
@@ -405,7 +405,7 @@ Reverse your last move. Decent safety net, but occupies a slot that could be an 
 
 ### Gravity Flip <span class="meta-badge meta-c">C</span>
 
-Invert movement directions for 1 turn. High skill ceiling but affects both players. **Fun but inconsistent ！ you'll lose more runs than you'll win with this.**
+Invert movement directions for 1 turn. High skill ceiling but affects both players. **Fun but inconsistent  you'll lose more runs than you'll win with this.**
 
 <div style="margin: 4px 0">
   <span class="phase-tag phase-mid">MID GAME</span>
@@ -429,19 +429,19 @@ Capture and continue through. Good with bishops, weak with everything else. **Up
 
 <hr class="section-divider">
 
-## Gambit Tier List ！ Quick Reference
+## Gambit Tier List  Quick Reference
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Ti er | Gambit | Category | Best Phase | Must-Have? |
 |---|---|---|---|---|
-| **S** | Teleport | Movement | All | Yes ！ every build |
-| **S** | The Ultimate Counter | Boss | Late | Yes ！ final boss |
-| **S** | Heal Board | Defense | Late | Yes ！ long runs |
-| **A** | Backstab | Attack | Mid | Yes ！ aggressive |
-| **A** | Chain Capture | Attack | Early-Mid | Yes ！ tight boards |
-| **A** | King's Shield | Defense | All | Yes ！ safety |
-| **A** | Queen's Gambit Counter | Boss | Mid | Yes ！ specific boss |
+| **S** | Teleport | Movement | All | Yes  every build |
+| **S** | The Ultimate Counter | Boss | Late | Yes  final boss |
+| **S** | Heal Board | Defense | Late | Yes  long runs |
+| **A** | Backstab | Attack | Mid | Yes  aggressive |
+| **A** | Chain Capture | Attack | Early-Mid | Yes  tight boards |
+| **A** | King's Shield | Defense | All | Yes  safety |
+| **A** | Queen's Gambit Counter | Boss | Mid | Yes  specific boss |
 | **A** | Through the Ranks | Movement | Late | Build-dependent |
 | **B** | Knight+Bishop Combo | Movement | Mid | Build-dependent |
 | **B** | Jackpot Gambit | Economy | Late | Boss prep |
@@ -466,11 +466,11 @@ Capture and continue through. Good with bishops, weak with everything else. **Up
 
 For your first 10 runs, prioritize these Gambits in this exact order:
 
-1. **Teleport** <span class="meta-badge meta-s">S</span> ！ buy it the moment you see it
-2. **Backstab** <span class="meta-badge meta-a">A</span> ！ 2nd shop visit, every time
-3. **King's Shield** <span class="meta-badge meta-a">A</span> ！ protects your stock investment
-4. **Double Down** <span class="meta-badge meta-b">B</span> ！ economy amplifier
-5. **Knight+Bishop Combo** <span class="meta-badge meta-b">B</span> ！ flexible 5th pick
+1. **Teleport** <span class="meta-badge meta-s">S</span>  buy it the moment you see it
+2. **Backstab** <span class="meta-badge meta-a">A</span>  2nd shop visit, every time
+3. **King's Shield** <span class="meta-badge meta-a">A</span>  protects your stock investment
+4. **Double Down** <span class="meta-badge meta-b">B</span>  economy amplifier
+5. **Knight+Bishop Combo** <span class="meta-badge meta-b">B</span>  flexible 5th pick
 
 <div class="pro-tip">
   <strong>Only 10h+ players know:</strong> The shop's Gambit rotation is NOT random. Every 5th shop visit guarantees an S or A-tier Gambit. Time your economy spikes (Double Down, Jackpot) to hit the shop on multiples of 5 visits, and you'll walk into free top-tier picks every time.
@@ -478,5 +478,5 @@ For your first 10 runs, prioritize these Gambits in this exact order:
 
 ---
 
-*Gambit database based on my runs and gameplay analysis. 150+ Gambits total ！ I've catalogued the top 60 with full ratings. More added as meta evolves. Last updated: May 11, v1.1.0 (patch v1.1.0).*
+*Gambit database based on my runs and gameplay analysis. 150+ Gambits total  I've catalogued the top 60 with full ratings. More added as meta evolves. Last updated: May 11, v1.1.0 (patch v1.1.0).*
 

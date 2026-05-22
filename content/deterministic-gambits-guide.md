@@ -1,6 +1,6 @@
----
-title: "Gambonanza Deterministic Gambits (v1.1.0) ‚Ä?The Best Reliable Gambits Ranked"
-description: "Gambonanza deterministic Gambits guide for patch v1.1.0. Reliable Gambits ranked by consistency and cost efficiency ‚Ä?no RNG dice rolls. Which chance-based Gambits to skip entirely. Updated for patch v1.1.0."
+Ôªø---
+title: "Gambonanza Deterministic Gambits (v1.1.0)‚ÄîThe Best Reliable Gambits Ranked"
+description: "Gambonanza deterministic Gambits guide for patch v1.1.0. Reliable Gambits ranked by consistency and cost efficiency‚Äîno RNG dice rolls. Which chance-based Gambits to skip entirely. Updated for patch v1.1.0."
 see_also:
   - title: 'All Gambits Guide'
     url: '/gambits/'
@@ -11,8 +11,8 @@ see_also:
 ## Why Deterministic Gambits Win
 
 <div class="callout callout-verdict">
-  <strong>üé≤ THE PROBLEM WITH RNG</strong><br>
-  "Gambit 80% are 1/3 chance." ‚Ä?actual player complaint. Gambonanza is full of Gambits that sound amazing until they whiff at the worst possible moment. This guide ranks Gambits by one metric: <strong>reliability</strong>.
+  <strong>È¶ÉÂπâ THE PROBLEM WITH RNG</strong><br>
+  "Gambit 80% are 1/3 chance."‚Äîactual player complaint. Gambonanza is full of Gambits that sound amazing until they whiff at the worst possible moment. This guide ranks Gambits by one metric: <strong>reliability</strong>.
 </div>
 
 <div class="meta-rating">
@@ -23,7 +23,7 @@ see_also:
 
 <hr class="section-divider">
 
-The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +50 stock. Not because the expected value is lower (it often isn't) ‚Ä?but because in a roguelike, <strong>you plan around what you can count on</strong>. When that 1/3 Gambit fails, you're down a turn and a Gambit slot. When the deterministic one works, you execute your plan.
+The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +50 stock. Not because the expected value is lower (it often isn't)‚Äîbut because in a roguelike, <strong>you plan around what you can count on</strong>. When that 1/3 Gambit fails, you're down a turn and a Gambit slot. When the deterministic one works, you execute your plan.
 
 <hr class="section-divider">
 
@@ -43,7 +43,7 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">These four form the <strong>deterministic core</strong>. Every run should prioritize buying these before any RNG Gambit. They cost ~130 stock total and cover attack, defense, mobility, and economy ‚Ä?all without rolling a single die.</span>
+  <span class="meta-label">These four form the <strong>deterministic core</strong>. Every run should prioritize buying these before any RNG Gambit. They cost ~130 stock total and cover attack, defense, mobility, and economy‚Äîall without rolling a single die.</span>
 </div>
 
 <hr class="section-divider">
@@ -64,7 +64,7 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">These have near-deterministic outcomes. Double Down is literally guaranteed returns. Steal Investment works as long as the opponent has stock. Bishop's Diagonal depends on you playing well ‚Ä?but that's a skill issue, not an RNG issue.</span>
+  <span class="meta-label">These have near-deterministic outcomes. Double Down is literally guaranteed returns. Steal Investment works as long as the opponent has stock. Bishop's Diagonal depends on you playing well‚Äîbut that's a skill issue, not an RNG issue.</span>
 </div>
 
 <hr class="section-divider">
@@ -73,10 +73,10 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 
 | Gambit | Cost | Why It's Risky |
 |--------|------|----------------|
-| **Knight's Jump** | 30 | 60% double / 40% lose half ‚Ä?+EV but variance kills runs |
-| **Gambler's Gambit** | 20 | 20% 5√ó / 80% nothing ‚Ä?break-even EV, feels bad when it misses |
+| **Knight's Jump** | 30 | 60% double / 40% lose half‚Äî+EV but variance kills runs |
+| **Gambler's Gambit** | 20 | 20% 5ËÑ≥ / 80% nothing‚Äîbreak-even EV, feels bad when it misses |
 | **Jackpot Gambit** | 60 | Only works before bosses, still has a chance component |
-| **Free Roll** | 20 | Reroll is RNG itself ‚Ä?you might get worse options |
+| **Free Roll** | 20 | Reroll is RNG itself‚Äîyou might get worse options |
 
 <div class="pro-tip">
   <strong>Only 10h+ players know:</strong> Knight's Jump is the only B-Tier Gambit worth buying IF you have >100 stock. The variance matters less when you're rich. But if you're under 50 stock, skip it. A whiff at low stock ends your run.
@@ -87,14 +87,14 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 ## C-Tier: Skip These
 
 <div class="callout callout-danger">
-  <strong>üé≤ TRAP GAMBITS</strong><br>
+  <strong>È¶ÉÂπâ TRAP GAMBITS</strong><br>
   These sound good on paper but rely on RNG in ways that make them unreliable. Skip unless you're memeing.
 </div>
 
-- **Roulette Gambit** ‚Ä?the name says everything. Pure RNG.
-- **Mystery Box** ‚Ä?unknown effect at unknown timing. You cannot plan around this.
-- **Chaos Gambit** ‚Ä?"random board effect" means random chance to help OR hurt you.
-- **Any Gambit that says "chance" or "random" in its description** ‚Ä?especially if it's the only effect.
+- **Roulette Gambit**‚Äîthe name says everything. Pure RNG.
+- **Mystery Box**‚Äîunknown effect at unknown timing. You cannot plan around this.
+- **Chaos Gambit**‚Äî"random board effect" means random chance to help OR hurt you.
+- **Any Gambit that says "chance" or "random" in its description**‚Äîespecially if it's the only effect.
 
 <hr class="section-divider">
 
@@ -113,7 +113,7 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 </div>
 
 <div class="callout callout-tip">
-  <strong>üìä THE PRINCIPLE</strong><br>
+  <strong>È¶ÉÊê≥ THE PRINCIPLE</strong><br>
   Buy the deterministic S-Tier core first. Every time. Then fill from A-Tier. Only touch B-Tier or C-Tier when you have stock to burn. This single rule will increase your win rate more than any combo strategy.
 </div>
 
@@ -121,11 +121,11 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 
 ## Deterministic Gambit Priority on a New Run
 
-1. **Shop 1:** Teleport (40) ‚Ä?always available, always buy
-2. **Shop 1-2:** Backstab (30) ‚Ä?cheapest reliable attack
-3. **Shop 2-3:** Safe Haven investment (10+) ‚Ä?start compounding early
-4. **Shop 3-4:** Double Down (25) ‚Ä?you should have ~50+ stock by now
-5. **Shop 4+:** King's Shield (50) ‚Ä?for boss prep
+1. **Shop 1:** Teleport (40)‚Äîalways available, always buy
+2. **Shop 1-2:** Backstab (30)‚Äîcheapest reliable attack
+3. **Shop 2-3:** Safe Haven investment (10+)‚Äîstart compounding early
+4. **Shop 3-4:** Double Down (25)‚Äîyou should have ~50+ stock by now
+5. **Shop 4+:** King's Shield (50)‚Äîfor boss prep
 
 After this core, buy A-Tier depending on your build. B-Tier only as filler.
 
@@ -133,9 +133,10 @@ After this core, buy A-Tier depending on your build. B-Tier only as filler.
 
 ---
 
-*Ready to apply deterministic Gambits? ‚Ü?[All Gambits Guide](/gambits/)*<br>
-*Need the bigger economy picture? ‚Ü?[Stock Market & Shop Guide](/economy/)*
+*Ready to apply deterministic Gambits?‚Äî[All Gambits Guide](/gambits/)*<br>
+*Need the bigger economy picture?‚Äî[Stock Market & Shop Guide](/economy/)*
 
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
