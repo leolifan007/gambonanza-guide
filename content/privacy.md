@@ -1,4 +1,4 @@
----
+﻿---
 title: "Privacy Policy"
 description: "How Gambonanza Guide collects, uses, and protects your personal information when you visit our website."
 ---
@@ -331,4 +331,5 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
   <strong>?? MANAGE YOUR COOKIES</strong><br>
   You can manage your cookie preferences at any time by adjusting your browser settings or using our cookie consent banner. To learn more about how cookies work on this site, see the <a href="#cookies">Cookies section</a> above.
 </div>
+
 

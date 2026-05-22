@@ -1,5 +1,5 @@
----
-title: "Gambonanza Decision Framework (v1.1.0) ?Stop Making Costly Mistakes"
+﻿---
+title: "Gambonanza Decision Framework (v1.1.0)—Stop Making Costly Mistakes"
 description: "Gambonanza decision framework for patch v1.1.0. How to read the board, when to attack vs defend, your personal mistake pattern, and the decision tree that stops you from throwing runs. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
@@ -13,7 +13,7 @@ see_also:
 ## Why You Keep Losing (And It's Not Your Chess)
 
 <div class="callout callout-verdict">
-  <strong>🧠 THE FRAMEWORK</strong><br>
+  <strong>馃 THE FRAMEWORK</strong><br>
   Gambonanza punishes hesitation and panic. Most losses aren't because the opponent outplayed you, but because you made 2-3 bad decisions in a row during critical turns. This guide gives you a repeatable framework to avoid those moments.
 </div>
 
@@ -25,7 +25,7 @@ see_also:
 
 <hr class="section-divider">
 
-Most chess roguelike players lose the same way: they overextend on offense, forget about their back rank, and burn Gambits at the wrong time. The difference between a 10-win streak and a 3-loss spiral is <strong>not skill ?it's decision hygiene</strong>.
+Most chess roguelike players lose the same way: they overextend on offense, forget about their back rank, and burn Gambits at the wrong time. The difference between a 10-win streak and a 3-loss spiral is <strong>not skill—it's decision hygiene</strong>.
 
 <hr class="section-divider">
 
@@ -70,7 +70,7 @@ When you're facing a mid-game board, run through this tree:
 
 ## The Mistake Audit: Your Personal Pattern
 
-Most players have a <strong>signature mistake</strong> ?a type of error they repeat every run. Identify yours:
+Most players have a <strong>signature mistake</strong>—a type of error they repeat every run. Identify yours:
 
 | Mistake Type | Symptom | Fix |
 |-------------|---------|-----|
@@ -80,7 +80,7 @@ Most players have a <strong>signature mistake</strong> ?a type of error they rep
 | **Tunnel vision** | You chase one piece while opponent sets up checkmate | Scan the full board every turn, not just your target |
 
 <div class="callout callout-danger">
-  <strong>📝 FIND YOUR PATTERN</strong><br>
+  <strong>馃摑 FIND YOUR PATTERN</strong><br>
   Next time you lose, write down why in three words. "Overextended again." "Saved Gambit useless." After 5 losses you'll see your pattern. Fix that one thing and your win rate jumps 20%.
 </div>
 
@@ -123,7 +123,7 @@ Losing 3 runs in a row? Here's the exact protocol:
   <table>
     <thead><tr><th>Step</th><th>Action</th><th>Why</th></tr></thead>
     <tbody>
-      <tr><td>1</td><td>Drop to 4×4 board</td><td>Easier wins = rebuild confidence</td></tr>
+      <tr><td>1</td><td>Drop to 4脳4 board</td><td>Easier wins = rebuild confidence</td></tr>
       <tr><td>2</td><td>Play Knight Aggro only</td><td>Solid opener you know, no experimentation</td></tr>
       <tr><td>3</td><td>Buy ONLY Teleport + Backstab</td><td>Minimum decisions, maximum execution</td></tr>
       <tr><td>4</td><td>Win 2 games, then stop</td><td>Quit while ahead, don't chase</td></tr>
@@ -131,20 +131,21 @@ Losing 3 runs in a row? Here's the exact protocol:
   </table>
 </div>
 
-> <strong>Why this works:</strong> Your brain after 3 losses is making decisions 15% worse on average. Narrowing your options to a minimal loadout removes the variable that's killing you ?YOURSELF.
+> <strong>Why this works:</strong> Your brain after 3 losses is making decisions 15% worse on average. Narrowing your options to a minimal loadout removes the variable that's killing you—YOURSELF.
 
 <hr class="section-divider">
 
 <div class="pro-tip">
-  <strong>🧘 Mental game is real</strong><br>
+  <strong>馃 Mental game is real</strong><br>
   The top Gambonanza players aren't necessarily better at chess. They're better at <strong>not making bad decisions</strong> under pressure. The framework above levels the mental playing field. Use it.
 </div>
 
 ---
 
-*Ready to apply this framework? Check the builds that work best ?[Strategy Guide](/strategy/)*<br>
-*Want a faster way to recover? ?[4×4 Fast Farm Guide](/4x4-fast-farm-guide/)*
+*Ready to apply this framework? Check the builds that work best—[Strategy Guide](/strategy/)*<br>
+*Want a faster way to recover?—[4脳4 Fast Farm Guide](/4x4-fast-farm-guide/)*
 
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
