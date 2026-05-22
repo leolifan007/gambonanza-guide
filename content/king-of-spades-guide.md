@@ -1,6 +1,6 @@
 ---
 
-title: "Gambonanza King of Spades Guide v1.1.0 â€?Mechanics, Counters & Three Proven Builds"
+title: "Gambonanza King of Spades Guide v1.1.0 ?Mechanics, Counters & Three Proven Builds"
 
 description: "Gambonanza King of Spades boss guide for patch v1.1.0. Teleport mechanics explained, piece priority ranking, and three proven builds: solid control, speed push, and no-damage sniper. Updated for patch v1.1.0."
 
@@ -15,7 +15,7 @@ see_also:
 
 ## Why King of Spades?
 
-The community-agreed second-hardest boss after Grandmaster. Normal clear rate around 15%. The difficulty isn't damage â€?it's the teleport. One wrong piece placement and your whole board falls apart.
+The community-agreed second-hardest boss after Grandmaster. Normal clear rate around 15%. The difficulty isn't damage ?it's the teleport. One wrong piece placement and your whole board falls apart.
 
 <div class="meta-rating">
 
@@ -27,7 +27,7 @@ The community-agreed second-hardest boss after Grandmaster. Normal clear rate ar
 
 ## Boss Overview
 
-**King of Spades** is a mid-to-late boss that appears around board size 5Ã—5 or 6Ã—6. His core mechanic â€?**Piece Teleport** â€?lets him swap any two of your pieces on the board every 3 turns.
+**King of Spades** is a mid-to-late boss that appears around board size 5Ã—5 or 6Ã—6. His core mechanic ?**Piece Teleport** ?lets him swap any two of your pieces on the board every 3 turns.
 
 ### Key Stats
 
@@ -43,7 +43,7 @@ The community-agreed second-hardest boss after Grandmaster. Normal clear rate ar
 
 | Recommended Gambits | King Bind, Anchor, Grid Lock |
 
-| Win Rate (Avg) | ~15% â†?40%+ with prep |
+| Win Rate (Avg) | ~15% ?40%+ with prep |
 
 <div class="callout callout-verdict">
 
@@ -54,18 +54,18 @@ King of Spades isn't about dealing damage fast. He's about board discipline. If 
 
 </div>
 
-## Teleport Mechanic â€?Exact Breakdown
+## Teleport Mechanic ?Exact Breakdown
 
 Every 3 turns (Turns 3, 6, 9, 12...), King of Spades picks **two of your pieces** and swaps their positions.
 
 <img src="/images/king-of-spades-teleport.svg" alt="King of Spades teleport mechanism: before and after comparison on a 5x5 board" class="schema-diagram" loading="lazy" width="600" height="380">
 
 
-<p class="schema-caption">Before (Turn 2â†?) vs After Teleport (Turn 3). Red outlines highlight swapped pieces (Queen a4 â†?Rook d5).</p>
+<p class="schema-caption">Before (Turn 2?) vs After Teleport (Turn 3). Red outlines highlight swapped pieces (Queen a4 ?Rook d5).</p>
 
 ### What Teleport Affects
 
-- **Any piece type**: Pawns, knights, bishops, rooks, queen â€?all fair game
+- **Any piece type**: Pawns, knights, bishops, rooks, queen ?all fair game
 
 - **Position only**: Stats, buffs, Gambit effects stay with the piece
 
@@ -103,13 +103,13 @@ Rank your pieces before the fight. When teleport happens, you know exactly what 
 
 |----------|-----------|-----|
 
-| â˜…â˜…â˜?| King | If King gets swapped to front line, you lose |
+| â˜…â˜…?| King | If King gets swapped to front line, you lose |
 
-| â˜…â˜…â˜?| Gambit-carrier queen | Queen with Gambit buff loses tempo when repositioned |
+| â˜…â˜…?| Gambit-carrier queen | Queen with Gambit buff loses tempo when repositioned |
 
 | â˜…â˜… | Rook / Knight | Important but recoverable |
 
-| â˜?| Bishop / Pawn | Low impact. Fix these last |
+| ?| Bishop / Pawn | Low impact. Fix these last |
 
 <div class="callout callout-tip">
 
@@ -136,7 +136,7 @@ Before the boss fight, mentally label your pieces: "King = do not move", "Queen 
 
 - **Retreat Gambit** (Emergency reposition after teleport)
 
-**Strategy**: Build a compact defensive formation. Keep King in back corner. When teleport hits, use Retreat to fix. Don't chase damage â€?survive the teleport turns.
+**Strategy**: Build a compact defensive formation. Keep King in back corner. When teleport hits, use Retreat to fix. Don't chase damage ?survive the teleport turns.
 
 **Expected Win Rate**: 35-45%
 
@@ -150,7 +150,7 @@ Before the boss fight, mentally label your pieces: "King = do not move", "Queen 
 
 - **Charge Boost** (+1 attack to all forward pieces)
 
-- **King Bind** (Mandatory â€?you can't afford King being exposed)
+- **King Bind** (Mandatory ?you can't afford King being exposed)
 
 - **Tempo Gambit** (Extra action on turns 1-2)
 
@@ -163,7 +163,7 @@ Before the boss fight, mentally label your pieces: "King = do not move", "Queen 
 <img src="/images/king-of-spades-fortress.svg" alt="Fortress strategy: 2x2 teleport-proof area with king, queen, rook, bishop inside" class="schema-diagram" loading="lazy" width="600" height="480">
 
 
-<p class="schema-caption">Fortress layout (Teal area). King, Queen, Rook, Bishop inside â€?pawns sacrificed in disposable zone (Orange). Pieces inside the dashed border are teleport-proof.</p>
+<p class="schema-caption">Fortress layout (Teal area). King, Queen, Rook, Bishop inside ?pawns sacrificed in disposable zone (Orange). Pieces inside the dashed border are teleport-proof.</p>
 
 **Style**: Control the board completely. Never let teleport hurt you.
 
@@ -196,7 +196,7 @@ Don't place Queen and King in the same row. Teleport can swap them, putting your
 
 Found on Steam community boards (from players who've beaten King of Spades on higher difficulties):
 
-- "Decoy strategy â€?leave a single pawn in front. Teleport usually swaps it with something. Keep your real formation tight in back."
+- "Decoy strategy ?leave a single pawn in front. Teleport usually swaps it with something. Keep your real formation tight in back."
 
 - "Spread formation is a trap. Compact formation = fewer targets = teleport swaps useless pieces."
 
@@ -224,7 +224,7 @@ A: Yes. If a piece has a Gambit buff active, it keeps the buff after teleport.
 
 **Q: Can teleport swap my King with opponent's piece?**
 
-A: No â€?only your pieces are affected.
+A: No ?only your pieces are affected.
 
 **Q: Does King of Spades teleport promoted pieces?**
 

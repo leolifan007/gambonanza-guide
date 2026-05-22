@@ -55,8 +55,8 @@ The information we collect serves several legitimate purposes essential to opera
 Gambonanza Guide is provided as a free resource supported by advertising revenue. Your information helps us:
 
 - **Serve relevant advertisements** through Google AdSense, Google's advertising platform
-- **Measure ad performance** ！ understand which ads are being viewed and clicked
-- **Prevent fraudulent activity** ！ detect click fraud, bot traffic, and other abuse
+- **Measure ad performance**  understand which ads are being viewed and clicked
+- **Prevent fraudulent activity**  detect click fraud, bot traffic, and other abuse
 - **Report aggregate statistics** to advertisers without revealing individual user identities
 
 ### Website Improvement and Analytics
@@ -70,9 +70,9 @@ We use aggregated data to continuously improve the site:
 
 ### Security and Operations
 
-- **Protect against malicious activity** ！ detect DDoS attacks, scraping bots, and unauthorized access attempts
-- **Debug technical issues** ！ troubleshoot errors and performance bottlenecks
-- **Maintain service availability** ！ monitor traffic patterns to ensure server capacity
+- **Protect against malicious activity**  detect DDoS attacks, scraping bots, and unauthorized access attempts
+- **Debug technical issues**  troubleshoot errors and performance bottlenecks
+- **Maintain service availability**  monitor traffic patterns to ensure server capacity
 
 ### Legal Basis for Processing
 

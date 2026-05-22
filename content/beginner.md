@@ -1,5 +1,5 @@
 ---
-title: "Gambonanza Beginner's Guide v1.1.0 ‚Ä?How to Win Your First 5 Runs"
+title: "Gambonanza Beginner's Guide v1.1.0 ?How to Win Your First 5 Runs"
 description: "Complete Gambonanza beginner guide for patch v1.1.0. Learn the 5 rules that actually work, God-Tier starter Gambits, and the Just Win formula. Updated for patch v1.1.0."
 see_also:
   - title: 'Complete Walkthrough'
@@ -10,10 +10,10 @@ see_also:
     url: '/gambits/'
 ---
 
-## The Verdict ‚Ä?Why You're Going to Lose (And Why That's Fine)
+## The Verdict ?Why You're Going to Lose (And Why That's Fine)
 
 <div class="callout callout-verdict">
-  <strong>‚õ?STOP PLAYING CHESS. RIGHT NOW.</strong><br>
+  <strong>?STOP PLAYING CHESS. RIGHT NOW.</strong><br>
   If you came here hoping to win Gambonanza by being good at chess, you're about to lose. A lot. Then quit. Then leave a negative Steam review. I've watched 50+ people crash and burn on their first runs because they kept thinking "oh I'll just develop my knights and control the center." Cute. Wrong game.
 </div>
 
@@ -23,7 +23,7 @@ see_also:
   <strong>Only 10h+ players know:</strong> Competitive chess players actually perform WORSE on their first 5 Gambonanza runs than total beginners. Chess instincts (protect your pieces, build position, wait for mistakes) are the exact opposite of what this game rewards. The best first-time player is someone who's never touched a chess board.
 </div>
 
-Here's what actually matters ‚Ä?no filler, no "understand the basics," just the stuff that'll get you from zero to crushing bosses in 5 runs or less.
+Here's what actually matters ?no filler, no "understand the basics," just the stuff that'll get you from zero to crushing bosses in 5 runs or less.
 
 <hr class="section-divider">
 
@@ -37,8 +37,8 @@ Here's what actually matters ‚Ä?no filler, no "understand the basics," just the 
 | **Board** | 4√ó4 to 6√ó6 (16-36 squares, tiny!) |
 | **Gambits** | 150+ rule-breaking powers per move |
 | **Winning** | Checkmate OR complete round objective |
-| **Economy** | Earn "stock" ‚Ü?buy Gambits in casino shops |
-| **Progression** | Beat bosses ‚Ü?unlock permanent Gambits |
+| **Economy** | Earn "stock" ?buy Gambits in casino shops |
+| **Progression** | Beat bosses ?unlock permanent Gambits |
 
 </div>
 
@@ -48,7 +48,7 @@ Here's what actually matters ‚Ä?no filler, no "understand the basics," just the 
 
 <hr class="section-divider">
 
-## Your First 2 Runs ‚Ä?The "Just Mess Around" Phase
+## Your First 2 Runs ?The "Just Mess Around" Phase
 
 > *Don't read a guide before playing your first few runs. Seriously.*
 
@@ -58,27 +58,27 @@ Fire up the game, pick whatever looks cool, and just see what happens. You'll pr
   <strong>üéØ WHAT TO LEARN FROM THROWAWAY RUNS</strong>
 </div>
 
-1. **How small the board actually is** ‚Ä?4√ó4 is TINY (16 squares total). Every move affects the entire board state.
-2. **That Gambits trigger automatically every move** ‚Ä?you don't "activate" them, they fire based on conditions.
-3. **That the shop exists** ‚Ä?many new players don't even visit the shop on their first run. Don't be that person.
-4. **That stock loss hurts** ‚Ä?losing a round when you're holding 80 stock is painful. You'll learn to diversify fast.
+1. **How small the board actually is** ?4√ó4 is TINY (16 squares total). Every move affects the entire board state.
+2. **That Gambits trigger automatically every move** ?you don't "activate" them, they fire based on conditions.
+3. **That the shop exists** ?many new players don't even visit the shop on their first run. Don't be that person.
+4. **That stock loss hurts** ?losing a round when you're holding 80 stock is painful. You'll learn to diversify fast.
 
 After 2 runs, you'll have enough context for the rest of this guide to actually make sense. Come back here.
 
 <hr class="section-divider">
 
-## The "Just Win" Formula ‚Ä?Runs 3-10
+## The "Just Win" Formula ?Runs 3-10
 
 Alright, you've seen what the game looks like. Now let's actually win.
 
 ### Step 1: Aggro First, Think Later
 
 <div class="callout callout-verdict">
-  <strong>‚è?THE GOLDEN RULE ‚è?/strong><br>
+  <strong>?THE GOLDEN RULE ?/strong><br>
   On boards smaller than 6√ó6, defensive play = guaranteed loss. Every turn you spend "positioning" is a turn your opponent uses to corner your king. Attack first, block never.
 </div>
 
-**Trust me on this.** I've watched defensive players lose to the AI 20 turns in a row because they kept trying to "build a solid position." There's no solid position in Gambonanza. The board is too small. Someone's dying in 8 moves ‚Ä?make sure it's not you.
+**Trust me on this.** I've watched defensive players lose to the AI 20 turns in a row because they kept trying to "build a solid position." There's no solid position in Gambonanza. The board is too small. Someone's dying in 8 moves ?make sure it's not you.
 
 <div class="pro-tip">
   <strong>Only 10h+ players know:</strong> The AI's aggression calculation is tied to YOUR position's safety rating. If your king is protected by 3+ pieces, the AI becomes MORE aggressive, not less. But if your king is exposed? The AI actually slows down to "hunt" instead of pushing for checkmate. Running a vulnerable-looking king is a valid strategy to bait the AI into suboptimal plays.
@@ -115,8 +115,8 @@ The knight's unique advantage on small boards:
 ### Step 3: Promotion Is a Win Condition
 
 <div class="callout callout-synergy">
-  <strong>‚ú?THE PROMOTION MINDSET</strong><br>
-  Every pawn on the board is a ticking time bomb. Getting one to the back row doesn't just give you a queen ‚Ä?it unlocks a completely new set of Gambit abilities tied to the promoted piece type. This is often the difference between a won run and a dead one.
+  <strong>?THE PROMOTION MINDSET</strong><br>
+  Every pawn on the board is a ticking time bomb. Getting one to the back row doesn't just give you a queen ?it unlocks a completely new set of Gambit abilities tied to the promoted piece type. This is often the difference between a won run and a dead one.
 </div>
 
 **Strategy:** As soon as a pawn is 2 squares from promotion, shift ALL your resources to protecting it. Sacrifice other pieces if you have to. A promoted piece with fresh Gambits is worth more than 2-3 standard pieces combined.
@@ -124,7 +124,7 @@ The knight's unique advantage on small boards:
 <div class="split-col">
 <div class="col">
 
-**‚ú?DO:**
+**?DO:**
 - Clear the back rank before pushing
 - Use Teleport on the pawn when 1 square away
 - Have an attack Gambit ready for the promoted piece
@@ -132,7 +132,7 @@ The knight's unique advantage on small boards:
 </div>
 <div class="col">
 
-**‚ù?DON'T:**
+**?DON'T:**
 - Push a pawn with no support
 - Forget the promoted piece gets NEW Gambits
 - Promote if your king is exposed
@@ -142,7 +142,7 @@ The knight's unique advantage on small boards:
 
 <hr class="section-divider">
 
-## God-Tier Beginner Gambits ‚Ä?Grab These First
+## God-Tier Beginner Gambits ?Grab These First
 
 When you hit your first shop, DON'T just buy whatever's cheapest. These Gambits will single-handedly carry your early runs:
 
@@ -150,22 +150,22 @@ When you hit your first shop, DON'T just buy whatever's cheapest. These Gambits 
 
 | Priority | Gambit | Cost | Why It's Broken |
 |---|---|---|---|
-| <span class="meta-badge meta-s">S</span> | **Attack Bypass** | 40 stock | Capture protected pieces as if undefended ‚Ä?literally breaks chess |
-| <span class="meta-badge meta-s">S</span> | **King Teleport** | 40 stock | Best panic button ‚Ä?king's on the other side of the board now |
+| <span class="meta-badge meta-s">S</span> | **Attack Bypass** | 40 stock | Capture protected pieces as if undefended ?literally breaks chess |
+| <span class="meta-badge meta-s">S</span> | **King Teleport** | 40 stock | Best panic button ?king's on the other side of the board now |
 | <span class="meta-badge meta-a">A</span> | **Double Capture** | 50 stock | Take two pieces with one move on a 4√ó4 board = match over in 2 turns |
-| <span class="meta-badge meta-a">A</span> | **Stock Multiplier** | 25 stock | Double winnings after a win ‚Ä?scales insanely into mid-game |
+| <span class="meta-badge meta-a">A</span> | **Stock Multiplier** | 25 stock | Double winnings after a win ?scales insanely into mid-game |
 | <span class="meta-badge meta-b">B</span> | **Pierce Defense** | 35 stock | Ignore enemy Gambits that block attacks. Situational but game-winning |
 
 </div>
 
 <div class="callout callout-danger">
-  <strong>‚ù?AVOID THESE TRAP PICKS</strong><br>
+  <strong>?AVOID THESE TRAP PICKS</strong><br>
   Never pick Gambits that "slightly improve movement" or "add +1 to attack range." They look safe but don't actually change the game state. You need Gambits that <strong>break rules</strong>, not Gambits that tweak numbers. A +1 attack range Gambit gives you ~5% more board coverage. A Teleport gives you 100% board coverage. The math is not close.
 </div>
 
 <hr class="section-divider">
 
-## The Broken Strategy ‚Ä?Pawn Rush
+## The Broken Strategy ?Pawn Rush
 
 Here's a degenerate strategy that works on 80% of non-boss boards:
 
@@ -174,7 +174,7 @@ Here's a degenerate strategy that works on 80% of non-boss boards:
 | Step | Action | Why It Works |
 |---|---|---|
 | 1 | Open with both knights | Aggressively develop toward enemy territory |
-| 2 | Rush a pawn 2 squares forward | Immediate threat ‚Ä?AI must respond |
+| 2 | Rush a pawn 2 squares forward | Immediate threat ?AI must respond |
 | 3 | Sacrifice other pieces | Clear a path for the pawn (AI takes the bait) |
 | 4 | Promote the pawn | Grab an attack-bypass Gambit on the promoted piece |
 | 5 | One-shot the enemy king | Promoted monster with bypass = unstoppable |
@@ -190,7 +190,7 @@ Here's a degenerate strategy that works on 80% of non-boss boards:
 
 <hr class="section-divider">
 
-## Boss Prep ‚Ä?How Not to Die to Your First Boss
+## Boss Prep ?How Not to Die to Your First Boss
 
 Your first boss fight will probably be around Run 5-8. Here's the ugly truth:
 
@@ -204,7 +204,7 @@ Your first boss fight will probably be around Run 5-8. Here's the ugly truth:
 <div class="split-col">
 <div class="col">
 
-**‚ú?DO THIS:**
+**?DO THIS:**
 - Take 2+ defensive Gambits (king teleport + piece shield)
 - Don't gamble all your stock pre-boss
 - Scout with a throwaway piece first
@@ -213,7 +213,7 @@ Your first boss fight will probably be around Run 5-8. Here's the ugly truth:
 </div>
 <div class="col">
 
-**‚ù?AVOID THIS:**
+**?AVOID THIS:**
 - Going in blind with zero scouting
 - Spending all stock on the last shop
 - Fighting a new boss without watching a video first
@@ -226,10 +226,10 @@ Once you've seen the boss's pattern 2-3 times, you'll know exactly which Gambits
 
 <hr class="section-divider">
 
-## Avoid This ‚Ä?Or Prepare to Suffer
+## Avoid This ?Or Prepare to Suffer
 
 <div class="callout callout-danger">
-  <strong>‚ù?THE 5 FASTEST WAYS TO LOSE</strong>
+  <strong>?THE 5 FASTEST WAYS TO LOSE</strong>
 </div>
 
 **1. Playing like it's chess.** I've said it three times. I'll say it again: positional chess strategy does not work here. Aggression works. Chaos works. Patient development gets you killed.
@@ -248,7 +248,7 @@ Once you've seen the boss's pattern 2-3 times, you'll know exactly which Gambits
 
 <hr class="section-divider">
 
-## Final Advice ‚Ä?From Someone Who's Died 200+ Times
+## Final Advice ?From Someone Who's Died 200+ Times
 
 Look, Gambonanza is not a hard game. It's an **unforgiving** game. The difference is important:
 
@@ -257,7 +257,7 @@ Look, Gambonanza is not a hard game. It's an **unforgiving** game. The differenc
 
 <div class="meta-rating">
   <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Every run teaches you something. The player who wins consistently isn't the one with the best Gambits ‚Ä?it's the one who learned not to develop their queen on turn 2 against the shopkeeper boss.</span>
+  <span class="meta-label">Every run teaches you something. The player who wins consistently isn't the one with the best Gambits ?it's the one who learned not to develop their queen on turn 2 against the shopkeeper boss.</span>
 </div>
 
 **The mindset shift:** Instead of asking "how do I win this run?", ask "what did I learn this run?" Two things can be true: you can lose the match AND learn something that makes your next run unbeatable.
@@ -267,14 +267,14 @@ Now go lose a few more times. That's part of the process. Come back when you've 
 ---
 
 <div style="display:flex;justify-content:center;gap:8px;margin:16px 0">
-  <span style="font-size:1.2rem;opacity:0.3">‚ô?/span>
-  <span style="font-size:1.3rem;opacity:0.5">‚ô?/span>
-  <span style="font-size:1.2rem;opacity:0.3">‚ô?/span>
-  <span style="font-size:1.4rem;opacity:0.5">‚ô?/span>
-  <span style="font-size:1.2rem;opacity:0.3">‚ô?/span>
+  <span style="font-size:1.2rem;opacity:0.3">?/span>
+  <span style="font-size:1.3rem;opacity:0.5">?/span>
+  <span style="font-size:1.2rem;opacity:0.3">?/span>
+  <span style="font-size:1.4rem;opacity:0.5">?/span>
+  <span style="font-size:1.2rem;opacity:0.3">?/span>
 </div>
 
-*Next up: [All 150+ Gambits Explained ‚Üí](/gambits/) ‚Ä?or jump to [Boss Battle Guide ‚Üí](/bosses/) if you've already met your first boss and want revenge.*
+*Next up: [All 150+ Gambits Explained ‚Üí](/gambits/) ?or jump to [Boss Battle Guide ‚Üí](/bosses/) if you've already met your first boss and want revenge.*
 
 
 ---

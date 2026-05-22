@@ -1,5 +1,5 @@
 ---
-title: "Gambonanza Strategy Guide v1.1.0 ‚Ä?Advanced Tips & Meta Builds Ranked"
+title: "Gambonanza Strategy Guide v1.1.0 ?Advanced Tips & Meta Builds Ranked"
 description: "Proven Gambonanza strategies with Meta Ratings for patch v1.1.0. Three S/A/B opening builds, exact Gambit combos, deck composition math, and endgame checkmate patterns. Updated for patch v1.1.0."
 see_also:
   - title: 'Endgame Killer Tips'
@@ -12,16 +12,16 @@ see_also:
     url: '/gambits/'
 ---
 
-## Strategy Guide ‚Ä?Rated Builds & Proven Tactics
+## Strategy Guide ?Rated Builds & Proven Tactics
 
 <div style="background:var(--dark-2);border:1px solid var(--rose);padding:16px;border-radius:3px;margin:16px 0">
-  <strong style="color:var(--rose);font-family:var(--font-display)">‚ö?THE GAMBONANZA MINDSET</strong><br>
+  <strong style="color:var(--rose);font-family:var(--font-display)">?THE GAMBONANZA MINDSET</strong><br>
   <span style="font-size:0.9rem;color:var(--cream-dark)">This is NOT chess. It's a <strong>deckbuilding roguelike</strong> that pretends to be chess. If you approach it like a chess game, you lose. If you approach it like Slay the Spire with pieces, you win. This guide is built on that principle.</span>
 </div>
 
 <hr class="section-divider">
 
-## Opening Builds ‚Ä?Ranked & Explained
+## Opening Builds ?Ranked & Explained
 
 Three proven openers. Pick one per run and commit.
 
@@ -40,7 +40,7 @@ Three proven openers. Pick one per run and commit.
 |---|---|---|
 | 1 | Develop both knights to center | Knights on d4/e4 dominate 4√ó4 and 6√ó6 boards |
 | 2 | Pawn push to clear diagonal | Opens bishop + clears knight's second L-jump |
-| 3 | Knight+Bishop Combo Gambit | Maximum reach ‚Ä?threaten 6+ squares simultaneously |
+| 3 | Knight+Bishop Combo Gambit | Maximum reach ?threaten 6+ squares simultaneously |
 | 4 | Backstab on exposed piece | Kill the defender, ignore protection |
 | 5 | Checkmate with knight+queen | Finish before opponent's board develops |
 
@@ -55,7 +55,7 @@ Three proven openers. Pick one per run and commit.
 **Weak against:** Queen Gambit (she eats aggressive knights), King of Spades
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> On 4√ó4 boards, Knight Aggro can win in 4 moves against the AI. Open d4 knight ‚Ü?e4 knight ‚Ü?Backstab on f-pawn ‚Ü?checkmate. The AI literally cannot respond in time on boards smaller than 6√ó6. This is your speedrun opener.
+  <strong>Only 10h+ players know:</strong> On 4√ó4 boards, Knight Aggro can win in 4 moves against the AI. Open d4 knight ?e4 knight ?Backstab on f-pawn ?checkmate. The AI literally cannot respond in time on boards smaller than 6√ó6. This is your speedrun opener.
 </div>
 
 ---
@@ -73,9 +73,9 @@ Three proven openers. Pick one per run and commit.
 |---|---|---|
 | 1 | Push center pawns (d4, e4) | Control the only squares that matter |
 | 2 | Develop bishops behind pawns | Ranged support while pawns block |
-| 3 | Castle if possible | King safety ‚Ü?economy protection |
+| 3 | Castle if possible | King safety ?economy protection |
 | 4 | Sacrifice for Strength | Turn pawn wall into mobility buff |
-| 5 | Promote pawn ‚Ü?Queen with Heal Board | Endgame conversion |
+| 5 | Promote pawn ?Queen with Heal Board | Endgame conversion |
 
 </div>
 
@@ -138,7 +138,7 @@ Three proven openers. Pick one per run and commit.
 1. Shield a knight with King's Shield
 2. Backstab the enemy's most protected piece
 3. Chain Capture triggers on the piece behind it
-4. Knight is invulnerable ‚Ä?no retaliation
+4. Knight is invulnerable ?no retaliation
 
 **Win condition:** 2 captures in 1 move, 0 losses
 
@@ -166,7 +166,7 @@ Three proven openers. Pick one per run and commit.
 
 **Cards:** Sacrifice for Strength + Heal Board + Knight+Bishop Combo
 
-1. Sacrifice 2 pieces ‚Ü?all remaining pieces +1 range
+1. Sacrifice 2 pieces ?all remaining pieces +1 range
 2. Use Knight+Bishop Combo on buffed pieces for 2√ó reach
 3. Heal Board to return sacrificed pieces
 4. Returned pieces benefit from the buff
@@ -180,8 +180,8 @@ Three proven openers. Pick one per run and commit.
 
 **Cards:** Jackpot + specific Boss Counter + The Ultimate Counter
 
-1. Jackpot Gambit before boss fight ‚Ü?free counter Gambit
-2. Equip counter ‚Ü?neutralize boss mechanic
+1. Jackpot Gambit before boss fight ?free counter Gambit
+2. Equip counter ?neutralize boss mechanic
 3. The Ultimate Counter for Phase 3
 4. Boss has zero effective mechanics
 
@@ -199,22 +199,22 @@ Three proven openers. Pick one per run and commit.
 | Deck Size | Win Rate* | Play Style | Recommended For |
 |---|---|---|---|
 | **12-18 cards** | ~70% | Hyper-aggressive | Speedruns, 4√ó4 boards, experienced players |
-| **19-25 cards** | ~75% | Balanced | Most players, most runs ‚Ä?this is the sweet spot |
+| **19-25 cards** | ~75% | Balanced | Most players, most runs ?this is the sweet spot |
 | **26-35 cards** | ~60% | Control/late game | Boss runs, new players learning |
-| **36+ cards** | ~45% | Unfocused | Avoid ‚Ä?dilution kills win rates |
+| **36+ cards** | ~45% | Unfocused | Avoid ?dilution kills win rates |
 
 *Community-estimated. A focused 15-card deck of S/A-tier Gambits beats a 35-card deck with mixed tiers every time.
 
 </div>
 
 <div class="callout callout-danger">
-  <strong>‚ù?THE GOLDEN RULE OF DECK SIZE</strong><br>
-  Every Gambit after #22 reduces your chance of drawing your best 5 Gambits. A bloated deck isn't versatile ‚Ä?it's diluted. Keep it under 22 cards unless your build specifically requires more.
+  <strong>?THE GOLDEN RULE OF DECK SIZE</strong><br>
+  Every Gambit after #22 reduces your chance of drawing your best 5 Gambits. A bloated deck isn't versatile ?it's diluted. Keep it under 22 cards unless your build specifically requires more.
 </div>
 
 <hr class="section-divider">
 
-## Reading the Board ‚Ä?Phase by Phase
+## Reading the Board ?Phase by Phase
 
 <div class="split-col">
 <div class="col">
@@ -224,7 +224,7 @@ Three proven openers. Pick one per run and commit.
 **Focus:** Get 3+ pieces into active positions
 - Knights first, then bishops, pawns for coverage
 - DON'T bring out queen before turn 5
-- Count enemy Gambits used ‚Ä?they burn them faster than you think
+- Count enemy Gambits used ?they burn them faster than you think
 - If you're behind after 8 turns, the board was wrong for your build
 
 </div>
@@ -247,7 +247,7 @@ Three proven openers. Pick one per run and commit.
 ### Turn 21+: Endgame
 
 **Focus:** Checkmate or survive
-- Push pawns to promotion ‚Ä?it's your best path to victory
+- Push pawns to promotion ?it's your best path to victory
 - King activity matters now. Move king toward the action.
 - If winning: ladder mate with rooks
 - If losing: stall, look for comeback Gambit
@@ -283,8 +283,8 @@ Three proven openers. Pick one per run and commit.
 
 ---
 
-*Want to see how the pros build their economy? ‚Ü?[Stock Market & Shop Guide](/economy/)*<br>
-*Need boss-specific strategies? ‚Ü?[Boss Battle Guide](/bosses/)*
+*Want to see how the pros build their economy? ?[Stock Market & Shop Guide](/economy/)*<br>
+*Need boss-specific strategies? ?[Boss Battle Guide](/bosses/)*
 
 
 ---
