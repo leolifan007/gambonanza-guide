@@ -34,7 +34,7 @@ see_also:
     url: '/cards/'
 ---
 
-###— <span id="teleport">Teleport</span>
+###- <span id="teleport">Teleport</span>
 
 <div class="gambit-card gambit-s">
   <div class="gambit-card-header">
@@ -79,7 +79,7 @@ see_also:
 
 ---
 
-###— <span id="ultimate-counter">The Ultimate Counter</span>
+###- <span id="ultimate-counter">The Ultimate Counter</span>
 
 <div class="gambit-card gambit-s">
   <div class="gambit-card-header">
@@ -122,7 +122,7 @@ see_also:
 
 ---
 
-###— <span id="heal-board">Heal Board</span>
+###- <span id="heal-board">Heal Board</span>
 
 <div class="gambit-card gambit-s">
   <div class="gambit-card-header">
@@ -479,5 +479,6 @@ For your first 10 runs, prioritize these Gambits in this exact order:
 ---
 
 *Gambit database based on my runs and gameplay analysis. 150+ Gambits total  I've catalogued the top 60 with full ratings. More added as meta evolves. Last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
 

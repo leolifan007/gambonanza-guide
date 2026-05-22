@@ -16,7 +16,7 @@ lastUpdated: 'v1.1.0-05-17'
 version: 'v1.1.0'
 ---
 
-## Blitzking—TL;DR
+## Blitzking-TL;DR
 
 <div class="callout callout-verdict">
 <strong>Don't out-pace him. Make him waste his extra actions.</strong><br>
@@ -25,7 +25,7 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Win rate went from 20%—75% after I stopped racing him and started wasting his turns.</span>
+  <span class="meta-label">Win rate went from 20%-75% after I stopped racing him and started wasting his turns.</span>
 </div>
 
 <hr class="section-divider">
@@ -42,13 +42,13 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 
 <hr class="section-divider">
 
-## Counter Gambits—Pick 2
+## Counter Gambits-Pick 2
 
 | Gambit | Cost | Effect vs Blitzking |
 |--------|------|---------------------|
 | 馃 Freeze | Medium | Cancels 1 of his 2 actions. Equal turns. |
-|—Early Check | Low | Forces 1-2 defensive actions. Wastes the turn. |
-| 馃搲 Board Shrink | Medium | 6脳6—4脳4. Extra moves matter less on small boards. |
+|-Early Check | Low | Forces 1-2 defensive actions. Wastes the turn. |
+| 馃搲 Board Shrink | Medium | 6脳6-4脳4. Extra moves matter less on small boards. |
 | 馃攧 Swap | Low-Med | Disrupts his setup. Low value but disruptive. |
 | 馃彞 Heal Board | Low | Only if he's using Crumble (~30% of runs). |
 
@@ -58,7 +58,7 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 
 ## 3-Phase Strategy Flowchart
 
-<img src="/images/guides/blitzking-3phase.svg" alt="Blitzking 3-Phase Strategy: Setup—Pressure—Close" style="width:100%;max-width:680px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/blitzking-3phase.svg" alt="Blitzking 3-Phase Strategy: Setup-Pressure-Close" style="width:100%;max-width:680px;border-radius:8px;" loading="lazy">
 
 <hr class="section-divider">
 
@@ -66,10 +66,10 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 
 | Your Move | Blitzking's Response | Net Result |
 |----------|---------------------|------------|
-| Early Check | Must block (1 action) |— Blitzking action |
-| Knight Fork | Must save 1 piece (1-2 actions) |— to— |
+| Early Check | Must block (1 action) |- Blitzking action |
+| Knight Fork | Must save 1 piece (1-2 actions) |- to- |
 | Freeze | Loses 1 action entirely | Equal turns (!) |
-| Check + Fork | Must block check, fork still active |— (both actions wasted) |
+| Check + Fork | Must block check, fork still active |- (both actions wasted) |
 
 > **When you waste 2+ actions/turn, Blitzking plays like a normal opponent.** That's when you win.
 
@@ -77,7 +77,7 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 
 ## What NOT to Do
 
-|—Mistake | Why It Fails |
+|-Mistake | Why It Fails |
 |------------|---------------|
 | Play slow setups | Every setup turn = 2 free attacks for Blitzking |
 | Ignore your King's back rank | Blitzking checkmates in 4 turns if exposed |
@@ -100,4 +100,5 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 ---
 
 *Last updated: May 17, v1.1.0 | Version: v1.1.0*
+
 

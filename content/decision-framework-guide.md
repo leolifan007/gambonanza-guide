@@ -1,5 +1,5 @@
 ﻿---
-title: "Gambonanza Decision Framework (v1.1.0)—Stop Making Costly Mistakes"
+title: "Gambonanza Decision Framework (v1.1.0)-Stop Making Costly Mistakes"
 description: "Gambonanza decision framework for patch v1.1.0. How to read the board, when to attack vs defend, your personal mistake pattern, and the decision tree that stops you from throwing runs. Updated for patch v1.1.0."
 see_also:
   - title: 'Beginner Guide'
@@ -25,7 +25,7 @@ see_also:
 
 <hr class="section-divider">
 
-Most chess roguelike players lose the same way: they overextend on offense, forget about their back rank, and burn Gambits at the wrong time. The difference between a 10-win streak and a 3-loss spiral is <strong>not skill—it's decision hygiene</strong>.
+Most chess roguelike players lose the same way: they overextend on offense, forget about their back rank, and burn Gambits at the wrong time. The difference between a 10-win streak and a 3-loss spiral is <strong>not skill-it's decision hygiene</strong>.
 
 <hr class="section-divider">
 
@@ -70,7 +70,7 @@ When you're facing a mid-game board, run through this tree:
 
 ## The Mistake Audit: Your Personal Pattern
 
-Most players have a <strong>signature mistake</strong>—a type of error they repeat every run. Identify yours:
+Most players have a <strong>signature mistake</strong>-a type of error they repeat every run. Identify yours:
 
 | Mistake Type | Symptom | Fix |
 |-------------|---------|-----|
@@ -131,7 +131,7 @@ Losing 3 runs in a row? Here's the exact protocol:
   </table>
 </div>
 
-> <strong>Why this works:</strong> Your brain after 3 losses is making decisions 15% worse on average. Narrowing your options to a minimal loadout removes the variable that's killing you—YOURSELF.
+> <strong>Why this works:</strong> Your brain after 3 losses is making decisions 15% worse on average. Narrowing your options to a minimal loadout removes the variable that's killing you-YOURSELF.
 
 <hr class="section-divider">
 
@@ -142,10 +142,11 @@ Losing 3 runs in a row? Here's the exact protocol:
 
 ---
 
-*Ready to apply this framework? Check the builds that work best—[Strategy Guide](/strategy/)*<br>
-*Want a faster way to recover?—[4脳4 Fast Farm Guide](/4x4-fast-farm-guide/)*
+*Ready to apply this framework? Check the builds that work best-[Strategy Guide](/strategy/)*<br>
+*Want a faster way to recover?-[4脳4 Fast Farm Guide](/4x4-fast-farm-guide/)*
 
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
