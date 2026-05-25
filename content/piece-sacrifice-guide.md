@@ -1,5 +1,5 @@
-﻿---
-date: 2026-05-25
+---
+date: 2026-05-26
 title: "When to Sacrifice Pieces in Gambonanza"
 description: "Gambonanza piece sacrifice strategy guide v1.1.0. When to trade a pawn for board advantage, sacrificing a bishop to break a Boss defense, Queen sacrifice value analysis, and trade decision framework for v1.1.0."
 see_also:
@@ -11,8 +11,8 @@ see_also:
     url: '/boss-strategy-guide/'
 lastUpdated: 'v1.1.0-05-21'
 version: 'v1.1.0'
-draft: false
-hidden: false
+draft: true
+hidden: true
 lastmod: 2026-05-25T09:39:22+08:00
 ---
 
