@@ -10,8 +10,9 @@ see_also:
     url: '/beginner/'
 lastUpdated: 'v1.1.0-05-21'
 version: 'v1.1.0'
-hidden: true
+hidden: false
 ---
+lastmod: 2026-05-25T05:02:57+08:00
 
 ## Stock Is Crashing \u2014 TL;DR
 
