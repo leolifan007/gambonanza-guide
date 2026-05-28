@@ -40,7 +40,7 @@ jobs:
           chmod +x .github/scripts/auto-publish.sh
           bash .github/scripts/auto-publish.sh
 
-      - name: Hugo build
+      - name: Rebuild site with Hugo
         run: hugo --minify
 
       - name: Deploy to gh-pages
@@ -51,6 +51,8 @@ jobs:
 
       - name: Push content-polishing changes
         run: |
+          git add layouts/index.html
+          git commit -m "auto-update: homepage latest guides" || true
           git push origin content-polishing
 
       - name: Merge to main

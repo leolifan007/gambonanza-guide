@@ -1,0 +1,44 @@
+{{-- Auto-generated latest articles section --}}
+{{- $pages := where .Site.RegularPages "Section" "content" -}}
+{{- $pages = where $pages "Params.hidden" "ne" true -}}
+{{- $sorted := sort $pages "Lastmod" "desc" -}}
+{{- $latest := first 12 $sorted -}}
+
+{{- range $page := $latest -}}
+{{- $url := .RelPermalink -}}
+{{- $title := .Title -}}
+{{- $desc := .Description -}}
+{{- $lastmodDate := .Lastmod.Format "Jan 2" -}}
+{{- $daysSinceMod := 0 -}}
+{{- if .Lastmod.Unix -}}
+  {{- $daysSinceMod = div (sub now.Unix .Lastmod.Unix) 86400 -}}
+{{- end -}}
+{{- $isNew := false -}}
+{{- if le $daysSinceMod 10 -}}
+  {{- $isNew = true -}}
+{{- end -}}
+{{- $category := "Strategy" -}}
+{{- with .Params.see_also -}}
+  {{- range first 1 . -}}
+    {{- if in .url "boss" -}}
+      {{- $category = "Boss" -}}
+    {{- else if in .url "economy" -}}
+      {{- $category = "Economy" -}}
+    {{- else if in .url "gambit" -}}
+      {{- $category = "Gambits" -}}
+    {{- else if in .url "piece" -}}
+      {{- $category = "Pieces" -}}
+    {{- else if in .url "crumble" -}}
+      {{- $category = "Mechanics" -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+      <a href="{{ $url }}" class="latest-article-card">
+{{- if $isNew -}}
+        <span class="new-badge">NEW</span>
+{{- end -}}
+        <div class="latest-article-meta"><span class="phase-tag phase-mid">{{ $category }}</span><span class="date-badge">{{ $lastmodDate }}</span></div>
+        <h3>{{ $title }}</h3>
+        <p>{{ $desc }}</p>
+      </a>
+{{- end -}}
