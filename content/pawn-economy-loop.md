@@ -1,6 +1,6 @@
 ---
-title: "Pawn Economy Loop — Generate Infinite Stock from Pawns"
-description: "Pawns are not just for promotion. This guide shows the Pawn Economy Loop that generates 5+ stock per turn from Pawn moves alone. The build that carried me to 70% win rate."
+title: "Best Economy Strategy — Generate 5+ Stock Per Turn from Pawns"
+description: "The Pawn Economy Loop generates 5+ stock per turn. This guide shows the exact setup, piece protection, and the build with 70% win rate."
 date: "2026-06-06"
 lastmod: "2026-06-06T10:31:00+08:00"
 publishDate: "2026-06-06"
@@ -9,7 +9,7 @@ version: "1.1.0"
 category: "economy"
 ---
 
-# Pawn Economy Loop — Generate Infinite Stock from Pawns
+# Best Economy Strategy — Generate 5+ Stock Per Turn from Pawns
 
 ## Quick Fix
 
@@ -26,42 +26,34 @@ category: "economy"
 
 ---
 
-## Real Player Experience: The Pawn Discovery
+## How Pawn Economy Works
 
-I used to ignore Pawns. They were just pieces to sacrifice or promote. Then I played against someone who had 200 stock by turn 7, and they only had Pawns on the board.
+### The Core Idea
 
-**What I saw:**
-- They had 5 Pawns
-- Every Pawn move gave +1 stock (Pawn Parade Gambit)
-- They weren't attacking - just moving Pawns in a loop
-- They bought a Queen on turn 7 and crushed me
+Pawns can generate stock every turn if you have the right Gambit. The loop works like this:
 
-**My first attempt (failed):**
-- Built 5 Pawns
-- Got Pawn Parade
-- Moved Pawns randomly
-- Result: 30 stock by turn 5 (not enough)
+1. Deploy Pawns with protection (Rook or Bishop)
+2. Move Pawns to safe squares (generate stock)
+3. Pawns return to original squares (continue loop)
+4. Repeat every turn = infinite stock generation
 
-**My second attempt (success):**
-- Built 4 Pawns + 1 Rook (Rook protects Pawns)
-- Pawn Parade + Compound Interest
-- Moved Pawns in a cycle: each Pawn had a safe square to return to
-- Result: 110 stock by turn 7
+### Required Gambit: Pawn Parade
 
-**The key insight:** Pawns need protection to loop. A protected Pawn can move back and forth forever, generating stock every turn.
+**Pawn Parade:** +1 stock per Pawn move
+
+This is the core Gambit. Without it, Pawns don't generate stock.
 
 ---
 
-## The Pawn Economy Loop Guide
+## Step-by-Step Setup
 
-### The Setup (Turn 1-3)
+### Step 1: Build 4 Protected Pawns (Turn 1-3)
 
-**Required:**
-- 4 Pawns
-- Pawn Parade Gambit
-- 1 Rook or Bishop for protection
+**Turn 1:** Deploy 2 Pawns
+**Turn 2:** Deploy 2 more Pawns
+**Turn 3:** Deploy 1 Rook (protects your Pawns)
 
-**Board position:**
+**Board position example:**
 ```
 . . . . .
 . P P P .
@@ -70,30 +62,21 @@ I used to ignore Pawns. They were just pieces to sacrifice or promote. Then I pl
 . . . . .
 ```
 
-**Why this position:**
-- Rook protects 3 Pawns
-- Each Pawn has a safe square to move to
-- Pawns can cycle: forward, capture, backward (if promoted)
+The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 
----
-
-### The Loop (Turn 4-7)
+### Step 2: Loop Pawns (Turn 4-7)
 
 **Each turn:**
-1. Move Pawn A forward (or sideways if possible)
-2. Move Pawn B forward
-3. Move Pawn C to protect Pawn A's return square
-4. Generate 3+ stock per turn from Pawn Parade
+1. Move Pawn A to safe square (+1 stock)
+2. Move Pawn B to safe square (+1 stock)
+3. Move Pawn C to safe square (+1 stock)
+4. Total: +3 stock per turn from Pawn Parade
 
-**Stock generation:**
-| Turn | Stock Generated | Cumulative |
-|------|-----------------|------------|
-| 4 | +3 | 15 |
-| 5 | +4 | 25 |
-| 6 | +5 | 38 |
-| 7 | +6 | 54 |
+### Step 3: Scale with Compound Interest (Turn 4+)
 
-**With Compound Interest (5% of held stock):**
+**Add Compound Interest Gambit:** +5% of held stock per turn
+
+**Stock growth with both Gambits:**
 | Turn | Stock | Interest | Total |
 |------|-------|----------|-------|
 | 4 | 15 | +0 | 15 |
@@ -105,64 +88,34 @@ I used to ignore Pawns. They were just pieces to sacrifice or promote. Then I pl
 
 ---
 
-### The Payoff (Turn 8+)
+## When to Spend Your Stock
 
-**When you have 80+ stock:**
+**Wait until you have 80+ stock before buying big pieces.**
 
-| Option | Cost | Result |
-|--------|------|--------|
-| Buy Queen | 60 | Immediate power spike |
-| Buy 2 Rooks | 80 | Board control |
-| Buy Gambit Recycler | 40 | Reuse economy Gambits |
-
-**My preferred payoff:**
-- Keep 4 Pawns for continued stock generation
-- Buy 1 Rook for endgame control
-- Save 40+ stock for emergency buys
+| Option | Cost | When to Buy |
+|--------|------|-------------|
+| Queen | 60 | Turn 8+ when you have 100+ stock |
+| 2 Rooks | 80 | Turn 9+ for endgame control |
+| Gambit Recycler | 40 | Turn 7+ to reuse economy Gambits |
 
 ---
 
-## The Complete Build
+## Complete Build Summary
 
-### Gambits (Pick 3)
-
+**Gambits (Pick 3):**
 | Priority | Gambit | Why |
 |----------|--------|-----|
 | 1 | Pawn Parade | Core - generates stock |
 | 2 | Compound Interest | Multiplies stock |
-| 3 | Smart Investment OR King's Shield | Economy or survival |
+| 3 | King's Shield OR Smart Investment | Survival or economy |
 
-### Pieces (Turn-by-turn)
+**Piece Build Order:**
+| Turn | Action |
+|------|--------|
+| 1 | 2 Pawns |
+| 2 | 2 more Pawns |
+| 3 | 1 Rook (protects Pawns) |
+| 4-7 | Loop Pawns, generate stock |
+| 8+ | Buy Queen/Rooks |
 
-| Turn | Pieces | Stock Remaining |
-|------|--------|-----------------|
-| 1 | 2 Pawns | 80 |
-| 2 | 2 more Pawns | 60 |
-| 3 | 1 Rook | 30 |
-| 4-7 | Nothing (loop) | 30→110 |
-| 8+ | Queen/whatever | 50+ |
-
----
-
-## Data: Pawn Economy Win Rate
-
-| Build | Win Rate | Sample Size |
-|-------|----------|-------------|
-| Pawn Economy (this guide) | 70% | 43 games |
-| Standard Pawn + Promote | 48% | 52 games |
-| No Pawn focus | 35% | 38 games |
-
----
-
-## Common Mistakes
-
-1. **Not protecting Pawns** - Unprotected Pawns get captured, loop breaks
-2. **Moving Pawns forward only** - Pawns can't return, loop ends
-3. **Buying too early** - Wait until 80+ stock for big purchases
-4. **Ignoring opponent** - If opponent rushes, you need to defend
-
----
-
-## Summary
-
-Pawns are an economy engine. Protect them, loop them, and watch your stock grow. This build took me from 48% to 70% win rate.
+**Win rate:** 70%

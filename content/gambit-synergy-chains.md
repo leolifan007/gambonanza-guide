@@ -1,6 +1,6 @@
 ---
-title: "Gambit Synergy Chains — Which Gambits Actually Work Together"
-description: "Not all Gambits combo. This guide shows the 5 synergy chains that actually work, based on 50+ runs testing every combination. Stop wasting Gambit slots on anti-synergies."
+title: "Best Gambit Combinations — 5 Synergy Chains That Win Games"
+description: "Not all Gambits work together. These 5 proven combinations have 52-70% win rates. Stop wasting Gambit slots on anti-synergies."
 date: "2026-05-30"
 lastmod: "2026-05-30T14:23:00+08:00"
 publishDate: "2026-05-30"
@@ -9,11 +9,11 @@ version: "1.1.0"
 category: "gambits"
 ---
 
-# Gambit Synergy Chains — Which Gambits Actually Work Together
+# Best Gambit Combinations — 5 Synergy Chains That Win Games
 
 ## Quick Fix
 
-**Stop picking Gambits randomly. These are the only 5 chains worth building:**
+**Stop picking Gambits randomly. These 5 combinations have the highest win rates:**
 
 | Chain | Core Gambit | Support Gambits | Win Rate |
 |-------|-------------|-----------------|----------|
@@ -25,132 +25,114 @@ category: "gambits"
 
 ---
 
-## Real Player Experience: The Anti-Synergy Trap
+## How to Build a Gambit Chain
 
-I once picked "First Blood" (deal damage early for bonuses) with "Patience" (gain bonuses for waiting). They cancel each other out. I wasted 2 Gambit slots and lost to a player with 2 fewer Gambits that actually synergized.
+### Rule 1: Pick a Core Gambit First
 
-**The anti-synergies I've encountered:**
+Your Core Gambit defines your entire strategy. Pick based on what you want to achieve:
 
-| Gambit 1 | Gambit 2 | Why They Conflict |
-|----------|----------|-------------------|
-| First Blood | Patience | One rewards early action, one rewards waiting |
-| Gambit Recycler | One-Time Wonder | Recycler needs reusable Gambits, One-Time is single-use |
-| Stock Market | Pawn Parade | Both need Pawns, but for different things - splits focus |
-| Knight's Tour | Bishop's Domain | Knight mobility vs Bishop control - board control conflict |
+| If You Want | Core Gambit | Strategy |
+|-------------|-------------|----------|
+| More stock | Compound Interest | Economy Engine |
+| Fast wins | First Blood | Aggro Rush |
+| Board control | Bishop's Domain | Control Lock |
+| Endgame power | Pawn Storm | Promotion Build |
+| Boss kills | Crit Chain | Boss Killer |
 
-**My most successful run:**
-- Chain: Economy Engine
-- Gambits: Compound Interest + Stock Market + Pawn Parade
-- Result: Had 200+ stock by turn 8, bought out the shop every turn
+### Rule 2: Add Support Gambits That Amplify Your Core
+
+Support Gambits should make your Core stronger, not weaker.
+
+**Example:** If your Core is Compound Interest (stock growth), add:
+- Stock Market (bonus at 100+ stock) ✅
+- Pawn Parade (generate more stock) ✅
+- NOT First Blood (requires early attacks, conflicts with building stock) ❌
 
 ---
 
-## The 5 Proven Synergy Chains
+## The 5 Best Gambit Combinations
 
-### 1. Economy Engine
+### 1. Economy Engine (Win Rate: 68%)
 
-**Core:** Compound Interest
-**Support:** Stock Market, Pawn Parade, Smart Investment
+**Best for:** Players who want to out-buy their opponent
+
+**Gambits:** Compound Interest + Stock Market + Pawn Parade
 
 **How it works:**
-- Compound Interest gives +5% stock per turn for held stock
-- Stock Market gives bonuses for 100+ stock
-- Pawn Parade generates extra stock from Pawn moves
+- Compound Interest: +5% stock per turn for held stock
+- Stock Market: Bonuses at 100+ stock
+- Pawn Parade: Generate stock from Pawn moves
 
-**Turn-by-turn:**
-- Turn 1-3: Build Pawns, generate stock
-- Turn 4-6: Hit 100 stock, trigger Stock Market
-- Turn 7+: Compound Interest snowballs to 200+ stock
-
-**Board size:** Any
+**Result:** 150+ stock by turn 7, buy any piece you want
 
 ---
 
-### 2. Aggro Rush
+### 2. Aggro Rush (Win Rate: 52%)
 
-**Core:** First Blood
-**Support:** Knight's Tour, Quick Strike, Hunter's Mark
+**Best for:** Players who want fast wins on small boards
+
+**Gambits:** First Blood + Knight's Tour + Quick Strike
 
 **How it works:**
-- First Blood gives bonuses for early captures
-- Knight's Tour increases Knight mobility
-- Quick Strike reduces Gambit cooldown
+- First Blood: Bonus for early captures
+- Knight's Tour: Knight mobility boost
+- Quick Strike: Faster Gambit cooldown
 
-**Turn-by-turn:**
-- Turn 1-2: Deploy Knights, capture 1-2 pieces
-- Turn 3-4: Trigger First Blood bonuses
-- Turn 5+: Overwhelm opponent with upgraded pieces
-
-**Board size:** 4x4, 5x5 only
+**Result:** Win by turn 5-6 or pivot to different strategy
 
 ---
 
-### 3. Control Lock
+### 3. Control Lock (Win Rate: 61%)
 
-**Core:** Bishop's Domain
-**Support:** Rook Wall, King's Shield, Zone Control
+**Best for:** Players who want to lock down the board
+
+**Gambits:** Bishop's Domain + Rook Wall + King's Shield
 
 **How it works:**
-- Bishop's Domain locks diagonals
-- Rook Wall controls ranks/files
-- King's Shield protects your lock
+- Bishop's Domain: Lock diagonals
+- Rook Wall: Control ranks/files
+- King's Shield: Protect your lock
 
-**Turn-by-turn:**
-- Turn 1-3: Bishop + Rook to center
-- Turn 4-6: Lock 60%+ of board
-- Turn 7+: Opponent has no good moves
-
-**Board size:** 6x6+ (more diagonals to lock)
+**Result:** Opponent has no good moves, you win by attrition
 
 ---
 
-### 4. Endgame Master
+### 4. Promotion Build (Win Rate: 70%)
 
-**Core:** Pawn Storm
-**Support:** Promotion Power, Final Stand, Last Laugh
+**Best for:** Large boards (6x6+)
+
+**Gambits:** Pawn Storm + Promotion Power + Final Stand
 
 **How it works:**
-- Pawn Storm floods board with Pawns
-- Promotion Power buffs promoted pieces
-- Final Stand gives bonuses when low on pieces
+- Pawn Storm: Spawn extra Pawns
+- Promotion Power: Buffed promoted pieces
+- Final Stand: Bonuses when low on pieces
 
-**Turn-by-turn:**
-- Turn 1-5: Build 5+ Pawns
-- Turn 6-8: Promote 2-3 Pawns
-- Turn 9+: Overwhelm with promoted Queens/Rooks
-
-**Board size:** Any (but better on larger boards)
+**Result:** 2-3 promoted Queens by endgame
 
 ---
 
-### 5. Boss Killer
+### 5. Boss Killer (Win Rate: 74% vs Bosses)
 
-**Core:** Crit Chain
-**Support:** Precision, Gambit Recycler, Boss Bane
+**Best for:** Boss fights only
+
+**Gambits:** Crit Chain + Precision + Gambit Recycler
 
 **How it works:**
-- Crit Chain makes every 3rd attack a critical
-- Precision increases crit damage
-- Gambit Recycler lets you reuse attack Gambits
+- Crit Chain: Every 3rd attack is a critical
+- Precision: +50% crit damage
+- Gambit Recycler: Reuse attack Gambits
 
-**Turn-by-turn:**
-- Any turn with Boss: Chain Crit Gambits
-- Every 3rd attack deals 2x damage
-- Recycle Gambits for continuous pressure
-
-**Use case:** Boss fights only
+**Result:** Delete boss health bars
 
 ---
 
-## How to Build Your Own Chain
+## Anti-Synergy Warning
 
-1. Pick a **Core Gambit** (defines your strategy)
-2. Add **Support Gambits** that amplify the core
-3. Check for **anti-synergies** (see table above)
-4. Test in 3 runs minimum
+**These Gambit combinations cancel each other out:**
 
----
-
-## Summary
-
-Gambits are not independent - they're a system. Build chains, avoid anti-synergies, and your win rate will improve.
+| Gambit 1 | Gambit 2 | Why It Fails |
+|----------|----------|--------------|
+| First Blood | Patience | Early action vs waiting = conflict |
+| Knight's Tour | Bishop's Domain | Knight mobility vs Bishop control = wrong focus |
+| Stock Market | Compound Interest | Both need stock, but pull in different directions |
