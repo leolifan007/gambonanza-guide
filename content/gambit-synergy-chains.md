@@ -3,11 +3,10 @@ title: "Best Gambit Combinations — 5 Synergy Chains That Win Games"
 description: "Not all Gambits work together. These 5 proven combinations have 52-70% win rates. Stop wasting Gambit slots on anti-synergies."
 date: "2026-05-30"
 lastmod: "2026-05-30T14:23:00+08:00"
-publishDate: "2026-05-30"
-hidden: true
 version: "1.1.0"
 category: "gambits"
 ---
+
 
 # Best Gambit Combinations — 5 Synergy Chains That Win Games
 
