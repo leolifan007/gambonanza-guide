@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Gambonanza Rook & Bishop Guide v1.1.0-Mastering the Support Pieces'
 description: 'Gambonanza Rook and Bishop guide for patch v1.1.0. Rook suppression power, Bishop control tactics, Gambit combos, and advanced formations for these underrated pieces. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
@@ -47,7 +47,7 @@ Rook moves "all the way in a straight line"-beginners see this as inflexible. Bu
 
 **Double Rook Wall**
 ```
-  R鈥斺€擱
+  R'
   |    |
   K    K
 ```
@@ -55,7 +55,7 @@ Two Rooks flanking the King creates a cross-blockade-nearly impossible to break 
 
 <div class='pro-tip'>
   <strong>Rook Pro Move</strong><br>
-  Most players use Rook for one thing: chasing opponent pieces in a straight line. Advanced players do something else: blocking key lanes to force the opponent into your preset killbox. One Rook on a 5脳5 board controls 1 entire row + 1 entire column-that's 2/5 of the board.
+  Most players use Rook for one thing: chasing opponent pieces in a straight line. Advanced players do something else: blocking key lanes to force the opponent into your preset killbox. One Rook on a 5x5 board controls 1 entire row + 1 entire column-that's 2/5 of the board.
 </div>
 
 ![Piece shop interface-smart resource allocation for Rook and Bishop purchases](/images/screenshots/ss_4.jpg)
@@ -69,7 +69,7 @@ Two Rooks flanking the King creates a cross-blockade-nearly impossible to break 
 | Rook + Anchor | Lock the best position permanently | <span class='meta-badge meta-a'>A</span> |
 | Rook + Teleport Swap | Swap with Pawn then rush forward | <span class='meta-badge meta-b'>B</span> |
 
-<span class='phase-tag'>Late</span> Double Rook + Queen on a 6脳6 board is the strongest control combo in the game, bar none.
+<span class='phase-tag'>Late</span> Double Rook + Queen on a 6x6 board is the strongest control combo in the game, bar none.
 
 ## Bishop-Complete Breakdown
 
@@ -111,11 +111,11 @@ Bishop only controls same-color squares-this is its biggest weakness, but also i
 - Rook blocks cross-lanes-forces opponent to move diagonally
 - Bishop intercepts diagonals-executes the kill
 
-This is "Cross Blockade + Diagonal Intercept"-on a 5脳5 board, this combo locks down 80% of all moveable squares.
+This is "Cross Blockade + Diagonal Intercept"-on a 5x5 board, this combo locks down 80% of all moveable squares.
 
 <div class='pro-tip'>
   <strong>What Advanced Players Know</strong><br>
-  Double Rook + double opposite-color Bishops on a 6脳6 board covers every possible movement path-cross & cross, both diagonals. Every square your opponent can reach is in your coverage. The community calls this the "Iron Cage."
+  Double Rook + double opposite-color Bishops on a 6x6 board covers every possible movement path-cross & cross, both diagonals. Every square your opponent can reach is in your coverage. The community calls this the "Iron Cage."
 </div>
 
 <div class='callout callout-tip'>
@@ -127,5 +127,6 @@ This is "Cross Blockade + Diagonal Intercept"-on a 5脳5 board, this combo locks
   <div class='ad-label'>Advertisement</div>
   <div class='ad-placeholder'>Google AdSense</div>
 </div>
+
 
 

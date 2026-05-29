@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-22
 lastmod: 2026-05-22T08:41:17+08:00
 title: "How to Fix a Broken Gambit Chain in Mid-Game"

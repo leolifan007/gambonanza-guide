@@ -1,5 +1,5 @@
 ---
-title: "How to Win from 0 Stock — Emergency Recovery Guide"
+title: "How to Win from 0 Stock - Emergency Recovery Guide"
 description: "Hit 0 stock by turn 5? This recovery guide has 42% win rate. Exact steps, best Gambits for comeback, and when to concede."
 date: "2026-06-01"
 lastmod: "2026-06-01T11:43:00+08:00"
@@ -9,7 +9,7 @@ version: "1.1.0"
 category: "economy"
 ---
 
-# How to Win from 0 Stock — Emergency Recovery Guide
+# How to Win from 0 Stock - Emergency Recovery Guide
 
 ## Quick Fix
 
@@ -75,3 +75,4 @@ category: "economy"
 | 0 stock turn 5-7 | 42% |
 | 0 stock turn 8+ | 55% |
 | With Second Wind Gambit | 51% |
+

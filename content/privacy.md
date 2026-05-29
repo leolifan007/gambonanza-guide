@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Privacy Policy"
 description: "How Gambonanza Guide collects, uses, and protects your personal information when you visit our website."
 ---

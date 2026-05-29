@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza Decision Framework (v1.1.0)-Stop Making Costly Mistakes"
 description: "Gambonanza decision framework for patch v1.1.0. How to read the board, when to attack vs defend, your personal mistake pattern, and the decision tree that stops you from throwing runs. Updated for patch v1.1.0."
 see_also:
@@ -123,7 +123,7 @@ Losing 3 runs in a row? Here's the exact protocol:
   <table>
     <thead><tr><th>Step</th><th>Action</th><th>Why</th></tr></thead>
     <tbody>
-      <tr><td>1</td><td>Drop to 4×4 board</td><td>Easier wins = rebuild confidence</td></tr>
+      <tr><td>1</td><td>Drop to 4x4 board</td><td>Easier wins = rebuild confidence</td></tr>
       <tr><td>2</td><td>Play Knight Aggro only</td><td>Solid opener you know, no experimentation</td></tr>
       <tr><td>3</td><td>Buy ONLY Teleport + Backstab</td><td>Minimum decisions, maximum execution</td></tr>
       <tr><td>4</td><td>Win 2 games, then stop</td><td>Quit while ahead, don't chase</td></tr>
@@ -143,7 +143,7 @@ Losing 3 runs in a row? Here's the exact protocol:
 ---
 
 *Ready to apply this framework? Check the builds that work best-[Strategy Guide](/strategy/)*<br>
-*Want a faster way to recover?-[4×4 Fast Farm Guide](/4x4-fast-farm-guide/)*
+*Want a faster way to recover?-[4x4 Fast Farm Guide](/4x4-fast-farm-guide/)*
 
 ---
 

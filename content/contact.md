@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Contact & About This Guide"
 description: "Learn about Gambonanza Guide-the most complete community-driven strategy resource for Gambonanza. Find out how to contact us, submit feedback, or report issues."
 ---
@@ -6,7 +6,7 @@ description: "Learn about Gambonanza Guide-the most complete community-driven st
 ## About This Guide
 
 <div class="callout callout-verdict">
-  <strong>✅ OUR MISSION</strong><br>
+  <strong> OUR MISSION</strong><br>
   To provide the most complete, accurate, and actionable Gambonanza strategy resource on the internet-built by players, for players.
 </div>
 
@@ -25,7 +25,7 @@ Gambonanza Guide is organized into several comprehensive sections, each designed
 <div class="split-col">
 <div class="col">
 
-### 馃弳 Guides & Walkthroughs
+###  Guides & Walkthroughs
 
 - **[150+ Gambits Database](/gambits/)**-Complete breakdown of every Gambit in the game, ranked from S-tier to F-tier with detailed analysis of synergies, counters, and optimal usage scenarios
 - **[8 Boss Battle Guides](/bosses/)**-Step-by-step strategies for every boss, including pattern analysis, recommended Gambit loadouts, and phase-by-phase walkthroughs
@@ -35,7 +35,7 @@ Gambonanza Guide is organized into several comprehensive sections, each designed
 </div>
 <div class="col">
 
-### 馃搳 Tools & References
+###  Tools & References
 
 - **[Economy Guide](/economy/)**-Master the casino economy system, including Safe Haven strategy, Gambler's Gambit risk analysis, and optimal stock management across shop visits
 - **[Tier List](/gambonanza-tier-list/)**-Complete Gambit tier list with explanations for every rating, updated regularly as the meta evolves
@@ -63,7 +63,7 @@ We love hearing from the Gambonanza community! Whether you have a question, foun
 Found a bug on the site? Noticed a strategy that's outdated? Spotted a typo in one of our guides?
 
 <div class="callout callout-tip">
-  <strong>馃悰 REPORT AN ISSUE</strong><br>
+  <strong> REPORT AN ISSUE</strong><br>
   Open a ticket on our <a href="https://github.com/leolifan007/gambonanza-guide/issues">GitHub Issues page</a>. We review every submission and typically respond within 48 hours. Please provide as much detail as possible, including the page URL and a description of the problem.
 </div>
 
@@ -72,7 +72,7 @@ Found a bug on the site? Noticed a strategy that's outdated? Spotted a typo in o
 Want to discuss strategy, share your own findings, or suggest new content?
 
 <div class="callout callout-verdict">
-  <strong>馃挰 JOIN THE CONVERSATION</strong><br>
+  <strong> JOIN THE CONVERSATION</strong><br>
   Head over to our <a href="https://github.com/leolifan007/gambonanza-guide/discussions">GitHub Discussions</a> page. This is the best place for:
   <ul>
     <li>Strategy discussions and theorycrafting</li>
@@ -143,14 +143,14 @@ Absolutely! We welcome community contributors. Open a discussion on GitHub intro
 ## Disclaimer
 
 <div class="callout callout-danger">
-  <strong>鈿狅笍 IMPORTANT DISCLAIMER</strong><br>
-  Gambonanza Guide is a <strong>fan-made, unofficial resource</strong> created by players for players. This website is <strong>not affiliated with, endorsed by, or connected to</strong> Blukul茅l茅, the developer and publisher of Gambonanza.
+  <strong> IMPORTANT DISCLAIMER</strong><br>
+  Gambonanza Guide is a <strong>fan-made, unofficial resource</strong> created by players for players. This website is <strong>not affiliated with, endorsed by, or connected to</strong> Blukull, the developer and publisher of Gambonanza.
   <br><br>
-  <strong>Trademark Notice:</strong> "Gambonanza" and all associated game content, including but not limited to game screenshots, artwork, character designs, sound effects, music, and game mechanics, are the intellectual property of Blukul茅l茅. All game-related materials used on this site are used for informational and educational purposes under fair use principles.
+  <strong>Trademark Notice:</strong> "Gambonanza" and all associated game content, including but not limited to game screenshots, artwork, character designs, sound effects, music, and game mechanics, are the intellectual property of Blukull. All game-related materials used on this site are used for informational and educational purposes under fair use principles.
   <br><br>
-  <strong>Copyright Notice:</strong> All game screenshots, visual assets, and game excerpts displayed on Gambonanza Guide are copyrighted by Blukul茅l茅. These materials are used for the purpose of commentary, criticism, and strategy explanation. They are not used for commercial gain beyond standard advertising revenue necessary to maintain the site.
+  <strong>Copyright Notice:</strong> All game screenshots, visual assets, and game excerpts displayed on Gambonanza Guide are copyrighted by Blukull. These materials are used for the purpose of commentary, criticism, and strategy explanation. They are not used for commercial gain beyond standard advertising revenue necessary to maintain the site.
   <br><br>
-  <strong>Unofficial Status:</strong> This is a non-commercial, fan-operated strategy resource. No official partnership, sponsorship, or relationship exists between this website and Blukul茅l茅 or any of its affiliates, partners, or subsidiaries.
+  <strong>Unofficial Status:</strong> This is a non-commercial, fan-operated strategy resource. No official partnership, sponsorship, or relationship exists between this website and Blukull or any of its affiliates, partners, or subsidiaries.
   <br><br>
   <strong>Accuracy Disclaimer:</strong> While we strive for accuracy in all our guides and strategies, game mechanics may change with updates. Strategies that work in the current version may become outdated. We recommend checking the game's official documentation for the most up-to-date information on mechanics and features.
   <br><br>

@@ -1,17 +1,11 @@
-# Enforce UTF-8 encoding for text files
-* text=auto charset=utf-8
+# Enforce UTF-8 encoding for all text files
+* text=auto eol=lf
 
-# Markdown files
-*.md text charset=utf-8
+# Mark all .md files as text
+*.md text working-tree-encoding=UTF-8
 
-# HTML files
-*.html text charset=utf-8
+# Ensure shell scripts have correct line endings
+*.sh text eol=lf
 
-# Configuration files
-*.toml text charset=utf-8
-*.yaml text charset=utf-8
-*.yml text charset=utf-8
-
-# CSS and JavaScript
-*.css text charset=utf-8
-*.js text charset=utf-8
+# PowerShell scripts
+*.ps1 text eol=crlf

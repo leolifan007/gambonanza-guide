@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Gambonanza Endgame Tips (v1.1.0)-Killer Strategies for Closing Out Games'
 description: 'Gambonanza endgame guide for patch v1.1.0. Bishop deadlock solutions, King hunting timings, relic timing control, Pawn promotion traps, and a comeback checklist. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
@@ -14,7 +14,7 @@ see_also:
 
 ## The Endgame Is Not Just Grind
 
-> Most Gambonanza games end before the 6脳6 board. But what separates good players from great ones is how they close out games when the board gets big.
+> Most Gambonanza games end before the 6x6 board. But what separates good players from great ones is how they close out games when the board gets big.
 
 <div class='callout callout-verdict'>
   <strong>Verdict</strong><br>
@@ -24,7 +24,7 @@ see_also:
 ## 1. Bishop Deadlock-Breaking the Same-Color Trap
 
 ### The Problem
-When the board reaches 6脳6+ and both sides are left with same-color Bishops, you get a stalemate. Neither can eat the other.
+When the board reaches 6x6+ and both sides are left with same-color Bishops, you get a stalemate. Neither can eat the other.
 
 ### Solutions
 
@@ -71,11 +71,11 @@ When a King is exposed (fewer than 3 friendly pieces around it), you get exactly
 
 | Phase | Open | Save |
 |-------|------|------|
-| Opening (3脳3) | Economy relics | Combat relics for mid-game |
-| Mid-game (4脳4~5脳5) | Gambit slot expanders | Finisher relics for endgame |
-| Endgame (6脳6+) | All damage-boosting relics | Economy relics are useless now |
+| Opening (3x3) | Economy relics | Combat relics for mid-game |
+| Mid-game (4x4~5x5) | Gambit slot expanders | Finisher relics for endgame |
+| Endgame (6x6+) | All damage-boosting relics | Economy relics are useless now |
 
-<span class='phase-tag'>Late</span> Economy relics should have been sold at peak value around 5脳5 to fund combat relic swaps.
+<span class='phase-tag'>Late</span> Economy relics should have been sold at peak value around 5x5 to fund combat relic swaps.
 
 ## 4. Pawn Promotion Trap
 
@@ -114,5 +114,6 @@ Most comebacks aren't about overpowering your opponent. They're about checking t
   <div class='ad-label'>Advertisement</div>
   <div class='ad-placeholder'>Google AdSense</div>
 </div>
+
 
 

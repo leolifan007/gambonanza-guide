@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Gambonanza Complete Walkthrough (v1.1.0)-Step-by-Step Run Guide'
 description: 'Full Gambonanza walkthrough for patch v1.1.0. Step-by-step run guide from seed selection to Grandmaster. Covers opening economy, mid-game transition, every boss fight, and endgame strategy. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
@@ -26,7 +26,7 @@ see_also:
   <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span>-steep at first, but every run teaches you something.
 </div>
 
-## Phase 1: Opening (3脳3-4脳4)
+## Phase 1: Opening (3x3-4x4)
 
 ### Goal
 Build your economy foundation and fill Gambit slots.
@@ -39,8 +39,8 @@ Build your economy foundation and fill Gambit slots.
 
 <div class='callout callout-tip'>
   <strong>Golden Opening Formula</strong><br>
-  <strong>Turns 1?:</strong> Expansion 脳2 + Gambit 脳1<br>
-  <strong>Turns 4?:</strong> Economy 脳2 + Defense 脳1<br>
+  <strong>Turns 1?:</strong> Expansion x2 + Gambit x1<br>
+  <strong>Turns 4?:</strong> Economy x2 + Defense x1<br>
   Follow this ratio and you will almost never lose the opening phase.
 </div>
 
@@ -52,7 +52,7 @@ Build your economy foundation and fill Gambit slots.
 - **Skipping Gambits**: Playing Gambit-light in the opening sets you up for a painful boss phase
 - **King in the open**: One aggressive push and you're dead before turn 8
 
-## Phase 2: Mid-Game (4脳4-5脳5)
+## Phase 2: Mid-Game (4x4-5x5)
 
 ### Goal
 Transition into a combat-ready configuration and prepare for your first boss.
@@ -61,20 +61,20 @@ Transition into a combat-ready configuration and prepare for your first boss.
 
 ```
 First boss is Jester?
-鈹溾攢 Yes-Keep expanding, rush kill on 4脳4 board
-鈹斺攢 No-Switch to defensive formation, fill Gambit slots
+ Yes-Keep expanding, rush kill on 4x4 board
+ No-Switch to defensive formation, fill Gambit slots
 
 Already have 8+ pieces on board?
-鈹溾攢 Yes-Start clearing low-tier pieces, keep high-value ones
-鈹斺攢 No-Keep expanding but manage pace
+ Yes-Start clearing low-tier pieces, keep high-value ones
+ No-Keep expanding but manage pace
 ```
 
 ### Common Pitfalls
-- <span class='phase-tag'>Mid</span> **Over-expansion**: 10+ pieces on a 4脳4 board with no gold to upgrade them-the #1 death sentence
-- **Ignoring Gambits**: If you haven't filled your Gambit slots by mid-game, you will not survive the first boss at 5脳5
-- **Holding onto pawns**: Low-tier pieces are dead weight past 4脳4. Sell them without sentiment.
+- <span class='phase-tag'>Mid</span> **Over-expansion**: 10+ pieces on a 4x4 board with no gold to upgrade them-the #1 death sentence
+- **Ignoring Gambits**: If you haven't filled your Gambit slots by mid-game, you will not survive the first boss at 5x5
+- **Holding onto pawns**: Low-tier pieces are dead weight past 4x4. Sell them without sentiment.
 
-## Phase 3: Boss Fights (5脳5)
+## Phase 3: Boss Fights (5x5)
 
 ### One-Liner Counters Per Boss
 
@@ -93,20 +93,20 @@ See the <a href='/boss-strategy-guide'>full Boss Strategy Guide</a> for in-depth
   If you lose to the same boss 3 times in a row, stop bashing your head against it. Check: is your Gambit configuration correct for this fight? Are your relics the right type? Swapping one Gambit often does more than swapping ten pieces.
 </div>
 
-## Phase 4: Endgame (6脳6+)
+## Phase 4: Endgame (6x6+)
 
 ### Transition Checklist
 Sell all economy relics-Equip full combat relics-Open King hunting windows
 
 ### Win Condition Checkpoints
-Before entering 6脳6, confirm:
+Before entering 6x6, confirm:
 
 | Condition | Requirement |
 |-----------|-------------|
 | Gambit slots | At least 2, ideally 3 |
 | Combat relics |-4 |
 | King position | Not exposed, has defensive cover |
-| Core pieces | Queen + Rook 脳2 + Bishop 脳2 |
+| Core pieces | Queen + Rook x2 + Bishop x2 |
 
 If you can't meet these, lower your expectations and pursue a King-snipe comeback instead of a direct fight.
 
@@ -127,5 +127,6 @@ If you can't meet these, lower your expectations and pursue a King-snipe comebac
   <div class='ad-label'>Advertisement</div>
   <div class='ad-placeholder'>Google AdSense</div>
 </div>
+
 
 

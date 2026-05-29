@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to Play Gambonanza (v1.1.0)-Complete Rules & Getting Started Guide"
 description: "Learn how to play Gambonanza in 5 minutes. Complete rules explanation, turn structure, win conditions, and the 3 things every new player needs to know. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-19'
@@ -27,7 +27,7 @@ see_also:
 
 Gambonanza is a roguelike deckbuilder where:
 
-- You play on a **chess board** (4脳4, 6脳6, or 8脳8)
+- You play on a **chess board** (4x4, 6x6, or 8x8)
 - You control **chess pieces** that have associated **cards**
 - Moving a piece **activates its card** (like playing a card in a deckbuilder)
 - Cards trigger **Gambits**-special powers that break chess rules
@@ -80,11 +80,11 @@ Every card you add to your deck dilutes your draw pool. A tight deck of 12-15 ca
 
 | Size | Tiles | Difficulty | Best For |
 |------|-------|-----------|----------|
-| 4脳4 | 16 | Faster, tighter | Learning, speed runs |
-| 6脳6 | 36 | Standard | Most balanced experience |
-| 8脳8 | 64 | More complex | Advanced strategy |
+| 4x4 | 16 | Faster, tighter | Learning, speed runs |
+| 6x6 | 36 | Standard | Most balanced experience |
+| 8x8 | 64 | More complex | Advanced strategy |
 
-The board size affects which builds are viable. Pawn Rush works best on 6脳6, while Queen builds shine on 8脳8.
+The board size affects which builds are viable. Pawn Rush works best on 6x6, while Queen builds shine on 8x8.
 
 ## Piece Types & Cards
 
@@ -171,5 +171,6 @@ You spend it on:
   <div class='ad-label'>Advertisement</div>
   <div class='ad-placeholder'>Google AdSense</div>
 </div>
+
 
 

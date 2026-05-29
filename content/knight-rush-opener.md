@@ -1,5 +1,5 @@
 ---
-title: "Best Knight Strategy — Win More Games with the Knight Rush Build"
+title: "Best Knight Strategy - Win More Games with the Knight Rush Build"
 description: "The Knight Rush build has 62% win rate on 4x4 and 5x5 boards. Exact turn-by-turn setup, when to use it, and how to win even when it fails."
 date: "2026-05-29"
 lastmod: "2026-05-29T21:36:00+08:00"
@@ -8,7 +8,7 @@ version: "1.1.0"
 category: "pieces"
 ---
 
-# Best Knight Strategy — Win More Games with the Knight Rush Build
+# Best Knight Strategy - Win More Games with the Knight Rush Build
 
 ## Quick Fix
 
@@ -16,10 +16,10 @@ category: "pieces"
 
 | Board Size | Knight Rush | Better Opener |
 |------------|-------------|---------------|
-| 4x4 | ✅ Strong | - |
-| 5x5 | ✅ Viable | Bishop Control |
-| 6x6 | ❌ Too slow | Pawn Economy |
-| 7x7+ | ❌ Don't | Farm Loop |
+| 4x4 |  Strong | - |
+| 5x5 |  Viable | Bishop Control |
+| 6x6 |  Too slow | Pawn Economy |
+| 7x7+ |  Don't | Farm Loop |
 
 **The 3-turn setup:**
 1. Turn 1: Knight to center-adjacent square (not center itself)
@@ -96,3 +96,4 @@ If you hit red flags on turn 3:
 ## Summary
 
 Knight Rush is a tool, not a strategy. Use it on small boards, assess by turn 3, and pivot if blocked. The best Knight Rush players know when NOT to use it.
+

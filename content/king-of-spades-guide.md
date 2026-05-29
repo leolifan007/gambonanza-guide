@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "Gambonanza King of Spades Guide v1.1.0-Mechanics, Counters & Three Proven Builds"
 
@@ -27,7 +27,7 @@ The community-agreed second-hardest boss after Grandmaster. Normal clear rate ar
 
 ## Boss Overview
 
-**King of Spades** is a mid-to-late boss that appears around board size 5脳5 or 6脳6. His core mechanic-**Piece Teleport**-lets him swap any two of your pieces on the board every 3 turns.
+**King of Spades** is a mid-to-late boss that appears around board size 5x5 or 6x6. His core mechanic-**Piece Teleport**-lets him swap any two of your pieces on the board every 3 turns.
 
 ### Key Stats
 
@@ -35,7 +35,7 @@ The community-agreed second-hardest boss after Grandmaster. Normal clear rate ar
 
 |------|-------|
 
-| Board Size | 5脳5 or 6脳6 |
+| Board Size | 5x5 or 6x6 |
 
 | Teleport Cooldown | Every 3 turns |
 
@@ -103,11 +103,11 @@ Rank your pieces before the fight. When teleport happens, you know exactly what 
 
 |----------|-----------|-----|
 
-| 鈽呪槄?| King | If King gets swapped to front line, you lose |
+| ?| King | If King gets swapped to front line, you lose |
 
-| 鈽呪槄?| Gambit-carrier queen | Queen with Gambit buff loses tempo when repositioned |
+| ?| Gambit-carrier queen | Queen with Gambit buff loses tempo when repositioned |
 
-| 鈽呪槄 | Rook / Knight | Important but recoverable |
+|  | Rook / Knight | Important but recoverable |
 
 |-| Bishop / Pawn | Low impact. Fix these last |
 
@@ -177,7 +177,7 @@ Before the boss fight, mentally label your pieces: "King = do not move", "Queen 
 
 - **Precision Strike** (+2 attack on chosen piece)
 
-- **Fortress** (Makes a 2脳2 area teleport-proof)
+- **Fortress** (Makes a 2x2 area teleport-proof)
 
 **Strategy**: Build a fortress in one corner. Keep all critical pieces inside. Only send disposable pawns outside the fortress. Teleport only affects exposed pieces.
 
@@ -233,6 +233,7 @@ A: Yes. Promotion doesn't grant immunity. Keep promoted pieces within your Fortr
 ---
 
 *Last updated: May 11, v1.1.0 | Version: v1.1.0 | Based on my runs and gameplay testing*
+
 
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza Best Seeds (v1.1.0) - Top 15 S/A/B Seeds for Guaranteed Wins | Patch-Ready"
 description: "The best Gambonanza seeds for patch v1.1.0. Top 15 seeds ranked S/A/B for economy builds, speed runs, boss fights, and ranked mode. Includes how to use seeds and what makes a good seed. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-19'
@@ -69,16 +69,16 @@ A good seed gives you three things:
 
 ## Best Seeds by Category
 
-### 馃弳 Best Seed for Beginners
+###  Best Seed for Beginners
 **Seed: 1238513920**-The double Gambit slot opener means you get more choices right away, and the economy relic means you won't run out of stock before bosses. I recommend this for your first 10 runs while learning the game.
 
 ###-Best Seed for Speed Runs
 **Seed: 782993044**-The Fast Farm economy burst lets you hit boss-power levels 2-3 rounds earlier than normal. My fastest clear with this seed: 18 minutes.
 
-### 馃彴 Best Seed for Boss Fights
+###  Best Seed for Boss Fights
 **Seed: 48827315**-King Bind trivializes 4 of the 8 bosses. Castle Rush handles the other 4. This seed is specifically designed to counter boss mechanics.
 
-### 馃幉 Best Seed for Ranked Mode
+###  Best Seed for Ranked Mode
 **Seed: 44488822**-Stable double Gambit + Rook boost gives consistent performance in ranked. Your opponent's seed doesn't affect yours, so use this with confidence.
 
 ## How to Enter a Seed

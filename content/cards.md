@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza Card Database (v1.1.0)  Every Piece Card Rated & Ranked"
 description: "Complete Gambonanza card database for patch v1.1.0. Every piece card with S/A/B meta ratings, synergy pairings, combo chains, and which cards are trap picks. Updated for patch v1.1.0."
 ---

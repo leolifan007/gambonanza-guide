@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza Beginner's Guide v1.1.0-How to Win Your First 5 Runs"
 description: "Complete Gambonanza beginner guide for patch v1.1.0. Learn the 5 rules that actually work, God-Tier starter Gambits, and the Just Win formula. Updated for patch v1.1.0."
 see_also:
@@ -34,7 +34,7 @@ Here's what actually matters-no filler, no "understand the basics," just the stu
 | Concept | What It Actually Is |
 |---|---|
 | **The Game** | Chess roguelike. Balatro energy. |
-| **Board** | 4脳4 to 6脳6 (16-36 squares, tiny!) |
+| **Board** | 4x4 to 6x6 (16-36 squares, tiny!) |
 | **Gambits** | 150+ rule-breaking powers per move |
 | **Winning** | Checkmate OR complete round objective |
 | **Economy** | Earn "stock"-buy Gambits in casino shops |
@@ -55,10 +55,10 @@ Here's what actually matters-no filler, no "understand the basics," just the stu
 Fire up the game, pick whatever looks cool, and just see what happens. You'll probably win a round or two, then get absolutely demolished by something you didn't see coming. That's the point.
 
 <div class="callout callout-tip">
-  <strong>✅ WHAT TO LEARN FROM THROWAWAY RUNS</strong>
+  <strong> WHAT TO LEARN FROM THROWAWAY RUNS</strong>
 </div>
 
-1. **How small the board actually is**-4脳4 is TINY (16 squares total). Every move affects the entire board state.
+1. **How small the board actually is**-4x4 is TINY (16 squares total). Every move affects the entire board state.
 2. **That Gambits trigger automatically every move**-you don't "activate" them, they fire based on conditions.
 3. **That the shop exists**-many new players don't even visit the shop on their first run. Don't be that person.
 4. **That stock loss hurts**-losing a round when you're holding 80 stock is painful. You'll learn to diversify fast.
@@ -75,7 +75,7 @@ Alright, you've seen what the game looks like. Now let's actually win.
 
 <div class="callout callout-verdict">
   <strong>?THE GOLDEN RULE-/strong><br>
-  On boards smaller than 6脳6, defensive play = guaranteed loss. Every turn you spend "positioning" is a turn your opponent uses to corner your king. Attack first, block never.
+  On boards smaller than 6x6, defensive play = guaranteed loss. Every turn you spend "positioning" is a turn your opponent uses to corner your king. Attack first, block never.
 </div>
 
 **Trust me on this.** I've watched defensive players lose to the AI 20 turns in a row because they kept trying to "build a solid position." There's no solid position in Gambonanza. The board is too small. Someone's dying in 8 moves-make sure it's not you.
@@ -104,7 +104,7 @@ The knight's unique advantage on small boards:
 
 | Situation | Knight Strategy | Expected Result |
 |---|---|---|
-| 4脳4 board | Both knights forward-center | Control 60% of board by turn 3 |
+| 4x4 board | Both knights forward-center | Control 60% of board by turn 3 |
 | Opponent has 1 piece developed | Knight to opponent's 3rd rank | Force immediate Gambit exchange |
 | Capturing Gambit available | Knight capture-chain setup | Win in 2-3 moves |
 
@@ -152,7 +152,7 @@ When you hit your first shop, DON'T just buy whatever's cheapest. These Gambits 
 |---|---|---|---|
 | <span class="meta-badge meta-s">S</span> | **Attack Bypass** | 40 stock | Capture protected pieces as if undefended-literally breaks chess |
 | <span class="meta-badge meta-s">S</span> | **King Teleport** | 40 stock | Best panic button-king's on the other side of the board now |
-| <span class="meta-badge meta-a">A</span> | **Double Capture** | 50 stock | Take two pieces with one move on a 4脳4 board = match over in 2 turns |
+| <span class="meta-badge meta-a">A</span> | **Double Capture** | 50 stock | Take two pieces with one move on a 4x4 board = match over in 2 turns |
 | <span class="meta-badge meta-a">A</span> | **Stock Multiplier** | 25 stock | Double winnings after a win-scales insanely into mid-game |
 | <span class="meta-badge meta-b">B</span> | **Pierce Defense** | 35 stock | Ignore enemy Gambits that block attacks. Situational but game-winning |
 
@@ -182,7 +182,7 @@ Here's a degenerate strategy that works on 80% of non-boss boards:
 </div>
 
 <div class="callout callout-tip">
-  <strong>馃 WHY THIS WORKS</strong><br>
+  <strong> WHY THIS WORKS</strong><br>
   The AI on early boards prioritizes capturing your "valuable" pieces (knights, bishops). While it's distracted killing your bait, your pawn is two moves from turning into a win condition. By the time the AI realizes what's happening, it's already in checkmate.
 </div>
 
@@ -195,7 +195,7 @@ Here's a degenerate strategy that works on 80% of non-boss boards:
 Your first boss fight will probably be around Run 5-8. Here's the ugly truth:
 
 <div class="callout callout-verdict">
-  <strong>馃拃 YOU'RE GOING TO LOSE</strong><br>
+  <strong> YOU'RE GOING TO LOSE</strong><br>
   Your first boss fight. Probably your second and third too. That's normal. The boss learning curve is the game's main difficulty wall.
 </div>
 
@@ -274,12 +274,13 @@ Now go lose a few more times. That's part of the process. Come back when you've 
   <span style="font-size:1.2rem;opacity:0.3">?/span>
 </div>
 
-*Next up: [All 150+ Gambits Explained 鈫抅(/gambits/)-or jump to [Boss Battle Guide 鈫抅(/bosses/) if you've already met your first boss and want revenge.*
+*Next up: [All 150+ Gambits Explained "(/gambits/)-or jump to [Boss Battle Guide "(/bosses/) if you've already met your first boss and want revenge.*
 
 
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
 
 

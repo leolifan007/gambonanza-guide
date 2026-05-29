@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza Strategy Guide v1.1.0 - S-Tier Builds & Pro Tactics (Win Rate Proven)"
 description: "Proven Gambonanza strategies with Meta Ratings for patch v1.1.0. Three S/A/B opening builds, exact Gambit combos, deck composition math, and endgame checkmate patterns. Updated for patch v1.1.0."
 see_also:
@@ -38,7 +38,7 @@ Three proven openers. Pick one per run and commit.
 
 | Step | Move | Why |
 |---|---|---|
-| 1 | Develop both knights to center | Knights on d4/e4 dominate 4脳4 and 6脳6 boards |
+| 1 | Develop both knights to center | Knights on d4/e4 dominate 4x4 and 6x6 boards |
 | 2 | Pawn push to clear diagonal | Opens bishop + clears knight's second L-jump |
 | 3 | Knight+Bishop Combo Gambit | Maximum reach-threaten 6+ squares simultaneously |
 | 4 | Backstab on exposed piece | Kill the defender, ignore protection |
@@ -55,7 +55,7 @@ Three proven openers. Pick one per run and commit.
 **Weak against:** Queen Gambit (she eats aggressive knights), King of Spades
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> On 4脳4 boards, Knight Aggro can win in 4 moves against the AI. Open d4 knight-e4 knight-Backstab on f-pawn-checkmate. The AI literally cannot respond in time on boards smaller than 6脳6. This is your speedrun opener.
+  <strong>Only 10h+ players know:</strong> On 4x4 boards, Knight Aggro can win in 4 moves against the AI. Open d4 knight-e4 knight-Backstab on f-pawn-checkmate. The AI literally cannot respond in time on boards smaller than 6x6. This is your speedrun opener.
 </div>
 
 ---
@@ -167,7 +167,7 @@ Three proven openers. Pick one per run and commit.
 **Cards:** Sacrifice for Strength + Heal Board + Knight+Bishop Combo
 
 1. Sacrifice 2 pieces-all remaining pieces +1 range
-2. Use Knight+Bishop Combo on buffed pieces for 2脳 reach
+2. Use Knight+Bishop Combo on buffed pieces for 2x reach
 3. Heal Board to return sacrificed pieces
 4. Returned pieces benefit from the buff
 
@@ -198,7 +198,7 @@ Three proven openers. Pick one per run and commit.
 
 | Deck Size | Win Rate* | Play Style | Recommended For |
 |---|---|---|---|
-| **12-18 cards** | ~70% | Hyper-aggressive | Speedruns, 4脳4 boards, experienced players |
+| **12-18 cards** | ~70% | Hyper-aggressive | Speedruns, 4x4 boards, experienced players |
 | **19-25 cards** | ~75% | Balanced | Most players, most runs-this is the sweet spot |
 | **26-35 cards** | ~60% | Control/late game | Boss runs, new players learning |
 | **36+ cards** | ~45% | Unfocused | Avoid-dilution kills win rates |
@@ -271,7 +271,7 @@ Three proven openers. Pick one per run and commit.
 ## Tilt Management
 
 <div class="callout callout-danger">
-  <strong>馃毇 THE 3-LOSS RULE</strong><br>
+  <strong> THE 3-LOSS RULE</strong><br>
   If you lose 3 runs in a row, STOP. Your decision-making is compromised. Take 10 minutes, review one replay, identify exactly which Gambit you should have bought instead. Come back fresh.
 </div>
 
@@ -290,5 +290,6 @@ Three proven openers. Pick one per run and commit.
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
 

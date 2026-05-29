@@ -1,5 +1,5 @@
 ---
-title: "Best Economy Strategy — Generate 5+ Stock Per Turn from Pawns"
+title: "Best Economy Strategy - Generate 5+ Stock Per Turn from Pawns"
 description: "The Pawn Economy Loop generates 5+ stock per turn. This guide shows the exact setup, piece protection, and the build with 70% win rate."
 date: "2026-06-06"
 lastmod: "2026-06-06T10:31:00+08:00"
@@ -9,7 +9,7 @@ version: "1.1.0"
 category: "economy"
 ---
 
-# Best Economy Strategy — Generate 5+ Stock Per Turn from Pawns
+# Best Economy Strategy - Generate 5+ Stock Per Turn from Pawns
 
 ## Quick Fix
 
@@ -119,3 +119,4 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 | 8+ | Buy Queen/Rooks |
 
 **Win rate:** 70%
+

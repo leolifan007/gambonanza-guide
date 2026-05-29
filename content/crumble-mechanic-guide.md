@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Crumble Mechanic Guide"
 description: "Gambonanza Crumble mechanic guide for patch v1.1.0. Board shrink visualization, Heal Board loop diagram, 3 trap scenarios with solutions, and 5 counter-plays for every board size. Updated for patch v1.1.0."
 see_also:
@@ -21,16 +21,16 @@ Edges collapse first. Center survives to the end. Control the center and Crumble
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Understanding Crumble = +30% win rate on 5脳5+ boards.</span>
+  <span class="meta-label">Understanding Crumble = +30% win rate on 5x5+ boards.</span>
 </div>
 
 <hr class="section-divider">
 
-## How the Board Shrinks (5脳5)
+## How the Board Shrinks (5x5)
 
-<img src="/images/guides/crumble-5x5-wave.svg" alt="5脳5 Crumble Wave Visualization: corners-edges-center over 3 waves" style="width:100%;max-width:800px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/crumble-5x5-wave.svg" alt="5x5 Crumble Wave Visualization: corners-edges-center over 3 waves" style="width:100%;max-width:800px;border-radius:8px;" loading="lazy">
 
-> **Rule:** Center 4 tiles (5脳5) or center 9 tiles (6脳6) collapse last. Anchor there.
+> **Rule:** Center 4 tiles (5x5) or center 9 tiles (6x6) collapse last. Anchor there.
 
 <hr class="section-divider">
 
@@ -48,10 +48,10 @@ Edges collapse first. Center survives to the end. Control the center and Crumble
 
 | Gambit | What It Does | When to Use |
 |--------|---------------|-------------|
-| 馃彞 Heal Board | Restores 2 collapsed tiles | When center tile collapses |
-| 馃彴 Fortress | Locks tile-never collapses | On your best center piece |
-| 馃寜 Bridge | Creates temp tile over collapse | Emergency escape |
-| 馃挮 Floating Square | Stand on collapsed tile 1 turn | Desperation only |
+|  Heal Board | Restores 2 collapsed tiles | When center tile collapses |
+|  Fortress | Locks tile-never collapses | On your best center piece |
+|  Bridge | Creates temp tile over collapse | Emergency escape |
+|  Floating Square | Stand on collapsed tile 1 turn | Desperation only |
 
 ### The Heal Board Loop
 
@@ -88,9 +88,9 @@ You overextended. The timer is ticking. Every turn, more tiles around you vanish
 
 | Board | Escape Tiles Available | Safe Route |
 |-------|----------------------|------------|
-| 5脳5 | 2-3 moves max | Diagonal toward center-shortest path |
-| 6脳6 | 3-4 moves max | Move along an existing piece chain |
-| 7脳7 | 4-5 moves max | You have time-don't panic and expose piece |
+| 5x5 | 2-3 moves max | Diagonal toward center-shortest path |
+| 6x6 | 3-4 moves max | Move along an existing piece chain |
+| 7x7 | 4-5 moves max | You have time-don't panic and expose piece |
 
 **If you can't reach center:**
 
@@ -103,63 +103,63 @@ You overextended. The timer is ticking. Every turn, more tiles around you vanish
 
 **The #1 mistake:** Trying to save a Rook that can't be saved. A Rook on the edge costs 80+ stock to deploy. If it's trapped, let it collapse. You get it back. Spend that stock on center positioning instead.
 
-### Trap #3: Your 5脳5 Strategy Doesn't Work on 6脳6 (or Vice Versa)
+### Trap #3: Your 5x5 Strategy Doesn't Work on 6x6 (or Vice Versa)
 
-This is the most common Crumble mistake. Players learn the patterns on 5脳5, then blindly apply the same timing to 6脳6 and wonder why they lose.
+This is the most common Crumble mistake. Players learn the patterns on 5x5, then blindly apply the same timing to 6x6 and wonder why they lose.
 
 **The critical difference: Crumble wave count changes how you play.**
 
 | Board | Waves | First Collapse | Safe Zone | Strategy Shift |
 |-------|-------|----------------|-----------|----------------|
-| 5脳5 | 3 waves | Turn 4-5 | Center 2脳2 | Aggressive center push early |
-| 6脳6 | 4 waves | Turn 5-6 | Center 3脳3 | Patient-corners go first, not edges |
-| 7脳7 | 5 waves | Turn 7-8 | Center 4脳4 | You have time to develop on edges |
+| 5x5 | 3 waves | Turn 4-5 | Center 2x2 | Aggressive center push early |
+| 6x6 | 4 waves | Turn 5-6 | Center 3x3 | Patient-corners go first, not edges |
+| 7x7 | 5 waves | Turn 7-8 | Center 4x4 | You have time to develop on edges |
 
-**Why 5脳5 players lose on 6脳6:**
-- On 5脳5, edges collapse fast. You force center fight early.
-- On 6脳6, only **the 4 corners** collapse in wave 1. Edges are still fully playable.
-- Result: Over-aggressive center rush on 6脳6 leaves you exposed to counter-attack from the still-intact edges.
+**Why 5x5 players lose on 6x6:**
+- On 5x5, edges collapse fast. You force center fight early.
+- On 6x6, only **the 4 corners** collapse in wave 1. Edges are still fully playable.
+- Result: Over-aggressive center rush on 6x6 leaves you exposed to counter-attack from the still-intact edges.
 
-**Fix:** On 6脳6, don't panic about Crumble until wave 2 (turn 8+). Use turns 1-7 to develop pieces and set up Gambit chains. On 5脳5, fight for center starting turn 3.
+**Fix:** On 6x6, don't panic about Crumble until wave 2 (turn 8+). Use turns 1-7 to develop pieces and set up Gambit chains. On 5x5, fight for center starting turn 3.
 
 <hr class="section-divider">
 
 ## Crumble by Board Size-Complete Breakdown
 
-### 5脳5-The Standard
+### 5x5-The Standard
 
 | Turn | Event | Your Goal |
 |------|-------|-----------|
 | 1-3 | Setup phase | Secure 2 center tiles |
 | 4-5 | First wave: 8 edge tiles collapse | Move edge pieces toward center |
-| 6-7 | Second wave: 4 more edge tiles fall | Hold center 2脳2 |
-| 8+ | Final stand: center 2脳2 only | Dominate with strong pieces |
+| 6-7 | Second wave: 4 more edge tiles fall | Hold center 2x2 |
+| 8+ | Final stand: center 2x2 only | Dominate with strong pieces |
 
-**Best pieces for a 5脳5 Crumble game:** Knight (maneuverability in tight space), Rook (controls narrow lanes), Queen (if you can afford-overkill but decisive).
+**Best pieces for a 5x5 Crumble game:** Knight (maneuverability in tight space), Rook (controls narrow lanes), Queen (if you can afford-overkill but decisive).
 
-### 6脳6-The Surprising
+### 6x6-The Surprising
 
 | Turn | Event | Your Goal |
 |------|-------|-----------|
 | 1-4 | Full board-no collapse yet | Develop pieces, build Gambit chains |
 | 5-6 | First wave: 4 corners collapse | Don't overreact-edges are still usable |
 | 7-9 | Second wave: 4 edge tiles on each side | Begin centralizing |
-| 10-12 | Third wave: 8 remaining edge tiles | Hold center 3脳3 |
-| 13+ | Center 3脳3 fight | Piece quality wins-don't waste turns |
+| 10-12 | Third wave: 8 remaining edge tiles | Hold center 3x3 |
+| 13+ | Center 3x3 fight | Piece quality wins-don't waste turns |
 
-**Key insight for 6脳6:** You get roughly twice as many setup turns as on 5脳5. Use the extra time to build a Gambit engine in the center before Crumble forces you there.
+**Key insight for 6x6:** You get roughly twice as many setup turns as on 5x5. Use the extra time to build a Gambit engine in the center before Crumble forces you there.
 
-### 7脳7-The Marathon
+### 7x7-The Marathon
 
 | Turn | Event | Your Goal |
 |------|-------|-----------|
 | 1-5 | Full board | Full development-expand everywhere |
 | 6-8 | First wave: far edge tiles | Push opponent toward edges |
-| 9-12 | Second wave: mid-edge tiles | Secure center 4脳4 |
+| 9-12 | Second wave: mid-edge tiles | Secure center 4x4 |
 | 13-16 | Third wave: all edge zone tiles | Hold center-economy matters here |
 | 17+ | Center zone fight | Strongest Gambit chains win |
 
-**7脳7 Crumble rule:** Don't play for Crumble at all in the first 8 turns. You have enough space to play full-board chess. Let the opponent worry about edge positioning while you build a monster center.
+**7x7 Crumble rule:** Don't play for Crumble at all in the first 8 turns. You have enough space to play full-board chess. Let the opponent worry about edge positioning while you build a monster center.
 
 <hr class="section-divider">
 
@@ -173,7 +173,7 @@ This is the most common Crumble mistake. Players learn the patterns on 5脳5, th
 ### King of Spades
 - KOS dominates on edge lanes. He likes to push along files.
 - Crumble removes his edge options. **Collapse the edges = cut off his attack routes.**
-- He's much weaker on a 4脳4 center. Force him there by turn 8.
+- He's much weaker on a 4x4 center. Force him there by turn 8.
 
 ### Blitzking
 - Blitzking wins by tempo. Crumble is actually **good for him** on a small board-he has fewer tiles to react to.
@@ -183,7 +183,7 @@ This is the most common Crumble mistake. Players learn the patterns on 5脳5, th
 ### Grandmaster
 - Grandmaster is strongest when the board is full-his position-based strategy needs space to calculate.
 - Crumble is your best weapon against him. **Aggressively collapse edges** from turn 5 onward.
-- Forcing a 4脳4 endgame with Grandmaster = you have a massive advantage. His positional calculation doesn't matter when there are only 16 tiles.
+- Forcing a 4x4 endgame with Grandmaster = you have a massive advantage. His positional calculation doesn't matter when there are only 16 tiles.
 
 ### Queen of Hearts
 - Mirror match. Whoever uses Crumble better wins.
@@ -210,21 +210,22 @@ They have 3 center tiles. You have 0. Crumble hasn't even started yet, and you'r
 1. Build on the second ring (the tiles just outside center)
 2. Let Crumble destroy their edge support-their center pieces will have nowhere to retreat
 3. When they're forced out of center by lack of support, swoop in
-4. This is called the **Ring Trap**. It works because opponents on 5脳5+ get confident and overextend.
+4. This is called the **Ring Trap**. It works because opponents on 5x5+ get confident and overextend.
 
 <hr class="section-divider">
 
 ## Quick Reference-Your Turn Plan
 
-| Turn | On 5脳5 | On 6脳6 |
+| Turn | On 5x5 | On 6x6 |
 |------|---------|----------|
 | 1-3 | Fight for center | Develop pieces, ignore Crumble |
 | 4-5 | Edge tiles start collapsing | Corners collapse-edges still usable |
 | 6-7 | Move edge pieces inward | Begin centralizing |
-| 8+ | Hold center 2脳2 tiles | Hold center 3脳3 tiles |
+| 8+ | Hold center 2x2 tiles | Hold center 3x3 tiles |
 
 ---
 
 *Last updated: May 21, v1.1.0 | Version: v1.1.0*
+
 
 

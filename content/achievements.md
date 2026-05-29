@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza Achievements Guide v1.1.0-All 22 Steam Achievements Unlock Guide"
 description: "Complete Gambonanza achievement guide for patch v1.1.0. All 22 Steam achievements with difficulty ratings, exact unlock strategies, and Pro Tips for the hardest ones. Updated for patch v1.1.0."
 see_also:
@@ -91,13 +91,13 @@ see_also:
 ## A-Tier Achievements
 
 ### Gambit God <span class="meta-badge meta-a">A</span>
-*Trigger 50 Gambits in one match.* Play on 6脳6 boards, stall intentionally, move every piece every turn. Long game = more triggers.
+*Trigger 50 Gambits in one match.* Play on 6x6 boards, stall intentionally, move every piece every turn. Long game = more triggers.
 
 ### No Loss Streak <span class="meta-badge meta-a">A</span>
-*Win 5 matches in a row.* Stick to 4脳4 boards with Knight Aggro opener. Lower variance, faster wins, less chance of random boss encounters.
+*Win 5 matches in a row.* Stick to 4x4 boards with Knight Aggro opener. Lower variance, faster wins, less chance of random boss encounters.
 
 ### Double Down (Achievement) <span class="meta-badge meta-a">A</span>
-*Win a 10脳 stock return.* Invest 20 stock in Gambler's Gambit 5 times. One will hit. Statistically, 5 attempts at 20% each = ~67% success rate.
+*Win a 10x stock return.* Invest 20 stock in Gambler's Gambit 5 times. One will hit. Statistically, 5 attempts at 20% each = ~67% success rate.
 
 ### Millionaire <span class="meta-badge meta-a">A</span>
 *Reach 1,000 total stock earned.* Cumulative across all runs-just play the game. Economy builds and Safe Haven compounding accelerate it.
@@ -115,7 +115,7 @@ see_also:
 | **Rook Victory** (Rook-only Gambits) | Build around Through the Ranks + rook Gambits |
 | **Queen Takeover** (Queen Gambit last 3 moves) | Save 3 queen Gambit cards for endgame |
 | **Epic Gambit** (Use 1 Legendary) | Save 300+ stock, buy a Legendary, use it |
-| **Bishop Victory** (Bishop diagonal Gambits) | Bishop-heavy deck on 6脳6 board |
+| **Bishop Victory** (Bishop diagonal Gambits) | Bishop-heavy deck on 6x6 board |
 | **King's Gambit** (King in center at win) | Win with king on d4/e4-aggressive king play |
 
 <hr class="section-divider">
@@ -160,5 +160,6 @@ These unlock naturally through gameplay. No special strategy needed:
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
 

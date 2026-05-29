@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza Economy & Shop Guide v1.1.0-Stock Strategy & Investment Tips"
 description: "Complete Gambonanza economy guide for patch v1.1.0. S/A/B/C rated investment tables, compound growth strategies, shop spending priorities, and exact thresholds for maximum returns. Updated for patch v1.1.0."
 see_also:
@@ -13,7 +13,7 @@ see_also:
 ## The Economy System-Rated & Exploited
 
 <div class="callout callout-verdict">
-  <strong>馃挵 THE VERDICT</strong><br>
+  <strong>###  THE VERDICT</strong><br>
   Winning Gambonanza is 40% strategy and 60% economy. Players who manage their stock well beat players with better board skills every single time. This guide turns you from a spender into an investor.
 </div>
 
@@ -49,18 +49,18 @@ see_also:
 
 | Table | Return | Risk | Min Stock | Rating |
 |---|---|---|---|---|
-| **Knight's Jump** | 2脳 (60%) / -50% (40%) | Medium | 30 | <span class="meta-badge meta-a">A</span> |
-| **Bishop's Diagonal** | 1.5脳, varies by board state | Low | 20 | <span class="meta-badge meta-a">A</span> |
+| **Knight's Jump** | 2x (60%) / -50% (40%) | Medium | 30 | <span class="meta-badge meta-a">A</span> |
+| **Bishop's Diagonal** | 1.5x, varies by board state | Low | 20 | <span class="meta-badge meta-a">A</span> |
 
 </div>
 
 <div class="meta-rating">
   <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Knight's Jump positive EV: 2脳0.6 + 0.5脳0.4 = 1.4脳 expected return. Better than Safe Haven but with variance. Put 30% of stock here.</span>
+  <span class="meta-label">Knight's Jump positive EV: 2x0.6 + 0.5x0.4 = 1.4x expected return. Better than Safe Haven but with variance. Put 30% of stock here.</span>
 </div>
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Bishop's Diagonal return rate is tied to actual board position. If you control the center AND both bishops are alive, the return jumps to 2.5脳. This is the only investment table you can actively influence during the match.
+  <strong>Only 10h+ players know:</strong> Bishop's Diagonal return rate is tied to actual board position. If you control the center AND both bishops are alive, the return jumps to 2.5x. This is the only investment table you can actively influence during the match.
 </div>
 
 ---
@@ -71,13 +71,13 @@ see_also:
 
 | Table | Return | Risk | Min Stock | Rating |
 |---|---|---|---|---|
-| **Gambler's Gambit** | 5脳 (20%) / 0 (80%) | Extreme | 20 | <span class="meta-badge meta-b">B</span> |
+| **Gambler's Gambit** | 5x (20%) / 0 (80%) | Extreme | 20 | <span class="meta-badge meta-b">B</span> |
 
 </div>
 
 <div class="meta-rating">
   <span class="meta-badge meta-b">B</span>
-  <span class="meta-label">5脳0.2 + 0脳0.8 = 1.0脳 expected return-exactly break-even. Only worth it for the high-roll dopamine. NEVER put more than 20% here.</span>
+  <span class="meta-label">5x0.2 + 0x0.8 = 1.0x expected return-exactly break-even. Only worth it for the high-roll dopamine. NEVER put more than 20% here.</span>
 </div>
 
 <hr class="section-divider">
@@ -122,7 +122,7 @@ see_also:
 
 | Mini-Game | Expected Value | Best Play | Skip If |
 |---|---|---|---|
-| **Pawn Lottery** | 1.5脳 bet | Bet exactly 37 stock | Stock below 50 |
+| **Pawn Lottery** | 1.5x bet | Bet exactly 37 stock | Stock below 50 |
 | **Gambit Auction** | Depends on bid | Bid only on S/A-tier Gambits | You're saving for boss |
 | **Tile Challenge** | +50 stock (win) / -0 (lose) | Play with expenable tiles | You need all tiles |
 
@@ -212,13 +212,13 @@ see_also:
 ## Stock Recovery-The 0-100 Guide
 
 <div class="callout callout-danger">
-  <strong>馃拃 LOST ALL YOUR STOCK? DON'T PANIC</strong><br>
+  <strong> LOST ALL YOUR STOCK? DON'T PANIC</strong><br>
   It happens to everyone. Here's the exact recovery sequence.
 </div>
 
 1. **Lose 1-2 easy matches intentionally**-resets your position to baseline
 2. **Buy ONLY common Gambits** (Teleport, Backstab max)-40 stock total
-3. **Farm 3-4 non-boss boards**-stick to 4脳4 for fast wins
+3. **Farm 3-4 non-boss boards**-stick to 4x4 for fast wins
 4. **Invest 80% in Safe Haven**-guaranteed returns rebuild your buffer
 5. **By run 5-6, you're back to 50+ stock**-resume normal strategy
 
@@ -235,5 +235,6 @@ see_also:
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
 

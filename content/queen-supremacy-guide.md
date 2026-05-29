@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Queen Supremacy Guide"
 description: "Gambonanza Queen supremacy guide for patch v1.1.0. When to deploy the Queen, 3 best Gambit combos, and a 4-step flowchart that wins games. Updated for patch v1.1.0."
 see_also:
@@ -32,11 +32,11 @@ Pair her with 1 Gambit. Win.
 
 | Board | Deploy on Turn | Why |
 |-------|-----------------|-----|
-| 4脳4 | 2-3 | Overkill, but Teleport combo ends game in 2 turns |
-| 5脳5 | 2-4 | Sweet spot-deploy early, stack Gambits |
-| 6脳6+ | 3-5 | Clear a lane first, then Queen takes over |
+| 4x4 | 2-3 | Overkill, but Teleport combo ends game in 2 turns |
+| 5x5 | 2-4 | Sweet spot-deploy early, stack Gambits |
+| 6x6+ | 3-5 | Clear a lane first, then Queen takes over |
 
-> **Rule:** Never turn 1 on 5脳5+. Deploy Knight/Bishop first to open a lane.
+> **Rule:** Never turn 1 on 5x5+. Deploy Knight/Bishop first to open a lane.
 
 <hr class="section-divider">
 
@@ -57,7 +57,7 @@ Pair her with 1 Gambit. Win.
 | 1 | Position Queen to threaten 2 pieces | Opponent must respond |
 | 2 | Capture the higher-value piece | Insurmountable advantage by turn 5 |
 
-**Stock cost:** High | **Best on:** 4脳4 (ends game in 3 turns)
+**Stock cost:** High | **Best on:** 4x4 (ends game in 3 turns)
 
 ---
 
@@ -73,9 +73,9 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 
 | Win Con | Setup Time | Gambits Needed | Difficulty |
 |---------|-------------|----------------|------------|
-| Back Rank Mate | 3-5 turns | 0-1 | 鈽呪槅?|
-| Diagonal Squeeze | 4-7 turns | 0 | 鈽呪槄?|
-| Fork Frenzy | 2-3 turns | 1-2 | 鈽呪槄?|
+| Back Rank Mate | 3-5 turns | 0-1 | ?|
+| Diagonal Squeeze | 4-7 turns | 0 | ?|
+| Fork Frenzy | 2-3 turns | 1-2 | ?|
 
 > **Fork Frenzy tip:** Check opponent's Gambits first. If they have Freeze or Swap, don't fork-your Queen becomes the trap.
 
@@ -123,5 +123,6 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 ---
 
 *Last updated: May 17, v1.1.0 | Version: v1.1.0*
+
 
 

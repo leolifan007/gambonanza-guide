@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Blitzking Boss Guide"
 description: "Blitzking gets 2 actions per turn. Use the Wasted-Turn strategy to beat him. 3-phase flowchart + Gambit counter table."
 see_also:
@@ -36,7 +36,7 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 |------|---------------------|-------------------|
 | 1 | Moves piece (aggressive) | Deploy Knight to center |
 | 2 | Moves piece again OR plays Gambit | Create a threat, don't overcommit |
-| 3+ | Pressure builds 2脳 normal | Force a defensive response |
+| 3+ | Pressure builds 2x normal | Force a defensive response |
 
 > **Key insight:** Blitzking's AI always addresses immediate threats first. Use this against him.
 
@@ -46,11 +46,11 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 
 | Gambit | Cost | Effect vs Blitzking |
 |--------|------|---------------------|
-| 馃 Freeze | Medium | Cancels 1 of his 2 actions. Equal turns. |
+|  Freeze | Medium | Cancels 1 of his 2 actions. Equal turns. |
 |-Early Check | Low | Forces 1-2 defensive actions. Wastes the turn. |
-| 馃搲 Board Shrink | Medium | 6脳6-4脳4. Extra moves matter less on small boards. |
-| 馃攧 Swap | Low-Med | Disrupts his setup. Low value but disruptive. |
-| 馃彞 Heal Board | Low | Only if he's using Crumble (~30% of runs). |
+|  Board Shrink | Medium | 6x6-4x4. Extra moves matter less on small boards. |
+|  Swap | Low-Med | Disrupts his setup. Low value but disruptive. |
+|  Heal Board | Low | Only if he's using Crumble (~30% of runs). |
 
 > **Must-have:** Freeze + Early Check. Everything else is optional.
 
@@ -91,14 +91,15 @@ Every forced defense = 1 wasted action. Force 2 defenses per turn and his advant
 
 | Piece | Why | Priority |
 |-------|-----|----------|
-| Knight | Fork threatens 2 at once = wastes both actions | 鈽呪槄?|
-| Rook | File control limits his movement options | 鈽呪槄?|
-| Queen | Only with Teleport/Double Move | 鈽呪槄?|
-| Bishop | Decent but slower than Knight | 鈽呪槅?|
-| Pawn | Too slow, avoid | 鈽嗏槅?|
+| Knight | Fork threatens 2 at once = wastes both actions | ?|
+| Rook | File control limits his movement options | ?|
+| Queen | Only with Teleport/Double Move | ?|
+| Bishop | Decent but slower than Knight | ?|
+| Pawn | Too slow, avoid | ?|
 
 ---
 
 *Last updated: May 17, v1.1.0 | Version: v1.1.0*
+
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Gambonanza Boss Strategy Guide v1.1.0-How to Beat Every Boss'
 description: 'Step-by-step Gambonanza boss strategies for patch v1.1.0. Phase-by-phase breakdowns, counter Gambits, and loadout recommendations for Jester, King of Spades, Blitzking, Queen of Hearts, and Grand Master. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
@@ -25,32 +25,32 @@ see_also:
 
 | Boss | Board Size | Core Mechanic | Difficulty | Recommended Gambit |
 |------|-----------|--------------|------------|-------------------|
-| The Jester | 4脳4 | Random piece swap | <span class='meta-badge meta-c'>C</span> | Anchor |
-| King of Spades | 5脳5 | Teleport swap | <span class='meta-badge meta-s'>S</span> | King Bind |
-| Blitzking | 5脳5 | Speed acceleration | <span class='meta-badge meta-a'>A</span> | Grid Lock |
-| Queen of Hearts | 6脳6 | Board reversal | <span class='meta-badge meta-a'>A</span> | Mirror |
-| Grand Master | 6脳6+ | Full-board pressure | <span class='meta-badge meta-s'>S</span> | King Bind + Anchor |
+| The Jester | 4x4 | Random piece swap | <span class='meta-badge meta-c'>C</span> | Anchor |
+| King of Spades | 5x5 | Teleport swap | <span class='meta-badge meta-s'>S</span> | King Bind |
+| Blitzking | 5x5 | Speed acceleration | <span class='meta-badge meta-a'>A</span> | Grid Lock |
+| Queen of Hearts | 6x6 | Board reversal | <span class='meta-badge meta-a'>A</span> | Mirror |
+| Grand Master | 6x6+ | Full-board pressure | <span class='meta-badge meta-s'>S</span> | King Bind + Anchor |
 
 ![Boss fight screenshot-piece positioning and Gambit selection](/images/screenshots/ss_1.jpg)
 *Jesper boss fight-note the Gambit slots and board layout*
 
-## 1. The Jester (4脳4)
+## 1. The Jester (4x4)
 
 ### Mechanic
 Every 4 turns, randomly swaps the position of one of your pieces with one of the opponent's.
 
 ### Strategy
-- Jester is weak on the 4脳4 board-punish him early
+- Jester is weak on the 4x4 board-punish him early
 - **Don't over-expand**: stick to a 3 offensive + 2 defensive piece ratio
 - **Anchor Gambit** significantly reduces swap damage
-- Rush the kill on 4脳4-do not let a second swap trigger
+- Rush the kill on 4x4-do not let a second swap trigger
 
 <div class='pro-tip'>
   <strong>Jester Secret</strong><br>
   Jester's first swap always happens on Turn 4. This is 100% predictable. Move your high-value pieces to safe positions on Turn 3, then go all-in after the swap. Free win.
 </div>
 
-## 2. King of Spades (5脳5)
+## 2. King of Spades (5x5)
 
 See the <a href='/king-of-spades-guide'>dedicated King of Spades guide</a> for full breakdown. Summary:
 
@@ -58,7 +58,7 @@ See the <a href='/king-of-spades-guide'>dedicated King of Spades guide</a> for f
 - <span class='meta-badge meta-s'>Game Changer</span> **King Bind** Gambit negates Teleport entirely
 - Best builds: Solid Control or Speed Push
 
-## 3. Blitzking (5脳5)
+## 3. Blitzking (5x5)
 
 ### Mechanic
 Every 2 turns triggers "Acceleration"-remaining turn count shrinks, opponent pieces move faster.
@@ -73,7 +73,7 @@ Every 2 turns triggers "Acceleration"-remaining turn count shrinks, opponent pie
   The most dangerous window is the 2 turns after Acceleration triggers. Do NOT attack during this window. Shore up defenses, wait for the speed penalty to expire, then counter.
 </div>
 
-## 4. Queen of Hearts (6脳6)
+## 4. Queen of Hearts (6x6)
 
 ### Mechanic
 Every 5 turns triggers "Reversal"-the board mirrors horizontally and vertically.
@@ -85,7 +85,7 @@ Every 5 turns triggers "Reversal"-the board mirrors horizontally and vertically.
 
 <span class='phase-tag'>Late</span> Queen of Hearts is a classic mid-to-late boss. Pure burst damage players struggle here.
 
-## 5. Grand Master (6脳6+)
+## 5. Grand Master (6x6+)
 
 ### Mechanic
 Full-board pressure: can place a level-5 piece anywhere on the board every turn, plus 2 Gambit activations.
@@ -98,12 +98,12 @@ Full-board pressure: can place a level-5 piece anywhere on the board every turn,
 | Route | Strategy | Difficulty |
 |-------|----------|------------|
 | Economy crush | Relic stacking + late burst | <span class='meta-badge meta-a'>A</span> |
-| Rush down | Full offense at 5脳5 stage | <span class='meta-badge meta-s'>S</span> |
+| Rush down | Full offense at 5x5 stage | <span class='meta-badge meta-s'>S</span> |
 | King snipe | Wait for expose window and execute | <span class='meta-badge meta-b'>B</span> |
 
 <div class='pro-tip'>
   <strong>Grand Master Ultimate Trick</strong><br>
-  GM's AI has a fixed pattern on the 6脳6 board: it always attacks your weakest column first. Bait this by placing a seemingly isolated Rook in that column. GM charges in-your Queen + Bishop crossfire picks it off instantly.
+  GM's AI has a fixed pattern on the 6x6 board: it always attacks your weakest column first. Bait this by placing a seemingly isolated Rook in that column. GM charges in-your Queen + Bishop crossfire picks it off instantly.
 </div>
 
 ## Universal Boss Tips
@@ -121,5 +121,6 @@ Full-board pressure: can place a level-5 piece anywhere on the board every turn,
   <div class='ad-label'>Advertisement</div>
   <div class='ad-placeholder'>Google AdSense</div>
 </div>
+
 
 

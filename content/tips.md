@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza Tips & Tricks (v1.1.0)-25 Pro Tips That Changed How I Play"
 description: "The best Gambonanza tips and tricks for patch v1.1.0. 25 pro tips from 100+ hours of gameplay, covering economy management, Gambit combos, boss patterns, and hidden mechanics. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-19'
@@ -66,7 +66,7 @@ Most players ignore Pawn promotion because Pawns seem weak. But a promoted Pawn 
 ## Hidden Mechanics (13-18)
 
 ### 13. Board Size Changes Everything
-4脳4, 6脳6, and 8脳8 boards have different meta strategies. What's S-tier on 6脳6 might be B-tier on 4脳4. Always check which board size you're playing before choosing your build.
+4x4, 6x6, and 8x8 boards have different meta strategies. What's S-tier on 6x6 might be B-tier on 4x4. Always check which board size you're playing before choosing your build.
 
 ### 14. The Reroll Economy
 Shop rerolls get more expensive each time (10-20-40-80 stock). The sweet spot is 2 rerolls per shop visit-enough to find good options without hemorrhaging stock. Never reroll more than 3 times.
@@ -121,5 +121,6 @@ Seriously. Don't stress about winning early. Use your first 5 runs to learn boss
   <div class='ad-label'>Advertisement</div>
   <div class='ad-placeholder'>Google AdSense</div>
 </div>
+
 
 

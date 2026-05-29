@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza FAQ (v1.1.0)-Real Answers to the Most Common Questions"
 description: "Gambonanza FAQ for patch v1.1.0. Real answers to the questions that actually trip players up-boss mechanics, Gambit combos, economy priorities, and hidden rules. Updated for patch v1.1.0."
 see_also:
@@ -13,7 +13,7 @@ see_also:
 ## The FAQ-What Players Actually Need to Know
 
 <div class="callout callout-verdict">
-  <strong>✅ THE VERDICT</strong><br>
+  <strong> THE VERDICT</strong><br>
   Most FAQ pages list obvious questions nobody asked. This one only includes stuff that REAL players get wrong-the kind of mistakes that cost runs. If you're stuck, the answer is probably here.
 </div>
 
@@ -38,14 +38,14 @@ see_also:
 
 | Board | Size | Match Duration | Best For |
 |---|---|---|---|
-| **4脳4 Blitz** | 16 squares | &lt;5 min | Learning mechanics |
-| **5脳5 Standard** | 25 squares | 5-10 min | Normal runs |
-| **6脳6 Tactical** | 36 squares | 15+ min | Advanced gambit play |
+| **4x4 Blitz** | 16 squares | &lt;5 min | Learning mechanics |
+| **5x5 Standard** | 25 squares | 5-10 min | Normal runs |
+| **6x6 Tactical** | 36 squares | 15+ min | Advanced gambit play |
 
 </div>
 
 <div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> 4脳4 boards don't just teach you the game-they're also the best economy farms. A fast 4脳4 win in under 3 minutes gives you the same stock reward as a 15-minute 6脳6 grind. Speed runners farm 4脳4 exclusively for stock.
+  <strong>Only 10h+ players know:</strong> 4x4 boards don't just teach you the game-they're also the best economy farms. A fast 4x4 win in under 3 minutes gives you the same stock reward as a 15-minute 6x6 grind. Speed runners farm 4x4 exclusively for stock.
 </div>
 
 ---
@@ -78,7 +78,7 @@ see_also:
 
 ### Is there multiplayer?
 
-Single-player only with boss AI. No multiplayer at launch-Gambonanza is designed as a solo roguelike experience. Developer Blukul茅l茅 has hinted at potential leaderboard features in future updates.
+Single-player only with boss AI. No multiplayer at launch-Gambonanza is designed as a solo roguelike experience. Developer Blukull has hinted at potential leaderboard features in future updates.
 
 <hr class="section-divider">
 
@@ -104,11 +104,11 @@ Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brain
 ### I bought a Legendary Gambit and lost. Why?
 
 <div class="callout callout-danger">
-  <strong>鈿狅笍 THE RARITY TRAP</strong><br>
+  <strong> THE RARITY TRAP</strong><br>
   <strong>Rarity-win rate.</strong> A Legendary (500 stock) that doesn't fit your build is worse than a Common (30 stock) that does. A well-placed Teleport (Common, 40 stock) beats any random Legendary that doesn't support your strategy. Buy what your deck needs, not what's expensive.
 </div>
 
-**The math:** A Common Gambit that synergizes with your build provides 2-3脳 value per turn. A Legendary that's anti-synergistic provides 0.5脳 value. Simple: synergy > price tag, always.
+**The math:** A Common Gambit that synergizes with your build provides 2-3x value per turn. A Legendary that's anti-synergistic provides 0.5x value. Simple: synergy > price tag, always.
 
 ---
 
@@ -143,7 +143,7 @@ Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brain
 ### I'm always broke. What am I doing wrong?
 
 <div class="callout callout-danger">
-  <strong>馃拃 THE BROKE PLAYER PROFILE</strong><br>
+  <strong> THE BROKE PLAYER PROFILE</strong><br>
   Exactly three things, in this order:
 </div>
 
@@ -215,7 +215,7 @@ Otherwise, always buy **at least 1 thing**. Even a cheap Common Gambit is better
 
 **For all other bosses:**
 <span class="meta-badge meta-b">OPTIONAL</span>
-<p>Not required, but they make the fight 2-3脳 easier. Worth grabbing if you see them in the shop.</p>
+<p>Not required, but they make the fight 2-3x easier. Worth grabbing if you see them in the shop.</p>
 
 </div>
 </div>
@@ -225,7 +225,7 @@ Otherwise, always buy **at least 1 thing**. Even a cheap Common Gambit is better
 ### I died to the same boss 5+ times. Help?
 
 <div class="callout callout-tip">
-  <strong>馃 THE PATTERN PROBLEM</strong><br>
+  <strong> THE PATTERN PROBLEM</strong><br>
   You're probably repeating the same mistake. Watch the boss's <strong>opening pattern.</strong> Every boss has a predictable first <strong>3 moves</strong>. Memorize them-then counter them specifically.
 </div>
 
@@ -273,7 +273,7 @@ If you like **Slay the Spire's** decision complexity or **Balatro's** "one more 
 ### System requirements?
 
 <div class="callout callout-tip">
-  <strong>馃捇 LIGHTWEIGHT</strong><br>
+  <strong> LIGHTWEIGHT</strong><br>
   Any modern PC with integrated graphics runs it fine. ~500MB storage. No dedicated GPU needed.
 </div>
 
@@ -281,14 +281,14 @@ If you like **Slay the Spire's** decision complexity or **Balatro's** "one more 
 
 ### Is the game still being updated?
 
-**Yes.** Launched May 1, v1.1.0. Developer Blukul茅l茅 has confirmed post-launch content updates-more Gambits, bosses, and possibly additional modes. The meta will shift.
+**Yes.** Launched May 1, v1.1.0. Developer Blukull has confirmed post-launch content updates-more Gambits, bosses, and possibly additional modes. The meta will shift.
 
 ---
 
 ### Where do I buy it?
 
 <div class="callout callout-verdict">
-  <strong>馃幃 STEAM EXCLUSIVE</strong><br>
+  <strong> STEAM EXCLUSIVE</strong><br>
   <a href="https://store.steampowered.com/app/3182810/">Gambonanza on Steam</a>-No console or mobile versions announced. Price: ~$10.99.
 </div>
 
@@ -324,6 +324,7 @@ Bookmark this guide. We update weekly as the community discovers new strategies,
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
 
 

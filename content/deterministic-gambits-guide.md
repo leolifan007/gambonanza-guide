@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza Deterministic Gambits (v1.1.0)-The Best Reliable Gambits Ranked"
 description: "Gambonanza deterministic Gambits guide for patch v1.1.0. Reliable Gambits ranked by consistency and cost efficiency-no RNG dice rolls. Which chance-based Gambits to skip entirely. Updated for patch v1.1.0."
 see_also:
@@ -11,7 +11,7 @@ see_also:
 ## Why Deterministic Gambits Win
 
 <div class="callout callout-verdict">
-  <strong>馃幉 THE PROBLEM WITH RNG</strong><br>
+  <strong> THE PROBLEM WITH RNG</strong><br>
   "Gambit 80% are 1/3 chance."-actual player complaint. Gambonanza is full of Gambits that sound amazing until they whiff at the worst possible moment. This guide ranks Gambits by one metric: <strong>reliability</strong>.
 </div>
 
@@ -74,7 +74,7 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 | Gambit | Cost | Why It's Risky |
 |--------|------|----------------|
 | **Knight's Jump** | 30 | 60% double / 40% lose half-+EV but variance kills runs |
-| **Gambler's Gambit** | 20 | 20% 5脳 / 80% nothing-break-even EV, feels bad when it misses |
+| **Gambler's Gambit** | 20 | 20% 5x / 80% nothing-break-even EV, feels bad when it misses |
 | **Jackpot Gambit** | 60 | Only works before bosses, still has a chance component |
 | **Free Roll** | 20 | Reroll is RNG itself-you might get worse options |
 
@@ -87,7 +87,7 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 ## C-Tier: Skip These
 
 <div class="callout callout-danger">
-  <strong>馃幉 TRAP GAMBITS</strong><br>
+  <strong> TRAP GAMBITS</strong><br>
   These sound good on paper but rely on RNG in ways that make them unreliable. Skip unless you're memeing.
 </div>
 
@@ -113,7 +113,7 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 </div>
 
 <div class="callout callout-tip">
-  <strong>馃搳 THE PRINCIPLE</strong><br>
+  <strong> THE PRINCIPLE</strong><br>
   Buy the deterministic S-Tier core first. Every time. Then fill from A-Tier. Only touch B-Tier or C-Tier when you have stock to burn. This single rule will increase your win rate more than any combo strategy.
 </div>
 
@@ -139,6 +139,7 @@ After this core, buy A-Tier depending on your build. B-Tier only as filler.
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
 
 

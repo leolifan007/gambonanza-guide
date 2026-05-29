@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gambonanza Pawn Promotion Guide v1.1.0-Don't Break Your Build When Pawns Evolve"
 description: "Gambonanza Pawn promotion guide for patch v1.1.0. When to promote, what to promote to, and how to keep your build intact when Pawns evolve. Avoid breaking relic synergies. Updated for patch v1.1.0."
 see_also:
@@ -72,7 +72,7 @@ Promotion in Gambonanza works differently than standard chess. It's not just abo
 ### Broken Loop (Promoted too early)
 - Pawn Gambits stop triggering
 - Stock income drops to shop visits only
-- You need to farm 4脳4 to recover
+- You need to farm 4x4 to recover
 - The Legendary Gambit you were saving for? Too late
 
 </div>
@@ -90,9 +90,9 @@ Promotion in Gambonanza works differently than standard chess. It's not just abo
   <table>
     <thead><tr><th>Board Size</th><th>Recommendation</th><th>Why</th></tr></thead>
     <tbody>
-      <tr><td>4脳4</td><td><strong>Bishop</strong></td><td>Diagonals cover a huge % of the board</td></tr>
-      <tr><td>6脳6</td><td><strong>Knight</strong></td><td>Versatile attacker, hard to block</td></tr>
-      <tr><td>8脳8</td><td><strong>Queen or Bishop</strong></td><td>Queen dominates open boards, Bishop for closed ones</td></tr>
+      <tr><td>4x4</td><td><strong>Bishop</strong></td><td>Diagonals cover a huge % of the board</td></tr>
+      <tr><td>6x6</td><td><strong>Knight</strong></td><td>Versatile attacker, hard to block</td></tr>
+      <tr><td>8x8</td><td><strong>Queen or Bishop</strong></td><td>Queen dominates open boards, Bishop for closed ones</td></tr>
     </tbody>
   </table>
 </div>
@@ -134,7 +134,7 @@ A practical rule of thumb for sustainability:
 <hr class="section-divider">
 
 <div class="pro-tip">
-  <strong>馃 Long run mindset</strong><br>
+  <strong> Long run mindset</strong><br>
   Games that go 30+ turns are won by players who kept their economy intact. The player who promotes 4 pawns by turn 20 might look strong-but the player who kept 2 pawns as pawns, invested in Safe Haven, and bought Teleport + Backstab is sitting on 200+ stock at turn 30. Who wins? The stock.
 </div>
 
@@ -146,5 +146,6 @@ A practical rule of thumb for sustainability:
 ---
 
 *Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+
 
 
