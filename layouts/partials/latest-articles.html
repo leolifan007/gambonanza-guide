@@ -1,5 +1,5 @@
 {{/* Auto-generated latest articles section */}}
-{{- $pages := where .Site.RegularPages "Section" "content" -}}
+{{- $pages := .Site.RegularPages -}}
 {{- $pages = where $pages "Params.hidden" "ne" true -}}
 {{- $sorted := sort $pages "Lastmod" "desc" -}}
 {{- $latest := first 12 $sorted -}}

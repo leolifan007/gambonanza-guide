@@ -36,9 +36,7 @@ jobs:
           extended: false
 
       - name: Auto-publish hidden articles
-        run: |
-          chmod +x .github/scripts/auto-publish.sh
-          bash .github/scripts/auto-publish.sh
+        run: python3 .github/scripts/auto-publish.py
 
       - name: Rebuild site with Hugo
         run: hugo --minify
