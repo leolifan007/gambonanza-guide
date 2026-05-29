@@ -1,6 +1,9 @@
 name: 内容自动发布
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # 模拟人工发布：非整点随机时间
     - cron: '11 1 * * 1-5'       # 09:11 CST (01:11 UTC) 周一至周五
