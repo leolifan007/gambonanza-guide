@@ -1,5 +1,5 @@
 ﻿---
-title: "Gambonanza Strategy Guide v1.1.0-Advanced Tips & Meta Builds Ranked"
+title: "Gambonanza Strategy Guide v1.1.0 - S-Tier Builds & Pro Tactics (Win Rate Proven)"
 description: "Proven Gambonanza strategies with Meta Ratings for patch v1.1.0. Three S/A/B opening builds, exact Gambit combos, deck composition math, and endgame checkmate patterns. Updated for patch v1.1.0."
 see_also:
   - title: 'Endgame Killer Tips'
