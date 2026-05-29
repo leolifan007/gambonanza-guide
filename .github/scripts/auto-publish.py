@@ -9,7 +9,7 @@ import re
 import subprocess
 from datetime import datetime, timezone, timedelta
 
-REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REPO_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 CONTENT_DIR = os.path.join(REPO_DIR, "content")
 TZ_CN = timezone(timedelta(hours=8))
 TODAY = datetime.now(TZ_CN).strftime("%Y-%m-%d")
