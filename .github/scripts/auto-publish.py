@@ -23,8 +23,13 @@ def parse_front_matter(text):
     return match.group(1), text[match.end():]
 
 
-def unhide_article(filepath):
-    """Remove hidden: true and publishDate from article."""
+def unhide_article(filepath, publish_date_str):
+    """Remove hidden: true and publishDate from article.
+    Ensure date field exists, update lastmod.
+    Returns True if article was modified."""
+    from datetime import datetime
+    now = datetime.now(TZ_CN)
+    
     with open(filepath, 'r', encoding='utf-8') as f:
         text = f.read()
 
@@ -35,19 +40,71 @@ def unhide_article(filepath):
     lines = fm_raw.split('\n')
     new_lines = []
     changed = False
+    has_date = False
+    
     for line in lines:
+        stripped = line.strip()
+        
+        # Check if date field already exists (in any format)
+        if re.match(r'^date:\s', line):
+            has_date = True
+        
+        # Remove hidden: true
         if re.match(r'^hidden:\s*true\s*$', line):
             changed = True
-            continue  # remove this line
+            continue
+        
+        # Remove publishDate
         if re.match(r'^publishDate:\s*.+$', line):
             changed = True
-            continue  # remove this line
+            continue
+        
+        # Remove any draft: true field
+        if re.match(r'^draft:\s*true\s*$', line):
+            changed = True
+            continue
+        
         new_lines.append(line)
-
-    if not changed:
+    
+    if not changed and has_date:
         return False
-
-    new_fm = '\n'.join(new_lines).strip()
+    
+    # If no date field, add one using publishDate
+    if not has_date:
+        # Use the publish date (which we just removed) or today as fallback
+        date_val = publish_date_str if publish_date_str else now.strftime("%Y-%m-%d")
+        # Add after the description line, or at the top of front matter
+        date_line = f'date: "{date_val}"'
+        # Add lastmod as well
+        lastmod_line = f'lastmod: "{now.strftime("%Y-%m-%dT%H:%M:%S+08:00")}"'
+        # Insert right after the second --- (end of what will be the new front matter header)
+        # Actually insert between the last existing front matter line and the body
+        # We rebuild the whole front matter
+        new_fm = '\n'.join(new_lines).strip()
+        # Check if lastmod already exists
+        has_lastmod = False
+        for line in new_lines:
+            if re.match(r'^lastmod:\s', line):
+                has_lastmod = True
+                break
+        
+        if not has_lastmod:
+            new_fm = new_fm + '\n' + lastmod_line
+        new_fm = new_fm + '\n' + date_line
+    else:
+        # Update lastmod if it exists, add if not
+        new_fm_lines = []
+        has_lastmod = False
+        for line in new_lines:
+            if re.match(r'^lastmod:\s', line):
+                has_lastmod = True
+                new_fm_lines.append(f'lastmod: "{now.strftime("%Y-%m-%dT%H:%M:%S+08:00")}"')
+            else:
+                new_fm_lines.append(line)
+        if not has_lastmod:
+            new_fm_lines.append(f'lastmod: "{now.strftime("%Y-%m-%dT%H:%M:%S+08:00")}"')
+        new_fm = '\n'.join(new_fm_lines).strip()
+    
     new_text = f"---\n{new_fm}\n---\n{body}"
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(new_text)
@@ -83,7 +140,8 @@ def main():
 
         # Ready to publish
         print(f"[auto-publish] Publishing: {fname}")
-        if unhide_article(fpath):
+        pub_str = m.group(1)  # The publishDate value
+        if unhide_article(fpath, pub_str):
             published.append(fname)
 
     if not published:

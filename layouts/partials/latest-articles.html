@@ -1,43 +1,86 @@
-{{/* Auto-generated latest articles section */}}
-{{- $pages := .Site.RegularPages -}}
-{{- $pages = where $pages "Params.hidden" "ne" true -}}
-{{- $sorted := sort $pages "Lastmod" "desc" -}}
+{{/* Auto-generated latest articles section - used via {{ partial "latest-articles.html" . }} in index.html */}}
+{{- $pages := where .Site.RegularPages "Params.hidden" "ne" true -}}
+
+{{/* Sort by front matter date descending. Fallback to Lastmod if date is missing. */}}
+{{- $sorted := slice -}}
+{{- range $pages -}}
+  {{- $sortVal := .Params.date -}}
+  {{- if not $sortVal -}}
+    {{- $sortVal = .Lastmod -}}
+  {{- end -}}
+  {{- $sorted = $sorted | append (dict "Page" . "SortVal" $sortVal) -}}
+{{- end -}}
+
+{{- $sorted = sort $sorted "SortVal" "desc" -}}
 {{- $latest := first 12 $sorted -}}
 
-{{- range $page := $latest -}}
-{{- $url := .RelPermalink -}}
-{{- $title := .Title -}}
-{{- $desc := .Description -}}
-{{- $lastmodDate := .Lastmod.Format "Jan 2" -}}
-{{- $daysSinceMod := 0 -}}
-{{- if .Lastmod.Unix -}}
-  {{- $daysSinceMod = div (sub now.Unix .Lastmod.Unix) 86400 -}}
+{{- range $item := $latest -}}
+{{- $page := $item.Page -}}
+{{- $url := $page.RelPermalink -}}
+{{- $title := $page.Title -}}
+{{- $desc := $page.Description -}}
+
+{{/* Get the display date from front matter */}}
+{{- $displayDate := "" -}}
+{{- if $page.Params.date -}}
+  {{- $displayDate = time.Format "Jan 2" $page.Params.date -}}
+{{- else if $page.Lastmod -}}
+  {{- $displayDate = time.Format "Jan 2" $page.Lastmod -}}
 {{- end -}}
-{{- $isNew := false -}}
-{{- if le $daysSinceMod 10 -}}
-  {{- $isNew = true -}}
+
+{{/* NEW badge: within 14 days of date (or lastmod if no date) */}}
+{{- $refDate := time.Now.Unix -}}
+{{- $artDate := $page.Lastmod.Unix -}}
+{{- if $page.Params.date -}}
+  {{- $artDate = (time.AsTime $page.Params.date).Unix -}}
 {{- end -}}
+{{- $daysOld := div (sub $refDate $artDate) 86400 -}}
+{{- $isNew := le $daysOld 14 -}}
+
+{{/* Category from front matter or fallback detection */}}
 {{- $category := "Strategy" -}}
-{{- with .Params.see_also -}}
-  {{- range first 1 . -}}
-    {{- if in .url "boss" -}}
-      {{- $category = "Boss" -}}
-    {{- else if in .url "economy" -}}
-      {{- $category = "Economy" -}}
-    {{- else if in .url "gambit" -}}
-      {{- $category = "Gambits" -}}
-    {{- else if in .url "piece" -}}
-      {{- $category = "Pieces" -}}
-    {{- else if in .url "crumble" -}}
-      {{- $category = "Mechanics" -}}
-    {{- end -}}
+{{- with $page.Params.category -}}
+  {{- $catLower := lower . -}}
+  {{- if in $catLower "boss" -}}
+    {{- $category = "Boss" -}}
+  {{- else if in $catLower "economy" -}}
+    {{- $category = "Economy" -}}
+  {{- else if in $catLower "gambit" -}}
+    {{- $category = "Gambits" -}}
+  {{- else if in $catLower "piece" -}}
+    {{- $category = "Pieces" -}}
+  {{- else if in $catLower "strategy" -}}
+    {{- $category = "Strategy" -}}
+  {{- else if in $catLower "beginner" -}}
+    {{- $category = "Beginner" -}}
+  {{- else -}}
+    {{- $category = $page.Params.category -}}
+  {{- end -}}
+{{- else -}}
+  {{/* Fallback: detect from URL */}}
+  {{- if in $page.File.Path "boss" -}}
+    {{- $category = "Boss" -}}
+  {{- else if in $page.File.Path "economy" -}}
+    {{- $category = "Economy" -}}
+  {{- else if in $page.File.Path "gambit" -}}
+    {{- $category = "Gambits" -}}
+  {{- else if in $page.File.Path "piece" -}}
+    {{- $category = "Pieces" -}}
+  {{- else if in $page.File.Path "crumble" -}}
+    {{- $category = "Mechanics" -}}
+  {{- else if in $page.File.Path "pawn" -}}
+    {{- $category = "Mechanics" -}}
+  {{- else if in $page.File.Path "tile" -}}
+    {{- $category = "Strategy" -}}
+  {{- else if in $page.File.Path "seed" -}}
+    {{- $category = "Seeds" -}}
   {{- end -}}
 {{- end -}}
       <a href="{{ $url }}" class="latest-article-card">
 {{- if $isNew -}}
         <span class="new-badge">NEW</span>
 {{- end -}}
-        <div class="latest-article-meta"><span class="phase-tag phase-mid">{{ $category }}</span><span class="date-badge">{{ $lastmodDate }}</span></div>
+        <div class="latest-article-meta"><span class="phase-tag phase-mid">{{ $category }}</span><span class="date-badge">{{ $displayDate }}</span></div>
         <h3>{{ $title }}</h3>
         <p>{{ $desc }}</p>
       </a>
