@@ -21,6 +21,9 @@ category: "beginner"
 | Wrong positioning | 8/10 players | Medium | -20% |
 | Ignoring board size | 7/10 players | Easy | -15% |
 
+
+<img src="/images/guides/mistake-boss-prepare.svg" alt="Boss Fight Stock Mistake: Low stock (45) entering boss = 31% win rate, High stock (50+) = 72% win rate. Never enter boss with less than 50 stock." />
+
 ## Mistake #1: The One More Gambit Trap (Most Common)
 
 You have 45 stock. A boss fight is coming. One more Gambit roll... and you are broke.

@@ -23,6 +23,9 @@ category: "gambits"
 
 **Core mechanic:** Enigmas Gambit triggers when your opponent activates a Gambit OR when a specific trigger condition is met (depends on your Enigmas variant). It then replays the last Gambit YOU activated at no stock cost.
 
+
+<img src="/images/guides/enigmas-copy-chain.svg" alt="Enigmas Copy Chain Infinite Loop: Gambit A activated on turn 1, Enigmas copies it on turn 2 for free, double suppression applied turn 3, loop self-sustains" />
+
 ## Why Enigmas Is S-Tier
 
 Most players skip Enigmas because the description is confusing. Copy the last activated Gambit? When? How? The uncertainty makes people pick straightforward Gambits instead.

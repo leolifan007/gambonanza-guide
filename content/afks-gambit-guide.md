@@ -23,6 +23,9 @@ category: "gambits"
 
 **Core mechanic:** Afk's Gambit triggers at the START of your turn for each eligible idle piece. A piece is idle if it didn't move on your previous turn. The more idle pieces, the more stock.
 
+
+<img src="/images/guides/afk-gambit-idle-diagram.svg" alt="Afk Gambit Idle Economy Diagram: Workers (Knight+Bishop) move every turn, Idlers (Rook+King) stay still generating stock, Support Gambits amplify gains" />
+
 ## What IS Afk's Gambit?
 
 Most Gambits reward you for DOING things - moving pieces, capturing opponent pieces, activating combos. Afk's Gambit flips this on its head. It rewards you for NOT moving.

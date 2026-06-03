@@ -23,6 +23,9 @@ category: "pieces"
 
 **Core principle:** The Rook is not a frontline fighter. It is a suppression engine. If you place the Rook to directly attack the opponent, you are using it wrong. The Rook's job is to control columns, not to capture pieces.
 
+
+<img src="/images/guides/rook-column-control.svg" alt="Rook Column Control Strategy: Position Rook on column 2/3, suppress opponent with column zone, profit from Column Gambits for 65% win rate" />
+
 ## Why the Rook Build Works
 
 Most players treat the Rook like a heavy hitter - move it forward, attack the opponent's pieces, hope for big value. This is why most Rook builds fail.

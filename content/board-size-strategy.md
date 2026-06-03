@@ -23,6 +23,9 @@ category: "strategy"
 
 **The golden rule:** The smaller the board, the more aggressive you need to play. On 4x4, a passive opening loses you the game by turn 5. On 8x8, being too aggressive leaves you broke by turn 10.
 
+
+<img src="/images/guides/board-size-comparison.svg" alt="Board Size Strategy Comparison: 4x4 aggressive Knight Rush 62% win rate 8-12 turns, 6x6 balanced Rook Control 65% win rate 12-18 turns, 8x8 economy Queen Supremacy 72% win rate 18-30 turns" />
+
 ## 4x4 Board: Speed Chess
 
 ### Characteristics
