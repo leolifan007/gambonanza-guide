@@ -23,10 +23,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7551387157478980" crossorigin="anonymous"></script>
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
+  <!-- Adsterra ads loaded via partials/ads.html -->
   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
@@ -46,5 +43,7 @@
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer" . }}
+  <!-- Adsterra Social Bar -->
+  <script src="https://pl29630345.effectivecpmnetwork.com/98/47/84/9847842fcd70248d47188a5263db471e.js"></script>
 </body>
 </html>
