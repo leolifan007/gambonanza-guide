@@ -1,17 +1,26 @@
 {{/* Auto-generated latest articles section - used via {{ partial "latest-articles.html" . }} in index.html */}}
-{{- $pages := where .Site.RegularPages "Params.hidden" "ne" true -}}
+{{/* Show up to 12 latest articles, sorted by date descending. Exclude hidden/draft. */}}
 
-{{/* Sort by front matter date descending. Fallback to Lastmod if date is missing. */}}
+{{- $pages := .Site.RegularPages -}}
+
+{{/* Exclude draft pages */ -}}
+{{- $pages = where $pages "Draft" "==" false -}}
+
+{{/* Exclude pages with hidden: true (skip if field missing) */ -}}
+{{- $pages = where $pages "Params.hidden" "!=" true -}}
+
+{{/* Build sorted slice by date (use .Date, fallback to Lastmod) */ -}}
 {{- $sorted := slice -}}
 {{- range $pages -}}
-  {{- $sortVal := .Params.date -}}
-  {{- if not $sortVal -}}
-    {{- $sortVal = .Lastmod -}}
+  {{- $sortDate := .PublishDate -}}
+  {{- if not $sortDate.IsZero -}}
+    {{- $sorted = $sorted | append (dict "Page" . "SortDate" $sortDate) -}}
+  {{- else -}}
+    {{- $sorted = $sorted | append (dict "Page" . "SortDate" .Lastmod) -}}
   {{- end -}}
-  {{- $sorted = $sorted | append (dict "Page" . "SortVal" $sortVal) -}}
 {{- end -}}
 
-{{- $sorted = sort $sorted "SortVal" "desc" -}}
+{{- $sorted = sort $sorted "SortDate" "desc" -}}
 {{- $latest := first 12 $sorted -}}
 
 {{- range $item := $latest -}}
@@ -20,61 +29,34 @@
 {{- $title := $page.Title -}}
 {{- $desc := $page.Description -}}
 
-{{/* Get the display date from front matter */}}
+{{/* Display date */}}
 {{- $displayDate := "" -}}
-{{- if $page.Params.date -}}
-  {{- $displayDate = time.Format "Jan 2" $page.Params.date -}}
-{{- else if $page.Lastmod -}}
+{{- if not $page.Date.IsZero -}}
+  {{- $displayDate = time.Format "Jan 2" $page.Date -}}
+{{- else -}}
   {{- $displayDate = time.Format "Jan 2" $page.Lastmod -}}
 {{- end -}}
 
-{{/* NEW badge: within 14 days of date (or lastmod if no date) */}}
-{{- $refDate := time.Now.Unix -}}
-{{- $artDate := $page.Lastmod.Unix -}}
-{{- if $page.Params.date -}}
-  {{- $artDate = (time.AsTime $page.Params.date).Unix -}}
-{{- end -}}
-{{- $daysOld := div (sub $refDate $artDate) 86400 -}}
+{{/* NEW badge: within 14 days */}}
+{{- $daysOld := div (sub now.Unix $item.SortDate.Unix) 86400 -}}
 {{- $isNew := le $daysOld 14 -}}
 
-{{/* Category from front matter or fallback detection */}}
+{{/* Category detection */}}
 {{- $category := "Strategy" -}}
 {{- with $page.Params.category -}}
   {{- $catLower := lower . -}}
-  {{- if in $catLower "boss" -}}
-    {{- $category = "Boss" -}}
-  {{- else if in $catLower "economy" -}}
-    {{- $category = "Economy" -}}
-  {{- else if in $catLower "gambit" -}}
-    {{- $category = "Gambits" -}}
-  {{- else if in $catLower "piece" -}}
-    {{- $category = "Pieces" -}}
-  {{- else if in $catLower "strategy" -}}
-    {{- $category = "Strategy" -}}
-  {{- else if in $catLower "beginner" -}}
-    {{- $category = "Beginner" -}}
-  {{- else -}}
-    {{- $category = $page.Params.category -}}
-  {{- end -}}
+  {{- if in $catLower "boss" -}}{{- $category = "Boss" -}}
+  {{- else if in $catLower "economy" -}}{{- $category = "Economy" -}}
+  {{- else if in $catLower "gambit" -}}{{- $category = "Gambits" -}}
+  {{- else if in $catLower "piece" -}}{{- $category = "Pieces" -}}
+  {{- else if in $catLower "beginner" -}}{{- $category = "Beginner" -}}
+  {{- else -}}{{- $category = . -}}{{- end -}}
 {{- else -}}
-  {{/* Fallback: detect from URL */}}
-  {{- if in $page.File.Path "boss" -}}
-    {{- $category = "Boss" -}}
-  {{- else if in $page.File.Path "economy" -}}
-    {{- $category = "Economy" -}}
-  {{- else if in $page.File.Path "gambit" -}}
-    {{- $category = "Gambits" -}}
-  {{- else if in $page.File.Path "piece" -}}
-    {{- $category = "Pieces" -}}
-  {{- else if in $page.File.Path "crumble" -}}
-    {{- $category = "Mechanics" -}}
-  {{- else if in $page.File.Path "pawn" -}}
-    {{- $category = "Mechanics" -}}
-  {{- else if in $page.File.Path "tile" -}}
-    {{- $category = "Strategy" -}}
-  {{- else if in $page.File.Path "seed" -}}
-    {{- $category = "Seeds" -}}
-  {{- end -}}
+  {{- if in $page.File.Path "boss" -}}{{- $category = "Boss" -}}
+  {{- else if in $page.File.Path "economy" -}}{{- $category = "Economy" -}}
+  {{- else if in $page.File.Path "gambit" -}}{{- $category = "Gambits" -}}
+  {{- else if in $page.File.Path "piece" -}}{{- $category = "Pieces" -}}
+  {{- else if in $page.File.Path "beginner" -}}{{- $category = "Beginner" -}}{{- end -}}
 {{- end -}}
       <a href="{{ $url }}" class="latest-article-card">
 {{- if $isNew -}}
