@@ -17,18 +17,28 @@ jobs:
   content-release:
     runs-on: ubuntu-latest
     steps:
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
       - name: Checkout content-polishing branch
         uses: actions/checkout@v4
         with:
           ref: content-polishing
           fetch-depth: 0
 
-      - name: Sync with main
+      - name: Sync branches
         run: |
           git config user.name "Gambonan Bot"
           git config user.email "bot@gambonanzaguide.com"
           git fetch origin main
-          git merge origin/main --no-edit || { echo "::error::Merge conflict with main — manual fix required"; exit 1; }
+          # Try merge main into content-polishing; if diverged, rebase instead
+          if ! git merge origin/main --no-edit 2>/dev/null; then
+            echo "Branches diverged, rebasing content-polishing onto main..."
+            git merge --abort
+            git rebase origin/main || { echo "::error::Rebase failed — manual fix required"; exit 1; }
+          fi
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
