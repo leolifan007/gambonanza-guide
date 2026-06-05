@@ -1,8 +1,8 @@
 ---
 title: "Afk's Gambit Explained - How to Farm 40 Stock Per Turn (Full Guide)"
 description: "Afk's Gambit is one of the most misunderstood Gambits in Gambonanza. Full guide on how it works, the exact conditions for 40 stock per turn, and the builds that make it S-Tier."
-date: "2026-06-07"
-lastmod: "2026-06-07T10:00:00+08:00"
+date: "2026-06-05"
+lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
 category: "gambits"
 ---

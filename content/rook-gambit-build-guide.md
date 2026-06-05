@@ -1,8 +1,8 @@
 ---
 title: "Best Rook Build - Turn Rook Control Into 65% Wins (Full Build Guide)"
 description: "The Rook Gambit build has 65% win rate on 6x6. Full guide with piece setup, gambit loadout, board positioning, and how to transition when the Rook falls."
-date: "2026-06-06"
-lastmod: "2026-06-06T10:00:00+08:00"
+date: "2026-06-05"
+lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
 category: "pieces"
 ---

@@ -1,8 +1,8 @@
 ---
 title: "10 Gambonanza Mistakes That Cost You Runs (And How to Fix Them)"
 description: "The 10 most common Gambonanza mistakes that lose games. From overspending to wrong piece positioning, with exact fixes for each. Stop throwing runs today."
-date: "2026-06-12"
-lastmod: "2026-06-12T10:00:00+08:00"
+date: "2026-06-05"
+lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
 category: "beginner"
 ---

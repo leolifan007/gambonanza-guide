@@ -1,8 +1,8 @@
 ---
 title: "Enigmas Gambit - The Hidden S-Tier Gambit Most Players Miss (Complete Guide)"
 description: "Enigmas Gambit is secretly S-Tier in Gambonanza v1.1.0. How it works, the 3 builds that abuse it, relic synergies, and why it has a 72% win rate when paired correctly."
-date: "2026-06-08"
-lastmod: "2026-06-08T10:00:00+08:00"
+date: "2026-06-05"
+lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
 category: "gambits"
 ---

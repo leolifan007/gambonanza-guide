@@ -1,8 +1,8 @@
 ---
 title: "Gambonanza Board Size Guide - How 4x4 vs 6x6 vs 8x8 Changes Your Strategy"
 description: "The board size changes EVERYTHING in Gambonanza. Guide to how 4x4, 6x6, and 8x8 boards affect your build, Gambit picks, economy pacing, and win conditions."
-date: "2026-06-10"
-lastmod: "2026-06-10T10:00:00+08:00"
+date: "2026-06-05"
+lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
 category: "strategy"
 ---
