@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="100%" height="auto" style="max-width:640px;display:block;margin:0 auto">
+<defs>
+  <filter id="g"><feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.5"/></filter>
+  <filter id="s"><feDropShadow dx="1" dy="1.5" stdDeviation="1.5" flood-color="#000" flood-opacity="0.6"/></filter>
+  <style>
+    .bg{fill:#120812}.cl{fill:#2A1420}.cd{fill:#1C0A14}.hl{fill:#142E1A}
+    .sl{font:10px 'Segoe UI',monospace;fill:#C08870;text-anchor:middle;dominant-baseline:central}
+    .pw{font:28px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#F0E0CC}
+    .pb{font:28px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#D44030}
+    .pk{font:28px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#F0C040}
+    .l{font:15px Tahoma,sans-serif;fill:#E0D0C0}
+    .ls{font:11.5px Tahoma,sans-serif;fill:#B08070}
+    .tl{font:13px Tahoma,sans-serif;fill:#C09050;font-weight:700}
+    .ho{fill:none;stroke:#60B040;stroke-width:2.5;stroke-dasharray:5,3}
+  </style>
+</defs>
+<rect class="bg" width="640" height="420" rx="8" filter="url(#g)"/>
+<text x="320" y="48" class="l" font-size="16" text-anchor="middle" font-weight="700">King of Spades — Fortress Strategy</text>
+<text x="320" y="66" class="ls" text-anchor="middle">Tight defensive formation; bait the boss into attacking your wall</text>
+
+<text x="145" y="90" class="tl" text-anchor="middle">Fortress Formation</text>
+<g transform="translate(20,98)">
+<rect x="0" y="0" width="48" height="48" class="cl" rx="4"/><rect x="48" y="0" width="48" height="48" class="cd" rx="4"/><rect x="96" y="0" width="48" height="48" class="cl" rx="4"/><rect x="144" y="0" width="48" height="48" class="cd" rx="4"/><rect x="192" y="0" width="48" height="48" class="cl" rx="4"/>
+<rect x="0" y="48" width="48" height="48" class="cd" rx="4"/><rect x="48" y="48" width="48" height="48" class="cl" rx="4"/><rect x="96" y="48" width="48" height="48" class="cd hl" rx="4"/><rect x="144" y="48" width="48" height="48" class="cl" rx="4"/><rect x="192" y="48" width="48" height="48" class="cd" rx="4"/>
+<rect x="0" y="96" width="48" height="48" class="cl" rx="4"/><rect x="48" y="96" width="48" height="48" class="cd hl" rx="4"/><rect x="96" y="96" width="48" height="48" class="cl hl" rx="4"/><rect x="144" y="96" width="48" height="48" class="cd hl" rx="4"/><rect x="192" y="96" width="48" height="48" class="cl" rx="4"/>
+<rect x="0" y="144" width="48" height="48" class="cd" rx="4"/><rect x="48" y="144" width="48" height="48" class="cl" rx="4"/><rect x="96" y="144" width="48" height="48" class="cd hl" rx="4"/><rect x="144" y="144" width="48" height="48" class="cl" rx="4"/><rect x="192" y="144" width="48" height="48" class="cd" rx="4"/>
+<rect x="0" y="192" width="48" height="48" class="cl" rx="4"/><rect x="48" y="192" width="48" height="48" class="cd" rx="4"/><rect x="96" y="192" width="48" height="48" class="cl" rx="4"/><rect x="144" y="192" width="48" height="48" class="cd" rx="4"/><rect x="192" y="192" width="48" height="48" class="cl" rx="4"/>
+<rect x="99" y="99" width="42" height="42" class="ho" rx="2"/><rect x="51" y="99" width="42" height="42" class="ho" rx="2"/><rect x="147" y="99" width="42" height="42" class="ho" rx="2"/><rect x="99" y="51" width="42" height="42" class="ho" rx="2"/><rect x="99" y="147" width="42" height="42" class="ho" rx="2"/>
+<text x="24" y="25" class="pw" font-size="28">&#x265C;</text>
+<text x="72" y="73" class="pw" font-size="28">&#x265F;</text>
+<text x="168" y="73" class="pw" font-size="28">&#x265F;</text>
+<text x="24" y="217" class="pw" font-size="28">&#x265F;</text>
+<text x="216" y="217" class="pw" font-size="28">&#x265F;</text>
+<text x="120" y="217" class="pw" font-size="28">&#x265F;</text>
+<text x="216" y="25" class="pw" font-size="28">&#x265E;</text>
+<text x="120" y="121" class="pk" font-size="28">&#x2654;</text>
+<text x="120" y="169" class="pw" font-size="28">&#x265D;</text>
+<text x="120" y="25" class="pb" font-size="28">&#x2654;</text>
+<text x="24" y="121" class="pb" font-size="28">&#x265E;</text>
+<text x="168" y="217" class="pb" font-size="28">&#x265D;</text>
+<text x="72" y="217" class="pb" font-size="28">&#x265C;</text>
+</g>
+<text x="44" y="88" font-size="11" font-family="Tahoma,sans-serif" fill="#C08870" text-anchor="middle">a</text>
+<text x="92" y="88" font-size="11" font-family="Tahoma,sans-serif" fill="#C08870" text-anchor="middle">b</text>
+<text x="140" y="88" font-size="11" font-family="Tahoma,sans-serif" fill="#C08870" text-anchor="middle">c</text>
+<text x="188" y="88" font-size="11" font-family="Tahoma,sans-serif" fill="#C08870" text-anchor="middle">d</text>
+<text x="236" y="88" font-size="11" font-family="Tahoma,sans-serif" fill="#C08870" text-anchor="middle">e</text>
+<text x="16" y="122" font-size="11" font-family="Tahoma,sans-serif" fill="#C08870" text-anchor="middle">5</text>
+<text x="16" y="170" font-size="11" font-family="Tahoma,sans-serif" fill="#C08870" text-anchor="middle">4</text>
+<text x="16" y="218" font-size="11" font-family="Tahoma,sans-serif" fill="#C08870" text-anchor="middle">3</text>
+<text x="16" y="266" font-size="11" font-family="Tahoma,sans-serif" fill="#C08870" text-anchor="middle">2</text>
+<text x="16" y="314" font-size="11" font-family="Tahoma,sans-serif" fill="#C08870" text-anchor="middle">1</text>
+
+<text x="320" y="368" class="l" text-anchor="middle">King anchors c3 protected by pawns + bishop on all sides</text>
+<text x="320" y="392" class="ls" text-anchor="middle">Boss teleports into dangerous positions attacking your wall</text>
+</svg>
