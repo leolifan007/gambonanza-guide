@@ -3,11 +3,10 @@ title: "5 Mistakes Keeping Your Win Rate Below 30% (Fix These Now)"
 description: "I was stuck at 30% win rate for 150 hours. These 5 mistakes were holding me back. After fixing them, I win 7 out of 10 runs. Player experience with exact before/after data."
 date: "2026-06-13"
 lastmod: "2026-06-13T09:11:00+08:00"
-publishDate: "2026-06-13"
-hidden: true
 version: "1.1.0"
 category: "strategy"
 ---
+
 
 # Stop Making These 5 Mistakes - How I Went From Stuck to Winning Every Run
 

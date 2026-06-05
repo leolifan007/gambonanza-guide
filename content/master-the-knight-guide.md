@@ -3,11 +3,10 @@ title: "Master the Knight: The Most Underrated Piece in Gambonanza (Pro Tips)"
 description: "The Knight is Gambonanza's most versatile piece. Most players ignore it. After 300 hours, I can show you exactly how a single Knight can carry your entire run. Movement patterns, Gambit combos, and positioning secrets."
 date: "2026-06-10"
 lastmod: "2026-06-10T09:11:00+08:00"
-publishDate: "2026-06-10"
-hidden: true
 version: "1.1.0"
 category: "pieces"
 ---
+
 
 # Master the Knight: The Most Underrated Piece in Gambonanza (Pro Tips)
 
