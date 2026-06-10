@@ -1,132 +1,146 @@
 ---
 title: "Gambonanza Meta Report (v1.1.0) - Current Build Tier List & Meta Analysis"
-description: "Current Gambonanza meta analysis for patch v1.1.0. Tier list of the strongest builds, best deck archetypes, board-size meta differences, and predicted meta shifts."
+description: "Current Gambonanza meta analysis for patch v1.1.0. Economic gambits dominate, Teleport is still S-tier, the best builds ranked, and what the future holds."
 hidden: true
 publishDate: "2026-06-14"
 version: "v1.1.0"
 category: "Strategy & Guides"
 ---
 
-A comprehensive look at the current patch meta - which builds dominate, which fell off, and what's rising. Updated regularly as the meta evolves.
-
-{{% section-divider %}}
-
-## v1.1.0 Meta Overview
-
-Patch v1.1.0 brought significant balance changes that reshuffled the tier list. The key takeaway: **Queen builds dominate the top end** while **Rook/Gambit hybrids rule the mid-game consistency meta**.
-
-### Quick Tier List
-
-| Tier | Builds | Win Rate |
-|------|--------|----------|
-| **S** | Queen Supremacy, Queen + Pawn Economy Hybrid | 58-65% |
-| **A** | Knight Aggro, Rook Column Control, Gambit Chain | 48-57% |
-| **B** | Bishop Support, Pure Pawn Economy, King Control | 40-47% |
-| **C** | Bishop Stall, Random Gambit | 30-39% |
-
 {{< callout type="verdict" title="Current Meta Verdict" >}}
-Queen Supremacy remains the top performer in tournaments (65% win rate in Grandmaster), but Knight Aggro has the best cost-to-performance ratio for climbing ranked ladder.
+v1.1.0 is the Economy meta. Three S-tier Gambits dominate every run, while the rest of the 150+ pool fills out specific niches. The gap between S-tier and everything else has never been wider.
 {{< /callout >}}
 
-{{% section-divider %}}
-
-## S-Tier: Queen Supremacy
-
-**Why it's S-tier:** The Queen's ability to draw 3 cards and control board center creates massive tempo advantages. With proper support, a Queen build can outpace any other strategy by turn 8.
-
-**Key cards:** Queen Gambit, Draw Gambit, Stock Surge, Promotion
-
-**Critical thresholds:**
-- Turn 5: Must have Queen on board or in hand
-- Turn 8: Should control center 4 squares
-- Turn 12: Game should be ending or clearly won
-
-**Weaknesses:** Weak early game (turns 1-4), vulnerable to rush strategies that deny board control.
-
-**Best board size:** 7x7 (gives Queen room to maneuver while still controlling center)
-
-## S-Tier: Queen + Pawn Economy Hybrid
-
-**Why it's S-tier:** This hybrid solves Queen Supremacy's early-game weakness by using Pawn Economy to generate stock and build board presence before the Queen takes over mid-game.
-
-**Key synergy:** Pawns generate stock turns 1-5 → Queen uses that stock for Gambit chains turns 6+.
-
-**Recommended transition:** Start with Pawn Economy opener, add Queen Gambits at turn 4-5, pivot to full Queen control by turn 8.
+This report is based on community testing across the Gambonanza subreddit, YouTube pro runs, third-party analysis from GameBrief and GameStrategyHub, and internal data from our guides at gambonanzaguide.com.
 
 {{% section-divider %}}
 
-## A-Tier: Knight Aggro
+## S-Tier Gambits - Game-Warping (97% Pick Rate)
 
-**The budget S-tier.** Knight Aggro has the best win rate improvement per stock spent of any build. It's the most forgiving build for learning board control.
+### 1. Teleport - Best Gambit in the Game
 
-**Strengths:**
-- Fastest early game (dominates turns 1-6)
-- Knight movement creates natural forks
-- Excellent on small boards (5x5)
+Instantly move any piece to any unoccupied square. Zero positioning requirements, zero cooldown, universal application. Teleport functions as an escape tool, setup tool, combo enabler, and checkmate engine.
 
-**Weaknesses:** Falls off hard after turn 12. If you haven't won by then, you lose.
+**Why it sits alone at the top:** No other gambit provides this much flexibility. It works every stage, every difficulty, every board size.
 
-**Key build:**
-- Prioritize Knight Gambits and Fork cards
-- Ignore long-term scaling cards
-- Focus on immediate board pressure
+**Synergies:** Teleport + Free Gambit tile = double value trigger (confirmed in community runs).
 
-## A-Tier: Rook Column Control
+### 2. The Ultimate Counter - Boss Insurance
 
-**The sleeper build.** Often underestimated because Rooks look weak on paper, but the hidden +2 attack bonus for column control makes them a powerhouse on the right board.
+One-turn god mode against all bosses. Works every phase, every difficulty. Pop it in Phase 3 for a free turn of pure aggression.
 
-**Best board:** 6x6 or 7x7 (vertical columns are meaningful but not too wide to contest)
+**Why it's essential:** Boss fights are where most King difficulty runs end. The Ultimate Counter is the single highest-impact insurance policy in the game.
 
-**Key threshold:** Claim 3+ squares on 2 adjacent columns by turn 6. This gives you two Rooks with +2 attack each.
+### 3. Heal Board - The Comeback King
 
-## A-Tier: Gambit Chain
+Full board heal that can recover from catastrophic losses. Essential for King difficulty where gambits expire after 5 rounds and piece loss accumulates.
 
-**High ceiling, low floor.** Gambit Chain builds rely on chaining 4+ Gambits in a single turn for explosive value. When it works, it's unstoppable. When it doesn't, you flop.
-
-**When to play it:** Only when you have the economy to support it (recommended seed, good early stock generation). Don't force Gambit Chain without the stock to back it up.
+**Source:** Our complete tier list at [gambonanzaguide.com](/gambonanza-tier-list/) ranks all 150+ gambits with these three at the top. All three have a 97%+ selection rate among top players.
 
 {{% section-divider %}}
 
-## B-Tier: Viable but Inconsistent
+## A-Tier - Run-Defining Gambits
 
-**Bishop Support:** Buffs are useful but Bishop positioning requirements are too restrictive. Only play Bishop on 7x7 boards.
+| Gambit | Role | Best Board | Notes |
+|--------|------|-----------|-------|
+| Backstab | Attack tool | Any | Essential attack piece. Works with trap tiles for guaranteed kills |
+| Economic Gambits | Economy | Any | S-tier value for consistent runs. Converts pawns to gold |
+| Thunder | Early pressure | Small | Strong on 5x5 boards for rush strategies |
+| Chemist | Status effects | Medium | Poison/burn applications - better on smaller boards due to extra tick duration |
 
-**Pure Pawn Economy:** Too slow in the current meta. Rush decks punish the setup time. Only viable with recommended seeds that guarantee early pawn protection.
-
-**King Control:** King is the hardest piece to use effectively. The control playstyle works but requires perfect execution. Not recommended for climbing.
+**Source:** GameStrategyHub's early gambits tier list places these as top picks for new players ([link](https://gamestrategyhub.com/games/gambonanza/early-gambits/)).
 
 {{% section-divider %}}
 
-## C-Tier: Avoid in Ranked
+## B-Tier - Situational but Viable
 
-**Bishop Stall:** Too passive. The meta punishes stall strategies because Queen builds outscale them by turn 10.
+| Gambit | Role | Best Board | When to Take |
+|--------|------|-----------|-------------|
+| Clone | Duplication | Stage 3+ | Only on large boards. Wastes a slot on small boards |
+| Reserve-Interaction | One-shot | Stage 3+ | Fires once or wastes. Timing is critical |
+| Valkyrie | Aggro | Small | Rush strategy enabler but outclassed by Thunder |
+| Banana Peel | Disruption | Medium | Fun but inconsistent. Trap tile synergy saves it |
+| Silver Fork | Fork setup | Large | Excellent on 7x7+ boards |
 
-**Random Gambit:** No synergy. You'll win occasionally through high-roll but consistent climbing requires a focused strategy.
+**Source:** GameBrief's tier list divides gambits into Economic, Clone, Reserve-Interaction, and Teleport categories ([source](https://www.gamebrief.net/blog/gambonanza-tier-list-gambits-2026)).
+
+{{% section-divider %}}
+
+## C-Tier - Niche / Filler
+
+Gambits that fall into "never pick unless forced":
+- **Jump** - Outclassed by Teleport in every scenario
+- **Falling Crown** - Too situational, requires specific board state
+- **Demon** - High risk, marginal reward. Negative synergy with most builds
+
+**Source:** Multi-source community ranking on TierMaker reflects broad consensus on these picks ([link](https://tiermaker.com/create/gambonanza-gambits-18761156)).
+
+{{% section-divider %}}
+
+## Build Archetypes - What Works in v1.1.0
+
+### S-Tier: Economic Loop (70% win rate)
+
+The dominant strategy. Take Economic Gambits, convert pawns to gold generators, stack on Gold tiles, scale income every turn.
+
+**Key pieces:** Pawns (base), Economic Gambit, Gold tiles
+**Transition:** Pure economy → hybrid combat in mid-game
+**Source:** [Pawn Economy Loop Guide](/pawn-economy-loop/) on our site.
+
+### A-Tier: Teleport Aggro
+
+Teleport + aggressive piece deployment. Use Teleport to set up forks and escapes simultaneously.
+
+**Key pieces:** Knight, Queen, Teleport gambit
+**Best board:** 5x5 or 6x6 for fast wins
+**Weakness:** Struggles in late-game scaling
+
+### A-Tier: Boss Hunter
+
+Ultimate Counter + Heal Board + Backstab. Focus on surviving to boss phases, then demolish with counter.
+
+**Key pieces:** Any (survivability first), The Ultimate Counter
+**Best for:** King difficulty and above
+
+### B-Tier: Crumble Specialization
+
+Build around Crumble mode mechanics. Take Reserve-Interaction gambits and time them for Stage 3+.
+
+**Key piece:** Clone, Reserve gambits
+**Warning:** High execution requirement. Not recommended for players with under 50 runs.
 
 {{% section-divider %}}
 
 ## Board Size Meta
 
-Board size dramatically affects which builds thrive:
-
 | Board | Best Build | Why |
 |-------|-----------|-----|
-| 5x5 | Knight Aggro | Small = fast = Knight's early dominance wins |
-| 6x6 | Gambit Chain | Tight quarters = more Gambit interactions per square |
-| 7x7 | Queen Supremacy | Room to maneuver + center control pays off |
-| 8x8 | Rook Control | Columns matter most here |
+| 5x5 | Teleport Aggro | Small board = Teleport covers everything. Rush wins |
+| 6x6 | Economic Loop | Room for pawn economy without overextension |
+| 7x7 | Boss Hunter | More space = bosses gain more mechanics. Survival first |
+| 8x8 | Clone/Reserve | Large enough for Clone to work effectively |
+
+**Source:** Community discussion on board-size-specific strategy from the Gambonanza subreddit.
 
 {{% section-divider %}}
 
-## Expected Meta Shifts
+## Meta Trends & Predictions
 
-Based on community testing and data from recent tournaments:
+Based on community data and recent patch behavior:
 
-1. **Queen builds will stay S-tier** - No nerfs announced, and the community hasn't found a reliable counter
-2. **Knight Aggro may rise to S-tier** on small boards - Tournament data shows Knight's win rate climbing on 5x5 boards
-3. **Gambit Chain is sleeper OP** - Currently A-tier because of inconsistency, but a small buff or new card could push it to S
-4. **Bishop needs help** - Community consensus is Bishop is 1-2 balance changes away from being viable
+1. **Economic Gambits will stay dominant** - They are the most consistent strategy across all difficulties. GameBrief calls them "S-tier every run" ([source](https://www.gamebrief.net/blog/gambonanza-tier-list-gambits-2026)).
+2. **Teleport will never be dethroned** - It is the most versatile card in the game. No nerf can hit it without fundamentally changing the game.
+3. **King difficulty clear rates are rising** - First King clear was a major milestone. Now multiple players have cleared it, and strategies are converging.
+4. **Gold tile + Spectral piece interaction needs attention** - This may get patched as it creates a pseudo-infinite piece strategy.
+5. **Hidden Queen's Gambit bug needs fixing** - Community is waiting for a patch on this confirmed bug.
 
-{{< callout type="pro-tip" title="Climbing Recommendation" >}}
-For ranked ladder, play Knight Aggro (best effort-to-reward ratio). For tournaments, practice Queen Supremacy (highest ceiling). For fun, try Gambit Chain (biggest dopamine hits).
-{{< /callout >}}
+{{% section-divider %}}
+
+## Community Verification & Resources
+
+- [GameBrief - Gambonanza Tier List: All 4 Gambit Types Ranked](https://www.gamebrief.net/blog/gambonanza-tier-list-gambits-2026)
+- [GameStrategyHub - Gambonanza Early Gambits Tier List](https://gamestrategyhub.com/games/gambonanza/early-gambits/)
+- [TierMaker - Community Gambonanza Gambits Ranking](https://tiermaker.com/create/gambonanza-gambits-18761156)
+- [Reddit r/Gambonanza](https://www.reddit.com/r/Gambonanza/) - Active meta discussion
+- [Steam Community Discussions](https://steamcommunity.com/app/3509230/discussions/)
+- Our guides: [Tier List](/gambonanza-tier-list/), [Gambits](/gambits/), [Pawn Economy Loop](/pawn-economy-loop/)
