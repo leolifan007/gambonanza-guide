@@ -2,7 +2,7 @@
 title: "Gambonanza Build Guide v1.1.0 - All Archetypes from Pawn Economy to Queen Supremacy"
 description: "Complete Gambonanza build guide covering all major archetypes in v1.1.0. Pawn Economy Loop, Queen Supremacy, Knight Aggro, Rook Control, and Gambit Chain - when to build each one."
 hidden: true
-publishDate: "2026-06-19"
+publishDate: "2026-06-14"
 version: "v1.1.0"
 category: "Strategy & Guides"
 ---

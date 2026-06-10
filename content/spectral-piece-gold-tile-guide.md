@@ -2,7 +2,7 @@
 title: "Gambonanza Spectral Piece & Gold Tile Guide - How to Make Permanent Pieces"
 description: "Complete guide to spectral pieces in Gambonanza v1.1.0. How ghost/phantom pieces work, gold tile conversion to permanent pieces, spectral pawn strategies, and community-verified tips."
 hidden: true
-publishDate: "2026-06-18"
+publishDate: "2026-06-11"
 version: "v1.1.0"
 category: "Strategy & Guides"
 ---

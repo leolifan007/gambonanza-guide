@@ -1,8 +1,7 @@
 ---
 title: "Gambonanza Boss Guide v1.1.0 - All 9 Bosses and How to Beat Them"
 description: "Complete Gambonanza boss guide for v1.1.0. All 9 bosses ranked by difficulty, phase-by-phase breakdowns, recommended gambits and builds for each boss, strategy for Grandmaster final boss."
-hidden: true
-publishDate: "2026-06-20"
+lastmod: "2026-06-10"
 version: "v1.1.0"
 category: "Boss Battles"
 ---
