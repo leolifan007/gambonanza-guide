@@ -4,7 +4,7 @@ description: "Jester's random moves follow patterns. This guide shows how to rea
 date: "2026-06-03"
 lastmod: "2026-06-03T16:52:00+08:00"
 version: "1.1.0"
-category: "boss"
+category: "Boss Battles"
 ---
 
 

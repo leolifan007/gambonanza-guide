@@ -1,4 +1,5 @@
----
+---category: "Gambits"
+
 title: "Gambonanza All Gambits Guide v1.1.0 - 150+ Gambits Rated (S/A/B/C) | Meta-Validated"
 description: "Complete Gambonanza Gambit database for patch v1.1.0. 150+ Gambits with S/A/B/C meta ratings, PieceTile synergy tables, Early vs Late Game analysis, and Pro Tips. Updated for patch v1.1.0."
 ---

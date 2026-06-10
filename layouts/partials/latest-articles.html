@@ -1,15 +1,6 @@
-{{/* Auto-generated latest articles section - used via {{ partial "latest-articles.html" . }} in index.html */}}
-{{/* Show up to 12 latest articles, sorted by date descending. Exclude hidden/draft. */}}
+{{/* Latest 8 articles - 4x2 grid */}}
+{{- $pages := where (where .Site.RegularPages "Draft" "==" false) "Params.hidden" "!=" true -}}
 
-{{- $pages := .Site.RegularPages -}}
-
-{{/* Exclude draft pages */ -}}
-{{- $pages = where $pages "Draft" "==" false -}}
-
-{{/* Exclude pages with hidden: true (skip if field missing) */ -}}
-{{- $pages = where $pages "Params.hidden" "!=" true -}}
-
-{{/* Build sorted slice by date (use .Date, fallback to Lastmod) */ -}}
 {{- $sorted := slice -}}
 {{- range $pages -}}
   {{- $sortDate := .PublishDate -}}
@@ -21,7 +12,7 @@
 {{- end -}}
 
 {{- $sorted = sort $sorted "SortDate" "desc" -}}
-{{- $latest := first 12 $sorted -}}
+{{- $latest := first 8 $sorted -}}
 
 {{- range $item := $latest -}}
 {{- $page := $item.Page -}}
@@ -29,7 +20,6 @@
 {{- $title := $page.Title -}}
 {{- $desc := $page.Description -}}
 
-{{/* Display date */}}
 {{- $displayDate := "" -}}
 {{- if not $page.Date.IsZero -}}
   {{- $displayDate = time.Format "Jan 2" $page.Date -}}
@@ -37,27 +27,11 @@
   {{- $displayDate = time.Format "Jan 2" $page.Lastmod -}}
 {{- end -}}
 
-{{/* NEW badge: within 14 days */}}
 {{- $daysOld := div (sub now.Unix $item.SortDate.Unix) 86400 -}}
-{{- $isNew := le $daysOld 14 -}}
+{{- $isNew := le $daysOld 10 -}}
 
-{{/* Category detection */}}
-{{- $category := "Strategy" -}}
-{{- with $page.Params.category -}}
-  {{- $catLower := lower . -}}
-  {{- if in $catLower "boss" -}}{{- $category = "Boss" -}}
-  {{- else if in $catLower "economy" -}}{{- $category = "Economy" -}}
-  {{- else if in $catLower "gambit" -}}{{- $category = "Gambits" -}}
-  {{- else if in $catLower "piece" -}}{{- $category = "Pieces" -}}
-  {{- else if in $catLower "beginner" -}}{{- $category = "Beginner" -}}
-  {{- else -}}{{- $category = . -}}{{- end -}}
-{{- else -}}
-  {{- if in $page.File.Path "boss" -}}{{- $category = "Boss" -}}
-  {{- else if in $page.File.Path "economy" -}}{{- $category = "Economy" -}}
-  {{- else if in $page.File.Path "gambit" -}}{{- $category = "Gambits" -}}
-  {{- else if in $page.File.Path "piece" -}}{{- $category = "Pieces" -}}
-  {{- else if in $page.File.Path "beginner" -}}{{- $category = "Beginner" -}}{{- end -}}
-{{- end -}}
+{{- $category := "" -}}
+{{- with $page.Params.category -}}{{- $category = . -}}{{- end -}}
       <a href="{{ $url }}" class="latest-article-card">
 {{- if $isNew -}}
         <span class="new-badge">NEW</span>

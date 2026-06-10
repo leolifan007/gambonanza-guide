@@ -1,4 +1,5 @@
----
+---category: "Beginner"
+
 title: "Gambonanza Beginner's Guide v1.1.0-How to Win Your First 5 Runs"
 description: "Complete Gambonanza beginner guide for patch v1.1.0. Learn the 5 rules that actually work, God-Tier starter Gambits, and the Just Win formula. Updated for patch v1.1.0."
 see_also:

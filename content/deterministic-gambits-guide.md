@@ -1,4 +1,5 @@
----
+---category: "Gambits"
+
 title: "Gambonanza Deterministic Gambits (v1.1.0)-The Best Reliable Gambits Ranked"
 description: "Gambonanza deterministic Gambits guide for patch v1.1.0. Reliable Gambits ranked by consistency and cost efficiency-no RNG dice rolls. Which chance-based Gambits to skip entirely. Updated for patch v1.1.0."
 see_also:

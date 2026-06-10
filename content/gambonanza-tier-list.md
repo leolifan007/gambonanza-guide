@@ -1,4 +1,5 @@
----
+---category: "Strategy & Guides"
+
 title: "Gambonanza Tier List (v1.1.0)  Best Gambits & Builds Ranked S/A/B/C"
 description: "Complete Gambonanza tier list for patch v1.1.0. All 150+ Gambits ranked S/A/B/C with synergies, pro tips, and best builds. Find the strongest Gambits for every strategy. Updated for patch v1.1.0."
 ---

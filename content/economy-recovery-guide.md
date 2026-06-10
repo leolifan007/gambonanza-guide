@@ -1,4 +1,5 @@
----
+---category: "Economy"
+
 date: 2026-05-24
 title: "Why Is My Stock Crashing? Economy Recovery Guide"
 description: "Gambonanza economy crash recovery guide v1.1.0. Why your stock is dropping, how to stop the bleed, emergency stock generation strategies, and economy rebuild plans for v1.1.0."

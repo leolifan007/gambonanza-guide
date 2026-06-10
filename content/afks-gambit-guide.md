@@ -4,7 +4,7 @@ description: "Afk's Gambit is one of the most misunderstood Gambits in Gambonanz
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
-category: "gambits"
+category: "Gambits"
 ---
 
 

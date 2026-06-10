@@ -4,7 +4,7 @@ description: "The board size changes EVERYTHING in Gambonanza. Guide to how 4x4,
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
-category: "strategy"
+category: "Strategy & Guides"
 ---
 
 

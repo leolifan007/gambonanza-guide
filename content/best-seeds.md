@@ -1,4 +1,5 @@
----
+---category: "Economy"
+
 title: "Gambonanza Best Seeds (v1.1.0) - Top 15 S/A/B Seeds for Guaranteed Wins | Patch-Ready"
 description: "The best Gambonanza seeds for patch v1.1.0. Top 15 seeds ranked S/A/B for economy builds, speed runs, boss fights, and ranked mode. Includes how to use seeds and what makes a good seed. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-19'

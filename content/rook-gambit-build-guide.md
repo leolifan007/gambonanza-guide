@@ -4,7 +4,7 @@ description: "The Rook Gambit build has 65% win rate on 6x6. Full guide with pie
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
-category: "pieces"
+category: "Pieces & Cards"
 ---
 
 

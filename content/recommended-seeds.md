@@ -1,4 +1,5 @@
----
+---category: "Economy"
+
 title: 'Gambonanza Recommended Seeds (v1.1.0)-Best Opening Seeds Collection'
 description: 'The best Gambonanza opening seeds for patch v1.1.0. Community-verified seeds for all-round, economy, ranked mode, and high-variance builds. Updated with player-verified configurations for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'

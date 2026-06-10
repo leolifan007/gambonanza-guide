@@ -1,4 +1,5 @@
----
+---category: "Pieces & Cards"
+
 lastmod: 2026-05-26T05:06:08+08:00
 date: 2026-05-26
 title: "When to Sacrifice Pieces in Gambonanza"

@@ -1,4 +1,5 @@
----
+---category: "Beginner"
+
 title: "How to Play Gambonanza (v1.1.0)-Complete Rules & Getting Started Guide"
 description: "Learn how to play Gambonanza in 5 minutes. Complete rules explanation, turn structure, win conditions, and the 3 things every new player needs to know. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-19'

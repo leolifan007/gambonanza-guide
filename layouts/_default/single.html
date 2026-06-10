@@ -3,32 +3,63 @@
 <section class="section">
   <div class="container">
     <div class="content-layout">
-      <article class="main-content">
-        {{- /* AdSense: Before Content (hidden until approved) */ -}}
+      <article class="main-content" id="main-content">
         {{ partial "ads.html" (dict "position" "before-content") }}
 
-        {{ .Content }}
+        <div class="article-body" id="article-body">
+          {{ .Content }}
+        </div>
 
-        {{- /* AdSense: After Content (hidden until approved) */ -}}
         {{ partial "ads.html" (dict "position" "after-content") }}
       </article>
-      <aside class="sidebar">
-        <div class="toc">
-          <h4>📑 Quick Jump</h4>
-          {{ .TableOfContents }}
-        </div>
-        {{ with .Params.see_also }}
-        <div class="related-guides">
-          <h4>📌 Related Guides</h4>
-          <ul>
-          {{ range . }}
-            <li><a href="{{ .url }}">{{ .title }}</a></li>
-          {{ end }}
+      <aside class="sidebar category-sidebar" id="category-sidebar">
+        {{- /* Category article list */}}
+        {{- $cat := .Params.category -}}
+        {{- $catPageCount := 0 -}}
+        {{- if $cat -}}
+        {{- $catPages := where $.Site.RegularPages "Params.category" $cat -}}
+        {{- /* Sort by most recent date */ -}}
+        {{- $sortedPages := slice -}}
+        {{- range $catPages -}}
+          {{- $d := .PublishDate -}}
+          {{- if $d.IsZero -}}{{- $d = .Lastmod -}}{{- end -}}
+          {{- $sortedPages = $sortedPages | append (dict "Page" . "SortDate" $d) -}}
+        {{- end -}}
+        {{- $sortedPages = sort $sortedPages "SortDate" "desc" -}}
+        {{- $catPageCount = len $sortedPages -}}
+
+        <div class="sidebar-section sidebar-category-nav">
+          <h4 class="sidebar-title">
+            <span class="sidebar-cat-icon">
+              {{- if eq $cat "Beginner" -}}🔥
+              {{- else if eq $cat "Gambits" -}}💥
+              {{- else if in $cat "Boss" -}}👑
+              {{- else if eq $cat "Economy" -}}🎰
+              {{- else if in $cat "Piece" -}}♟
+              {{- else -}}⚡
+              {{- end -}}
+            </span>
+            {{ $cat }}
+          </h4>
+          <ul class="sidebar-article-list">
+            {{- range $s := $sortedPages -}}
+            {{- $sp := $s.Page -}}
+            {{- $isCurrent := eq $sp.RelPermalink $.RelPermalink -}}
+            <li class="sidebar-article-item{{ if $isCurrent }} active{{ end }}">
+              <a href="{{ $sp.RelPermalink }}" class="sidebar-article-link{{ if $isCurrent }} active{{ end }}" data-url="{{ $sp.RelPermalink }}">
+                {{- $d := $s.SortDate -}}
+                {{- $daysOld := div (sub now.Unix $d.Unix) 86400 -}}
+                {{- if le $daysOld 10 -}}<span class="sidebar-new-dot">NEW</span>{{- end -}}
+                <span class="sidebar-article-title">{{ $sp.Title }}</span>
+              </a>
+            </li>
+            {{- end -}}
           </ul>
         </div>
-        {{ end }}
+        {{- end -}}
       </aside>
     </div>
   </div>
 </section>
+
 {{ end }}

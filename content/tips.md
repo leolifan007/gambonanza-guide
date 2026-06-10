@@ -1,4 +1,5 @@
----
+---category: "Beginner"
+
 title: "Gambonanza Tips & Tricks (v1.1.0)-25 Pro Tips That Changed How I Play"
 description: "The best Gambonanza tips and tricks for patch v1.1.0. 25 pro tips from 100+ hours of gameplay, covering economy management, Gambit combos, boss patterns, and hidden mechanics. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-19'

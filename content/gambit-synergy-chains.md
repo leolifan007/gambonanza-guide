@@ -4,7 +4,7 @@ description: "Not all Gambits work together. These 5 proven combinations have 52
 date: "2026-05-30"
 lastmod: "2026-05-30T14:23:00+08:00"
 version: "1.1.0"
-category: "gambits"
+category: "Gambits"
 ---
 
 

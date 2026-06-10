@@ -1,4 +1,4 @@
-﻿{{ define "main" }}
+{{ define "main" }}
 
 <!-- HERO -->
 <section class="hero hero-kv" style="position:relative;overflow:hidden">
@@ -15,8 +15,6 @@
   </div>
 </section>
 
-
-
 <!-- AD SLOT -->
 {{ partial "ads.html" (dict "position" "hero-below") }}
 
@@ -24,18 +22,17 @@
 <section class="section">
   <div class="container">
     <div class="section-header">
-      <div class="eyebrow">Updated May 17, 2026</div>
-
+      <div class="eyebrow">Fresh Guides</div>
       <h2>📰 Latest Guides</h2>
-      <p>Fresh guides from my latest playthroughs — tested in real runs</p>
+      <p>Newest guides from real playthroughs</p>
     </div>
-    <div class="latest-articles">
+    <div class="latest-articles latest-articles-4col">
 {{ partial "latest-articles.html" . }}
     </div>
   </div>
 </section>
 
-<!-- GUIDE SECTIONS -->
+<!-- CATEGORY CARDS -->
 <section class="section section-alt">
   <div class="container">
     <div class="section-header">
@@ -43,68 +40,61 @@
       <h2>Everything You Need to Master Gambonanza</h2>
       <p>From your first move to defeating every boss, we've got you covered</p>
     </div>
-    <div class="guide-grid">
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/beginner.webp" alt="Beginners Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">🔥 Start Here</div>
-          <h3>Beginner's Guide</h3>
-          <p>New to Gambonanza? Start here. Learn the core loop, understand Gambits, and make your first breakthrough.</p>
-          <a href="/beginner/" class="guide-card-link">Read Beginner Guide →</a>
-        </div>
+    <div class="category-grid">
+{{- /* Define the 6 categories */}}
+{{- $cats := slice
+  (dict "slug" "beginner"    "label" "Beginner"       "hub" "/beginner/" "img" "images/cards/beginner.webp"    "tag" "🔥 Start Here"     "desc" "New to Gambonanza? Start here. Learn the core loop, understand Gambits, and make your first breakthrough.")
+  (dict "slug" "Gambits"     "label" "Gambits"        "hub" "/gambits/"  "img" "images/cards/gambits.webp"     "tag" "💥 Most Popular"   "desc" "150+ Gambits explained. Every rule-breaking move with exact effects, synergies, and how to use them.")
+  (dict "slug" "boss"        "label" "Boss Battles"   "hub" "/bosses/"   "img" "images/cards/bosses.webp"      "tag" "👑 Boss Fights"     "desc" "Every boss analyzed. Weaknesses, patterns, and the exact strategies to defeat each one.")
+  (dict "slug" "Economy"     "label" "Economy"        "hub" "/economy/"  "img" "images/cards/economy.webp"     "tag" "🎰 Economy"          "desc" "Master the casino economy. Stock investment, shop strategies, and how to multiply your winnings.")
+  (dict "slug" "pieces"      "label" "Pieces & Cards" "hub" "/cards/"    "img" "images/cards/achievements.webp" "tag" "♟ Pieces & Cards"    "desc" "Complete card database, piece-specific guides, and advanced tactics for every chess piece.")
+  (dict "slug" "Strategy"    "label" "Strategy & Guides" "hub" "/strategy/" "img" "images/cards/strategy.webp"  "tag" "⚡ Advanced"         "desc" "Pro-level tactics. Tile combos, promotion chains, Crumble mechanics, and competitive builds.")
+-}}
+
+{{- range $cat := $cats -}}
+{{- $catPages := where $.Site.RegularPages "Params.category" $cat.label -}}
+{{- $catCount := len $catPages -}}
+
+{{- /* Find latest article date */ -}}
+{{- $latestDate := time.AsTime "1970-01-01" -}}
+{{- $latestPage := index $catPages 0 -}}
+{{- range $catPages -}}
+  {{- $d := .PublishDate -}}
+  {{- if $d.IsZero -}}{{- $d = .Lastmod -}}{{- end -}}
+  {{- if $d.After $latestDate -}}{{- $latestDate = $d -}}{{- $latestPage = . -}}{{- end -}}
+{{- end -}}
+
+{{- $latestLink := "" -}}
+{{- if $latestPage -}}{{- $latestLink = $latestPage.RelPermalink -}}{{- end -}}
+
+{{- $displayDate := "" -}}
+{{- if not $latestDate.IsZero -}}{{- $displayDate = time.Format "Jan 2" $latestDate -}}{{- end -}}
+
+{{- $daysOld := div (sub now.Unix $latestDate.Unix) 86400 -}}
+{{- $isNew := le $daysOld 10 -}}
+      <article class="category-card{{ if $isNew }} is-new{{ end }}">
+        <a href="{{ $latestLink }}" class="category-card-link">
+          <div class="category-card-image"><img src="{{ $cat.img }}" alt="{{ $cat.label }}" loading="lazy" width="414" height="160"></div>
+          <div class="category-card-body">
+            <div class="category-card-header">
+              <div class="category-card-tag">{{ $cat.tag }}</div>
+              {{- if $isNew }}<span class="category-new-badge">NEW</span>{{ end -}}
+            </div>
+            <h3>{{ $cat.label }}</h3>
+            <p>{{ $cat.desc }}</p>
+            <div class="category-card-stats">
+              <span class="cat-stat">{{ $catCount }} guides</span>
+              {{- if $displayDate }}<span class="cat-stat">Updated {{ $displayDate }}</span>{{ end -}}
+            </div>
+          </div>
+        </a>
       </article>
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/gambits.webp" alt="Gambits Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">💥 Most Popular</div>
-          <h3>All Gambits Guide</h3>
-          <p>150+ Gambits explained. Every rule-breaking move with exact effects, synergies, and how to use them.</p>
-          <a href="/gambits/" class="guide-card-link">Browse All Gambits →</a>
-        </div>
-      </article>
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/bosses.webp" alt="Boss Battle Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">👑 Boss Fights</div>
-          <h3>Boss Battle Guide</h3>
-          <p>Every boss analyzed. Weaknesses, patterns, and the exact strategies to defeat each one.</p>
-          <a href="/bosses/" class="guide-card-link">Conquer All Bosses →</a>
-        </div>
-      </article>
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/economy.webp" alt="Stock Market Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">🎰 Economy</div>
-          <h3>Stock Market & Shops</h3>
-          <p>Master the casino economy. Stock investment, shop strategies, and how to multiply your winnings.</p>
-          <a href="/economy/" class="guide-card-link">Maximize Your Earnings →</a>
-        </div>
-      </article>
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/achievements.webp" alt="Achievement Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">🏆 Achievements</div>
-          <h3>Achievement Guide</h3>
-          <p>Unlock every Steam achievement. Step-by-step instructions for all 15+ achievements.</p>
-          <a href="/achievements/" class="guide-card-link">View All Achievements →</a>
-        </div>
-      </article>
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/strategy.webp" alt="Advanced Strategy Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">♟ Advanced</div>
-          <h3>Advanced Strategies</h3>
-          <p>Pro-level tactics. Tile combos, promotion chains, Crumble mechanics, and competitive builds.</p>
-          <a href="/strategy/" class="guide-card-link">Level Up Your Game →</a>
-        </div>
-      </article>
+{{- end -}}
     </div>
   </div>
 </section>
 
 <!-- AD SLOT -->
 {{ partial "ads.html" (dict "position" "content-mid") }}
-
-
 
 {{ end }}

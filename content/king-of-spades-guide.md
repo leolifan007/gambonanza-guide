@@ -1,4 +1,5 @@
----
+---category: "Boss Battles"
+
 
 title: "Gambonanza King of Spades Guide v1.1.0-Mechanics, Counters & Three Proven Builds"
 

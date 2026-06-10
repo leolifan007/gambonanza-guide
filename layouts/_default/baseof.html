@@ -36,13 +36,17 @@
   <meta name="twitter:image" content="{{ .Site.Params.og_image }}">
   {{ block "head" . }}{{ end }}
 </head>
-<body>
+<body{{ if .IsHome }} class="home"{{ end }}>
   {{ partial "header" . }}
   {{ partial "cookie-banner" . }}
   <main>
     {{ block "main" . }}{{ end }}
   </main>
+
+  <button id="back-to-top" class="btn-back-to-top" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑ TOP</button>
   {{ partial "footer" . }}
+  <!-- Redesign JS -->
+  <script src="/js/redesign.js"></script>
   <!-- Adsterra Social Bar -->
   <script src="https://pl29630345.effectivecpmnetwork.com/98/47/84/9847842fcd70248d47188a5263db471e.js"></script>
 </body>

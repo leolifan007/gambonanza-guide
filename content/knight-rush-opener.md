@@ -5,7 +5,7 @@ date: "2026-05-29"
 lastmod: "2026-05-29T21:36:00+08:00"
 hidden: false
 version: "1.1.0"
-category: "pieces"
+category: "Pieces & Cards"
 ---
 
 # Best Knight Strategy - Win More Games with the Knight Rush Build
