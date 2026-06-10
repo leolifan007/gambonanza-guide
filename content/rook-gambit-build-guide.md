@@ -14,11 +14,15 @@ category: "Pieces & Cards"
 
 **The Rook Gambit build wins 65% of games on 6x6 boards. Here is the exact setup:**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Piece Pairing | Win Rate | Best Board | Difficulty |
 |---------------|----------|------------|------------|
 | Rook + Queen | 72% | 6x6 | Advanced |
 | Rook + Bishop | 68% | 5x5-6x6 | Intermediate |
 | Rook + Knight | 61% | 4x4-5x5 | Beginner |
+
+</div>
 
 **Core principle:** The Rook is not a frontline fighter. It is a suppression engine. If you place the Rook to directly attack the opponent, you are using it wrong. The Rook's job is to control columns, not to capture pieces.
 
@@ -35,10 +39,9 @@ The Rook build works when you:
 2. **Stack Column Gambits** - Gambits that trigger on Rook column moves have the highest synergy in the game
 3. **Protect the Rook at all costs** - A dead Rook means lost column control. The build crumbles without it
 
-<div class="callout callout-verdict">
-  <strong>The One Rule</strong><br>
-  The Rook Gambit build is a control deck, not an aggro deck. If you are losing pieces in the opening, you are playing it like a Knight build. Slow down. Control the column. Let the Gambits do the work.
-</div>
+{{< callout type="verdict" >}}<strong>The One Rule</strong>
+
+  The Rook Gambit build is a control deck, not an aggro deck. If you are losing pieces in the opening, you are playing it like a Knight build. Slow down. Control the column. Let the Gambits do the work.{{< /callout >}}
 
 ## Step-by-Step Setup
 
@@ -65,6 +68,8 @@ The Rook build works when you:
 
 ## Best Gambits for Rook Build
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Gambit | Rarity | Why It Works | Priority |
 |--------|--------|--------------|----------|
 | Column Lock | Common | Doubles Rook suppression every 2 turns | S-Tier |
@@ -72,6 +77,8 @@ The Rook build works when you:
 | Suppression Field | Uncommon | Reduces opponent Gambit activation near Rook | A-Tier |
 | Heavy March | Rare | Rook moves trigger adjacent piece buffs | A-Tier |
 | Column Tax | Uncommon | Opponent loses stock when entering Rook column | B-Tier |
+
+</div>
 
 ### Gambits to Avoid
 

@@ -32,20 +32,18 @@ The community-agreed second-hardest boss after Grandmaster. Normal clear rate ar
 
 ### Key Stats
 
+
+<div class="synergy-table" style="overflow-x:auto">
+
 | Stat | Value |
-
 |------|-------|
-
 | Board Size | 5x5 or 6x6 |
-
 | Teleport Cooldown | Every 3 turns |
-
 | Vulnerability | Teleport timing is fixed |
-
 | Recommended Gambits | King Bind, Anchor, Grid Lock |
-
 | Win Rate (Avg) | ~15%-40%+ with prep |
 
+</div>
 <div class="callout callout-verdict">
 
 
@@ -100,18 +98,17 @@ Rank your pieces before the fight. When teleport happens, you know exactly what 
 
 ### Priority Table
 
+
+<div class="synergy-table" style="overflow-x:auto">
+
 | Priority | Piece Type | Why |
-
 |----------|-----------|-----|
-
-| ?| King | If King gets swapped to front line, you lose |
-
-| ?| Gambit-carrier queen | Queen with Gambit buff loses tempo when repositioned |
-
+| | King | If King gets swapped to front line, you lose |
+| | Gambit-carrier queen | Queen with Gambit buff loses tempo when repositioned |
 |  | Rook / Knight | Important but recoverable |
-
 |-| Bishop / Pawn | Low impact. Fix these last |
 
+</div>
 <div class="callout callout-tip">
 
 
@@ -205,18 +202,17 @@ Found on Steam community boards (from players who've beaten King of Spades on hi
 
 ## Recommended Gambit Priority
 
+
+<div class="synergy-table" style="overflow-x:auto">
+
 | Priority | Gambit | Cost-Benefit |
-
 |----------|--------|-------------|
-
 | 1st Pick | King Bind | Negates the biggest threat |
-
 | 2nd Pick | Anchor | Safety net for any piece |
-
 | 3rd Pick | Grid Lock | Reduces chaos radius |
-
 | 4th Pick | Fortress | Advanced players only |
 
+</div>
 ## FAQ
 
 **Q: Do Gambit effects transfer when a piece is teleported?**

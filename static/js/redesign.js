@@ -87,4 +87,31 @@
     });
   }
 
+  /* ─── Section Frame Wrapper ─── */
+  /* Wrap content between h2 headings in .section-frame for visual section grouping */
+  (function() {
+    var article = document.querySelector('.content-body.article-body');
+    if (!article || window.location.pathname === '/') return;
+    var nodes = Array.from(article.childNodes);
+    var sections = [];
+    var current = null;
+    nodes.forEach(function(node) {
+      if (node.nodeType === 1 && node.tagName === 'H2') {
+        current = { heading: node, children: [] };
+        sections.push(current);
+      } else if (current) {
+        current.children.push(node);
+      }
+    });
+    sections.forEach(function(s) {
+      if (s.children.length === 0) return;
+      var wrapper = document.createElement('div');
+      wrapper.className = 'section-frame';
+      s.children.forEach(function(child) {
+        wrapper.appendChild(child);
+      });
+      s.heading.parentNode.insertBefore(wrapper, s.heading.nextSibling);
+    });
+  })();
+
 })();

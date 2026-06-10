@@ -13,27 +13,22 @@ see_also:
 
 ## The Promotion Trap
 
-<div class="callout callout-verdict">
-  <strong>?PROMOTION-AUTOMATIC UPGRADE</strong><br>
-  Promoting a pawn to a queen sounds good-until your "Pawns only" relic stops working and you lose the economy engine that carried you through 10 runs. Promotion is a strategic decision, not a default.
-</div>
+{{< callout type="verdict" >}}<strong>PROMOTION-AUTOMATIC UPGRADE</strong>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Core strategy reference for intermediate players. Combines well with other guides.</span>
-</div>
+  Promoting a pawn to a queen sounds good-until your "Pawns only" relic stops working and you lose the economy engine that carried you through 10 runs. Promotion is a strategic decision, not a default.{{< /callout >}}
+
+{{< meta-rating grade="A" label="Core strategy reference for intermediate players. Combines well with other guides." >}}
 
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 Promotion in Gambonanza works differently than standard chess. It's not just about getting a queen-it's about what you LOSE when a pawn stops being a pawn. Certain Gambits, relics, and economy bonuses only trigger on pawn moves.
 
-<div class="callout callout-danger">
-  <strong>?THE BIG TRAP</strong><br>
-  The most common community complaint: "I promoted my last pawn to a queen and my Pawn Gambit stopped working." This is by design. Once a piece promotes, it's no longer a pawn-and any Gambit that says "on pawn capture" or "when a pawn moves" simply doesn't apply. Plan your promotion timing carefully.
-</div>
+{{< callout type="danger" >}}<strong>THE BIG TRAP</strong>
 
-<hr class="section-divider">
+  The most common community complaint: "I promoted my last pawn to a queen and my Pawn Gambit stopped working." This is by design. Once a piece promotes, it's no longer a pawn-and any Gambit that says "on pawn capture" or "when a pawn moves" simply doesn't apply. Plan your promotion timing carefully.{{< /callout >}}
+
+{{< section-divider >}}
 
 ## When to Promote
 
@@ -49,14 +44,13 @@ Promotion in Gambonanza works differently than standard chess. It's not just abo
   </table>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## The Pawn Economy Loop
 
-<div class="callout callout-tip">
-  <strong>?THE PAWN CYCLE</strong><br>
-  Pawns generate stock through Pawn-specific Gambits. The most sustainable loop: use Pawn Gambits to earn stock-use stock to buy more Gambits-Pawns stay on the board earning. If you promote, the loop breaks.
-</div>
+{{< callout type="tip" >}}<strong>THE PAWN CYCLE</strong>
+
+  Pawns generate stock through Pawn-specific Gambits. The most sustainable loop: use Pawn Gambits to earn stock-use stock to buy more Gambits-Pawns stay on the board earning. If you promote, the loop breaks.{{< /callout >}}
 
 <div class="split-col">
 <div class="col">
@@ -79,11 +73,9 @@ Promotion in Gambonanza works differently than standard chess. It's not just abo
 </div>
 </div>
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> The optimal promotion strategy is <strong>promote exactly 1 pawn per 15 turns</strong>. This keeps your pawn economy intact while slowly building a stronger army. Two promoted pieces and you've doubled your offensive potential without halving your income.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> The optimal promotion strategy is <strong>promote exactly 1 pawn per 15 turns</strong>. This keeps your pawn economy intact while slowly building a stronger army. Two promoted pieces and you've doubled your offensive potential without halving your income.{{< /pro-tip >}}
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Best Promotion Targets by Board Size
 
@@ -98,9 +90,11 @@ Promotion in Gambonanza works differently than standard chess. It's not just abo
   </table>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Gambit Synergies with Promotion
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Gambit | Works Before Promotion | Works After Promotion | Note |
 |--------|----------------------|---------------------|------|
@@ -111,12 +105,13 @@ Promotion in Gambonanza works differently than standard chess. It's not just abo
 | Double Down |-|-| Economy independent of piece type |
 | King's Shield |-|-| Protects king, not pawns |
 
-<div class="callout callout-danger">
-  <strong>?NOT SURE?</strong><br>
-  Check the Gambit description. If it says "when a Pawn..." or "on Pawn capture"-promoting will reduce or remove that effect. If the effect is tied to "piece" or "any capture"-promote freely.
 </div>
 
-<hr class="section-divider">
+{{< callout type="danger" >}}<strong>NOT SURE?</strong>
+
+  Check the Gambit description. If it says "when a Pawn..." or "on Pawn capture"-promoting will reduce or remove that effect. If the effect is tied to "piece" or "any capture"-promote freely.{{< /callout >}}
+
+{{< section-divider >}}
 
 ## The 1-3-5 Rule
 
@@ -132,12 +127,10 @@ A practical rule of thumb for sustainability:
   </table>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
-<div class="pro-tip">
-  <strong> Long run mindset</strong><br>
-  Games that go 30+ turns are won by players who kept their economy intact. The player who promotes 4 pawns by turn 20 might look strong-but the player who kept 2 pawns as pawns, invested in Safe Haven, and bought Teleport + Backstab is sitting on 200+ stock at turn 30. Who wins? The stock.
-</div>
+{{< pro-tip >}}<strong> Long run mindset</strong><br>
+  Games that go 30+ turns are won by players who kept their economy intact. The player who promotes 4 pawns by turn 20 might look strong-but the player who kept 2 pawns as pawns, invested in Safe Haven, and bought Teleport + Backstab is sitting on 200+ stock at turn 30. Who wins? The stock.{{< /pro-tip >}}
 
 ---
 

@@ -17,10 +17,9 @@ see_also:
 
 > Most Gambonanza games end before the 6x6 board. But what separates good players from great ones is how they close out games when the board gets big.
 
-<div class='callout callout-verdict'>
-  <strong>Verdict</strong><br>
-  The biggest threat in the endgame isn't the opponent's piece density-it's your own panic. 90% of comebacks don't come from outplaying your opponent. They come from your opponent making more endgame mistakes than you. <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span>-knowing when to push and when to wait is the real skill.
-</div>
+{{< callout type="verdict" >}}<strong>Verdict</strong>
+
+  The biggest threat in the endgame isn't the opponent's piece density-it's your own panic. 90% of comebacks don't come from outplaying your opponent. They come from your opponent making more endgame mistakes than you. <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span>-knowing when to push and when to wait is the real skill.{{< /callout >}}
 
 ## 1. Bishop Deadlock-Breaking the Same-Color Trap
 
@@ -29,9 +28,7 @@ When the board reaches 6x6+ and both sides are left with same-color Bishops, you
 
 ### Solutions
 
-<div class='callout callout-tip'>
-  <strong>Three ways to break the deadlock</strong>
-</div>
+{{< callout type="tip" >}}<strong>Three ways to break the deadlock</strong>{{< /callout >}}
 
 **Method A: Rook Force Push**
 - Rook dominates same-color Bishops-it attacks on different colored squares
@@ -45,16 +42,16 @@ When the board reaches 6x6+ and both sides are left with same-color Bishops, you
 - Queen ignores color restrictions-she eats Bishops regardless of square color
 - Save Gambit skills for Queen protection and repositioning
 
-<div class='pro-tip'>
-  <strong>Bishop Deadlock Misconception</strong><br>
-  Bishop deadlock looks like a battle of who blinks first-but that thinking loses. Wrong. The right solution is introducing a third color-Rook (colorless) or Queen (full-spectrum). Trying to Bishop-vs-Bishop your way out will drag the game forever.
-</div>
+{{< pro-tip >}}<strong>Bishop Deadlock Misconception</strong><br>
+  Bishop deadlock looks like a battle of who blinks first-but that thinking loses. Wrong. The right solution is introducing a third color-Rook (colorless) or Queen (full-spectrum). Trying to Bishop-vs-Bishop your way out will drag the game forever.{{< /pro-tip >}}
 
 ## 2. King Hunting-The Three-Turn Window
 
 When a King is exposed (fewer than 3 friendly pieces around it), you get exactly **3 turns** to execute.
 
 ### Hunt Rhythm
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Turn | Action | Goal |
 |------|--------|------|
@@ -63,18 +60,23 @@ When a King is exposed (fewer than 3 friendly pieces around it), you get exactly
 | T2 | Gambit + Execute | Use mobility Gambits to block escape routes |
 | T3 (Window closes) | Finish or retreat | If King gets protected, retreat immediately |
 
-<div class='callout callout-danger'>
-  <strong>Common Mistake</strong><br>
-  Once the King gets protected (opponent deploys support pieces), retreat immediately. Do not keep fighting. Most endgame throws happen because players keep attacking after the kill window closes.
 </div>
 
+{{< callout type="danger" >}}<strong>Common Mistake</strong>
+
+  Once the King gets protected (opponent deploys support pieces), retreat immediately. Do not keep fighting. Most endgame throws happen because players keep attacking after the kill window closes.{{< /callout >}}
+
 ## 3. Relic Timing-When to Open What
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Phase | Open | Save |
 |-------|------|------|
 | Opening (3x3) | Economy relics | Combat relics for mid-game |
 | Mid-game (4x4~5x5) | Gambit slot expanders | Finisher relics for endgame |
 | Endgame (6x6+) | All damage-boosting relics | Economy relics are useless now |
+
+</div>
 
 <span class='phase-tag'>Late</span> Economy relics should have been sold at peak value around 5x5 to fund combat relic swaps.
 
@@ -86,10 +88,8 @@ When a Pawn promotes, it **ceases to be a Pawn**. This means:
 2. Relics that trigger "when no Pawns remain" now function-but you've lost your Pawn engine
 3. **Counter**: If you identify an opponent relying on Pawn Gambit, force their Pawn to promote by dangling a bait piece-you'll disable their core engine
 
-<div class='pro-tip'>
-  <strong>Pawn Trap in Action</strong><br>
-  Spot an opponent running Pawn Gambit? Drop a seemingly free Rook on their promotion path. Greed takes over, their Pawn eats and promotes-and suddenly their Gambit engine is gone. This is the "Sacrifice Rook to Break Gambit" technique.
-</div>
+{{< pro-tip >}}<strong>Pawn Trap in Action</strong><br>
+  Spot an opponent running Pawn Gambit? Drop a seemingly free Rook on their promotion path. Greed takes over, their Pawn eats and promotes-and suddenly their Gambit engine is gone. This is the "Sacrifice Rook to Break Gambit" technique.{{< /pro-tip >}}
 
 ## 5. Comeback Checklist
 
@@ -106,10 +106,9 @@ When behind, check in this order:
 
 Most comebacks aren't about overpowering your opponent. They're about checking this list and finding the crack.
 
-<div class='callout callout-tip'>
-  <strong>Sources & Updates</strong><br>
-  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
-</div>
+{{< callout type="tip" >}}<strong>Sources & Updates</strong>
+
+  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}
 
 <div class='ad-slot ad-slot--after-content'>
   <div class='ad-label'>Advertisement</div>

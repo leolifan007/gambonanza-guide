@@ -15,17 +15,13 @@ version: 'v1.1.0'
 
 ## Crumble-TL;DR
 
-<div class="callout callout-verdict">
-<strong>Crumble is predictable, not random.</strong><br>
-Edges collapse first. Center survives to the end. Control the center and Crumble becomes your weapon.
-</div>
+{{< callout type="verdict" >}}<strong>Crumble is predictable, not random.</strong>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Understanding Crumble = +30% win rate on 5x5+ boards.</span>
-</div>
+Edges collapse first. Center survives to the end. Control the center and Crumble becomes your weapon.{{< /callout >}}
 
-<hr class="section-divider">
+{{< meta-rating grade="A" label="Understanding Crumble = +30% win rate on 5x5+ boards." >}}
+
+{{< section-divider >}}
 
 ## How the Board Shrinks (5x5)
 
@@ -33,9 +29,11 @@ Edges collapse first. Center survives to the end. Control the center and Crumble
 
 > **Rule:** Center 4 tiles (5x5) or center 9 tiles (6x6) collapse last. Anchor there.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Your 3 Golden Rules
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Rule |-DO |-DON'T |
 |------|-------|----------|
@@ -43,9 +41,13 @@ Edges collapse first. Center survives to the end. Control the center and Crumble
 | **?Don't Anchor Edges** | Move Rook inward before collapse | Park Rook on edge permanently |
 | **?Use Crumble as Weapon** | Lure opponent to edge-collapse = trapped | Only worry about your own position |
 
-<hr class="section-divider">
+</div>
+
+{{< section-divider >}}
 
 ## Heal Board = The Crumble Counter
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Gambit | What It Does | When to Use |
 |--------|---------------|-------------|
@@ -54,13 +56,15 @@ Edges collapse first. Center survives to the end. Control the center and Crumble
 |  Bridge | Creates temp tile over collapse | Emergency escape |
 |  Floating Square | Stand on collapsed tile 1 turn | Desperation only |
 
+</div>
+
 ### The Heal Board Loop
 
 <img src="/images/guides/heal-board-loop.svg" alt="Heal Board Loop: Collapse-Heal-Restore + Gambit-Trigger-Repeat (+8-12 stock)" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
 
 > **Pro tip:** Heal Board restores tiles **with their Gambit properties**. Collapsed Free Gambit tile? Heal it = Free Gambit tile back. Farm it again.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## 3 Common Trap Scenarios (and How to Survive)
 
@@ -72,12 +76,16 @@ You've been luring them to the edge. Crumble wave hits. Then they just heal 2 ti
 
 **Survival strategy:**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Step | Action | Why |
 |------|--------|-----|
 |-| Scout for Heal Board in opponent's deck early | If you spot it, adjust before Crumble starts |
 |-| Don't collapse tiles they're occupying | Heal Board needs a collapsed tile to target-starve them |
 |-| Collapse tiles you control instead | You control what comes back. Free Gambit tile? Yes please |
 |-| Time your Crumble on their recovery turn | After they use Heal Board, they can't use it again for 3 turns |
+
+</div>
 
 **If they already have the loop running:** Don't keep fighting on that edge. Abandon it. Shift to a completely different board sector. Heal Board doesn't help them if they can't reach you.
 
@@ -87,13 +95,19 @@ You overextended. The timer is ticking. Every turn, more tiles around you vanish
 
 **Know your escape routes by board size:**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Board | Escape Tiles Available | Safe Route |
 |-------|----------------------|------------|
 | 5x5 | 2-3 moves max | Diagonal toward center-shortest path |
 | 6x6 | 3-4 moves max | Move along an existing piece chain |
 | 7x7 | 4-5 moves max | You have time-don't panic and expose piece |
 
+</div>
+
 **If you can't reach center:**
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Option | Timing | Risk Level |
 |--------|--------|------------|
@@ -101,6 +115,8 @@ You overextended. The timer is ticking. Every turn, more tiles around you vanish
 | Trade the stuck piece for an opponent's piece | Before your tile collapses | Medium-only if trade is favorable |
 | Sacrifice the piece, reposition | After collapse-piece returns to hand | Low-you lose turn tempo but not the game |
 | Use Floating Square (desperation) | When tile is collapsing NOW | High-only 1 turn delay, and costs stock |
+
+</div>
 
 **The #1 mistake:** Trying to save a Rook that can't be saved. A Rook on the edge costs 80+ stock to deploy. If it's trapped, let it collapse. You get it back. Spend that stock on center positioning instead.
 
@@ -110,11 +126,15 @@ This is the most common Crumble mistake. Players learn the patterns on 5x5, then
 
 **The critical difference: Crumble wave count changes how you play.**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Board | Waves | First Collapse | Safe Zone | Strategy Shift |
 |-------|-------|----------------|-----------|----------------|
 | 5x5 | 3 waves | Turn 4-5 | Center 2x2 | Aggressive center push early |
 | 6x6 | 4 waves | Turn 5-6 | Center 3x3 | Patient-corners go first, not edges |
 | 7x7 | 5 waves | Turn 7-8 | Center 4x4 | You have time to develop on edges |
+
+</div>
 
 **Why 5x5 players lose on 6x6:**
 - On 5x5, edges collapse fast. You force center fight early.
@@ -123,11 +143,13 @@ This is the most common Crumble mistake. Players learn the patterns on 5x5, then
 
 **Fix:** On 6x6, don't panic about Crumble until wave 2 (turn 8+). Use turns 1-7 to develop pieces and set up Gambit chains. On 5x5, fight for center starting turn 3.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Crumble by Board Size-Complete Breakdown
 
 ### 5x5-The Standard
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Turn | Event | Your Goal |
 |------|-------|-----------|
@@ -136,9 +158,13 @@ This is the most common Crumble mistake. Players learn the patterns on 5x5, then
 | 6-7 | Second wave: 4 more edge tiles fall | Hold center 2x2 |
 | 8+ | Final stand: center 2x2 only | Dominate with strong pieces |
 
+</div>
+
 **Best pieces for a 5x5 Crumble game:** Knight (maneuverability in tight space), Rook (controls narrow lanes), Queen (if you can afford-overkill but decisive).
 
 ### 6x6-The Surprising
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Turn | Event | Your Goal |
 |------|-------|-----------|
@@ -148,9 +174,13 @@ This is the most common Crumble mistake. Players learn the patterns on 5x5, then
 | 10-12 | Third wave: 8 remaining edge tiles | Hold center 3x3 |
 | 13+ | Center 3x3 fight | Piece quality wins-don't waste turns |
 
+</div>
+
 **Key insight for 6x6:** You get roughly twice as many setup turns as on 5x5. Use the extra time to build a Gambit engine in the center before Crumble forces you there.
 
 ### 7x7-The Marathon
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Turn | Event | Your Goal |
 |------|-------|-----------|
@@ -160,9 +190,11 @@ This is the most common Crumble mistake. Players learn the patterns on 5x5, then
 | 13-16 | Third wave: all edge zone tiles | Hold center-economy matters here |
 | 17+ | Center zone fight | Strongest Gambit chains win |
 
+</div>
+
 **7x7 Crumble rule:** Don't play for Crumble at all in the first 8 turns. You have enough space to play full-board chess. Let the opponent worry about edge positioning while you build a monster center.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Using Crumble Against Specific Bosses
 
@@ -190,7 +222,7 @@ This is the most common Crumble mistake. Players learn the patterns on 5x5, then
 - Mirror match. Whoever uses Crumble better wins.
 - Close combat-deploy Queen on turn 3-4 and use Crumble to funnel the fight to her.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## When Things Go Wrong-Salvaging a Lost Crumble Position
 
@@ -213,9 +245,11 @@ They have 3 center tiles. You have 0. Crumble hasn't even started yet, and you'r
 3. When they're forced out of center by lack of support, swoop in
 4. This is called the **Ring Trap**. It works because opponents on 5x5+ get confident and overextend.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Quick Reference-Your Turn Plan
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Turn | On 5x5 | On 6x6 |
 |------|---------|----------|
@@ -223,6 +257,8 @@ They have 3 center tiles. You have 0. Crumble hasn't even started yet, and you'r
 | 4-5 | Edge tiles start collapsing | Corners collapse-edges still usable |
 | 6-7 | Move edge pieces inward | Begin centralizing |
 | 8+ | Hold center 2x2 tiles | Hold center 3x3 tiles |
+
+</div>
 
 ---
 

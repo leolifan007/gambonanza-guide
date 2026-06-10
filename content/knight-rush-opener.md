@@ -14,12 +14,16 @@ category: "Pieces & Cards"
 
 **The Knight Rush build wins 62% of games on small boards (4x4, 5x5). Here's exactly how to use it:**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Board Size | Knight Rush | Better Opener |
 |------------|-------------|---------------|
 | 4x4 |  Strong | - |
 | 5x5 |  Viable | Bishop Control |
 | 6x6 |  Too slow | Pawn Economy |
 | 7x7+ |  Don't | Farm Loop |
+
+</div>
 
 **The 3-turn setup:**
 1. Turn 1: Knight to center-adjacent square (not center itself)
@@ -52,21 +56,29 @@ Knight Rush only works on 4x4 and 5x5 boards. If you see 6x6 or larger, skip thi
 
 If you hit red flags on turn 3:
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Situation | What to Do |
 |-----------|-------------|
 | Blocked by 2+ Pawns | Sell 1 Knight, buy Rook |
 | Opponent controls center | Switch to harassment mode |
 | Low stock | Keep 1 Knight, build Pawns |
 
+</div>
+
 ---
 
 ## Best Gambits for Knight Rush
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Gambit | Effect | Win Rate Boost |
 |--------|--------|----------------|
 | Knight's Tour | +2 Knight mobility | +15% |
 | First Blood | Bonus for early captures | +12% |
 | Quick Strike | Faster Gambit cooldown | +8% |
+
+</div>
 
 **Don't use these Gambits with Knight Rush:**
 - Patience (conflicts with aggressive play)
@@ -85,11 +97,15 @@ If you hit red flags on turn 3:
 
 ## Data
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Metric | 4x4 | 5x5 | 6x6 | 7x7+ |
 |--------|-----|-----|-----|------|
 | Knight Rush Win Rate | 62% | 51% | 34% | 18% |
 | Avg Turn to First Capture | 2.3 | 3.1 | 4.8 | 6.2 |
 | Pivot Required | 12% | 31% | 67% | 89% |
+
+</div>
 
 ---
 

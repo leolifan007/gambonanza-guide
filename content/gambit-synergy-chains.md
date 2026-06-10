@@ -1,5 +1,5 @@
 ---
-title: "Best Gambit Combinations — 5 Synergy Chains That Win Games"
+title: "Best Gambit Combinations - 5 Synergy Chains That Win Games"
 description: "Not all Gambits work together. These 5 proven combinations have 52-70% win rates. Stop wasting Gambit slots on anti-synergies."
 date: "2026-05-30"
 lastmod: "2026-05-30T14:23:00+08:00"
@@ -8,11 +8,13 @@ category: "Gambits"
 ---
 
 
-# Best Gambit Combinations — 5 Synergy Chains That Win Games
+# Best Gambit Combinations - 5 Synergy Chains That Win Games
 
 ## Quick Fix
 
 **Stop picking Gambits randomly. These 5 combinations have the highest win rates:**
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Chain | Core Gambit | Support Gambits | Win Rate |
 |-------|-------------|-----------------|----------|
@@ -22,6 +24,8 @@ category: "Gambits"
 | Endgame Master | Pawn Storm | Promotion Power, Final Stand | +21% |
 | Boss Killer | Crit Chain | Precision, Gambit Recycler | +24% |
 
+</div>
+
 ---
 
 ## How to Build a Gambit Chain
@@ -30,6 +34,8 @@ category: "Gambits"
 
 Your Core Gambit defines your entire strategy. Pick based on what you want to achieve:
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | If You Want | Core Gambit | Strategy |
 |-------------|-------------|----------|
 | More stock | Compound Interest | Economy Engine |
@@ -37,6 +43,8 @@ Your Core Gambit defines your entire strategy. Pick based on what you want to ac
 | Board control | Bishop's Domain | Control Lock |
 | Endgame power | Pawn Storm | Promotion Build |
 | Boss kills | Crit Chain | Boss Killer |
+
+</div>
 
 ### Rule 2: Add Support Gambits That Amplify Your Core
 
@@ -130,8 +138,12 @@ Support Gambits should make your Core stronger, not weaker.
 
 **These Gambit combinations cancel each other out:**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Gambit 1 | Gambit 2 | Why It Fails |
 |----------|----------|--------------|
 | First Blood | Patience | Early action vs waiting = conflict |
 | Knight's Tour | Bishop's Domain | Knight mobility vs Bishop control = wrong focus |
 | Stock Market | Compound Interest | Both need stock, but pull in different directions |
+
+</div>

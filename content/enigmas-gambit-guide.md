@@ -14,11 +14,15 @@ category: "Gambits"
 
 **Enigmas Gambit copies the LAST Gambit you played. If you set it up correctly, it doubles your strongest effect every other turn.**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Setup | Effective Power | Consistency | Skill Floor |
 |-------|----------------|-------------|-------------|
 | Basic Copy | Single Gambit doubled | Low | Beginner |
 | Chain Loop | 3 Gambits in rotation | Medium | Intermediate |
 | Infinite Loop | 5 Gambit recursion | High | Advanced |
+
+</div>
 
 **Core mechanic:** Enigmas Gambit triggers when your opponent activates a Gambit OR when a specific trigger condition is met (depends on your Enigmas variant). It then replays the last Gambit YOU activated at no stock cost.
 
@@ -36,10 +40,9 @@ Here is why it is actually S-Tier:
 3. **Versatility** - Works with any build that has at least one strong Gambit
 4. **Scaling** - Gets better as your Gambits get stronger (late-game power spike)
 
-<div class="callout callout-verdict">
-  <strong>The Truth</strong><br>
-  Enigmas Gambit has a 72% win rate when paired with Column Gambits or Economy Gambits. The only reason it has a reputation as B-Tier is because 80% of players use it with the WRONG Gambits. If you trigger it with a weak Gambit, you just doubled your weakness.
-</div>
+{{< callout type="verdict" >}}<strong>The Truth</strong>
+
+  Enigmas Gambit has a 72% win rate when paired with Column Gambits or Economy Gambits. The only reason it has a reputation as B-Tier is because 80% of players use it with the WRONG Gambits. If you trigger it with a weak Gambit, you just doubled your weakness.{{< /callout >}}
 
 ## The 3 Best Enigmas Builds
 
@@ -96,12 +99,16 @@ Create a 3-Gambit rotation where each Gambit feeds into the next.
 
 ## What NOT to Pair With Enigmas
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Gambit | Why It's Bad | Better Alternative |
 |--------|--------------|-------------------|
 | Sacrificial Gambits | You sacrifice twice as much | Economy Gambits |
 | RNG Gambits | You double the randomness | Deterministic Gambits |
 | One-time use Gambits | Enigmas has nothing to copy mid-game | Repeatable Gambits |
 | Defensive-only Gambits | Double defense doesn't win games | Mixed Gambits |
+
+</div>
 
 ## Pro Tips
 

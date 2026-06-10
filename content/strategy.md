@@ -16,11 +16,11 @@ see_also:
 ## Strategy Guide-Rated Builds & Proven Tactics
 
 <div style="background:var(--dark-2);border:1px solid var(--rose);padding:16px;border-radius:3px;margin:16px 0">
-  <strong style="color:var(--rose);font-family:var(--font-display)">?THE GAMBONANZA MINDSET</strong><br>
+  <strong style="color:var(--rose);font-family:var(--font-display)">THE GAMBONANZA MINDSET</strong><br>
   <span style="font-size:0.9rem;color:var(--cream-dark)">This is NOT chess. It's a <strong>deckbuilding roguelike</strong> that pretends to be chess. If you approach it like a chess game, you lose. If you approach it like Slay the Spire with pieces, you win. This guide is built on that principle.</span>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Opening Builds-Ranked & Explained
 
@@ -30,10 +30,7 @@ Three proven openers. Pick one per run and commit.
 
 ### Build #1: Knight Aggro <span class="meta-badge meta-s">S</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Highest win rate opening. Aggressive knight development into early checkmate threats.</span>
-</div>
+{{< meta-rating grade="S" label="Highest win rate opening. Aggressive knight development into early checkmate threats." >}}
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -48,25 +45,20 @@ Three proven openers. Pick one per run and commit.
 </div>
 
 <div style="margin: 12px 0">
-  <span class="phase-tag phase-early">EARLY GAME</span>
+  {{< phase-tag "early" >}}
   <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Strongest turns 1-8. Falls off if game goes past move 15.</span>
 </div>
 
 **Best against:** Non-boss boards, Rook Rook, Bishop Bluku<br>
 **Weak against:** Queen Gambit (she eats aggressive knights), King of Spades
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> On 4x4 boards, Knight Aggro can win in 4 moves against the AI. Open d4 knight-e4 knight-Backstab on f-pawn-checkmate. The AI literally cannot respond in time on boards smaller than 6x6. This is your speedrun opener.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> On 4x4 boards, Knight Aggro can win in 4 moves against the AI. Open d4 knight-e4 knight-Backstab on f-pawn-checkmate. The AI literally cannot respond in time on boards smaller than 6x6. This is your speedrun opener.{{< /pro-tip >}}
 
 ---
 
 ### Build #2: Pawn Wall Defense <span class="meta-badge meta-a">A</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Most consistent build. Survive early, dominate late. Lower win rate but higher survival.</span>
-</div>
+{{< meta-rating grade="A" label="Most consistent build. Survive early, dominate late. Lower win rate but higher survival." >}}
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -81,25 +73,20 @@ Three proven openers. Pick one per run and commit.
 </div>
 
 <div style="margin: 12px 0">
-  <span class="phase-tag phase-mid">MID GAME</span> <span class="phase-tag phase-late">LATE GAME</span>
+  {{< phase-tag "mid" >}} {{< phase-tag "late" >}}
   <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Weak early, unstoppable late. Needs patience.</span>
 </div>
 
 **Best against:** Boss fights (survives longer), Queen Gambit<br>
 **Weak against:** Aggressive AIs that punish slow development
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Pawn Wall + King's Shield creates an exploit where the AI wastes ALL its Gambits trying to break through. The AI prioritizes your king, but when it's shielded AND walled, it will burn 5+ Gambits on futile attacks while your bishops destroy everything from behind the wall.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Pawn Wall + King's Shield creates an exploit where the AI wastes ALL its Gambits trying to break through. The AI prioritizes your king, but when it's shielded AND walled, it will burn 5+ Gambits on futile attacks while your bishops destroy everything from behind the wall.{{< /pro-tip >}}
 
 ---
 
 ### Build #3: Economy Rush <span class="meta-badge meta-b">B</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-b">B</span>
-  <span class="meta-label">High-risk build. Prioritize stock over board position. Dominate through purchases.</span>
-</div>
+{{< meta-rating grade="B" label="High-risk build. Prioritize stock over board position. Dominate through purchases." >}}
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -114,18 +101,16 @@ Three proven openers. Pick one per run and commit.
 </div>
 
 <div style="margin: 12px 0">
-  <span class="phase-tag phase-early">EARLY</span> <span class="phase-tag phase-late">LATE</span>
+  {{< phase-tag "early" >}} {{< phase-tag "late" >}}
   <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Risky in mid-game because you're under-equipped. If you survive, you snowball.</span>
 </div>
 
 **Best against:** Boss prep runs, long campaigns<br>
 **Weak against:** Early aggressive AIs that don't let you farm
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> The Pawn Lottery expected value peaks at exactly 37 stock input. Input less and you lose to variance; input more and the returns diminish. Always bet exactly 37 stock in the Pawn Lottery for mathematically optimal long-term returns.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> The Pawn Lottery expected value peaks at exactly 37 stock input. Input less and you lose to variance; input more and the returns diminish. Always bet exactly 37 stock in the Pawn Lottery for mathematically optimal long-term returns.{{< /pro-tip >}}
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Advanced Gambit Combos
 
@@ -191,7 +176,7 @@ Three proven openers. Pick one per run and commit.
 </div>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Deck Composition Math
 
@@ -208,12 +193,11 @@ Three proven openers. Pick one per run and commit.
 
 </div>
 
-<div class="callout callout-danger">
-  <strong>?THE GOLDEN RULE OF DECK SIZE</strong><br>
-  Every Gambit after #22 reduces your chance of drawing your best 5 Gambits. A bloated deck isn't versatile-it's diluted. Keep it under 22 cards unless your build specifically requires more.
-</div>
+{{< callout type="danger" >}}<strong>THE GOLDEN RULE OF DECK SIZE</strong>
 
-<hr class="section-divider">
+  Every Gambit after #22 reduces your chance of drawing your best 5 Gambits. A bloated deck isn't versatile-it's diluted. Keep it under 22 cards unless your build specifically requires more.{{< /callout >}}
+
+{{< section-divider >}}
 
 ## Reading the Board-Phase by Phase
 
@@ -267,14 +251,13 @@ Three proven openers. Pick one per run and commit.
 </div>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Tilt Management
 
-<div class="callout callout-danger">
-  <strong> THE 3-LOSS RULE</strong><br>
-  If you lose 3 runs in a row, STOP. Your decision-making is compromised. Take 10 minutes, review one replay, identify exactly which Gambit you should have bought instead. Come back fresh.
-</div>
+{{< callout type="danger" >}}<strong> THE 3-LOSS RULE</strong>
+
+  If you lose 3 runs in a row, STOP. Your decision-making is compromised. Take 10 minutes, review one replay, identify exactly which Gambit you should have bought instead. Come back fresh.{{< /callout >}}
 
 **Common tilt mistakes:**
 - Buying expensive Gambits out of frustration

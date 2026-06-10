@@ -19,10 +19,9 @@ see_also:
 
 > Your seed determines your opening Gambit pool, relic offerings, and shop rotation. I've tested over 200 seeds across multiple patches and these are the ones that consistently deliver wins.
 
-<div class='callout callout-verdict'>
-  <strong>Quick Pick</strong><br>
-  Don't want to read? Use seed <strong>1238513920</strong>-it's the strongest all-rounder I've found. Double Gambit slot opener + economy relic in the first shop. Works for every build type. <strong>Rating:</strong> <span class='meta-badge meta-s'>S</span>
-</div>
+{{< callout type="verdict" >}}<strong>Quick Pick</strong>
+
+  Don't want to read? Use seed <strong>1238513920</strong>-it's the strongest all-rounder I've found. Double Gambit slot opener + economy relic in the first shop. Works for every build type. <strong>Rating:</strong> <span class='meta-badge meta-s'>S</span>{{< /callout >}}
 
 ## What Makes a Good Seed?
 
@@ -32,14 +31,14 @@ A good seed gives you three things:
 2. **Early economy relic**-A shop relic that boosts stock earnings before the first boss
 3. **Synergy potential**-Gambits that chain well together (e.g., King Bind + Castle Rush)
 
-<div class='pro-tip'>
-  <strong>How Seeds Work</strong><br>
-  Seeds are deterministic-the same seed always produces the same opening pool. But your choices after that still matter. A great seed with bad decisions still loses. The seed gives you the tools; you still need to use them.
-</div>
+{{< pro-tip >}}<strong>How Seeds Work</strong><br>
+  Seeds are deterministic-the same seed always produces the same opening pool. But your choices after that still matter. A great seed with bad decisions still loses. The seed gives you the tools; you still need to use them.{{< /pro-tip >}}
 
 ## Top 15 Seeds-Complete Rankings
 
 ### S-Tier Seeds (Must-Use)
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Seed | Opening Gambits | First Shop Relic | Best Build | Why It's S-Tier |
 |------|----------------|-----------------|------------|-----------------|
@@ -48,7 +47,11 @@ A good seed gives you three things:
 | **782993044** | Pawn Storm + Stock Boost | Double Safe Haven | Fast Farm | Economy snowball from turn 1 |
 | **729384710** | Royal Gambit + Phantom Leap | Relic Reroll | Queen Rush | Most consistent Queen build opener |
 
+</div>
+
 ### A-Tier Seeds (Strong)
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Seed | Opening Gambits | First Shop Relic | Best Build | Notes |
 |------|----------------|-----------------|------------|-------|
@@ -58,7 +61,11 @@ A good seed gives you three things:
 | **11733900** | Economy burst early | Stock Doubler | Economy | Platinum-Diamond ranked seed |
 | **628493015** | Knight's Tour + Phase Shift | Phase Relic | Knight Build | Best Knight-focused seed I've found |
 
+</div>
+
 ### B-Tier Seeds (Situationally Good)
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Seed | Opening Gambits | Best For | Notes |
 |------|----------------|----------|-------|
@@ -67,6 +74,8 @@ A good seed gives you three things:
 | **271828182** | Late-game scaling Gambits | Long runs | Weak early, strong after boss 4 |
 | **867530900** | Boss-specific Gambits | Boss practice | Great for learning boss patterns |
 | **112358132** | Fibonacci-scaling economy | Economy runs | Stock grows exponentially if you don't spend early |
+
+</div>
 
 ## Best Seeds by Category
 
@@ -90,10 +99,9 @@ A good seed gives you three things:
 4. Press **Enter** to confirm
 5. Start your run-the opening pool will match the seed
 
-<div class='callout callout-tip'>
-  <strong>Tip</strong><br>
-  You can add spaces when typing seeds (e.g., `1238 513 920`) to avoid typos. The game ignores spaces.
-</div>
+{{< callout type="tip" >}}<strong>Tip</strong>
+
+  You can add spaces when typing seeds (e.g., `1238 513 920`) to avoid typos. The game ignores spaces.{{< /callout >}}
 
 ## Seeds FAQ
 
@@ -114,10 +122,9 @@ Yes! Seeds are deterministic, so any seed that works for you will work identical
 - **v1.1** (v1.1.0-05-19): Expanded from 5 seeds to 15, added category rankings, expanded FAQ
 - **v1.0** (v1.1.0-05-11): Initial release with 5 community-verified seeds
 
-<div class='callout callout-tip'>
-  <strong>Sources & Updates</strong><br>
-  I've tested these seeds across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
-</div>
+{{< callout type="tip" >}}<strong>Sources & Updates</strong>
+
+  I've tested these seeds across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}
 
 <div class='ad-slot ad-slot--after-content'>
   <div class='ad-label'>Advertisement</div>

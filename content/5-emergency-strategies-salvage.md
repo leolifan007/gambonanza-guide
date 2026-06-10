@@ -14,6 +14,8 @@ category: "Strategy & Guides"
 
 **A "dead" run in Gambonanza is almost never actually dead. Here are 5 proven strategies I've used to salvage over 200 runs that looked hopeless.**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Emergency | Best Strategy | Success Rate |
 |-----------|--------------|--------------|
 | 0-10 stock (broke) | Pawn Economy Loop | 72% |
@@ -21,6 +23,8 @@ category: "Strategy & Guides"
 | Wrong Gambit purchases | Pivot to Neutral Stack | 65% |
 | Board collapse (Crumble) | Rook Wall rebuild | 78% |
 | Lost all key pieces | Pawn Promotion rush | 58% |
+
+</div>
 
 **The golden rule of salvage:** Don't restart until you've tried exactly 1 salvage strategy. Most runs can be saved with a single correct pivot.
 
@@ -39,11 +43,15 @@ category: "Strategy & Guides"
 3. Invest every stock drop into the cheapest relic you can find (even Common)
 4. Sell excess pieces for stock if your board allows it
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Action | Stock Change | Turns to Recover |
 |--------|-------------|------------------|
 | Keep buying Gambits | -5 to -10 per turn | Never recovers |
 | Pawn Economy Loop | +3 to +8 per turn | 3-5 turns |
 | Sell pieces + Pawn Loop | +5 to +12 per turn | 2-4 turns |
+
+</div>
 
 **My experience:** I once had a run with 3 stock on turn 8 (near 0 stock). I used the Pawn Economy Loop, recovered to 45 stock by turn 12, and won the run. The key is stopping the bleeding immediately.
 
@@ -62,11 +70,15 @@ category: "Strategy & Guides"
 3. Activate ANY neutral Gambit (King's Pawn, Knight's Pawn)
 4. This resets your chain state -- now pivot to a secondary chain you already picked
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Recovery Method | Turns Lost | Salvage Rate |
 |----------------|-----------|--------------|
 | Rebuild same chain | 3-4 turns | 30% |
 | Knight Anchor Reset | 1 turn | 85% |
 | Random Gambit spam | 2 turns | 40% |
+
+</div>
 
 **The key insight:** A Knight reset costs 1 turn. It's almost always better than trying to fix the broken chain.
 
@@ -87,11 +99,15 @@ Neutral Gambits (King's Pawn, Knight's Pawn, Bishop's Pawn) work with ANY deck. 
 3. Focus on piece positioning instead of Gambit combos
 4. Let your positioned pieces carry the fight, not your deck
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Deck State | Best Action | Win Chance |
 |-----------|-------------|------------|
 | Anti-synergy deck | Force Neutral Stack | 65% |
 | Mixed deck | Purge worst 2, stack neutrals | 55% |
 | Bad deck + good board | Ignore deck, play position | 60% |
+
+</div>
 
 **My experience:** Your board position matters more than your deck. I've won runs with terrible decks but great positioning. The Neutral Stack strategy buys you time to reposition.
 
@@ -111,11 +127,15 @@ Neutral Gambits (King's Pawn, Knight's Pawn, Bishop's Pawn) work with ANY deck. 
 4. Move your King behind the wall
 5. Rebuild from behind the wall
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Recovery Method | Safety Time | Full Recovery |
 |----------------|-------------|---------------|
 | Random spread | 1 turn | Rarely recovers |
 | Rook Wall Rebuild | 4-5 turns | 78% recover |
 | Bishop Zone control | 3 turns | 65% recover |
+
+</div>
 
 **Why it works:** A Rook wall is the fastest defensive structure you can build. 2 Rooks on the same rank cover 14 tiles. Your King is effectively safe for 4-5 turns while you rebuild.
 
@@ -136,11 +156,15 @@ Pawns in Gambonanza can promote when they reach the enemy's back rank. A promote
 3. First Pawn to promote gives you a Queen
 4. Now you're back in the game
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Piece Situation | Promotion Time | Comeback Rate |
 |----------------|---------------|---------------|
 | 3+ Pawns + 1 Rook | 4-5 turns | 65% |
 | 2 Pawns + 1 Bishop | 5-7 turns | 50% |
 | 1 Pawn only | 7+ turns | 30% |
+
+</div>
 
 **My experience:** I won a run where I had only 2 Pawns and 1 Rook on turn 12. I promoted a Pawn to Queen on turn 15, and the Queen carried the rest of the fight. Never surrender while you still have Pawns.
 
@@ -150,7 +174,11 @@ Pawns in Gambonanza can promote when they reach the enemy's back rank. A promote
 
 ```
 Is your run in trouble?
+<div class="synergy-table" style="overflow-x:auto">
+
   |
+
+</div>
   +--> Broke (0-10 stock)?       --> Pawn Economy Loop
   +--> Chain broken?              --> Knight Anchor Reset
   +--> Bad deck?                  --> Pivot to Neutral Stack
@@ -169,6 +197,8 @@ Is your run in trouble?
 
 ## Summary
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Emergency | Strategy | Success Rate | Difficulty |
 |-----------|----------|--------------|------------|
 | Broke | Pawn Economy Loop | 72% | Easy |
@@ -176,6 +206,8 @@ Is your run in trouble?
 | Bad deck | Pivot to Neutral Stack | 65% | Medium |
 | Collapsed board | Rook Wall Rebuild | 78% | Medium |
 | Lost pieces | Pawn Promotion Rush | 58% | Hard |
+
+</div>
 
 **Remember:** A bad run is rarely a dead run. Try one salvage strategy before restarting.
 

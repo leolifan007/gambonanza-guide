@@ -14,12 +14,16 @@ category: "Economy"
 
 **The Pawn Economy Loop generates 5+ stock per turn. Here's the setup:**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Piece/Gambit | Stock Generated | Turn |
 |--------------|-----------------|------|
 | Pawn Parade (Gambit) | +1 per Pawn move | Always |
 | Smart Investment (Gambit) | +2 per piece bought | 1-3 |
 | 3 Pawns moving | +3 total | Every turn |
 | Compound Interest (Gambit) | +5% of held stock | End of turn |
+
+</div>
 
 **Turn 5 target: 80+ stock from Pawns alone.**
 
@@ -76,6 +80,8 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 **Add Compound Interest Gambit:** +5% of held stock per turn
 
 **Stock growth with both Gambits:**
+<div class="synergy-table" style="overflow-x:auto">
+
 | Turn | Stock | Interest | Total |
 |------|-------|----------|-------|
 | 4 | 15 | +0 | 15 |
@@ -85,11 +91,15 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 | 8 | 72 | +3 | 75 |
 | 9 | 90 | +4 | 94 |
 
+</div>
+
 ---
 
 ## When to Spend Your Stock
 
 **Wait until you have 80+ stock before buying big pieces.**
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Option | Cost | When to Buy |
 |--------|------|-------------|
@@ -97,18 +107,26 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 | 2 Rooks | 80 | Turn 9+ for endgame control |
 | Gambit Recycler | 40 | Turn 7+ to reuse economy Gambits |
 
+</div>
+
 ---
 
 ## Complete Build Summary
 
 **Gambits (Pick 3):**
+<div class="synergy-table" style="overflow-x:auto">
+
 | Priority | Gambit | Why |
 |----------|--------|-----|
 | 1 | Pawn Parade | Core - generates stock |
 | 2 | Compound Interest | Multiplies stock |
 | 3 | King's Shield OR Smart Investment | Survival or economy |
 
+</div>
+
 **Piece Build Order:**
+<div class="synergy-table" style="overflow-x:auto">
+
 | Turn | Action |
 |------|--------|
 | 1 | 2 Pawns |
@@ -116,6 +134,8 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 | 3 | 1 Rook (protects Pawns) |
 | 4-7 | Loop Pawns, generate stock |
 | 8+ | Buy Queen/Rooks |
+
+</div>
 
 **Win rate:** 70%
 

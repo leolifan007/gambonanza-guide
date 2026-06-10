@@ -25,7 +25,7 @@ see_also:
 
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## S-Tier Achievements-The Hardest Unlocks
 
@@ -47,9 +47,7 @@ see_also:
 
 </div>
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> This achievement doesn't count pawn captures. Only major pieces matter. Sacrifice pawns freely to bait the boss's teleport Gambit onto pawns instead of knights/rooks. He'll waste 3+ teleports on pawns that "don't count"-then you clean up with your intact major pieces.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> This achievement doesn't count pawn captures. Only major pieces matter. Sacrifice pawns freely to bait the boss's teleport Gambit onto pawns instead of knights/rooks. He'll waste 3+ teleports on pawns that "don't count"-then you clean up with your intact major pieces.{{< /pro-tip >}}
 
 ---
 
@@ -59,9 +57,7 @@ see_also:
 
 **Why it's S-tier:** Three phases, all piece types, requires full toolkit. See [Boss Battle Guide](/bosses/) for the complete strategy.
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Phase 2 boss rotation is FIXED: Rook-Bishop-Knight-Queen-King-Pawn-Castle. Pre-load your counter Gambits 1 turn before each rotation. You'll block 80% of Phase 2 damage automatically.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Phase 2 boss rotation is FIXED: Rook-Bishop-Knight-Queen-King-Pawn-Castle. Pre-load your counter Gambits 1 turn before each rotation. You'll block 80% of Phase 2 damage automatically.{{< /pro-tip >}}
 
 ---
 
@@ -71,9 +67,7 @@ see_also:
 
 **Why it's S-tier:** Requires promoting pawns to every piece type on different runs. Pawn-Knight and Pawn-Queen are easy. Pawn-King is rare and situation-dependent.
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Promotion choice depends on which piece types have already been captured. If you've lost both bishops, the game will OFFER bishop promotion more often. If you need a specific promotion, deliberately sacrifice that piece type early in the match-the game will offer it as a promotion option.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Promotion choice depends on which piece types have already been captured. If you've lost both bishops, the game will OFFER bishop promotion more often. If you need a specific promotion, deliberately sacrifice that piece type early in the match-the game will offer it as a promotion option.{{< /pro-tip >}}
 
 ---
 
@@ -83,11 +77,9 @@ see_also:
 
 **Trick:** Through the Ranks + Gambit tiles. One rook charging through a line of 3+ Gambit tiles triggers a Gambit effect on EACH tile. Combine with Chain Capture for guaranteed 3+ activations.
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> You don't need 3 different Gambit types-you need 3 Gambit ACTIVATIONS. Through the Ranks across 3 Gambit tiles counts as 3. This is the easiest path.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> You don't need 3 different Gambit types-you need 3 Gambit ACTIVATIONS. Through the Ranks across 3 Gambit tiles counts as 3. This is the easiest path.{{< /pro-tip >}}
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## A-Tier Achievements
 
@@ -106,9 +98,11 @@ see_also:
 ### Boss Collector <span class="meta-badge meta-a">A</span>
 *Defeat all 8 bosses.* Beat them in order: Rook-Bishop-Knight-Queen-Pawn-Castle-King-Grandmaster. See [Boss Guide](/bosses/).
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## B-Tier Achievements
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Achievement | Quick Strat |
 |---|---|
@@ -119,7 +113,9 @@ see_also:
 | **Bishop Victory** (Bishop diagonal Gambits) | Bishop-heavy deck on 6x6 board |
 | **King's Gambit** (King in center at win) | Win with king on d4/e4-aggressive king play |
 
-<hr class="section-divider">
+</div>
+
+{{< section-divider >}}
 
 ## C-Tier Achievements
 
@@ -129,7 +125,7 @@ These unlock naturally through gameplay. No special strategy needed:
 - **First Boss Kill**-beat Rook Rook with standard opener
 - **Queen Takeover**-slightly harder, focus queen endgame
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Easy Achievements (Impossible to Miss)
 
@@ -138,7 +134,7 @@ These unlock naturally through gameplay. No special strategy needed:
 - **Survival**-Complete your first run (win or lose)
 - **First Promotion**-Promote any pawn (will happen naturally by run 3-4)
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Optimal Achievement Path (22/22 in ~50 hours)
 
@@ -148,9 +144,7 @@ These unlock naturally through gameplay. No special strategy needed:
 4. **Runs 41-50:** Boss achievements (Boss Collector-King Killer-Grandmaster Slayer)
 5. **Post-game:** Full Arsenal grind, clean up any remaining
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Several achievements (King Killer, Grandmaster Slayer) share the same prerequisite Gambits. Farm the pre-boss economy together-get Jackpot Gambit + relevant boss counters in the same shop run. One good economy setup can unlock 2-3 achievements in a single session.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Several achievements (King Killer, Grandmaster Slayer) share the same prerequisite Gambits. Farm the pre-boss economy together-get Jackpot Gambit + relevant boss counters in the same shop run. One good economy setup can unlock 2-3 achievements in a single session.{{< /pro-tip >}}
 
 ---
 

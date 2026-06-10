@@ -17,19 +17,17 @@ version: 'v1.1.0'
 
 ## Queen Supremacy-TL;DR
 
-<div class="callout callout-verdict">
-<strong>Deploy Queen on turn 2-4 (not turn 1, not turn 10).</strong><br>
-Pair her with 1 Gambit. Win.
-</div>
+{{< callout type="verdict" >}}<strong>Deploy Queen on turn 2-4 (not turn 1, not turn 10).</strong>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Highest-impact piece per stock. Naked Queen = expensive target. Queen + 1 Gambit = game over.</span>
-</div>
+Pair her with 1 Gambit. Win.{{< /callout >}}
 
-<hr class="section-divider">
+{{< meta-rating grade="S" label="Highest-impact piece per stock. Naked Queen = expensive target. Queen + 1 Gambit = game over." >}}
+
+{{< section-divider >}}
 
 ## When to Deploy-3-Board Cheat Sheet
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Board | Deploy on Turn | Why |
 |-------|-----------------|-----|
@@ -37,9 +35,11 @@ Pair her with 1 Gambit. Win.
 | 5x5 | 2-4 | Sweet spot-deploy early, stack Gambits |
 | 6x6+ | 3-5 | Clear a lane first, then Queen takes over |
 
+</div>
+
 > **Rule:** Never turn 1 on 5x5+. Deploy Knight/Bishop first to open a lane.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## The Only 3 Combos You Need
 
@@ -53,10 +53,14 @@ Pair her with 1 Gambit. Win.
 
 ###-Double Move + Queen <span class="meta-badge meta-s">S</span>
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Move | Action | Result |
 |------|--------|--------|
 | 1 | Position Queen to threaten 2 pieces | Opponent must respond |
 | 2 | Capture the higher-value piece | Insurmountable advantage by turn 5 |
+
+</div>
 
 **Stock cost:** High | **Best on:** 4x4 (ends game in 3 turns)
 
@@ -68,19 +72,23 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 
 **Stock cost:** Medium | **Mandatory vs:** Jester, Grand Master
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Queen Win Conditions (Pick One)
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Win Con | Setup Time | Gambits Needed | Difficulty |
 |---------|-------------|----------------|------------|
-| Back Rank Mate | 3-5 turns | 0-1 | ?|
-| Diagonal Squeeze | 4-7 turns | 0 | ?|
-| Fork Frenzy | 2-3 turns | 1-2 | ?|
+| Back Rank Mate | 3-5 turns | 0-1 | |
+| Diagonal Squeeze | 4-7 turns | 0 | |
+| Fork Frenzy | 2-3 turns | 1-2 | |
+
+</div>
 
 > **Fork Frenzy tip:** Check opponent's Gambits first. If they have Freeze or Swap, don't fork-your Queen becomes the trap.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Decision Flowchart
 
@@ -97,9 +105,11 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 </table>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## What NOT to Do
+
+<div class="synergy-table" style="overflow-x:auto">
 
 |-Mistake | Why It Loses |
 |------------|---------------|
@@ -109,9 +119,13 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 | Trade Queen for 1 piece | Only trade if you get 2+ pieces or checkmate |
 | Half-commit | Either build around Queen or don't deploy her at all |
 
-<hr class="section-divider">
+</div>
+
+{{< section-divider >}}
 
 ## Queen vs Bosses (Quick Reference)
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Boss | Strategy | Rating |
 |------|----------|--------|
@@ -120,6 +134,8 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 | Blitzking | Fast combos only. Don't overcommit. | A |
 | Queen of Hearts | Mirror match-whoever deploys Queen first + better Gambits wins | A |
 | Grand Master | Queen + Rook battery mandatory for file control | S |
+
+</div>
 
 ---
 

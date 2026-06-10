@@ -5,10 +5,9 @@ description: "Learn about Gambonanza Guide-the most complete community-driven st
 
 ## About This Guide
 
-<div class="callout callout-verdict">
-  <strong> OUR MISSION</strong><br>
-  To provide the most complete, accurate, and actionable Gambonanza strategy resource on the internet-built by players, for players.
-</div>
+{{< callout type="verdict" >}}<strong> OUR MISSION</strong>
+
+  To provide the most complete, accurate, and actionable Gambonanza strategy resource on the internet-built by players, for players.{{< /callout >}}
 
 Gambonanza Guide was created by a team of dedicated Gambonanza players who fell in love with the game's depth and wanted to share what we learned. What started as a personal collection of notes and strategies quickly grew into something bigger-a community resource that now serves thousands of players every month.
 
@@ -16,7 +15,7 @@ We believe that great games deserve great guides. Gambonanza is a deceptively co
 
 Our team brings together players from diverse gaming backgrounds-strategy game veterans, deckbuilding roguelike enthusiasts, chess hobbyists, and competitive gamers-who collectively have invested hundreds of hours analyzing every mechanic, testing every Gambit, and mapping every boss pattern.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## What We Cover
 
@@ -52,7 +51,7 @@ Gambonanza Guide is organized into several comprehensive sections, each designed
 - **No Clickbait, No Fluff:** Every guide focuses on actionable information. We don't pad content with filler or speculation
 - **Ranked by Real Value:** Our tier lists and recommendations are based on practical effectiveness, not theoretical maximums
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Contact Us
 
@@ -62,17 +61,16 @@ We love hearing from the Gambonanza community! Whether you have a question, foun
 
 Found a bug on the site? Noticed a strategy that's outdated? Spotted a typo in one of our guides?
 
-<div class="callout callout-tip">
-  <strong> REPORT AN ISSUE</strong><br>
-  Open a ticket on our <a href="https://github.com/leolifan007/gambonanza-guide/issues">GitHub Issues page</a>. We review every submission and typically respond within 48 hours. Please provide as much detail as possible, including the page URL and a description of the problem.
-</div>
+{{< callout type="tip" >}}<strong> REPORT AN ISSUE</strong>
+
+  Open a ticket on our <a href="https://github.com/leolifan007/gambonanza-guide/issues">GitHub Issues page</a>. We review every submission and typically respond within 48 hours. Please provide as much detail as possible, including the page URL and a description of the problem.{{< /callout >}}
 
 ### GitHub Discussions
 
 Want to discuss strategy, share your own findings, or suggest new content?
 
-<div class="callout callout-verdict">
-  <strong> JOIN THE CONVERSATION</strong><br>
+{{< callout type="verdict" >}}<strong> JOIN THE CONVERSATION</strong>
+
   Head over to our <a href="https://github.com/leolifan007/gambonanza-guide/discussions">GitHub Discussions</a> page. This is the best place for:
   <ul>
     <li>Strategy discussions and theorycrafting</li>
@@ -80,10 +78,9 @@ Want to discuss strategy, share your own findings, or suggest new content?
     <li>Requesting new guide topics</li>
     <li>Reporting boss patterns you've discovered</li>
     <li>General Gambonanza conversation</li>
-  </ul>
-</div>
+  </ul>{{< /callout >}}
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Feedback
 
@@ -118,7 +115,7 @@ To help us process your feedback efficiently, please include:
 
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Frequently Asked Contact Questions
 
@@ -138,26 +135,35 @@ The best way to support us is to:
 
 Absolutely! We welcome community contributors. Open a discussion on GitHub introducing yourself and what you'd like to write about. We'll work with you to integrate quality contributions.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Disclaimer
 
-<div class="callout callout-danger">
-  <strong> IMPORTANT DISCLAIMER</strong><br>
-  Gambonanza Guide is a <strong>fan-made, unofficial resource</strong> created by players for players. This website is <strong>not affiliated with, endorsed by, or connected to</strong> Blukull, the developer and publisher of Gambonanza.
-  <br><br>
-  <strong>Trademark Notice:</strong> "Gambonanza" and all associated game content, including but not limited to game screenshots, artwork, character designs, sound effects, music, and game mechanics, are the intellectual property of Blukull. All game-related materials used on this site are used for informational and educational purposes under fair use principles.
-  <br><br>
-  <strong>Copyright Notice:</strong> All game screenshots, visual assets, and game excerpts displayed on Gambonanza Guide are copyrighted by Blukull. These materials are used for the purpose of commentary, criticism, and strategy explanation. They are not used for commercial gain beyond standard advertising revenue necessary to maintain the site.
-  <br><br>
-  <strong>Unofficial Status:</strong> This is a non-commercial, fan-operated strategy resource. No official partnership, sponsorship, or relationship exists between this website and Blukull or any of its affiliates, partners, or subsidiaries.
-  <br><br>
-  <strong>Accuracy Disclaimer:</strong> While we strive for accuracy in all our guides and strategies, game mechanics may change with updates. Strategies that work in the current version may become outdated. We recommend checking the game's official documentation for the most up-to-date information on mechanics and features.
-  <br><br>
-  <strong>Links to Third-Party Sites:</strong> Our website contains links to third-party websites, including but not limited to Steam and GitHub. We are not responsible for the content, privacy practices, or availability of these external sites.
-</div>
+{{< callout type="danger" >}}<strong> IMPORTANT DISCLAIMER</strong>
 
-<hr class="section-divider">
+  Gambonanza Guide is a <strong>fan-made, unofficial resource</strong> created by players for players. This website is <strong>not affiliated with, endorsed by, or connected to</strong> Blukull, the developer and publisher of Gambonanza.
+  
+
+
+  <strong>Trademark Notice:</strong> "Gambonanza" and all associated game content, including but not limited to game screenshots, artwork, character designs, sound effects, music, and game mechanics, are the intellectual property of Blukull. All game-related materials used on this site are used for informational and educational purposes under fair use principles.
+  
+
+
+  <strong>Copyright Notice:</strong> All game screenshots, visual assets, and game excerpts displayed on Gambonanza Guide are copyrighted by Blukull. These materials are used for the purpose of commentary, criticism, and strategy explanation. They are not used for commercial gain beyond standard advertising revenue necessary to maintain the site.
+  
+
+
+  <strong>Unofficial Status:</strong> This is a non-commercial, fan-operated strategy resource. No official partnership, sponsorship, or relationship exists between this website and Blukull or any of its affiliates, partners, or subsidiaries.
+  
+
+
+  <strong>Accuracy Disclaimer:</strong> While we strive for accuracy in all our guides and strategies, game mechanics may change with updates. Strategies that work in the current version may become outdated. We recommend checking the game's official documentation for the most up-to-date information on mechanics and features.
+  
+
+
+  <strong>Links to Third-Party Sites:</strong> Our website contains links to third-party websites, including but not limited to Steam and GitHub. We are not responsible for the content, privacy practices, or availability of these external sites.{{< /callout >}}
+
+{{< section-divider >}}
 
 ## Get In Touch
 
@@ -165,16 +171,16 @@ Ready to reach out? We're here and we read everything. Whether it's a quick ques
 
 <div class="split-col">
 <div class="col">
-  <strong><a href="https://github.com/leolifan007/gambonanza-guide/issues">?Report an Issue</a></strong><br>
+  <strong><a href="https://github.com/leolifan007/gambonanza-guide/issues">Report an Issue</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">Found something wrong? Let us know.</span>
 </div>
 <div class="col">
-  <strong><a href="https://github.com/leolifan007/gambonanza-guide/discussions">?Join Discussions</a></strong><br>
+  <strong><a href="https://github.com/leolifan007/gambonanza-guide/discussions">Join Discussions</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">Share your findings and strategies.</span>
 </div>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 *Gambonanza Guide-Built by players, for players. Updated regularly with community-sourced strategies and insights.*
 

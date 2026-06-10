@@ -11,22 +11,18 @@ see_also:
 
 ## Why Deterministic Gambits Win
 
-<div class="callout callout-verdict">
-  <strong> THE PROBLEM WITH RNG</strong><br>
-  "Gambit 80% are 1/3 chance."-actual player complaint. Gambonanza is full of Gambits that sound amazing until they whiff at the worst possible moment. This guide ranks Gambits by one metric: <strong>reliability</strong>.
-</div>
+{{< callout type="verdict" >}}<strong> THE PROBLEM WITH RNG</strong>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Core strategy reference for intermediate players. Combines well with other guides.</span>
-</div>
+  "Gambit 80% are 1/3 chance."-actual player complaint. Gambonanza is full of Gambits that sound amazing until they whiff at the worst possible moment. This guide ranks Gambits by one metric: <strong>reliability</strong>.{{< /callout >}}
+
+{{< meta-rating grade="A" label="Core strategy reference for intermediate players. Combines well with other guides." >}}
 
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +50 stock. Not because the expected value is lower (it often isn't)-but because in a roguelike, <strong>you plan around what you can count on</strong>. When that 1/3 Gambit fails, you're down a turn and a Gambit slot. When the deterministic one works, you execute your plan.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## S-Tier: Always Works, Always Worth It
 
@@ -42,12 +38,9 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
   </table>
 </div>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">These four form the <strong>deterministic core</strong>. Every run should prioritize buying these before any RNG Gambit. They cost ~130 stock total and cover attack, defense, mobility, and economy-all without rolling a single die.</span>
-</div>
+{{< meta-rating grade="S" label="These four form the <strong>deterministic core</strong>. Every run should prioritize buying these before any RNG Gambit. They cost ~130 stock total and cover attack, defense, mobility, and economy-all without rolling a single die." >}}
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## A-Tier: High Probability, Low Variance
 
@@ -63,14 +56,13 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
   </table>
 </div>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">These have near-deterministic outcomes. Double Down is literally guaranteed returns. Steal Investment works as long as the opponent has stock. Bishop's Diagonal depends on you playing well-but that's a skill issue, not an RNG issue.</span>
-</div>
+{{< meta-rating grade="A" label="These have near-deterministic outcomes. Double Down is literally guaranteed returns. Steal Investment works as long as the opponent has stock. Bishop's Diagonal depends on you playing well-but that's a skill issue, not an RNG issue." >}}
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## B-Tier: Fun but Risky
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Gambit | Cost | Why It's Risky |
 |--------|------|----------------|
@@ -79,25 +71,24 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 | **Jackpot Gambit** | 60 | Only works before bosses, still has a chance component |
 | **Free Roll** | 20 | Reroll is RNG itself-you might get worse options |
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Knight's Jump is the only B-Tier Gambit worth buying IF you have >100 stock. The variance matters less when you're rich. But if you're under 50 stock, skip it. A whiff at low stock ends your run.
 </div>
 
-<hr class="section-divider">
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Knight's Jump is the only B-Tier Gambit worth buying IF you have >100 stock. The variance matters less when you're rich. But if you're under 50 stock, skip it. A whiff at low stock ends your run.{{< /pro-tip >}}
+
+{{< section-divider >}}
 
 ## C-Tier: Skip These
 
-<div class="callout callout-danger">
-  <strong> TRAP GAMBITS</strong><br>
-  These sound good on paper but rely on RNG in ways that make them unreliable. Skip unless you're memeing.
-</div>
+{{< callout type="danger" >}}<strong> TRAP GAMBITS</strong>
+
+  These sound good on paper but rely on RNG in ways that make them unreliable. Skip unless you're memeing.{{< /callout >}}
 
 - **Roulette Gambit**-the name says everything. Pure RNG.
 - **Mystery Box**-unknown effect at unknown timing. You cannot plan around this.
 - **Chaos Gambit**-"random board effect" means random chance to help OR hurt you.
 - **Any Gambit that says "chance" or "random" in its description**-especially if it's the only effect.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## The 80/20 Rule for Gambit Selection
 
@@ -113,12 +104,11 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
   </table>
 </div>
 
-<div class="callout callout-tip">
-  <strong> THE PRINCIPLE</strong><br>
-  Buy the deterministic S-Tier core first. Every time. Then fill from A-Tier. Only touch B-Tier or C-Tier when you have stock to burn. This single rule will increase your win rate more than any combo strategy.
-</div>
+{{< callout type="tip" >}}<strong> THE PRINCIPLE</strong>
 
-<hr class="section-divider">
+  Buy the deterministic S-Tier core first. Every time. Then fill from A-Tier. Only touch B-Tier or C-Tier when you have stock to burn. This single rule will increase your win rate more than any combo strategy.{{< /callout >}}
+
+{{< section-divider >}}
 
 ## Deterministic Gambit Priority on a New Run
 
@@ -130,7 +120,7 @@ The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +5
 
 After this core, buy A-Tier depending on your build. B-Tier only as filler.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ---
 

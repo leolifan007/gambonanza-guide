@@ -14,11 +14,15 @@ category: "Beginner"
 
 **I have watched 200+ Gambonanza games and analyzed every loss. These 10 mistakes account for 85% of failures. Fix these and your win rate jumps 30%.**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Mistake | Frequency | Fix Difficulty | Win Rate Impact |
 |---------|-----------|----------------|-----------------|
 | Overspending | 9/10 players | Easy | -25% |
 | Wrong positioning | 8/10 players | Medium | -20% |
 | Ignoring board size | 7/10 players | Easy | -15% |
+
+</div>
 
 
 <img src="/images/guides/mistake-boss-prepare.svg" alt="Boss Fight Stock Mistake: Low stock (45) entering boss = 31% win rate, High stock (50+) = 72% win rate. Never enter boss with less than 50 stock." />
@@ -40,11 +44,15 @@ If you use the same build on 4x4, 6x6, and 8x8, you are losing free win percenta
 
 **The fix:** Match your build to the board size.
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Board Size | Best Opening | Second Best |
 |------------|-------------|-------------|
 | 4x4 | Knight Rush (62%) | Aggro Bishop (59%) |
 | 6x6 | Rook Control (65%) | Mixed Build (62%) |
 | 8x8 | Economy Engine (72%) | Queen Supremacy (68%) |
+
+</div>
 
 One player I coached was stuck at a 40% win rate. The only change he made was adapting his build to the board size. His win rate went to 62% in two weeks.
 
@@ -78,6 +86,8 @@ Players love flashy Gambits (Copy, Infinite, Destruction) and ignore boring econ
 
 **The fix:** Take at least ONE economy Gambit in your first 3 picks.
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Economy Gambit | Stock Per Turn (Turn 10+) | Why Skip? |
 |----------------|---------------------------|-----------|
 | Stockpiler | +8-12 | Only if you have Afk's Gambit |
@@ -86,11 +96,15 @@ Players love flashy Gambits (Copy, Infinite, Destruction) and ignore boring econ
 | Afk's Gambit | +10-25 | Only with idle build |
 | Column Tax | +4-6 | Only with Rook Control |
 
+</div>
+
 ## Mistake #7: Misreading Boss Patterns
 
 Bosses have patterns. Trying to brute force through them wastes stock.
 
 **The fix:** Know each boss's weakness:
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Boss | Punishes | Weak Against |
 |------|----------|--------------|
@@ -99,6 +113,8 @@ Bosses have patterns. Trying to brute force through them wastes stock.
 | Blitzking | Economy hoarding | Fast Gambit activation |
 | Queen of Hearts | Center control | Side strategies |
 | Grand Master | Weak Gambits | 3+ activated synergy |
+
+</div>
 
 ## Mistake #8: One-Dimensional Builds
 
@@ -129,7 +145,6 @@ You lost a run. You are frustrated. You queue up immediately. Now you are playin
 
 **My rule:** I keep a small note file. Every time I lose, I write one sentence about why. After 10 losses, I look at the pattern. Usually it is one mistake I keep making (for me, it was Mistake #1 - overspending before bosses). Once I identified it, I fixed it, and my win rate jumped.
 
-<div class="callout callout-verdict">
-  <strong>The Bottom Line</strong><br>
-  You don't need to be a chess grandmaster to win at Gambonanza. Fix these 10 mistakes and you will beat 80% of players. The real game is decision-making, not chess skill. If you can make better choices than your opponent, you win.
-</div>
+{{< callout type="verdict" >}}<strong>The Bottom Line</strong>
+
+  You don't need to be a chess grandmaster to win at Gambonanza. Fix these 10 mistakes and you will beat 80% of players. The real game is decision-making, not chess skill. If you can make better choices than your opponent, you win.{{< /callout >}}

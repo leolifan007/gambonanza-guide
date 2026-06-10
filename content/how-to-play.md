@@ -19,10 +19,9 @@ see_also:
 
 > Gambonanza is a chess roguelike deckbuilder. You move chess pieces on a board, but instead of playing against another chess player, you're building a deck of Gambits (special powers) and fighting bosses. Think Slay the Spire meets chess.
 
-<div class='callout callout-verdict'>
-  <strong>The Short Version</strong><br>
-  Move pieces-Trigger Gambits-Beat bosses-Invest stock-Repeat. Chess knowledge helps but isn't required. The game rewards deck synergy over positional play. <strong>If you've played Balatro or Slay the Spire, you'll pick this up fast.</strong>
-</div>
+{{< callout type="verdict" >}}<strong>The Short Version</strong>
+
+  Move pieces-Trigger Gambits-Beat bosses-Invest stock-Repeat. Chess knowledge helps but isn't required. The game rewards deck synergy over positional play. <strong>If you've played Balatro or Slay the Spire, you'll pick this up fast.</strong>{{< /callout >}}
 
 ## What Is Gambonanza?
 
@@ -47,10 +46,8 @@ Each turn follows this sequence:
 4. **Boss Response**-The boss makes their move and triggers their abilities
 5. **Resolution**-Damage is calculated, effects are applied
 
-<div class='pro-tip'>
-  <strong>Key Insight</strong><br>
-  Unlike regular chess, you only move ONE piece per turn. Choose carefully-the piece you move determines which card activates. Sometimes the best chess move isn't the best Gambonanza move.
-</div>
+{{< pro-tip >}}<strong>Key Insight</strong><br>
+  Unlike regular chess, you only move ONE piece per turn. Choose carefully-the piece you move determines which card activates. Sometimes the best chess move isn't the best Gambonanza move.{{< /pro-tip >}}
 
 ## Win Conditions
 
@@ -79,17 +76,23 @@ Every card you add to your deck dilutes your draw pool. A tight deck of 12-15 ca
 
 ## Board Sizes
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Size | Tiles | Difficulty | Best For |
 |------|-------|-----------|----------|
 | 4x4 | 16 | Faster, tighter | Learning, speed runs |
 | 6x6 | 36 | Standard | Most balanced experience |
 | 8x8 | 64 | More complex | Advanced strategy |
 
+</div>
+
 The board size affects which builds are viable. Pawn Rush works best on 6x6, while Queen builds shine on 8x8.
 
 ## Piece Types & Cards
 
 Each chess piece has an associated card type:
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Piece | Card Style | Strength |
 |-------|-----------|----------|
@@ -99,6 +102,8 @@ Each chess piece has an associated card type:
 | **Rook** | Direct power, back-rank control | Raw damage output |
 | **Queen** | Multi-directional, ultimate abilities | The strongest cards in the game |
 | **King** | Survival, repositioning | Defensive utility |
+
+</div>
 
 ## Gambits Explained
 
@@ -110,10 +115,9 @@ Gambits are the core mechanic. Here's how they work:
 - Gambits can **chain**-one Gambit triggering can trigger another
 - Some Gambits are **active** (you choose when to use them) and some are **passive** (always on)
 
-<div class='callout callout-tip'>
-  <strong>Gambit Synergy</strong><br>
-  The real power comes from Gambit synergy-Gambits that trigger each other in sequence. A well-built Gambit chain can deal 5-10x more damage than individual Gambits. Check the <a href='/gambits/'>All Gambits Guide</a> for the full synergy breakdown.
-</div>
+{{< callout type="tip" >}}<strong>Gambit Synergy</strong>
+
+  The real power comes from Gambit synergy-Gambits that trigger each other in sequence. A well-built Gambit chain can deal 5-10x more damage than individual Gambits. Check the <a href='/gambits/'>All Gambits Guide</a> for the full synergy breakdown.{{< /callout >}}
 
 ## Stock & Economy
 
@@ -127,12 +131,12 @@ You spend it on:
 - Boss retries (25 stock per retry)
 - Shop rerolls (increasing cost: 10-20-40-80)
 
-<div class='pro-tip'>
-  <strong>Economy Tip</strong><br>
-  Invest in Safe Haven tables early-they give guaranteed +10% returns. The compound growth from rounds 1-3 pays for itself by round 6. Check the <a href='/economy/'>Economy Guide</a> for the full breakdown.
-</div>
+{{< pro-tip >}}<strong>Economy Tip</strong><br>
+  Invest in Safe Haven tables early-they give guaranteed +10% returns. The compound growth from rounds 1-3 pays for itself by round 6. Check the <a href='/economy/'>Economy Guide</a> for the full breakdown.{{< /pro-tip >}}
 
 ## Boss Progression
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Boss # | Name | Difficulty | Key Mechanic |
 |--------|------|-----------|--------------|
@@ -145,6 +149,8 @@ You spend it on:
 | 7 | King's Endgame | Very Hard | Escalating power |
 | 8 | The Grandmaster | Very Hard | All mechanics combined |
 
+</div>
+
 ## Getting Started-Your First Run
 
 1. **Buy the game** on [Steam](https://store.steampowered.com/app/3182810/Gambonanza/) ($0.99)
@@ -154,19 +160,17 @@ You spend it on:
 5. **By boss 3**, you should have a clear build direction-commit to it
 6. **Read the [Beginner Guide](/beginner/)** for detailed strategy
 
-<div class='callout callout-tip'>
-  <strong>Next Steps</strong><br>
-  Ready to go deeper? The <a href='/beginner/'>Beginner Guide</a> covers the 5-run strategy to start winning consistently. The <a href='/gambits/'>Gambits Guide</a> rates every Gambit so you know what to pick. And the <a href='/best-seeds/'>Best Seeds page</a> gives you the strongest starting seeds.
-</div>
+{{< callout type="tip" >}}<strong>Next Steps</strong>
+
+  Ready to go deeper? The <a href='/beginner/'>Beginner Guide</a> covers the 5-run strategy to start winning consistently. The <a href='/gambits/'>Gambits Guide</a> rates every Gambit so you know what to pick. And the <a href='/best-seeds/'>Best Seeds page</a> gives you the strongest starting seeds.{{< /callout >}}
 
 ## Changelog
 
 - **v1.1** (v1.1.0-05-19): Initial release-complete rules & getting started guide
 
-<div class='callout callout-tip'>
-  <strong>Sources & Updates</strong><br>
-  All information is from my own gameplay experience. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
-</div>
+{{< callout type="tip" >}}<strong>Sources & Updates</strong>
+
+  All information is from my own gameplay experience. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}
 
 <div class='ad-slot ad-slot--after-content'>
   <div class='ad-label'>Advertisement</div>

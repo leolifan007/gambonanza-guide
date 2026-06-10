@@ -13,12 +13,11 @@ see_also:
 
 ## The FAQ-What Players Actually Need to Know
 
-<div class="callout callout-verdict">
-  <strong> THE VERDICT</strong><br>
-  Most FAQ pages list obvious questions nobody asked. This one only includes stuff that REAL players get wrong-the kind of mistakes that cost runs. If you're stuck, the answer is probably here.
-</div>
+{{< callout type="verdict" >}}<strong> THE VERDICT</strong>
 
-<hr class="section-divider">
+  Most FAQ pages list obvious questions nobody asked. This one only includes stuff that REAL players get wrong-the kind of mistakes that cost runs. If you're stuck, the answer is probably here.{{< /callout >}}
+
+{{< section-divider >}}
 
 ## Game Basics-The Stuff They Don't Tell You
 
@@ -26,10 +25,7 @@ see_also:
 
 **No.** And the faster you accept that, the faster you'll stop losing. Gambonanza is a **deckbuilding roguelike** that uses chess pieces as cards. Playing it like chess = losing. Playing it like Balatro with knights = winning.
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Most common mistake new players make-treating it like chess. Chess skill is a liability here.</span>
-</div>
+{{< meta-rating grade="S" label="Most common mistake new players make-treating it like chess. Chess skill is a liability here." >}}
 
 ---
 
@@ -45,9 +41,7 @@ see_also:
 
 </div>
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> 4x4 boards don't just teach you the game-they're also the best economy farms. A fast 4x4 win in under 3 minutes gives you the same stock reward as a 15-minute 6x6 grind. Speed runners farm 4x4 exclusively for stock.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> 4x4 boards don't just teach you the game-they're also the best economy farms. A fast 4x4 win in under 3 minutes gives you the same stock reward as a 15-minute 6x6 grind. Speed runners farm 4x4 exclusively for stock.{{< /pro-tip >}}
 
 ---
 
@@ -71,7 +65,7 @@ see_also:
 </div>
 
 <div style="margin: 12px 0">
-  <span class="phase-tag phase-late">FULL CAMPAIGN</span>
+  {{< phase-tag "late" >}}
   <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px"><strong>2-4 hours</strong>-All bosses in sequence. Schedule a session.</span>
 </div>
 
@@ -81,16 +75,13 @@ see_also:
 
 Single-player only with boss AI. No multiplayer at launch-Gambonanza is designed as a solo roguelike experience. Developer Blukull has hinted at potential leaderboard features in future updates.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Gambits-The Questions That Cost You Runs
 
 ### Which Gambit should I buy first?
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Teleport. Every single time. It solves every positioning problem, escapes checkmate, and enables combos. If Teleport is in your shop and you don't buy it, you've made a mistake.</span>
-</div>
+{{< meta-rating grade="S" label="Teleport. Every single time. It solves every positioning problem, escapes checkmate, and enables combos. If Teleport is in your shop and you don't buy it, you've made a mistake." >}}
 
 **Why Teleport over everything else:**
 - Escapes any checkmate in 1 move
@@ -104,10 +95,9 @@ Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brain
 
 ### I bought a Legendary Gambit and lost. Why?
 
-<div class="callout callout-danger">
-  <strong> THE RARITY TRAP</strong><br>
-  <strong>Rarity-win rate.</strong> A Legendary (500 stock) that doesn't fit your build is worse than a Common (30 stock) that does. A well-placed Teleport (Common, 40 stock) beats any random Legendary that doesn't support your strategy. Buy what your deck needs, not what's expensive.
-</div>
+{{< callout type="danger" >}}<strong> THE RARITY TRAP</strong>
+
+  <strong>Rarity-win rate.</strong> A Legendary (500 stock) that doesn't fit your build is worse than a Common (30 stock) that does. A well-placed Teleport (Common, 40 stock) beats any random Legendary that doesn't support your strategy. Buy what your deck needs, not what's expensive.{{< /callout >}}
 
 **The math:** A Common Gambit that synergizes with your build provides 2-3x value per turn. A Legendary that's anti-synergistic provides 0.5x value. Simple: synergy > price tag, always.
 
@@ -125,9 +115,7 @@ Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brain
 
 </div>
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> The number isn't the only factor-your Gambit "density" matters more. 18 Gambits where 14 are S/A-tier is better than 22 Gambits where 10 are C-tier filler. Cut the filler aggressively.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> The number isn't the only factor-your Gambit "density" matters more. 18 Gambits where 14 are S/A-tier is better than 22 Gambits where 10 are C-tier filler. Cut the filler aggressively.{{< /pro-tip >}}
 
 ---
 
@@ -137,16 +125,15 @@ Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brain
 
 **Priority order for boss Gambits:** The Grandmaster's Counter > Queen's Gambit Counter > Rook Rook's Shield > everything else.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Economy-The #1 Reason Players Quit
 
 ### I'm always broke. What am I doing wrong?
 
-<div class="callout callout-danger">
-  <strong> THE BROKE PLAYER PROFILE</strong><br>
-  Exactly three things, in this order:
-</div>
+{{< callout type="danger" >}}<strong> THE BROKE PLAYER PROFILE</strong>
+
+  Exactly three things, in this order:{{< /callout >}}
 
 1. **You're buying Gambits you don't need**-impulse shopping is the #1 economy killer
 2. **You're not investing in Safe Haven**-the 10% guaranteed return is free money you're leaving on the table
@@ -158,10 +145,7 @@ Fix these in order. If you fix #1 but ignore #2, you'll plateau at 30-50 stock. 
 
 ### Best way to farm stock?
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Safe Haven investment (10% guaranteed) + Double Down at 50+ stock. Boring but mathematically unbeatable.</span>
-</div>
+{{< meta-rating grade="S" label="Safe Haven investment (10% guaranteed) + Double Down at 50+ stock. Boring but mathematically unbeatable." >}}
 
 Let's see the compound growth in action:
 
@@ -189,16 +173,13 @@ Let's see the compound growth in action:
 
 Otherwise, always buy **at least 1 thing**. Even a cheap Common Gambit is better than walking out empty-handed, because every Gambit you own can be cycled into something better later.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Bosses-What Nobody Tells You
 
 ### Which boss should I fight first?
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label"><strong>Rook Rook.</strong> Predictable pattern, rook-only movement, easy to learn. Beat it 2-3 times before even thinking about other bosses.</span>
-</div>
+{{< meta-rating grade="S" label="<strong>Rook Rook.</strong> Predictable pattern, rook-only movement, easy to learn. Beat it 2-3 times before even thinking about other bosses." >}}
 
 ---
 
@@ -225,14 +206,13 @@ Otherwise, always buy **at least 1 thing**. Even a cheap Common Gambit is better
 
 ### I died to the same boss 5+ times. Help?
 
-<div class="callout callout-tip">
-  <strong> THE PATTERN PROBLEM</strong><br>
-  You're probably repeating the same mistake. Watch the boss's <strong>opening pattern.</strong> Every boss has a predictable first <strong>3 moves</strong>. Memorize them-then counter them specifically.
-</div>
+{{< callout type="tip" >}}<strong> THE PATTERN PROBLEM</strong>
+
+  You're probably repeating the same mistake. Watch the boss's <strong>opening pattern.</strong> Every boss has a predictable first <strong>3 moves</strong>. Memorize them-then counter them specifically.{{< /callout >}}
 
 **The fix:** Next run, don't even try to win. Just watch the first 3 moves and restart. Do this 3-4 times. You'll spot the pattern immediately and know exactly how to counter it.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Comparisons-For the Doubters
 
@@ -267,16 +247,15 @@ If you like **Slay the Spire's** decision complexity or **Balatro's** "one more 
 
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Technical & Misc
 
 ### System requirements?
 
-<div class="callout callout-tip">
-  <strong> LIGHTWEIGHT</strong><br>
-  Any modern PC with integrated graphics runs it fine. ~500MB storage. No dedicated GPU needed.
-</div>
+{{< callout type="tip" >}}<strong> LIGHTWEIGHT</strong>
+
+  Any modern PC with integrated graphics runs it fine. ~500MB storage. No dedicated GPU needed.{{< /callout >}}
 
 ---
 
@@ -288,12 +267,11 @@ If you like **Slay the Spire's** decision complexity or **Balatro's** "one more 
 
 ### Where do I buy it?
 
-<div class="callout callout-verdict">
-  <strong> STEAM EXCLUSIVE</strong><br>
-  <a href="https://store.steampowered.com/app/3182810/">Gambonanza on Steam</a>-No console or mobile versions announced. Price: ~$10.99.
-</div>
+{{< callout type="verdict" >}}<strong> STEAM EXCLUSIVE</strong>
 
-<hr class="section-divider">
+  <a href="https://store.steampowered.com/app/3182810/">Gambonanza on Steam</a>-No console or mobile versions announced. Price: ~$10.99.{{< /callout >}}
+
+{{< section-divider >}}
 
 ## Still Stuck?
 
@@ -301,22 +279,22 @@ Bookmark this guide. We update weekly as the community discovers new strategies,
 
 <div class="split-col">
 <div class="col">
-  <strong><a href="/beginner/">?Beginner Guide</a></strong><br>
+  <strong><a href="/beginner/">Beginner Guide</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">Start here if you're new.</span>
 </div>
 <div class="col">
-  <strong><a href="/gambits/">?All Gambits Guide</a></strong><br>
+  <strong><a href="/gambits/">All Gambits Guide</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">150+ Gambits ranked.</span>
 </div>
 </div>
 
 <div class="split-col">
 <div class="col">
-  <strong><a href="/strategy/">?Advanced Strategy</a></strong><br>
+  <strong><a href="/strategy/">Advanced Strategy</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">Pro-level tactics.</span>
 </div>
 <div class="col">
-  <strong><a href="/bosses/">?Boss Battle Guide</a></strong><br>
+  <strong><a href="/bosses/">Boss Battle Guide</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">All 8 bosses analyzed.</span>
 </div>
 </div>

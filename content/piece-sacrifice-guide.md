@@ -19,10 +19,9 @@ hidden: false
 
 ## Sacrifice \u2014 TL;DR
 
-<div class="callout callout-verdict">
-<strong>In Gambonanza, sacrifice doesn\u2019t mean losing a piece. It means converting a piece into board advantage.</strong><br>
-The rule: sacrifice when the resulting Gambit activation + stock gain is worth at least 2x the piece\u2019s current board value. Never sacrifice for no immediate return.
-</div>
+{{< callout type="verdict" >}}<strong>In Gambonanza, sacrifice doesn\u2019t mean losing a piece. It means converting a piece into board advantage.</strong>
+
+The rule: sacrifice when the resulting Gambit activation + stock gain is worth at least 2x the piece\u2019s current board value. Never sacrifice for no immediate return.{{< /callout >}}
 
 ## The Sacrifice Decision Framework
 
@@ -40,9 +39,7 @@ Pawns are your most expendable pieces, but they\u2019re also your chain starters
 - **It blocks a Crumble collapse path**: Sacrifice 1 pawn to redirect a board collapse away from your Queen
 - **It\u2019s the last piece on an edge during Crumble**: The edge will disappear anyway, so activate whatever Gambit you can before it goes
 
-<div class="callout callout-info">
-<strong>Pawn Trader Tip</strong>: On 5\u00d75 boards, sacrificing your opening pawn early gives you tempo. On 7\u00d77 boards, keep all pawns until mid-game \u2014 you need them for chain anchors.
-</div>
+{{< callout type="info" >}}<strong>Pawn Trader Tip</strong>: On 5\u00d75 boards, sacrificing your opening pawn early gives you tempo. On 7\u00d77 boards, keep all pawns until mid-game \u2014 you need them for chain anchors.{{< /callout >}}
 
 ## When to Sacrifice a Knight
 
@@ -72,6 +69,8 @@ Otherwise, never sacrifice your Queen. Queen is worth 6\u201310x any other piece
 
 ## Trade Value Reference Table
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Sacrifice | Stock Cost | Board Advantage Gain | Best Use Case |
 |-----------|-----------|---------------------|---------------|
 | Pawn | 1 stock potential | Free diagonal / blocks collapse | Opening, Crumble defense |
@@ -79,6 +78,8 @@ Otherwise, never sacrifice your Queen. Queen is worth 6\u201310x any other piece
 | Bishop | 4 stock potential | Zone break / lock interruption | King of Spades, Crumble |
 | Rook | 5 stock potential | Full lane control | Board control reset |
 | Queen | 8+ stock potential | Immediate win condition | Emergency only |
+
+</div>
 
 ## Boss-Specific Trade Strategy
 

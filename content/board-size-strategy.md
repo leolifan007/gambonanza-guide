@@ -14,11 +14,15 @@ category: "Strategy & Guides"
 
 **Board size is the most important factor in Gambonanza. Playing 4x4 like it is 8x8 is the #1 reason intermediate players lose.**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Board | Best Builds | Avg Game Length | Economy Pace | Skill Cap |
 |-------|-------------|-----------------|--------------|-----------|
 | 4x4 | Knight Rush, Aggro | 8-12 turns | Fast (30 stock = rich) | Low |
 | 6x6 | Rook Control, Mixed | 12-18 turns | Medium (50 stock = rich) | Medium |
 | 8x8 | Queen Supremacy, Infinite | 18-30 turns | Slow (100 stock = rich) | High |
+
+</div>
 
 **The golden rule:** The smaller the board, the more aggressive you need to play. On 4x4, a passive opening loses you the game by turn 5. On 8x8, being too aggressive leaves you broke by turn 10.
 
@@ -35,11 +39,15 @@ category: "Strategy & Guides"
 
 ### Best Builds
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Build | Win Rate | Why It Works |
 |-------|----------|--------------|
 | Knight Rush | 62-68% | Knights dominate close-quarters combat |
 | Aggro Bishop | 59-63% | Diagonal control covers most of the board |
 | Fast Farm Economy | 55-60% | Quick stock then overpower opponent |
+
+</div>
 
 ### What NOT to Do
 
@@ -63,11 +71,15 @@ category: "Strategy & Guides"
 
 ### Best Builds
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Build | Win Rate | Why It Works |
 |-------|----------|--------------|
 | Rook Control | 65% | Column control covers 1/6 of the board |
 | Mixed Builds | 60-65% | Flexibility is key at this size |
 | Deterministic Gambits | 63% | Predictable outcomes matter more |
+
+</div>
 
 ### The 6x6 Strategy
 
@@ -78,12 +90,16 @@ category: "Strategy & Guides"
 
 ### Gambit Priority on 6x6
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Priority | Gambit Type | Why |
 |----------|-------------|-----|
 | S-Tier | Column Control | Covers 1/6 of board per active Gambit |
 | A-Tier | Economy + Defense | Balanced approach |
 | B-Tier | Specific synergies | Works with the right build |
 | C-Tier | All-in builds | Too risky for this board size |
+
+</div>
 
 ## 8x8 Board: The Marathon
 
@@ -94,11 +110,15 @@ category: "Strategy & Guides"
 
 ### Best Builds
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Build | Win Rate | Why It Works |
 |-------|----------|--------------|
 | Queen Supremacy | 68% | Queen's mobility covers huge spaces |
 | Infinite Loop | 70% | Time to set up complex Gambit rotations |
 | Economy Engine | 72% | Long game favors stock accumulation |
+
+</div>
 
 ### The 8x8 Strategy
 
@@ -120,9 +140,13 @@ Key: Larger board = slower, greedier play
 
 ## Emergency Adaptations
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Situation | Action |
 |-----------|--------|
 | 4x4 with an 8x8 build | Pivot to aggro immediately, drop slow Gambits |
 | 8x8 with a 4x4 build | Speed up, try to end early before you run out of steam |
 | Mid-game board shrink (relic) | Immediately switch to smaller board strategy |
 | Late-game board expand (relic) | Hold position, build economy, prepare for longer game |
+
+</div>

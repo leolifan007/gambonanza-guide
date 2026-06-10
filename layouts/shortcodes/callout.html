@@ -1,0 +1,7 @@
+{{- /* callout: decorative info box. Usage: {{< callout type="verdict" >}}content{{< /callout >}} */}}
+{{- $type := .Get "type" | default "verdict" }}
+{{- $valid := slice "verdict" "synergy" "danger" "tip" "info" }}
+{{- if not (in $valid $type) }}{{ $type = "verdict" }}{{ end }}
+<div class="callout callout-{{ $type }}">
+{{ .Inner | markdownify }}
+</div>

@@ -14,11 +14,15 @@ category: "Strategy & Guides"
 
 **There are 3 winning build archetypes in Gambonanza. Your win rate depends on picking the one that fits your natural playstyle.**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Archetype | Win Rate | Difficulty | Best For |
 |-----------|----------|------------|----------|
 | Economy Engine | 65% | Easy | Patience players |
 | Control Lock | 71% | Medium | Tactical players |
 | Aggro Rush | 52% | Hard | Aggressive players |
+
+</div>
 
 **My experience:** I spent 100 hours forcing Aggro Rush because I'm impatient. My win rate was stuck at 38%. When I switched to Control Lock, it jumped to 65% in 20 runs. Pick what suits you, not what sounds flashy.
 
@@ -34,12 +38,16 @@ category: "Strategy & Guides"
 
 **Turn-by-turn:**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Turn | Action | Stock Target |
 |------|--------|--------------|
 | 1-3 | Buy Safe Haven, save aggressively | 20+ |
 | 4-6 | Invest in 2nd economy relic | 45+ |
 | 7-9 | Start buying core Gambits | 60+ |
 | 10+ | Out-spend every boss | 80+ |
+
+</div>
 
 **Why it works:** By turn 10, you have 2-3x the spending power of any other archetype. You can afford retries, rare Gambits, and board resets. The game rewards delayed gratification.
 
@@ -57,12 +65,16 @@ category: "Strategy & Guides"
 
 **Turn-by-turn:**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Turn | Action | Board Control |
 |------|--------|---------------|
 | 1-3 | Deploy Bishops on diagonals | 30% locked |
 | 4-6 | Add Rook to center rank | 50% locked |
 | 7-9 | Deploy second Rook or Knight | 65% locked |
 | 10+ | Trap enemy King | 80%+ locked |
+
+</div>
 
 **Why it works:** The game's AOE attacks and spawns are less effective when you control the board. A locked board limits the enemy's options while maximizing yours.
 
@@ -82,12 +94,16 @@ category: "Strategy & Guides"
 
 **Turn-by-turn:**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Turn | Action | Risk Level |
 |------|--------|------------|
 | 1-2 | Buy strongest Gambit, attack | High |
 | 3-4 | Second attack wave | Very high |
 | 5-6 | All-in push | Critical |
 | 7+ | Win or die | Either/or |
+
+</div>
 
 **Why it works on small boards:** On 4x4 and 5x5 boards, the enemy doesn't have room to dodge. A fast rush can win before the boss's scaling mechanics kick in.
 
@@ -99,6 +115,8 @@ category: "Strategy & Guides"
 
 ## Quick Decision Guide
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | If you... | Pick this archetype |
 |-----------|-------------------|
 | Love chess and positioning | Control Lock |
@@ -107,9 +125,13 @@ category: "Strategy & Guides"
 | Are new to the game | Economy Engine (forgiving) |
 | Are stuck at 30-40% win rate | Control Lock (best results) |
 
+</div>
+
 ---
 
 ## Archetype Win Rates by Board Size
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Board Size | Economy Engine | Control Lock | Aggro Rush |
 |------------|---------------|--------------|------------|
@@ -118,17 +140,23 @@ category: "Strategy & Guides"
 | 6x6 | 68% | 72% | 48% |
 | 7x7 | 72% | 74% | 42% |
 
+</div>
+
 Aggro Rush is only competitive on small boards. For larger boards, Control Lock and Economy Engine dominate.
 
 ---
 
 ## Summary
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Archetype | Win Rate | Best Board | Skill Floor |
 |-----------|----------|------------|-------------|
 | Economy Engine | 65% | 6x6, 7x7 | Low |
 | Control Lock | 71% | All sizes | Medium |
 | Aggro Rush | 52% | 4x4, 5x5 | High |
+
+</div>
 
 **My recommendation:** Start with Economy Engine. When you're comfortable, switch to Control Lock. Never touch Aggro Rush until you've won 20+ runs.
 

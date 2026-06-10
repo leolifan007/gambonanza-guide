@@ -4,7 +4,7 @@ title: "Gambonanza Tier List (v1.1.0)  Best Gambits & Builds Ranked S/A/B/C"
 description: "Complete Gambonanza tier list for patch v1.1.0. All 150+ Gambits ranked S/A/B/C with synergies, pro tips, and best builds. Find the strongest Gambits for every strategy. Updated for patch v1.1.0."
 ---
 
-##? Gambonanza Tier List v1.0  Every Gambit Ranked
+##Gambonanza Tier List v1.0  Every Gambit Ranked
 
 <div class="callout callout-verdict" style="text-align:center;border-color:var(--gold);background:linear-gradient(135deg, rgba(212,175,55,0.15), rgba(212,175,55,0.05))">
   <strong style="font-family:var(--font-display);font-size:1.4rem;color:var(--gold)">?? Must-Pick Gambits to Break the Game in v1.0</strong><br>
@@ -20,9 +20,9 @@ description: "Complete Gambonanza tier list for patch v1.1.0. All 150+ Gambits r
   <a href="#quick-ref">Quick Reference Table</a>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
-## <span id="s-tier">?? S-Tier  Game-Warping Gambits</span>
+## <span id="s-tier">S-Tier  Game-Warping Gambits</span>
 
 <div style="background:linear-gradient(135deg, rgba(212,175,55,0.2), rgba(212,175,55,0.05));border:2px solid var(--gold);border-radius:12px;padding:24px;margin-bottom:24px">
 These three Gambits <strong>fundamentally rewrite the rules of the game.</strong> If you see one in the shop, mortgage everything. Build your entire run around them. Without exaggeration, having one of these doubles your win rate. Having two makes the game trivial.
@@ -30,12 +30,9 @@ These three Gambits <strong>fundamentally rewrite the rules of the game.</strong
 <div style="margin-top:12px;font-size:0.85rem;color:var(--cream-dark)">Selection rate among top players: <strong style="color:var(--gold)">97%+</strong></div>
 </div>
 
-### 1?? Teleport-? <span style="color:var(--gold)"> The Best Gambit in the Game</span>
+### 1 Teleport-? <span style="color:var(--gold)"> The Best Gambit in the Game</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Instantly move any piece to any unoccupied square. The single most versatile Gambit.</span>
-</div>
+{{< meta-rating grade="S" label="Instantly move any piece to any unoccupied square. The single most versatile Gambit." >}}
 
 **Why it's S-Tier:** Teleport is the only Gambit with zero positioning requirements, zero cooldown, and universal application. It's an escape tool, a setup tool, a combo enabler, and a checkmate engine all in one card. No other Gambit covers this much ground.
 
@@ -54,12 +51,9 @@ see_also:
     url: '/cards/'
 ---
 
-### 2?? The Ultimate Counter-? <span style="color:var(--gold)"> Boss Killer #1</span>
+### 2 The Ultimate Counter-? <span style="color:var(--gold)"> Boss Killer #1</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">1-turn god mode against ALL bosses. The single most important boss Gambit.</span>
-</div>
+{{< meta-rating grade="S" label="1-turn god mode against ALL bosses. The single most important boss Gambit." >}}
 
 **Why it's S-Tier:** Works on every boss, every phase, every difficulty. Zero setup, zero positioning. Pop it in Phase 3 of any boss fight and you get a free turn of pure aggression. No other Gambit provides this level of guaranteed boss insurance.
 
@@ -71,12 +65,9 @@ see_also:
 
 ---
 
-### 3?? Heal Board-? <span style="color:var(--gold)"> The Comeback King</span>
+### 3 Heal Board-? <span style="color:var(--gold)"> The Comeback King</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Return ALL captured pieces to the board on your choice of empty squares.</span>
-</div>
+{{< meta-rating grade="S" label="Return ALL captured pieces to the board on your choice of empty squares." >}}
 
 **Why it's S-Tier:** Heal Board scales with failure  the more pieces you've lost, the more value it generates. In long runs where attrition is the real boss, this single Gambit can turn a losing board into a crushing victory. The fact that YOU choose where pieces return makes it a repositioning tool disguised as healing.
 
@@ -86,9 +77,9 @@ see_also:
 
 > **Pro Tip:** Deliberately sacrifice pieces in bad positions early, then Heal Board them into perfect attacking formations. It's not a recovery tool  it's a repositioning tool disguised as healing.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
-## <span id="a-tier">?? A-Tier  Run-Defining Gambits</span>
+## <span id="a-tier">A-Tier  Run-Defining Gambits</span>
 
 <div style="background:linear-gradient(135deg, rgba(45,180,150,0.2), rgba(45,180,150,0.05));border:2px solid var(--teal);border-radius:12px;padding:24px;margin-bottom:24px">
 These Gambits define your build. You don't build around them  they build around you. Prioritize them in every shop. An A-tier Gambit in the right deck is often stronger than a bad S-tier pick that doesn't fit your strategy.
@@ -98,14 +89,11 @@ These Gambits define your build. You don't build around them  they build around 
 
 ### Backstab <span style="color:var(--teal)"> Essential Attack Tool</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Capture a piece from behind, ignoring ALL protection.</span>
-</div>
+{{< meta-rating grade="A" label="Capture a piece from behind, ignoring ALL protection." >}}
 
 **Best with:** Knight (reaches behind positions others can't), Bishop (hard-to-read diagonal flanks), Rook (clears entire back rank)
 
-**Phase:** <span class="phase-tag phase-mid">MID GAME</span>
+**Phase:** {{< phase-tag "mid" >}}
 
 > **Pro Tip:** Backstab + King's Shield on the SAME piece = invulnerable assassin. The piece is shielded from reprisal while Backstab gives free kills. Works on every non-boss board after turn 6.
 
@@ -113,14 +101,11 @@ These Gambits define your build. You don't build around them  they build around 
 
 ### Chain Capture <span style="color:var(--teal)"> Multi-Kill Machine</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">One capture triggers automatic second capture.</span>
-</div>
+{{< meta-rating grade="A" label="One capture triggers automatic second capture." >}}
 
 **Best with:** Queen (chain through clustered defenders), Knight x2 (tight positions), Rook (clear entire ranks)
 
-**Phase:** <span class="phase-tag phase-early">EARLY</span> <span class="phase-tag phase-mid">MID</span>
+**Phase:** {{< phase-tag "early" >}} {{< phase-tag "mid" >}}
 
 > **Pro Tip:** Chain trigger range is 2 squares, not adjacent. You can chain INTO diagonally protected pieces. Always check square 2 for chain potential.
 
@@ -128,14 +113,11 @@ These Gambits define your build. You don't build around them  they build around 
 
 ### King's Shield <span style="color:var(--teal)"> Fortress Mode</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">King invulnerable for 2 turns. Prevents checkmate AND stock loss.</span>
-</div>
+{{< meta-rating grade="A" label="King invulnerable for 2 turns. Prevents checkmate AND stock loss." >}}
 
 **Best with:** King (obviously), Pawns near king (fortress wall), Economy builds (stock value tied to king survival)
 
-**Phase:** <span class="phase-tag phase-early">EARLY</span> <span class="phase-tag phase-mid">MID</span>
+**Phase:** {{< phase-tag "early" >}} {{< phase-tag "mid" >}}
 
 > **Pro Tip:** King's Shield prevents stock loss on king capture for 2 turns. Pop this, then go ALL-IN on offense without worrying about your economy. Risk-free aggression.
 
@@ -143,14 +125,11 @@ These Gambits define your build. You don't build around them  they build around 
 
 ### Queen's Gambit Counter <span style="color:var(--teal)"> Boss-Specific MVP</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Negates Queen boss's promotion ability. Turns 4-star  2-star fight.</span>
-</div>
+{{< meta-rating grade="A" label="Negates Queen boss's promotion ability. Turns 4-star  2-star fight." >}}
 
 **Best with:** Any piece (center control), Pawn rushers (block her promotion, enable yours), Rook (open file pressure)
 
-**Phase:** <span class="phase-tag phase-mid">MID GAME</span>
+**Phase:** {{< phase-tag "mid" >}}
 
 > **Pro Tip:** Also works against Pawn Storm promotions. Going Pawn Storm  Queen Gambit back-to-back? One Gambit neutralizes BOTH bosses' most dangerous mechanic.
 
@@ -158,20 +137,17 @@ These Gambits define your build. You don't build around them  they build around 
 
 ### Through the Ranks <span style="color:var(--teal)"> Value Train</span>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Rook/Queen moves through 5 squares, triggers Gambit effects at EACH.</span>
-</div>
+{{< meta-rating grade="A" label="Rook/Queen moves through 5 squares, triggers Gambit effects at EACH." >}}
 
 **Best with:** Rook (open files), Queen (diagonal files = more crosses), Pawn walls (clear + bonuses)
 
-**Phase:** <span class="phase-tag phase-late">LATE GAME</span>
+**Phase:** {{< phase-tag "late" >}}
 
 > **Pro Tip:** Triggers the tile effect of EVERY tile it passes through, not just Gambit effects. On a board with 3+ Gambit tiles in a straight line, this one move wins the match.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
-## <span id="b-tier">?? B-Tier  Strong Situational Picks</span>
+## <span id="b-tier">B-Tier  Strong Situational Picks</span>
 
 <div style="background:linear-gradient(135deg, rgba(70,130,220,0.2), rgba(70,130,220,0.05));border:2px solid var(--blue);border-radius:12px;padding:24px;margin-bottom:24px">
 Excellent in the right build. Don't force them  pick them when they fit. A B-tier pick in the perfect deck outperforms an A-tier pick that's sitting in your hand unused.
@@ -182,10 +158,10 @@ Excellent in the right build. Don't force them  pick them when they fit. A B-tie
 <div class="split-col">
 <div class="col">
 
-### ?? Knight+Bishop Combo <span class="meta-badge meta-b">B</span>
+### Knight+Bishop Combo <span class="meta-badge meta-b">B</span>
 Move using Knight AND Bishop range. Insane coverage, slow to set up.
 
-**Phase:** <span class="phase-tag phase-mid">MID</span>
+**Phase:** {{< phase-tag "mid" >}}
 **Best with:** Knights, queens / Center, diagonal tiles
 **Downside:** Both piece types must be alive
 
@@ -194,14 +170,14 @@ Move using Knight AND Bishop range. Insane coverage, slow to set up.
 </div>
 <div class="col">
 
-### ?? Jackpot Gambit <span class="meta-badge meta-b">B</span>
+### Jackpot Gambit <span class="meta-badge meta-b">B</span>
 Triple stock value + free Boss Gambit. Best right BEFORE boss fights.
 
-**Phase:** <span class="phase-tag phase-late">LATE</span>
+**Phase:** {{< phase-tag "late" >}}
 **Best with:** Any piece (pure economy Gambit)
 **Downside:** Useless on non-boss boards
 
->-? Always gives the counter for your NEXT boss. Sequence boss order to control which counter you get.
+>-Always gives the counter for your NEXT boss. Sequence boss order to control which counter you get.
 
 </div>
 </div>
@@ -209,10 +185,10 @@ Triple stock value + free Boss Gambit. Best right BEFORE boss fights.
 <div class="split-col">
 <div class="col">
 
-### ?? Steal Investment <span class="meta-badge meta-b">B</span>
+### Steal Investment <span class="meta-badge meta-b">B</span>
 Take 50% of opponent's stock. Devastating in economy runs.
 
-**Phase:** <span class="phase-tag phase-mid">MID</span>
+**Phase:** {{< phase-tag "mid" >}}
 **Best with:** Economy builders / Investment tiles
 **Downside:** Low value against poor opponents
 
@@ -221,10 +197,10 @@ Take 50% of opponent's stock. Devastating in economy runs.
 </div>
 <div class="col">
 
-### ?? Double Down <span class="meta-badge meta-b">B</span>
+### Double Down <span class="meta-badge meta-b">B</span>
 Double your current stock. Simple, reliable.
 
-**Phase:** <span class="phase-tag phase-early">EARLY</span> <span class="phase-tag phase-mid">MID</span>
+**Phase:** {{< phase-tag "early" >}} {{< phase-tag "mid" >}}
 **Best with:** Economy builds / Any tile
 **Downside:** Low base stock = low value
 
@@ -236,20 +212,20 @@ Double your current stock. Simple, reliable.
 <div class="split-col">
 <div class="col">
 
-### ?? Sacrifice for Strength <span class="meta-badge meta-b">B</span>
+### Sacrifice for Strength <span class="meta-badge meta-b">B</span>
 Sacrifice a piece to massively empower remaining pieces.
 
-**Phase:** <span class="phase-tag phase-mid">MID</span> <span class="phase-tag phase-late">LATE</span>
+**Phase:** {{< phase-tag "mid" >}} {{< phase-tag "late" >}}
 **Best with:** Swarm builds, Pawn-heavy decks
 **Downside:** You're down one piece permanently
 
 </div>
 <div class="col">
 
-### ?? Bishop's Blind <span class="meta-badge meta-b">B</span>
+### Bishop's Blind <span class="meta-badge meta-b">B</span>
 Boss-specific: disables diagonal attacks from the target boss.
 
-**Phase:** <span class="phase-tag phase-mid">MID</span>
+**Phase:** {{< phase-tag "mid" >}}
 **Best with:** Bishop/diagonal-heavy builds
 **Downside:** Only useful against one boss
 
@@ -259,20 +235,20 @@ Boss-specific: disables diagonal attacks from the target boss.
 <div class="split-col">
 <div class="col">
 
-### ?? King's Counter <span class="meta-badge meta-b">B</span>
+### King's Counter <span class="meta-badge meta-b">B</span>
 Boss-specific: required for the King boss fight.
 
-**Phase:** <span class="phase-tag phase-late">LATE</span>
+**Phase:** {{< phase-tag "late" >}}
 **Best with:** King-focused builds
 **Downside:** Dead slot against any other boss
 
 </div>
 <div class="col">
 
-### ?? Rook's Wall <span class="meta-badge meta-b">B</span>
+### Rook's Wall <span class="meta-badge meta-b">B</span>
 Boss-specific: creates a rook fortress wall against boss charge.
 
-**Phase:** <span class="phase-tag phase-mid">MID</span>
+**Phase:** {{< phase-tag "mid" >}}
 **Best with:** Rook-heavy builds
 **Downside:** Must be drawn early in the boss fight
 
@@ -281,18 +257,18 @@ Boss-specific: creates a rook fortress wall against boss charge.
 
 <div class="col" style="max-width:100%">
 
-### ?? Knight's Parry <span class="meta-badge meta-b">B</span>
+### Knight's Parry <span class="meta-badge meta-b">B</span>
 Boss-specific: parries knight boss's forking attacks.
 
-**Phase:** <span class="phase-tag phase-mid">MID</span>
+**Phase:** {{< phase-tag "mid" >}}
 **Best with:** Knight builds / Fork-heavy boards
 **Downside:** Requires good positioning
 
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
-## <span id="c-tier">? C-Tier  Niche / Filler Gambits</span>
+## <span id="c-tier">C-Tier  Niche / Filler Gambits</span>
 
 <div style="background:linear-gradient(135deg, rgba(160,160,160,0.15), rgba(160,160,160,0.05));border:2px solid #888;border-radius:12px;padding:24px;margin-bottom:24px">
 These have their place  but it's a small place. Only pick if your deck has room and the situation is perfect. Never prioritize them. Never reroll to find them.
@@ -303,18 +279,18 @@ These have their place  but it's a small place. Only pick if your deck has room 
 <div class="split-col">
 <div class="col">
 
-### ? Undo Move <span class="meta-badge meta-c">C</span>
+### Undo Move <span class="meta-badge meta-c">C</span>
 Reverse your last move. Decent safety net  but takes a slot that could be S-tier.
 **Only pick if:** Your deck is 20+ cards and you have room.
-**Phase:** <span class="phase-tag phase-early">EARLY</span>
+**Phase:** {{< phase-tag "early" >}}
 
 </div>
 <div class="col">
 
-### ? Gravity Flip <span class="meta-badge meta-c">C</span>
+### Gravity Flip <span class="meta-badge meta-c">C</span>
 Invert movement for 1 turn. High skill ceiling  but affects BOTH players equally.
 **Only pick if:** You're specifically memeing or speedrunning.
-**Phase:** <span class="phase-tag phase-mid">MID</span>
+**Phase:** {{< phase-tag "mid" >}}
 
 </div>
 </div>
@@ -322,69 +298,69 @@ Invert movement for 1 turn. High skill ceiling  but affects BOTH players equally
 <div class="split-col">
 <div class="col">
 
-### ? Surround <span class="meta-badge meta-c">C</span>
+### Surround <span class="meta-badge meta-c">C</span>
 Capture if enemy is surrounded on 2+ sides. Too position-dependent.
 **Only pick if:** You're running a swarm/knight spam build.
-**Phase:** <span class="phase-tag phase-mid">MID</span>
+**Phase:** {{< phase-tag "mid" >}}
 
 </div>
 <div class="col">
 
-### ? Pierce Through <span class="meta-badge meta-c">C</span>
+### Pierce Through <span class="meta-badge meta-c">C</span>
 Capture and continue through. Decent with bishops, weak otherwise.
 **Only pick if:** You're running a bishop-heavy deck (upgrades to B-tier).
-**Phase:** <span class="phase-tag phase-early">EARLY</span>
+**Phase:** {{< phase-tag "early" >}}
 
 </div>
 </div>
 
 <div class="col" style="max-width:100%">
 
-### ? Gambler's Strike <span class="meta-badge meta-c">C</span>
+### Gambler's Strike <span class="meta-badge meta-c">C</span>
 High-risk, high-reward attack. Can one-shot bosses or miss entirely.
 **Only pick if:** You're restarting the run anyway and want to yolo.
-**Phase:** <span class="phase-tag phase-late">LATE</span>
+**Phase:** {{< phase-tag "late" >}}
 
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
-## <span id="quick-ref">?? Quick Reference  Full Gambit Tier Table</span>
+## <span id="quick-ref">? Quick Reference  Full Gambit Tier Table</span>
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Tier | Gambit | Category | Best Phase | Verdict |
 |---|---|---|---|---|
-| **?? S** | Teleport | Movement | All | Every build must-pick |
-| **?? S** | The Ultimate Counter | Boss | Late | Free win vs any boss |
-| **?? S** | Heal Board | Defense | Late | Comeback mechanic OP |
-| **?? A** | Backstab | Attack | Mid | Ignore protection = free kills |
-| **?? A** | Chain Capture | Attack | Early-Mid | Chain = 2-for-1 value |
-| **?? A** | King's Shield | Defense | All | Risk-free aggression enabler |
-| **?? A** | Queen's Gambit Counter | Boss | Mid | Turns 4  2 boss |
-| **?? A** | Through the Ranks | Movement | Late | Value train on open boards |
-| **?? B** | Knight+Bishop Combo | Movement | Mid | Coverage king, slow setup |
-| **?? B** | Jackpot Gambit | Economy | Late | Free boss counter |
-| **?? B** | Steal Investment | Economy | Mid | Economy ender |
-| **?? B** | Double Down | Economy | All | Compound growth engine |
-| **?? B** | Sacrifice for Strength | Defense | Mid-Late | Empower survivors |
-| **?? B** | King's Counter | Boss | Late | Required for King boss |
-| **?? B** | Bishop's Blind | Boss | Mid | Diagonal boss counter |
-| **?? B** | Knight's Parry | Boss | Mid | Fork boss counter |
-| **?? B** | Rook's Wall | Boss | Mid | Charge boss counter |
-| **? C** | Undo Move | Defense | Early | Only with 20+ deck |
-| **? C** | Gravity Flip | Movement | Mid | Fun but inconsistent |
-| **? C** | Surround | Attack | Mid | Swarm-only pick |
-| **? C** | Pierce Through | Attack | Mid | Bishop build only |
-| **? C** | Gambler's Strike | Attack | Late | Yolo or win |
+| **S** | Teleport | Movement | All | Every build must-pick |
+| **S** | The Ultimate Counter | Boss | Late | Free win vs any boss |
+| **S** | Heal Board | Defense | Late | Comeback mechanic OP |
+| **A** | Backstab | Attack | Mid | Ignore protection = free kills |
+| **A** | Chain Capture | Attack | Early-Mid | Chain = 2-for-1 value |
+| **A** | King's Shield | Defense | All | Risk-free aggression enabler |
+| **A** | Queen's Gambit Counter | Boss | Mid | Turns 4  2 boss |
+| **A** | Through the Ranks | Movement | Late | Value train on open boards |
+| **B** | Knight+Bishop Combo | Movement | Mid | Coverage king, slow setup |
+| **B** | Jackpot Gambit | Economy | Late | Free boss counter |
+| **B** | Steal Investment | Economy | Mid | Economy ender |
+| **B** | Double Down | Economy | All | Compound growth engine |
+| **B** | Sacrifice for Strength | Defense | Mid-Late | Empower survivors |
+| **B** | King's Counter | Boss | Late | Required for King boss |
+| **B** | Bishop's Blind | Boss | Mid | Diagonal boss counter |
+| **B** | Knight's Parry | Boss | Mid | Fork boss counter |
+| **B** | Rook's Wall | Boss | Mid | Charge boss counter |
+| **C** | Undo Move | Defense | Early | Only with 20+ deck |
+| **C** | Gravity Flip | Movement | Mid | Fun but inconsistent |
+| **C** | Surround | Attack | Mid | Swarm-only pick |
+| **C** | Pierce Through | Attack | Mid | Bishop build only |
+| **C** | Gambler's Strike | Attack | Late | Yolo or win |
 
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
-##? Share This Page
+##Share This Page
 
-**Know someone struggling with Gambonanza? Send them here.** This is the only tier list that breaks down every Gambit with actual math, not vibes.
+**Know someone struggling with GambonanzaSend them here.** This is the only tier list that breaks down every Gambit with actual math, not vibes.
 
 <div style="text-align:center;margin:24px 0">
   <div style="display:inline-block;background:var(--dark-2);border:1px solid var(--gold);padding:16px 24px;border-radius:3px">
@@ -392,9 +368,7 @@ High-risk, high-reward attack. Can one-shot bosses or miss entirely.
   </div>
 </div>
 
-<div class="pro-tip">
-  <strong>Bookmark this page.</strong> I update the tier list every time the meta shifts. v1.0 data based on my runs and gameplay analysis. As new Gambits get discovered or patched, this is where you'll see it first.
-</div>
+{{< pro-tip >}}<strong>Bookmark this page.</strong> I update the tier list every time the meta shifts. v1.0 data based on my runs and gameplay analysis. As new Gambits get discovered or patched, this is where you'll see it first.{{< /pro-tip >}}
 
 ---
 

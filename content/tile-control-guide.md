@@ -15,33 +15,35 @@ version: 'v1.1.0'
 
 ## Tile Control  TL;DR
 
-<div class="callout callout-verdict">
-<strong>Center = wins. Edges = Crumble bait.</strong><br>
-Gambonanza is territory control, not chess. Control the center tiles and the game plays itself.
-</div>
+{{< callout type="verdict" >}}<strong>Center = wins. Edges = Crumble bait.</strong>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Once you see the board as territory, everything else makes sense.</span>
-</div>
+Gambonanza is territory control, not chess. Control the center tiles and the game plays itself.{{< /callout >}}
 
-<hr class="section-divider">
+{{< meta-rating grade="A" label="Once you see the board as territory, everything else makes sense." >}}
+
+{{< section-divider >}}
 
 ## Tile Value Map (5x5)
 
 <img src="/images/guides/tile-value-5x5.svg" alt="5x5 Tile Value Map: piece-based tier guide" class="schema-diagram" loading="lazy" style="width:100%;max-width:640px;height:auto">
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Tier | Value | Crumble Safety | Best Piece |
 |------|-------|---------------|------------|
-| **S** (center) | ?| Never collapses | Queen / Knight |
-| **A** (mid-ring) | ?| Collapses last | Rook / Bishop |
-| **B** (bridge) | ?| Collapses mid-game | Any |
-| **C** (corridor) | ?| Collapses early | Avoid |
-| **D** (edge) | ?| 1st to collapse | Avoid |
+| **S** (center) | | Never collapses | Queen / Knight |
+| **A** (mid-ring) | | Collapses last | Rook / Bishop |
+| **B** (bridge) | | Collapses mid-game | Any |
+| **C** (corridor) | | Collapses early | Avoid |
+| **D** (edge) | | 1st to collapse | Avoid |
 
-<hr class="section-divider">
+</div>
+
+{{< section-divider >}}
 
 ## Gambit Tiles  Quick Reference
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Tile | Effect | Priority |
 |------|--------|----------|
@@ -51,9 +53,11 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 |  Power Square | Next move +1 range | ?(nice to have) |
 |  Trap Tile | Damages your piece | ?(avoid) |
 
+</div>
+
 > **Rule:** Free Gambit tiles are the most valuable on the board. Plan routes to revisit them after cooldown.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## 2 Strategies  Pick One
 
@@ -61,10 +65,14 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 
 <img src="/images/guides/center-lock-strategy.svg" alt="Center Lock Strategy: Knight center "?Bishop/Rook reinforce "?Fortress Gambit" style="width:100%;max-width:440px;border-radius:8px;" loading="lazy">
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | ?Pros | ?Cons |
 |---------|----------|
 | Safe from Crumble | Vulnerable to early aggression |
 | Max mobility | Can be flanked |
+
+</div>
 
 ---
 
@@ -72,16 +80,22 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 
 Deploy to edge Gambit tiles "?farm stock "?Earthquake/Board Shrink to collapse center "?sweep in.
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | ?Pros | ?Cons |
 |---------|----------|
 | Economy advantage | Very risky |
 | Turns Crumble into weapon | Needs specific Gambits |
 
+</div>
+
 > **Best vs Jester:** Jester accelerates Crumble anyway "?Edge Gambit works perfectly.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Tile Control by Piece
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Piece | Best Tile | Control Style |
 |-------|------------|----------------|
@@ -91,7 +105,9 @@ Deploy to edge Gambit tiles "?farm stock "?Earthquake/Board Shrink to collapse c
 | ?Knight | S/A (center area) | Forks from center |
 | ?Pawn | C/D (corridor/edge) | Only useful for promotion |
 
-<hr class="section-divider">
+</div>
+
+{{< section-divider >}}
 
 ## 5-Rule Checklist (Use Every Turn)
 
@@ -103,9 +119,11 @@ Deploy to edge Gambit tiles "?farm stock "?Earthquake/Board Shrink to collapse c
 ?Can opponent take this tile next turn?    (have a counter ready)
 ```
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Tile x Crumble Timing
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Turn | 5x5 Safe Zone | 6x6 Safe Zone |
 |------|-----------------|-----------------|
@@ -114,6 +132,8 @@ Deploy to edge Gambit tiles "?farm stock "?Earthquake/Board Shrink to collapse c
 | 6-7 | 3x3 center | 4x4 center + bridges |
 | 8-9 | Center 4 tiles | 4x4 center |
 | 10+ | Center 4 (stable) | 3x3 center (stable) |
+
+</div>
 
 > **Rule:** Always stay within or adjacent to the safe zone. Pieces outside = Crumble casualties.
 

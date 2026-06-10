@@ -1,0 +1,6 @@
+{{- /* pro-tip: gold-framed pro tip box. Usage: {{< pro-tip "tip text" >}} */}}
+{{- $tip := .Inner | default "Pro tip text here." }}
+<div class="pro-tip">
+  <strong>Only 10h+ players know:</strong><br>
+  {{ $tip | markdownify }}
+</div>

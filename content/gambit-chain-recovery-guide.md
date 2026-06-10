@@ -19,10 +19,9 @@ hidden: false
 
 ## Gambit Chain Broken \u2014 TL;DR
 
-<div class="callout callout-verdict">
-<strong>Don\u2019t panic. Don\u2019t restart.</strong><br>
-A broken chain is recoverable in 2\u20133 moves if you know your fallback routes. The most common fix: insert a neutral Gambit (King\u2019s Pawn / Knight\u2019s Pawn) to reset the chain state, then pivot into a secondary chain.
-</div>
+{{< callout type="verdict" >}}<strong>Don\u2019t panic. Don\u2019t restart.</strong>
+
+A broken chain is recoverable in 2\u20133 moves if you know your fallback routes. The most common fix: insert a neutral Gambit (King\u2019s Pawn / Knight\u2019s Pawn) to reset the chain state, then pivot into a secondary chain.{{< /callout >}}
 
 ## Why Do Gambit Chains Break?
 
@@ -62,12 +61,16 @@ For 6\u00d76 and 7\u00d77 boards where you have more room:
 
 ## Gambit Chain Priority (When Recovering)
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Situation | Best Fallback | Why |
 |-----------|--------------|-----|
 | Center control lost | King\u2019s Pawn Gambit | Resets state without moving toward edges |
 | Crumble incoming | Bishop Zone Gambit | Keeps you centered during board shrink |
 | Boss about to act | Knight Fork Gambit | Fast activation, minimum moves |
 | Dead chain + low stock | Stock Market Gambit | No piece requirement, pure economy play |
+
+</div>
 
 ## Scaling Up: Multi-Chain Planning
 

@@ -14,11 +14,15 @@ category: "Pieces & Cards"
 
 **The Knight is the single most flexible piece in Gambonanza. Here's why most players underuse it -- and how to make it your run's backbone.**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Knight Skill | What It Does | Why It Wins |
 |-------------|--------------|-------------|
 | L-move reach | Hits any tile in 2-3 moves | Best chain connector |
 | Jump over pieces | Ignores board congestion | Unstoppable positioning |
 | Knight Fork Gambit | Hits 2+ targets | Best value Gambit in the game |
+
+</div>
 
 **The 3 Knight techniques that changed my game:**
 1. The Knight Anchor (never lose your chain again)
@@ -35,6 +39,8 @@ I spent my first 100 hours treating Knights as "weak Bishops." They have fewer a
 
 Here's what I didn't realize: Gambonanza isn't chess. You don't need piece power -- you need piece *flexibility*. The Knight's L-move is the most flexible movement pattern in the game because:
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Other Piece | Movement | Reachable Tiles (from center) |
 |-------------|----------|-------------------------------|
 | Bishop | Diagonal only | 13 (one color only) |
@@ -42,6 +48,8 @@ Here's what I didn't realize: Gambonanza isn't chess. You don't need piece power
 | Queen | All directions | 27 (but exposed) |
 | **Knight** | **L-shape** | **8 (any direction, jumps over)** |
 | Pawn | Forward 1 | 2 (slow) |
+
+</div>
 
 The Knight reaches only 8 tiles from center, but those 8 tiles can be in *any* direction, and it jumps over everything. When the board is chaotic -- and it always is in Gambonanza -- the Knight is the only piece that doesn't care.
 
@@ -75,11 +83,15 @@ The Knight reaches only 8 tiles from center, but those 8 tiles can be in *any* d
 
 **Why most players fail:** They activate Knight Fork the moment they see it. But you need to *set up the fork* first. Move your Knight into position, check your enemy's board state, *then* activate.
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Setup Quality | Targets Hit | Damage Output |
 |---------------|-------------|---------------|
 | Rushed (activate immediately) | 1 target | 8 damage |
 | Partial setup (1 turn prep) | 1-2 targets | 12-16 damage |
 | Full setup (2 turn prep) | 2-3 targets | 20-30 damage |
+
+</div>
 
 **Pro tip:** Knight Fork combos perfectly with Bishop's Domain. The Bishop controls diagonals (forcing enemies into L-reach), then your Knight Fork hits everything the Bishop pinned.
 
@@ -95,11 +107,15 @@ The Knight reaches only 8 tiles from center, but those 8 tiles can be in *any* d
 
 **Priority table for King saves:**
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Situation | Best Move | Why |
 |-----------|-----------|-----|
 | Knight within 3 tiles | Knight intercept | Buys 2 turns |
 | Multiple pieces threatened | Knight Fork + hold | Hits all threats |
 | Board collapsing | Knight escape + King reposition | Saves both pieces |
+
+</div>
 
 **My experience:** I once won a run where my King was 1 move from checkmate. I had a Knight on F6. I moved it to E4, baiting the boss's Rook into attacking the Knight instead of my King. That bought me 2 turns -- long enough to set up a counter-combo and win.
 
@@ -109,6 +125,8 @@ The Knight reaches only 8 tiles from center, but those 8 tiles can be in *any* d
 
 The Knight + Bishop pairing is Gambonanza's best 2-piece synergy:
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Combo | Effect | Win Rate |
 |-------|--------|----------|
 | Bishop controls diagonals | Forces enemies into L-reach | +15% |
@@ -116,9 +134,13 @@ The Knight + Bishop pairing is Gambonanza's best 2-piece synergy:
 | Knight reserve saves Bishop | Emergency rescue | +10% |
 | **Combined** | **Unbreakable mid-game** | **+35%** |
 
+</div>
+
 ---
 
 ## Summary
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Technique | Difficulty | Win Rate Impact |
 |-----------|------------|-----------------|
@@ -126,6 +148,8 @@ The Knight + Bishop pairing is Gambonanza's best 2-piece synergy:
 | Knight Fork Setup | Medium | +20% |
 | Knight Escape | Hard | +10% |
 | Knight + Bishop Combo | Medium | +35% |
+
+</div>
 
 ---
 

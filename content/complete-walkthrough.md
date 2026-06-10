@@ -21,11 +21,10 @@ see_also:
 
 > Gambonanza blends chess with roguelike progression in a way that's incredibly satisfying-but the learning curve hits hard. This guide won't drill you on micro-tactics. It tells you **what to do and when to do it**.
 
-<div class='callout callout-verdict'>
-  <strong>Verdict</strong><br>
+{{< callout type="verdict" >}}<strong>Verdict</strong>
+
   Beginners make exactly two critical mistakes: over-expanding in the opening, and failing to transition in the mid-game. Fix those two things, and reaching Grand Master is just a matter of reps.
-  <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span>-steep at first, but every run teaches you something.
-</div>
+  <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span>-steep at first, but every run teaches you something.{{< /callout >}}
 
 ## Phase 1: Opening (3x3-4x4)
 
@@ -38,12 +37,13 @@ Build your economy foundation and fill Gambit slots.
 - [ ] Keep your King near center with at least 2 defensive pieces
 - [ ] Do not expose your Queen early
 
-<div class='callout callout-tip'>
-  <strong>Golden Opening Formula</strong><br>
-  <strong>Turns 1?:</strong> Expansion x2 + Gambit x1<br>
-  <strong>Turns 4?:</strong> Economy x2 + Defense x1<br>
-  Follow this ratio and you will almost never lose the opening phase.
-</div>
+{{< callout type="tip" >}}<strong>Golden Opening Formula</strong>
+
+  <strong>Turns 1?:</strong> Expansion x2 + Gambit x1
+
+  <strong>Turns 4?:</strong> Economy x2 + Defense x1
+
+  Follow this ratio and you will almost never lose the opening phase.{{< /callout >}}
 
 ![Mid-game board layout showing piece positioning strategy](/images/screenshots/ss_3.jpg)
 *Mid-game-pay attention to piece positioning and board control*
@@ -81,6 +81,8 @@ Already have 8+ pieces on board?
 
 See the <a href='/boss-strategy-guide'>full Boss Strategy Guide</a> for in-depth breakdowns. Quick reference:
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Boss | One-Liner Counter |
 |------|-------------------|
 | Jester | Predictable rhythm-defend then punish |
@@ -89,10 +91,10 @@ See the <a href='/boss-strategy-guide'>full Boss Strategy Guide</a> for in-depth
 | Queen of Hearts | Mirror formation, exploit the reversal |
 | Grand Master | Dual Gambit setup + trap strategy |
 
-<div class='pro-tip'>
-  <strong>Boss Fight Mentality</strong><br>
-  If you lose to the same boss 3 times in a row, stop bashing your head against it. Check: is your Gambit configuration correct for this fight? Are your relics the right type? Swapping one Gambit often does more than swapping ten pieces.
 </div>
+
+{{< pro-tip >}}<strong>Boss Fight Mentality</strong><br>
+  If you lose to the same boss 3 times in a row, stop bashing your head against it. Check: is your Gambit configuration correct for this fight? Are your relics the right type? Swapping one Gambit often does more than swapping ten pieces.{{< /pro-tip >}}
 
 ## Phase 4: Endgame (6x6+)
 
@@ -102,12 +104,16 @@ Sell all economy relics-Equip full combat relics-Open King hunting windows
 ### Win Condition Checkpoints
 Before entering 6x6, confirm:
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Condition | Requirement |
 |-----------|-------------|
 | Gambit slots | At least 2, ideally 3 |
 | Combat relics |-4 |
 | King position | Not exposed, has defensive cover |
 | Core pieces | Queen + Rook x2 + Bishop x2 |
+
+</div>
 
 If you can't meet these, lower your expectations and pursue a King-snipe comeback instead of a direct fight.
 
@@ -119,10 +125,9 @@ If you can't meet these, lower your expectations and pursue a King-snipe comebac
 4. **"Pawn promotion is always good"**-Losing Pawn Gambit chain synergy can hurt more than it helps
 5. **"King exposed = panic"**-If you can shore up defense within 3 turns, you're fine
 
-<div class='callout callout-tip'>
-  <strong>Sources & Updates</strong><br>
-  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
-</div>
+{{< callout type="tip" >}}<strong>Sources & Updates</strong>
+
+  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}
 
 <div class='ad-slot ad-slot--after-content'>
   <div class='ad-label'>Advertisement</div>

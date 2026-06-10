@@ -13,12 +13,11 @@ see_also:
 
 ## The Economy System-Rated & Exploited
 
-<div class="callout callout-verdict">
-  <strong>###  THE VERDICT</strong><br>
-  Winning Gambonanza is 40% strategy and 60% economy. Players who manage their stock well beat players with better board skills every single time. This guide turns you from a spender into an investor.
-</div>
+{{< callout type="verdict" >}}<strong>###  THE VERDICT</strong>
 
-<hr class="section-divider">
+  Winning Gambonanza is 40% strategy and 60% economy. Players who manage their stock well beat players with better board skills every single time. This guide turns you from a spender into an investor.{{< /callout >}}
+
+{{< section-divider >}}
 
 ## Investment Tables-Tier List
 
@@ -33,14 +32,9 @@ see_also:
 
 </div>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Boring but unbeatable. 10% guaranteed returns compound through the entire run. This is your economic backbone-invest 40% of all stock here, every time.</span>
-</div>
+{{< meta-rating grade="S" label="Boring but unbeatable. 10% guaranteed returns compound through the entire run. This is your economic backbone-invest 40% of all stock here, every time." >}}
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Safe Haven's 10% return compounds across ALL shop visits, not just the next one. If you invest 100 stock in Safe Haven on visit 1 and never touch it, by visit 10 it's worth 259 stock. That's 159 free stock for doing absolutely nothing.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Safe Haven's 10% return compounds across ALL shop visits, not just the next one. If you invest 100 stock in Safe Haven on visit 1 and never touch it, by visit 10 it's worth 259 stock. That's 159 free stock for doing absolutely nothing.{{< /pro-tip >}}
 
 ---
 
@@ -55,14 +49,9 @@ see_also:
 
 </div>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-a">A</span>
-  <span class="meta-label">Knight's Jump positive EV: 2x0.6 + 0.5x0.4 = 1.4x expected return. Better than Safe Haven but with variance. Put 30% of stock here.</span>
-</div>
+{{< meta-rating grade="A" label="Knight's Jump positive EV: 2x0.6 + 0.5x0.4 = 1.4x expected return. Better than Safe Haven but with variance. Put 30% of stock here." >}}
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Bishop's Diagonal return rate is tied to actual board position. If you control the center AND both bishops are alive, the return jumps to 2.5x. This is the only investment table you can actively influence during the match.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Bishop's Diagonal return rate is tied to actual board position. If you control the center AND both bishops are alive, the return jumps to 2.5x. This is the only investment table you can actively influence during the match.{{< /pro-tip >}}
 
 ---
 
@@ -76,19 +65,16 @@ see_also:
 
 </div>
 
-<div class="meta-rating">
-  <span class="meta-badge meta-b">B</span>
-  <span class="meta-label">5x0.2 + 0x0.8 = 1.0x expected return-exactly break-even. Only worth it for the high-roll dopamine. NEVER put more than 20% here.</span>
-</div>
+{{< meta-rating grade="B" label="5x0.2 + 0x0.8 = 1.0x expected return-exactly break-even. Only worth it for the high-roll dopamine. NEVER put more than 20% here." >}}
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## The 3-Phase Economy Strategy
 
 <div class="split-col">
 <div class="col">
 
-### Phase 1: Survival <span class="phase-tag phase-early">RUNS 1-5</span>
+### Phase 1: Survival {{< phase-tag "early" >}}
 
 **Stock split:** 80% Safe Haven / 20% Knight's Jump
 
@@ -99,7 +85,7 @@ see_also:
 </div>
 <div class="col">
 
-### Phase 2: Build <span class="phase-tag phase-mid">RUNS 6-15</span>
+### Phase 2: Build {{< phase-tag "mid" >}}
 
 **Stock split:** 50% Safe Haven / 30% Knight's Jump / 20% Bishop's Diagonal
 
@@ -111,11 +97,11 @@ see_also:
 </div>
 
 <div style="margin: 12px 0">
-  <span class="phase-tag phase-late">RUNS 16+</span>
+  {{< phase-tag "late" >}}
   <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px"><strong>Phase 3: Dominate.</strong> Stock split: 30% Safe Haven / 40% Knight's Jump / 20% Bishop's Diagonal / 10% Gambler's Gambit. Target: 100+ stock buffer. Prioritize Legendary Gambits. Save 200+ stock before King of Spades.</span>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Mini-Games-When to Play & When to Walk Away
 
@@ -129,11 +115,9 @@ see_also:
 
 </div>
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> Gambit Auction AI has a predictable bidding pattern-it bids 10-15% more than the Gambit's shop price, then stops. If a Legendary Gambit has a shop price of 400, the AI bids up to ~460. Bid 420 IF you want it, or let the AI overpay and save your stock for the next shop when it's cheaper.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Gambit Auction AI has a predictable bidding pattern-it bids 10-15% more than the Gambit's shop price, then stops. If a Legendary Gambit has a shop price of 400, the AI bids up to ~460. Bid 420 IF you want it, or let the AI overpay and save your stock for the next shop when it's cheaper.{{< /pro-tip >}}
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Shop Priority: What to Buy & When
 
@@ -162,7 +146,7 @@ see_also:
 - Any Gambit over 150 stock early game-too expensive for return
 - Gambits you don't have the piece type to use
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Economy Gambit Cheat Sheet
 
@@ -208,14 +192,13 @@ see_also:
 </div>
 </div>
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Stock Recovery-The 0-100 Guide
 
-<div class="callout callout-danger">
-  <strong> LOST ALL YOUR STOCK? DON'T PANIC</strong><br>
-  It happens to everyone. Here's the exact recovery sequence.
-</div>
+{{< callout type="danger" >}}<strong> LOST ALL YOUR STOCKDON'T PANIC</strong>
+
+  It happens to everyone. Here's the exact recovery sequence.{{< /callout >}}
 
 1. **Lose 1-2 easy matches intentionally**-resets your position to baseline
 2. **Buy ONLY common Gambits** (Teleport, Backstab max)-40 stock total
@@ -223,9 +206,7 @@ see_also:
 4. **Invest 80% in Safe Haven**-guaranteed returns rebuild your buffer
 5. **By run 5-6, you're back to 50+ stock**-resume normal strategy
 
-<div class="pro-tip">
-  <strong>Only 10h+ players know:</strong> The game has a hidden "catch-up mechanic"-if your stock drops below 20, the next 3 shop visits will spawn at least 1 Common Gambit priced at 5-10 stock (normally 10-30). The game WANTS you to recover. Don't waste these cheap picks on filler-grab Teleport and Backstab at discount prices.
-</div>
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> The game has a hidden "catch-up mechanic"-if your stock drops below 20, the next 3 shop visits will spawn at least 1 Common Gambit priced at 5-10 stock (normally 10-30). The game WANTS you to recover. Don't waste these cheap picks on filler-grab Teleport and Backstab at discount prices.{{< /pro-tip >}}
 
 ---
 

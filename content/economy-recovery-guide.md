@@ -19,10 +19,9 @@ lastmod: 2026-05-25T05:02:57+08:00
 
 ## Stock Is Crashing \u2014 TL;DR
 
-<div class="callout callout-verdict">
-<strong>Stop. Don\u2019t play another Gambit until you diagnose.</strong><br>
-If your stock is actively falling, it\u2019s not bad luck. It\u2019s one of: (1) a broken chain debt spiral, (2) a boss economy drain ability, or (3) passive decay from inactivity. Fix the cause before you play. Playing more Gambits into a broken system only accelerates the crash.
-</div>
+{{< callout type="verdict" >}}<strong>Stop. Don\u2019t play another Gambit until you diagnose.</strong>
+
+If your stock is actively falling, it\u2019s not bad luck. It\u2019s one of: (1) a broken chain debt spiral, (2) a boss economy drain ability, or (3) passive decay from inactivity. Fix the cause before you play. Playing more Gambits into a broken system only accelerates the crash.{{< /callout >}}
 
 ## The Three Causes of Stock Crashing
 
@@ -40,12 +39,16 @@ Every failed Gambit chain attempt costs stock. If you try 2\u20133 chains in a r
 
 Some bosses have passive economy drain that isn\u2019t immediately obvious:
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Boss | Drain Type | Detection | Counter |
 |------|-----------|-----------|---------|
 | King of Spades | Column-lock drain: -1 stock per locked column per turn | Columns flash red before locking | Break locks with Bishop sacrifice |
 | Blitzking | Speed drain: -1 stock every 8 turns if no Gambit activated | Timer icon appears below stock counter | Activate ANY Gambit to reset timer |
 | Queen | Shuffle drain: -2 stock each time she shuffles the board |\u201cBoard Shuffle\u201d warning appears | Cluster pieces loosely \u2014 1 per zone minimum |
 | Crumble | Not a boss. But collapsing tiles destroy Gambits in progress \u2192 indirect drain | Board edges pulse orange | Shift all chains to center tiles |
+
+</div>
 
 **Fix**: Identify the boss ability type first, then counter it. Most boss drains stop when you activate a specific counter (see table above).
 
