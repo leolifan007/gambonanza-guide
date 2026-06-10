@@ -1,0 +1,6 @@
+<figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center">
+  <img src="/images/diagrams/{{ .Get "src" }}" alt="{{ .Get "alt" }}" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)">
+  {{ if .Get "caption" }}
+  <figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic">{{ .Get "caption" }}</figcaption>
+  {{ end }}
+</figure>

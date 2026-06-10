@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<text x="350" y="38" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Boss Progression Chart</text>
+
+<text x="60" y="75" fill="#E8D5C0" font-size="12">Stage 2</text>
+<text x="60" y="140" fill="#E8D5C0" font-size="12">Stage 4</text>
+<text x="60" y="210" fill="#E8D5C0" font-size="12">Stage 6</text>
+<text x="60" y="280" fill="#E8D5C0" font-size="12">Stage 8</text>
+<text x="60" y="365" fill="#D4A84A" font-family="'VT323',monospace" font-size="14">Stage 10</text>
+
+<rect x="130" y="58" width="150" height="30" rx="6" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="205" y="78" fill="#F5E6D3" font-size="13" text-anchor="middle">Stage 2 Boss (Easy)</text>
+
+<rect x="130" y="125" width="150" height="30" rx="6" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="205" y="145" fill="#F5E6D3" font-size="13" text-anchor="middle">Stage 4 Boss (Moderate)</text>
+
+<rect x="130" y="195" width="150" height="30" rx="6" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="205" y="215" fill="#F5E6D3" font-size="13" text-anchor="middle">Stage 6 Boss (Hard)</text>
+
+<rect x="130" y="265" width="150" height="30" rx="6" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="205" y="285" fill="#F5E6D3" font-size="13" text-anchor="middle">Stage 8 Boss (V.Hard)</text>
+
+<rect x="130" y="340" width="150" height="60" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="2"/>
+<text x="205" y="365" fill="#D4A84A" font-family="'VT323',monospace" font-size="15" text-anchor="middle">GRANDMASTER</text>
+<text x="205" y="385" fill="#E8D5C0" font-size="12" text-anchor="middle">Stage 10 Final Boss</text>
+
+<line x1="280" y1="73" x2="330" y2="73" stroke="#E8D5C0" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="330" y1="73" x2="330" y2="140" stroke="#E8D5C0" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="280" y1="140" x2="330" y2="140" stroke="#E8D5C0" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="280" y1="210" x2="330" y2="210" stroke="#E8D5C0" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="330" y1="210" x2="330" y2="280" stroke="#E8D5C0" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="280" y1="280" x2="330" y2="280" stroke="#E8D5C0" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="280" y1="370" x2="330" y2="370" stroke="#D4A84A" stroke-width="1.5" stroke-dasharray="3,3"/>
+
+<text x="350" y="80" fill="#5CB85C" font-size="12">Any build works</text>
+<text x="350" y="147" fill="#5CB85C" font-size="12">Have 1 defensive gambit</text>
+<text x="350" y="217" fill="#D4764A" font-size="12">Teleport + Backstab recommended</text>
+<text x="350" y="287" fill="#D4764A" font-size="12">Save Ultimate Counter for Phase 3</text>
+<text x="350" y="365" fill="#D4A84A" font-size="13" font-weight="bold">Ultimate Counter + Teleport - MUST HAVE</text>
+<text x="350" y="385" fill="#E8D5C0" font-size="12">20+ stock, multi-phase fight</text>
+
+<rect x="350" y="400" width="320" height="28" rx="4" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="510" y="418" fill="#D4A84A" font-family="'VT323',monospace" font-size="12" text-anchor="middle">King: Stage 6 True Final Boss after Grandmaster</text>
+</svg>

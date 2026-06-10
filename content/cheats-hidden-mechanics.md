@@ -25,6 +25,8 @@ Every tip in this guide is backed by community testing on the Gambonanza subredd
 As of v1.1.0, Hidden Queen's gambit is fully bugged. Do not build around it. Check for patch notes addressing this in future updates.
 {{< /callout >}}
 
+{{< diagram src="spectral-conversion.svg" alt="Spectral to permanent conversion flow" caption="The most important hidden mechanic: spectral piece + gold tile = permanent piece with retained buffs." >}}
+
 {{% section-divider %}}
 
 ## Gold Tile + Spectral Piece = Permanent Piece
@@ -39,6 +41,8 @@ As of v1.1.0, Hidden Queen's gambit is fully bugged. Do not build around it. Che
 **Why it's powerful:** Spectral pieces normally expire after a set number of turns. This interaction lets you bypass that limitation entirely. According to the Gambonanza Wiki, Gold tiles also generate money passively, so you're double-dipping on value.
 
 **Community backing:** Confirmed by the Gambonanza subreddit discussion on piece mechanics ([r/Gambonanza](https://www.reddit.com/r/Gambonanza/)).
+
+{{< diagram src="economic-loop.svg" alt="Economic gambit income loop" caption="Economic Gambits create a self-sustaining income loop. 70%+ win rate in community testing." >}}
 
 {{% section-divider %}}
 

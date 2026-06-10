@@ -13,6 +13,8 @@ Gambonanza has a massive collection system with over 200 items to unlock across 
 "gambonanza achievements" has 35 impressions with no dedicated page. Combined with "gambonanza cheats" (37 imp) and collection-related searches, there is clear demand for unlock/collection content.
 {{< /callout >}}
 
+{{< diagram src="hidden-gambit-path.svg" alt="Hidden gambit unlock path" caption="6 hidden gambits exist, with the 6th being the most mysterious - no unlock description at all." >}}
+
 {{% section-divider %}}
 
 ## How the Collection System Works

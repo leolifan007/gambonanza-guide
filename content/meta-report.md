@@ -13,6 +13,8 @@ v1.1.0 is the Economy meta. Three S-tier Gambits dominate every run, while the r
 
 This report is based on community testing across the Gambonanza subreddit, YouTube pro runs, third-party analysis from GameBrief and GameStrategyHub, and internal data from our guides at gambonanzaguide.com.
 
+{{< diagram src="build-comparison.svg" alt="Build archetype comparison" caption="Build tiers by win rate and difficulty. Pawn Economy leads at 70%+." >}}
+
 {{% section-divider %}}
 
 ## S-Tier Gambits - Game-Warping (97% Pick Rate)

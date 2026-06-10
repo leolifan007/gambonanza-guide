@@ -13,6 +13,8 @@ Crumble Mode is Gambonanza's alternate game mode where the board physically degr
 Crumble Mode is divisive. Some players love the pressure; others find it frustrating. Per a Steam discussion: "There is no strategy in having two of your pieces getting randomly marked to drop" - but GameBrief rates it as a legitimate strategic layer. Both perspectives have merit.
 {{< /callout >}}
 
+{{< diagram src="crumble-stages.svg" alt="Crumble mode 5 board decay stages" caption="Board shrinks from 8x8 to 4x4 across 5 stages. The 3/3 counter triggers each collapse." >}}
+
 {{% section-divider %}}
 
 ## How the 3/3 Counter Works

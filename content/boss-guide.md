@@ -12,6 +12,8 @@ Boss fights are where Gambonanza runs end. With 9 total bosses across 5 stages p
 "Boss" related queries generate 136 impressions in GSC but only 8 clicks. Players are searching for boss help but not finding what they need. This guide targets those specific searches with phase-by-phase clarity.
 {{< /callout >}}
 
+{{< diagram src="boss-progression.svg" alt="Boss progression chart from Stage 2 to Grandmaster" caption="All 9 bosses mapped by stage and difficulty. King difficulty adds a True Final Boss at Stage 6." >}}
+
 {{% section-divider %}}
 
 ## Boss Overview
@@ -77,6 +79,8 @@ This is where King difficulty runs commonly end. The boss has multi-phase mechan
 - Save The Ultimate Counter for Phase 3
 - Have at least 20 stock entering the fight
 - Prioritize piece survival over damage
+
+{{< diagram src="grandmaster-phases.svg" alt="Grandmaster 3-phase breakdown" caption="The Grandmaster fight has 3 distinct phases. Save The Ultimate Counter for Phase 3." >}}
 
 {{% section-divider %}}
 

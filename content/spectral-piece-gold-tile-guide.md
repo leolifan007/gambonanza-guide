@@ -13,6 +13,8 @@ Spectral pieces (also called ghost or phantom pieces) are one of the most misund
 Put a spectral piece on a gold tile. It becomes permanent. This single interaction changes how you should value both gold tiles and spectral pieces. Confirmed by multiple Reddit users, YouTube creators, and the Gambonanza Wiki.
 {{< /callout >}}
 
+{{< diagram src="spectral-conversion.svg" alt="Spectral piece to gold tile conversion flow" caption="3-step process: get spectral piece, move to gold tile, permanent piece with all buffs retained." >}}
+
 {{% section-divider %}}
 
 ## What Are Spectral Pieces?
@@ -46,6 +48,8 @@ This is the most important interaction to learn. Verified by multiple community 
 {{< callout type="pro-tip" title="Pro Tip" >}}
 Gold tiles themselves generate passive income. Converting a spectral piece on a gold tile means you get BOTH permanent income AND a permanent piece. This is why Economic Loop builds often aim for gold tiles first.
 {{< /callout >}}
+
+{{< diagram src="economic-loop.svg" alt="Economic gambit loop diagram" caption="Economic Gambits convert pawn captures into coin. Combined with gold tiles, income doubles." >}}
 
 {{% section-divider %}}
 

@@ -13,6 +13,8 @@ The jump between Normal and King difficulty is the largest skill gap in Gambonan
 
 Gambonanza has multiple difficulty tiers, each significantly harder than the last. Based on community runs, Reddit discussions, YouTube playthroughs, and the Gambonanza Wiki, here is the definitive progression guide.
 
+{{< diagram src="difficulty-ladder.svg" alt="Difficulty progression ladder" caption="5 difficulty tiers from Easy to Grandmaster with first-clear estimates and key mechanic changes." >}}
+
 {{% section-divider %}}
 
 ## Difficulty Overview

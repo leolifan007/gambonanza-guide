@@ -13,6 +13,8 @@ Not every build works in every run. The best Gambonanza players know how to read
 Don't force a build. Read what the shop gives you and pivot. A flexible player with a B-tier build that fits their gambits will beat a rigid player forcing S-tier without the right cards.
 {{< /callout >}}
 
+{{< diagram src="build-comparison.svg" alt="Build archetype comparison table" caption="All 5 build archetypes ranked by win rate, difficulty, best board, and tier." >}}
+
 {{% section-divider %}}
 
 ## Build 1: Pawn Economy Loop S-Tier
