@@ -1,11 +1,12 @@
 ---
 title: "Gambonanza Spectral Piece & Gold Tile Guide - How to Make Permanent Pieces"
 description: "Complete guide to spectral pieces in Gambonanza v1.1.0. How ghost/phantom pieces work, gold tile conversion to permanent pieces, spectral pawn strategies, and community-verified tips."
-hidden: true
-publishDate: "2026-06-11"
 version: "v1.1.0"
 category: "Strategy & Guides"
+lastmod: "2026-06-11T14:02:58+08:00"
+date: "2026-06-11"
 ---
+
 
 Spectral pieces (also called ghost or phantom pieces) are one of the most misunderstood mechanics in Gambonanza. New players often avoid them because they expire. But the community has discovered that spectral pieces, combined with gold tiles, create one of the most powerful strategies in the game.
 
