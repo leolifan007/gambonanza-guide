@@ -1,11 +1,12 @@
 ---
 title: "Gambonanza Cheats & Hidden Mechanics (v1.1.0)"
 description: "Undocumented Gambonanza mechanics, the bugged Hidden Queen's gambit, secret tile synergies the community discovered, gold tile permanent piece trick, and strategies that exploit game systems."
-hidden: true
-publishDate: "2026-06-12"
 version: "v1.1.0"
 category: "Strategy & Guides"
+lastmod: "2026-06-12T13:58:31+08:00"
+date: "2026-06-12"
 ---
+
 
 Not everything in Gambonanza is explained in the tutorial. Through hundreds of community runs on Reddit, YouTube, and Steam discussions, players have discovered subtle mechanics, known bugs, and high-level strategies that the game never explicitly teaches. Here are the most impactful ones verified for v1.1.0.
 
