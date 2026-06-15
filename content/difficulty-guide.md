@@ -1,11 +1,12 @@
 ---
 title: "Gambonanza Difficulty Guide - How to Progress from Easy to King"
 description: "Step-by-step Gambonanza difficulty progression guide. What changes at each difficulty level, which builds work best at each tier, and how to finally beat King difficulty."
-hidden: true
-publishDate: "2026-06-15"
 version: "v1.1.0"
 category: "Beginner"
+lastmod: "2026-06-15T14:35:13+08:00"
+date: "2026-06-15"
 ---
+
 
 {{< callout type="verdict" title="The Reality Check" >}}
 The jump between Normal and King difficulty is the largest skill gap in Gambonanza. Players report taking 25+ runs on King before their first clear. This guide maps the entire progression path with community-verified strategies.
