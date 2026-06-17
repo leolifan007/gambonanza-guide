@@ -1,11 +1,12 @@
 ---
 title: "Gambonanza Collection Unlock Guide - All 200 Items & 6 Hidden Gambits"
 description: "Complete Gambonanza collection unlock guide for v1.1.0. How to unlock all 200 collection items, 6 hidden gambits, achievements, and what each unlock does for your runs."
-hidden: true
-publishDate: "2026-06-17"
 version: "v1.1.0"
 category: "Pieces & Cards"
+lastmod: "2026-06-17T14:24:58+08:00"
+date: "2026-06-17"
 ---
+
 
 Gambonanza has a massive collection system with over 200 items to unlock across runs. Beyond the visible progression, there are 6 hidden gambits that require specific conditions to unlock. The Gambonanza Wiki barely documents most of these - this guide consolidates what the community has discovered.
 
