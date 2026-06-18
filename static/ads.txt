@@ -1,2 +1,3 @@
-# Adsterra - add publisher info here from Adsterra dashboard
-# Format: adsterra.com, PUBLISHER_ID, DIRECT, SELLER_ID
+# Adsterra
+adsterra.com, 5eedb1fdb791d0f3a9a00395fc93dba6, DIRECT, 5eedb1fdb791d0f3a9a00395fc93dba6
+adsterra.com, ef0b71e6c1c0445b408efba09b47dd9a, RESELLER, ef0b71e6c1c0445b408efba09b47dd9a
