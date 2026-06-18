@@ -324,7 +324,7 @@ ul { list-style: none; padding: 0; }
   padding: 2px 8px;
 }
 
-/* ─── Ad Slot Placeholder (hidden until AdSense approved) ─── */
+/* ─── Ad Slot Placeholder ─── */
 .ad-slot {
   display: none;
   width: 100%;
