@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="600" height="420" viewBox="0 0 600 420">
+<rect width="600" height="420" fill="#1A0F1A" rx="12"/>
+<text x="300" y="38" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Difficulty Progression Ladder</text>
+
+<rect x="30" y="60" width="220" height="44" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="140" y="87" fill="#4A9B9B" font-family="'VT323',monospace" font-size="16" text-anchor="middle">Easy</text>
+<text x="280" y="78" fill="#E8D5C0" font-size="12">First clear: 3-5 runs</text>
+<text x="280" y="95" fill="#E8D5C0" font-size="11">Tutorial AI, gambits persistent</text>
+
+<line x1="140" y1="104" x2="140" y2="124" stroke="#4A9B9B" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+<rect x="30" y="124" width="220" height="44" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="140" y="151" fill="#4A9B9B" font-family="'VT323',monospace" font-size="16" text-anchor="middle">Normal</text>
+<text x="280" y="142" fill="#E8D5C0" font-size="12">First clear: 10-15 runs</text>
+<text x="280" y="159" fill="#E8D5C0" font-size="11">Reactive AI, limited gambit exp.</text>
+
+<line x1="140" y1="168" x2="140" y2="188" stroke="#A85D6A" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+<rect x="30" y="188" width="220" height="44" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="140" y="215" fill="#A85D6A" font-family="'VT323',monospace" font-size="16" text-anchor="middle">Queen</text>
+<text x="280" y="206" fill="#E8D5C0" font-size="12">First clear: 25-40 runs</text>
+<text x="280" y="223" fill="#E8D5C0" font-size="11">Aggressive AI, gambits expire 5 rds</text>
+
+<line x1="140" y1="232" x2="140" y2="252" stroke="#D4764A" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+<rect x="30" y="252" width="220" height="44" rx="8" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="140" y="279" fill="#D4764A" font-family="'VT323',monospace" font-size="16" text-anchor="middle">King</text>
+<text x="280" y="270" fill="#E8D5C0" font-size="12">First clear: 25+ runs</text>
+<text x="280" y="287" fill="#E8D5C0" font-size="11">Clinical AI, multi-phase bosses</text>
+
+<line x1="140" y1="296" x2="140" y2="316" stroke="#D4A84A" stroke-width="2" stroke-dasharray="4,3"/>
+
+<rect x="30" y="316" width="220" height="44" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="2"/>
+<text x="140" y="343" fill="#D4A84A" font-family="'VT323',monospace" font-size="16" text-anchor="middle">Grandmaster</text>
+<text x="280" y="334" fill="#E8D5C0" font-size="12">Estimated: 50+ runs</text>
+<text x="280" y="351" fill="#E8D5C0" font-size="11">True Final Boss at Stage 6</text>
+
+<rect x="30" y="375" width="540" height="32" rx="6" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="300" y="396" fill="#D4A84A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">Rule: 50%+ win rate at current difficulty before advancing</text>
+</svg>

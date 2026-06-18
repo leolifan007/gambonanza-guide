@@ -1,4 +1,6 @@
----
+---category: "Gambits"
+
+date: 2026-05-22
 lastmod: 2026-05-22T08:41:17+08:00
 title: "How to Fix a Broken Gambit Chain in Mid-Game"
 description: "Gambonanza gambit chain recovery guide v1.1.0. Why your combo stopped, how to restart it, salvage routes when you\u2019re stuck mid-board, and emergency fallback chains for v1.1.0."
@@ -11,15 +13,15 @@ see_also:
     url: '/deterministic-gambits-guide/'
 lastUpdated: 'v1.1.0-05-21'
 version: 'v1.1.0'
+draft: false
 hidden: false
 ---
 
 ## Gambit Chain Broken \u2014 TL;DR
 
-<div class="callout callout-verdict">
-<strong>Don\u2019t panic. Don\u2019t restart.</strong><br>
-A broken chain is recoverable in 2\u20133 moves if you know your fallback routes. The most common fix: insert a neutral Gambit (King\u2019s Pawn / Knight\u2019s Pawn) to reset the chain state, then pivot into a secondary chain.
-</div>
+{{< callout type="verdict" >}}<strong>Don\u2019t panic. Don\u2019t restart.</strong>
+
+A broken chain is recoverable in 2\u20133 moves if you know your fallback routes. The most common fix: insert a neutral Gambit (King\u2019s Pawn / Knight\u2019s Pawn) to reset the chain state, then pivot into a secondary chain.{{< /callout >}}
 
 ## Why Do Gambit Chains Break?
 
@@ -59,12 +61,16 @@ For 6\u00d76 and 7\u00d77 boards where you have more room:
 
 ## Gambit Chain Priority (When Recovering)
 
+<div class="synergy-table" style="overflow-x:auto">
+
 | Situation | Best Fallback | Why |
 |-----------|--------------|-----|
 | Center control lost | King\u2019s Pawn Gambit | Resets state without moving toward edges |
 | Crumble incoming | Bishop Zone Gambit | Keeps you centered during board shrink |
 | Boss about to act | Knight Fork Gambit | Fast activation, minimum moves |
 | Dead chain + low stock | Stock Market Gambit | No piece requirement, pure economy play |
+
+</div>
 
 ## Scaling Up: Multi-Chain Planning
 
@@ -91,3 +97,4 @@ You have 1/3 less time to diagnose. Use Recovery Route C by default \u2014 Knigh
 
 ### Queen
 Her board shuffles can disconnect your piece from its target. Keep a second piece nearby as a relay \u2014 if your main piece gets shuffled, the relay takes over.
+

@@ -1,5 +1,6 @@
----
-title: 'Gambonanza Rook & Bishop Guide v1.1.0 â€?Mastering the Support Pieces'
+---category: "Pieces & Cards"
+
+title: 'Gambonanza Rook & Bishop Guide v1.1.0-Mastering the Support Pieces'
 description: 'Gambonanza Rook and Bishop guide for patch v1.1.0. Rook suppression power, Bishop control tactics, Gambit combos, and advanced formations for these underrated pieces. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
@@ -22,20 +23,21 @@ see_also:
 
 ## The Backbone, Not The Sidekick
 
-> Queen reaps the harvest. Rook and Bishop create the conditions for the harvest. But 80% of beginners treat Rook as an expensive Pawn and Bishop as a budget Rook â€?this is completely backward.
+> Queen reaps the harvest. Rook and Bishop create the conditions for the harvest. But 80% of beginners treat Rook as an expensive Pawn and Bishop as a budget Rook-this is completely backward.
 
-<div class='callout callout-verdict'>
-  <strong>Verdict</strong><br>
-  Rook is Gambonanza's best value piece â€?moderate deployment cost, brutal suppression power, explosive Gambit synergy. Bishop is weaker man-for-man but irreplaceable in the right formations. Neither is a downgraded Queen â€?they're complementary tools. <strong>Rating:</strong> <span class='meta-rating'>A</span> for Rook, <span class='meta-rating'>B</span> for Bishop (S-tier in the right formation).
-</div>
+{{< callout type="verdict" >}}<strong>Verdict</strong>
 
-## Rook â€?Complete Breakdown
+  Rook is Gambonanza's best value piece-moderate deployment cost, brutal suppression power, explosive Gambit synergy. Bishop is weaker man-for-man but irreplaceable in the right formations. Neither is a downgraded Queen-they're complementary tools. <strong>Rating:</strong> <span class='meta-rating'>A</span> for Rook, <span class='meta-rating'>B</span> for Bishop (S-tier in the right formation).{{< /callout >}}
+
+## Rook-Complete Breakdown
 
 ### Why Rook Is Underrated
 
-Rook moves "all the way in a straight line" â€?beginners see this as inflexible. But in Gambonanza, **Rook's linear suppression = terrain control**. You don't need flexibility. You need them to be unable to move.
+Rook moves "all the way in a straight line"-beginners see this as inflexible. But in Gambonanza, **Rook's linear suppression = terrain control**. You don't need flexibility. You need them to be unable to move.
 
 ### Rook Core Roles
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Role | Best For | Recommended Gambit |
 |------|---------|-------------------|
@@ -43,25 +45,31 @@ Rook moves "all the way in a straight line" â€?beginners see this as inflexible.
 | Offensive | King hunting | Charge |
 | Defensive | King protection | King Bind |
 
+</div>
+
 ### Recommended Formation
 
 **Double Rook Wall**
 ```
-  Râ€”â€”R
+  R'
+<div class="synergy-table" style="overflow-x:auto">
+
   |    |
+
+</div>
   K    K
 ```
-Two Rooks flanking the King creates a cross-blockade â€?nearly impossible to break without Queen support.
+Two Rooks flanking the King creates a cross-blockade-nearly impossible to break without Queen support.
 
-<div class='pro-tip'>
-  <strong>Rook Pro Move</strong><br>
-  Most players use Rook for one thing: chasing opponent pieces in a straight line. Advanced players do something else: blocking key lanes to force the opponent into your preset killbox. One Rook on a 5Ã—5 board controls 1 entire row + 1 entire column â€?that's 2/5 of the board.
-</div>
+{{< pro-tip >}}<strong>Rook Pro Move</strong><br>
+  Most players use Rook for one thing: chasing opponent pieces in a straight line. Advanced players do something else: blocking key lanes to force the opponent into your preset killbox. One Rook on a 5x5 board controls 1 entire row + 1 entire column-that's 2/5 of the board.{{< /pro-tip >}}
 
-![Piece shop interface â€?smart resource allocation for Rook and Bishop purchases](/images/screenshots/ss_4.jpg)
-*Piece shop â€?allocating gold for Rook and Bishop buys is often the difference between winning and losing*
+![Piece shop interface-smart resource allocation for Rook and Bishop purchases](/images/screenshots/ss_4.jpg)
+*Piece shop-allocating gold for Rook and Bishop buys is often the difference between winning and losing*
 
 ### Rook + Gambit Combos
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Combo | Effect | Difficulty |
 |-------|--------|------------|
@@ -69,19 +77,23 @@ Two Rooks flanking the King creates a cross-blockade â€?nearly impossible to bre
 | Rook + Anchor | Lock the best position permanently | <span class='meta-badge meta-a'>A</span> |
 | Rook + Teleport Swap | Swap with Pawn then rush forward | <span class='meta-badge meta-b'>B</span> |
 
-<span class='phase-tag'>Late</span> Double Rook + Queen on a 6Ã—6 board is the strongest control combo in the game, bar none.
+</div>
 
-## Bishop â€?Complete Breakdown
+<span class='phase-tag'>Late</span> Double Rook + Queen on a 6x6 board is the strongest control combo in the game, bar none.
+
+## Bishop-Complete Breakdown
 
 ### The Color-Square Problem
 
-Bishop only controls same-color squares â€?this is its biggest weakness, but also its defining trait. The right way to use Bishop is not to run around the board. It's to **hold one critical square and never let go**.
+Bishop only controls same-color squares-this is its biggest weakness, but also its defining trait. The right way to use Bishop is not to run around the board. It's to **hold one critical square and never let go**.
 
 ### Bishop Best Uses
 
-1. **Corner Control (Best)**: Place Bishop in a board corner. It controls an entire diagonal â€?opponent must send Queen/Rook to clear it
+1. **Corner Control (Best)**: Place Bishop in a board corner. It controls an entire diagonal-opponent must send Queen/Rook to clear it
 2. **Queen Opposite-Color Pair**: Queen controls white squares + Bishop controls black squares = full coverage
 3. **King Bodyguard**: Bishop near the King covers a wide area without moving
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Formation | Purpose | Advantage |
 |-----------|---------|-----------|
@@ -89,12 +101,15 @@ Bishop only controls same-color squares â€?this is its biggest weakness, but als
 | Dual Opposite-Color Bishops | Full board coverage | Only formation covering every square |
 | Bishop + King | Corner defense | King's best support defender |
 
-<div class='callout callout-danger'>
-  <strong>Bishop Trap</strong><br>
-  Never send a Bishop to fight a Rook head-on. Bishop cannot beat Rook in a straight fight. Bishop's value is not in the front line â€?it's in flank control and rear defense. Sending your Bishop on a charge wastes everything it does well.
 </div>
 
+{{< callout type="danger" >}}<strong>Bishop Trap</strong>
+
+  Never send a Bishop to fight a Rook head-on. Bishop cannot beat Rook in a straight fight. Bishop's value is not in the front line-it's in flank control and rear defense. Sending your Bishop on a charge wastes everything it does well.{{< /callout >}}
+
 ### Bishop vs Rook Comparison
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Dimension | Rook | Bishop |
 |-----------|------|--------|
@@ -105,25 +120,27 @@ Bishop only controls same-color squares â€?this is its biggest weakness, but als
 | Best partner | Queen | Queen |
 | Fatal weakness | Diagonal Bishop | Opposite-color squares |
 
+</div>
+
 ## Rook + Bishop Synergy
 
 **The simplest yet most effective combo:**
-- Rook blocks cross-lanes â†?forces opponent to move diagonally
-- Bishop intercepts diagonals â†?executes the kill
+- Rook blocks cross-lanes-forces opponent to move diagonally
+- Bishop intercepts diagonals-executes the kill
 
-This is "Cross Blockade + Diagonal Intercept" â€?on a 5Ã—5 board, this combo locks down 80% of all moveable squares.
+This is "Cross Blockade + Diagonal Intercept"-on a 5x5 board, this combo locks down 80% of all moveable squares.
 
-<div class='pro-tip'>
-  <strong>What Advanced Players Know</strong><br>
-  Double Rook + double opposite-color Bishops on a 6Ã—6 board covers every possible movement path â€?cross & cross, both diagonals. Every square your opponent can reach is in your coverage. The community calls this the "Iron Cage."
-</div>
+{{< pro-tip >}}<strong>What Advanced Players Know</strong><br>
+  Double Rook + double opposite-color Bishops on a 6x6 board covers every possible movement path-cross & cross, both diagonals. Every square your opponent can reach is in your coverage. The community calls this the "Iron Cage."{{< /pro-tip >}}
 
-<div class='callout callout-tip'>
-  <strong>Sources & Updates</strong><br>
-  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches â€?always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
-</div>
+{{< callout type="tip" >}}<strong>Sources & Updates</strong>
+
+  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}
 
 <div class='ad-slot ad-slot--after-content'>
   <div class='ad-label'>Advertisement</div>
   <div class='ad-placeholder'>Google AdSense</div>
 </div>
+
+
+

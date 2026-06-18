@@ -1,5 +1,6 @@
----
-title: "Gambonanza 4x4 Fast Farm Guide (v1.1.0) â€?Speedrun Your Economy on Small Boards"
+---category: "Economy"
+
+title: "Gambonanza 4x4 Fast Farm Guide (v1.1.0)-Speedrun Your Economy on Small Boards"
 description: "Gambonanza 4x4 fast farm guide for v1.1.0. Knight aggro openers, farm routes, economy Gambit synergies, and speedrun strategies for maximum stock per minute. Updated for patch v1.1.0."
 see_also:
   - title: 'Stock Market & Shop Guide'
@@ -12,14 +13,15 @@ see_also:
 
 ## Why 4x4 Boards Are Your ATM
 
-<div class="callout callout-verdict">
-  <strong>THE SHORT VERSION</strong><br>
-  The smallest board in Gambonanza = fastest wins per minute. If your stock is below 50, stop doing 6x6 and drop down to 4x4. This isn't about winning pretty, it's about winning cheap.
-</div>
+{{< callout type="verdict" >}}<strong>THE SHORT VERSION</strong>
+
+  The smallest board in Gambonanza = fastest wins per minute. If your stock is below 50, stop doing 6x6 and drop down to 4x4. This isn't about winning pretty, it's about winning cheap.{{< /callout >}}
 
 <!-- toc handled by sidebar template -->
 
 ## The 4x4 Advantage
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Factor | 4x4 Board | 6x6 Board |
 |--------|-----------|-----------|
@@ -28,10 +30,9 @@ see_also:
 | Gambit RNG | Less rolls = more predictable | More variance |
 | Best For | Economy building | Boss prep |
 
-<div class="meta-rating">
-  <span class="meta-badge meta-s">S</span>
-  <span class="meta-label">Best stock/hour ratio in the entire game. If you're not farming 4x4, you're leaving money on the table.</span>
 </div>
+
+{{< meta-rating grade="S" label="Best stock/hour ratio in the entire game. If you're not farming 4x4, you're leaving money on the table." >}}
 
 ## Knight Aggro Opener (Fastest Start)
 
@@ -51,10 +52,9 @@ Turn 4: Checkmate or forced promotion
 - Opponent can't develop without losing a piece
 - Games end before economy gambits even matter
 
-<div class="callout callout-tip">
-  <strong>Pro Tip</strong><br>
-  On 4x4, don't bother with economy gambits in the first 2 turns. The match is too short to recoup the cost. Focus on attack gambits that end the game fast.
-</div>
+{{< callout type="tip" >}}<strong>Pro Tip</strong>
+
+  On 4x4, don't bother with economy gambits in the first 2 turns. The match is too short to recoup the cost. Focus on attack gambits that end the game fast.{{< /callout >}}
 
 ## Farm Loop Timing
 
@@ -62,9 +62,11 @@ The optimal farm cycle:
 
 1. **Match 1-3**: Play Knight Aggro. Ignore economy. Build muscle memory.
 2. **Match 4-6**: Introduce 1-2 economy gambits (Double Down, Stock Split)
-3. **Match 7+**: Full optimization â€?attack openers into economy finish
+3. **Match 7+**: Full optimization-attack openers into economy finish
 
 ### Stock Projection (10 Matches)
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Match # | Opener | Stock Earned | Cumulative |
 |---------|--------|-------------|------------|
@@ -72,13 +74,15 @@ The optimal farm cycle:
 | 4-6 | Aggro + 1 Economy | ~22/match | 111 |
 | 7-10 | Full optimization | ~30/match | 231 |
 
-<div class="pro-tip">
-  Stock resets aren't punishing on 4x4. If you lose a match, you're back in the game within 3 minutes. Don't get tilted â€?just queue the next 4x4 and go again.
 </div>
+
+{{< pro-tip >}}Stock resets aren't punishing on 4x4. If you lose a match, you're back in the game within 3 minutes. Don't get tilted-just queue the next 4x4 and go again.{{< /pro-tip >}}
 
 ## Best Gambits for 4x4 Farming
 
 ### Attack Gambits (Priority)
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Gambit | Cost | Why on 4x4 |
 |--------|------|------------|
@@ -87,7 +91,11 @@ The optimal farm cycle:
 | Knight Boost | Low | Turns Knight into unstoppable threat |
 | Pawn Rush | Low | Overwhelms opponent on small board |
 
+</div>
+
 ### Economy Gambits (Use after Turn 3 only)
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Gambit | Cost | When to Buy |
 |--------|------|-------------|
@@ -95,11 +103,13 @@ The optimal farm cycle:
 | Stock Split | High | Farm runs only (not boss prep) |
 | Interest Boost | Low | Always worth it for longer sessions |
 
+</div>
+
 ## What NOT to Do on 4x4
 
 - Don't play defensive gambits (no room to retreat anyway)
 - Don't invest in long-term economy gambits (match too short)
-- Don't play "fair" chess â€?the board is rigged for aggression
+- Don't play "fair" chess-the board is rigged for aggression
 - Don't promote pawns (wastes 1-2 turns you don't have)
 
 ## Speedrun Records
@@ -121,3 +131,5 @@ Move up to 6x6 when:
 ---
 
 *Last updated: May 11, v1.1.0 | Version: v1.1.0 | Based on my runs and gameplay testing*
+
+

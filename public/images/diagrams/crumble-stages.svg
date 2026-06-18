@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="420" viewBox="0 0 700 420">
+<rect width="700" height="420" fill="#1A0F1A" rx="12"/>
+<text x="350" y="35" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Crumble Mode - Board Decay 5 Stages</text>
+
+<rect x="30" y="55" width="105" height="105" rx="6" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="82" y="180" fill="#4A9B9B" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Stage 1</text>
+<text x="82" y="197" fill="#E8D5C0" font-size="11" text-anchor="middle">8x8 - Full</text>
+
+<rect x="160" y="68" width="85" height="85" rx="6" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="202" y="173" fill="#4A9B9B" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Stage 2</text>
+<text x="202" y="190" fill="#E8D5C0" font-size="11" text-anchor="middle">7x7 - 1st collapse</text>
+
+<rect x="270" y="80" width="65" height="65" rx="6" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="302" y="165" fill="#A85D6A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Stage 3</text>
+<text x="302" y="182" fill="#E8D5C0" font-size="11" text-anchor="middle">6x6 - Knights suffer</text>
+
+<rect x="360" y="90" width="50" height="50" rx="6" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="385" y="158" fill="#D4764A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Stage 4</text>
+<text x="385" y="175" fill="#E8D5C0" font-size="11" text-anchor="middle">5x5 - Critical</text>
+
+<rect x="435" y="98" width="38" height="38" rx="6" fill="#2D1A2D" stroke="#D4A84A" stroke-width="2"/>
+<text x="454" y="153" fill="#D4A84A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Stage 5</text>
+<text x="454" y="170" fill="#E8D5C0" font-size="11" text-anchor="middle">4x4 - Endgame</text>
+
+<text x="143" y="115" fill="#E8D5C0" font-size="18">-&gt;</text>
+<text x="250" y="115" fill="#E8D5C0" font-size="18">-&gt;</text>
+<text x="340" y="118" fill="#E8D5C0" font-size="18">-&gt;</text>
+<text x="418" y="120" fill="#E8D5C0" font-size="18">-&gt;</text>
+
+<rect x="30" y="215" width="640" height="190" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1"/>
+<text x="350" y="240" fill="#D4A84A" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Strategy by Stage</text>
+
+<text x="50" y="268" fill="#4A9B9B" font-family="'VT323',monospace" font-size="13">Stage 1-2</text>
+<text x="140" y="268" fill="#E8D5C0" font-size="12">Economic gambits early. Compact center. Avoid edges.</text>
+
+<text x="50" y="293" fill="#A85D6A" font-family="'VT323',monospace" font-size="13">Stage 3</text>
+<text x="140" y="293" fill="#E8D5C0" font-size="12">Trade Knights for Rooks. Activate Reserve gambits.</text>
+
+<text x="50" y="318" fill="#D4764A" font-family="'VT323',monospace" font-size="13">Stage 4</text>
+<text x="140" y="318" fill="#E8D5C0" font-size="12">Every piece must pull weight. Backstab + Trap tiles.</text>
+
+<text x="50" y="343" fill="#D4A84A" font-family="'VT323',monospace" font-size="13">Stage 5</text>
+<text x="140" y="343" fill="#E8D5C0" font-size="12">Every move threatens capture. Teleport dominates.</text>
+
+<text x="50" y="375" fill="#A85D6A" font-size="12">3/3 Counter:</text>
+<text x="140" y="375" fill="#E8D5C0" font-size="11">3 moves without capture = board collapses one stage. Capture resets.</text>
+</svg>

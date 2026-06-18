@@ -24,10 +24,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7551387157478980" crossorigin="anonymous"></script>
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
+  
   <meta property="og:title" content="Gambonanza Guide - Complete Strategy, Gambits and Walkthrough">
   <meta property="og:description" content="The #1 Gambonanza guide for v1.1.0. Best builds, tier list, all 150&#43; Gambits rated, boss strategies, and recommended seeds. Updated for patch v1.1.0.">
   <meta property="og:url" content="https://gambonanzaguide.com/">
@@ -40,29 +37,26 @@
   <meta name="twitter:image" content="https://gambonanzaguide.com/og-image.png">
   
 </head>
-<body>
+<body class="home">
   <header class="site-header">
   <div class="container">
     <a href="/" class="logo">
       <span class="logo-icon">♟</span>
       <span class="logo-text">Gambonanza Guide</span>
     </a>
-    <nav class="main-nav">
+    <nav class="main-nav" id="main-nav">
       <a href="/" class="active">Home</a>
-      <a href="/gambonanza-tier-list/">🏆 Tier List</a>
-      <a href="/gambits/">Gambits</a>
-      <a href="/bosses/">Bosses</a>
       <a href="/beginner/">Beginner</a>
+      <a href="/gambits/">Gambits</a>
+      <a href="/bosses/">Boss Battles</a>
       <a href="/economy/">Economy</a>
-      <a href="/best-seeds/">🌱 Seeds</a>
-      <a href="/tips/">💡 Tips</a>
+      <a href="/cards/">Pieces &amp; Cards</a>
+      <a href="/strategy/">Strategy</a>
       <a href="/faq/">FAQ</a>
-      <a href="/king-of-spades-guide/">👑 King of Spades</a>
-      <a href="/deterministic-gambits-guide/">🎲 Gambit Picks</a>
     </nav>
-    <a href="https://store.steampowered.com/app/3182810/Gambonanza/" class="btn-steam" target="_blank" rel="noopener">
-      🎮 Steam
-    </a>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
   </div>
 </header>
 
@@ -71,7 +65,7 @@
   <div class="cookie-banner-inner">
     <div class="cookie-banner-text">
       <p id="cookie-title">
-        🍪 We use cookies to deliver personalised advertisements and analyse site traffic.
+        🍪 We use cookies to deliver advertisements and analyse site traffic.
         <a href="/privacy/" class="cookie-policy-link">Privacy Policy</a>
       </p>
     </div>
@@ -107,7 +101,7 @@
     <div class="cookie-category-row">
       <div class="cookie-category-info">
         <strong>Advertising</strong>
-        <p>Used by Google AdSense to personalise advertisements.</p>
+        <p>Used by Adsterra to display advertisements.</p>
       </div>
       <div class="cookie-toggle-wrap">
         <input type="checkbox" id="cookie-advertising" class="cookie-toggle">
@@ -187,87 +181,63 @@
   <div class="chess-bg"></div>
   <div class="hero-bg"></div>
   <div class="container hero-content">
-    <div class="hero-badge">♟ v1.1.0 — Updated May 2026 — #1 Most Complete Guide</div>
+    <div class="hero-badge">♟ v1.1.0 - Updated May 2026 - #1 Most Complete Guide</div>
     <h1><span>GAMBONANZA</span></h1>
     <p class="hero-subtitle">Master 150+ Gambits • Break Chess Rules • Conquer Every Boss. The only guide you'll ever need for the chess roguelike everyone's talking about.</p>
     <div class="hero-actions">
-      <a href="/beginner/" class="btn-primary">Start Here — Beginner Guide</a>
+      <a href="/beginner/" class="btn-primary">Start Here - Beginner Guide</a>
       <a href="/gambits/" class="btn-secondary">Browse All Gambits</a>
     </div>
   </div>
 </section>
 
 
-
-
 <div class="ad-slot ad-slot--hero-below">
-  <div class="ad-label">Advertisement</div>
-    <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7551387157478980"
-     data-ad-slot=""
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <div class="ad-placeholder">Google AdSense</div>
-</div>
+  <div class="ad-label">Advertisement</div><script>
+      atOptions = {
+        'key' : '23f7fbb812d81c5d85790948809f7c43',
+        'format' : 'iframe',
+        'height' : 90,
+        'width' : 728,
+        'params' : {}
+      };
+    </script>
+    <script src="https://www.highperformanceformat.com/23f7fbb812d81c5d85790948809f7c43/invoke.js"></script></div>
 
 
 
 <section class="section">
   <div class="container">
     <div class="section-header">
-      <div class="eyebrow">Updated May 17, 2026</div>
-
+      <div class="eyebrow">Fresh Guides</div>
       <h2>📰 Latest Guides</h2>
-      <p>Fresh guides from my latest playthroughs — tested in real runs</p>
+      <p>Newest guides from real playthroughs</p>
     </div>
-    <div class="latest-articles">
-      <a href="/rook-bishop-guide/" class="latest-article-card">
-        <span class="new-badge">NEW</span>
-        <div class="latest-article-meta"><span class="phase-tag phase-mid">♟ Pieces</span><span class="date-badge">May 17</span></div>
-        <h3>Rook &amp; Bishop — Mastering the Support Pieces</h3>
-        <p>Rook suppression power and Bishop control tactics. The two most underrated pieces in Gambonanza, with Gambit combos and advanced formations.</p>
-      </a>
-      <a href="/endgame-killer-tips/" class="latest-article-card">
-        <span class="new-badge">NEW</span>
-        <div class="latest-article-meta"><span class="phase-tag phase-late">♟ Endgame</span><span class="date-badge">May 16</span></div>
-        <h3>Endgame Killer Tips — Closing Out Games from 6×6+</h3>
-        <p>Bishop deadlock solutions, King hunting timings, relic timing control, Pawn promotion traps, and a comeback checklist for when everything goes wrong.</p>
-      </a>
-      <a href="/boss-strategy-guide/" class="latest-article-card">
-        <div class="latest-article-meta"><span class="phase-tag phase-late">👑 Boss</span><span class="date-badge">May 16</span></div>
-        <h3>All 5 Bosses — Full Guide: Mechanics, Counters &amp; Gambit Loadouts</h3>
-        <p>Jester, King of Spades, Blitzking, Queen of Hearts, and Grand Master — every mechanic, recommended Gambit, and phase strategy for all 5 fights.</p>
-      </a>
-      <a href="/recommended-seeds/" class="latest-article-card">
-        <div class="latest-article-meta"><span class="phase-tag phase-early">🌱 Seeds</span><span class="date-badge">May 15</span></div>
-        <h3>Recommended Seeds — Best Opening Seed Collection</h3>
-        <p>Community-verified best seeds for all playstyles. S-tier all-round seed, ranked-mode pools, and high-variance gambler seeds.</p>
-      </a>
-      <a href="/king-of-spades-guide/" class="latest-article-card">
-        <div class="latest-article-meta"><span class="phase-tag phase-late">👑 Boss</span><span class="date-badge">May 11</span></div>
-        <h3>King of Spades — Boss Breakdown</h3>
-        <p>Three proven builds, exact turn timing, and community strats for Gambonanza's hardest boss. 15% win rate turned into 40%+.</p>
-      </a>
-      <a href="/4x4-fast-farm-guide/" class="latest-article-card">
-        <div class="latest-article-meta"><span class="phase-tag phase-early">💰 Economy</span><span class="date-badge">May 11</span></div>
-        <h3>4×4 Fast Farm — Speedrun Your Economy</h3>
-        <p>Knight Aggro opener, farm loop timing, and the exact Gambits that make small boards profitable. From zero to 100 stock in 3 runs.</p>
-      </a>
-      <a href="/decision-framework-guide/" class="latest-article-card">
-        <div class="latest-article-meta"><span class="phase-tag phase-mid">🧠 Strategy</span><span class="date-badge">May 11</span></div>
-        <h3>Decision Framework — Stop Costly Mistakes</h3>
-        <p>The Three Second Rule, Attack/Defend/Farm tree, Mistake Audit personal pattern test, and Reverse Tilt protocol.</p>
-      </a>
-      <a href="/pawn-promotion-sustainability-guide/" class="latest-article-card">
-        <div class="latest-article-meta"><span class="phase-tag phase-early">♟ Mechanics</span><span class="date-badge">May 11</span></div>
-        <h3>Pawn Promotion &amp; Sustainability</h3>
-        <p>The promotion trap explained. Pawn economy loop, 1-3-5 rule, and which Gambits break when you promote.</p>
-      </a>
-      <a href="/deterministic-gambits-guide/" class="latest-article-card">
-        <div class="latest-article-meta"><span class="phase-tag phase-mid">🎲 Gambits</span><span class="date-badge">May 11</span></div>
-        <h3>Deterministic Gambits — Certainty Over Luck</h3>
-        <p>S/A/B/C deterministic ranking, 80/20 purchase rule, and the RNG trap Gambits you should always skip.</p>
+    <div class="latest-articles latest-articles-4col">
+<a href="/10-common-mistakes/" class="latest-article-card"><span class="new-badge">NEW</span><div class="latest-article-meta"><span class="phase-tag phase-mid">Beginner</span><span class="date-badge">Jun 5</span></div>
+        <h3>10 Gambonanza Mistakes That Cost You Runs (And How to Fix Them)</h3>
+        <p>The 10 most common Gambonanza mistakes that lose games. From overspending to wrong piece positioning, with exact fixes for each. Stop throwing runs today.</p>
+      </a><a href="/5-emergency-strategies-salvage/" class="latest-article-card"><span class="new-badge">NEW</span><div class="latest-article-meta"><span class="phase-tag phase-mid">Strategy &amp; Guides</span><span class="date-badge">Jun 5</span></div>
+        <h3>5 Emergency Strategies to Salvage ANY Bad Run (500-Hour Secrets)</h3>
+        <p>After 500 hours in Gambonanza, I&#39;ve seen every type of bad run. Low stock? Broken chain? Wrong builds? These 5 emergency strategies have saved my run over 200 times. Real salvage data included.</p>
+      </a><a href="/stop-making-5-mistakes/" class="latest-article-card"><span class="new-badge">NEW</span><div class="latest-article-meta"><span class="phase-tag phase-mid">Strategy &amp; Guides</span><span class="date-badge">Jun 5</span></div>
+        <h3>5 Mistakes Keeping Your Win Rate Below 30% (Fix These Now)</h3>
+        <p>I was stuck at 30% win rate for 150 hours. These 5 mistakes were holding me back. After fixing them, I win 7 out of 10 runs. Player experience with exact before/after data.</p>
+      </a><a href="/pawn-economy-loop/" class="latest-article-card"><span class="new-badge">NEW</span><div class="latest-article-meta"><span class="phase-tag phase-mid">Economy</span><span class="date-badge">Jun 5</span></div>
+        <h3>5&#43; Stock Per Turn: The Pawn Economy Loop (70% Win Rate)</h3>
+        <p>The Pawn Economy Loop generates 5&#43; stock per turn. This guide shows the exact setup, piece protection, and the build with 70% win rate.</p>
+      </a><a href="/afks-gambit-guide/" class="latest-article-card"><span class="new-badge">NEW</span><div class="latest-article-meta"><span class="phase-tag phase-mid">Gambits</span><span class="date-badge">Jun 5</span></div>
+        <h3>Afk&#39;s Gambit Explained - How to Farm 40 Stock Per Turn (Full Guide)</h3>
+        <p>Afk&#39;s Gambit is one of the most misunderstood Gambits in Gambonanza. Full guide on how it works, the exact conditions for 40 stock per turn, and the builds that make it S-Tier.</p>
+      </a><a href="/rook-gambit-build-guide/" class="latest-article-card"><span class="new-badge">NEW</span><div class="latest-article-meta"><span class="phase-tag phase-mid">Pieces &amp; Cards</span><span class="date-badge">Jun 5</span></div>
+        <h3>Best Rook Build - Turn Rook Control Into 65% Wins (Full Build Guide)</h3>
+        <p>The Rook Gambit build has 65% win rate on 6x6. Full guide with piece setup, gambit loadout, board positioning, and how to transition when the Rook falls.</p>
+      </a><a href="/enigmas-gambit-guide/" class="latest-article-card"><span class="new-badge">NEW</span><div class="latest-article-meta"><span class="phase-tag phase-mid">Gambits</span><span class="date-badge">Jun 5</span></div>
+        <h3>Enigmas Gambit - The Hidden S-Tier Gambit Most Players Miss (Complete Guide)</h3>
+        <p>Enigmas Gambit is secretly S-Tier in Gambonanza v1.1.0. How it works, the 3 builds that abuse it, relic synergies, and why it has a 72% win rate when paired correctly.</p>
+      </a><a href="/3-simple-habits-win-rate/" class="latest-article-card"><span class="new-badge">NEW</span><div class="latest-article-meta"><span class="phase-tag phase-mid">Strategy &amp; Guides</span><span class="date-badge">Jun 5</span></div>
+        <h3>From 25% to 72%: 3 Simple Habits That Doubled My Win Rate</h3>
+        <p>After 200 hours of Gambonanza, I fixed 3 habits and my win rate jumped from 25% to 72%. Stop overbuying, fix your economy, and learn when to hold. Real player experience with proven results.</p>
       </a>
     </div>
   </div>
@@ -281,82 +251,100 @@
       <h2>Everything You Need to Master Gambonanza</h2>
       <p>From your first move to defeating every boss, we've got you covered</p>
     </div>
-    <div class="guide-grid">
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/beginner.webp" alt="Beginners Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">🔥 Start Here</div>
-          <h3>Beginner's Guide</h3>
-          <p>New to Gambonanza? Start here. Learn the core loop, understand Gambits, and make your first breakthrough.</p>
-          <a href="/beginner/" class="guide-card-link">Read Beginner Guide →</a>
-        </div>
-      </article>
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/gambits.webp" alt="Gambits Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">💥 Most Popular</div>
-          <h3>All Gambits Guide</h3>
-          <p>150+ Gambits explained. Every rule-breaking move with exact effects, synergies, and how to use them.</p>
-          <a href="/gambits/" class="guide-card-link">Browse All Gambits →</a>
-        </div>
-      </article>
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/bosses.webp" alt="Boss Battle Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">👑 Boss Fights</div>
-          <h3>Boss Battle Guide</h3>
-          <p>Every boss analyzed. Weaknesses, patterns, and the exact strategies to defeat each one.</p>
-          <a href="/bosses/" class="guide-card-link">Conquer All Bosses →</a>
-        </div>
-      </article>
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/economy.webp" alt="Stock Market Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">🎰 Economy</div>
-          <h3>Stock Market & Shops</h3>
-          <p>Master the casino economy. Stock investment, shop strategies, and how to multiply your winnings.</p>
-          <a href="/economy/" class="guide-card-link">Maximize Your Earnings →</a>
-        </div>
-      </article>
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/achievements.webp" alt="Achievement Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">🏆 Achievements</div>
-          <h3>Achievement Guide</h3>
-          <p>Unlock every Steam achievement. Step-by-step instructions for all 15+ achievements.</p>
-          <a href="/achievements/" class="guide-card-link">View All Achievements →</a>
-        </div>
-      </article>
-      <article class="guide-card">
-        <div class="guide-card-image"><img src="images/cards/strategy.webp" alt="Advanced Strategy Guide" loading="lazy" width="414" height="160"></div>
-        <div class="guide-card-body">
-          <div class="guide-card-tag">♟ Advanced</div>
-          <h3>Advanced Strategies</h3>
-          <p>Pro-level tactics. Tile combos, promotion chains, Crumble mechanics, and competitive builds.</p>
-          <a href="/advanced/" class="guide-card-link">Level Up Your Game →</a>
-        </div>
-      </article>
-    </div>
+    <div class="category-grid"><article class="category-card is-new">
+        <a href="/10-common-mistakes/" class="category-card-link">
+          <div class="category-card-image"><img src="images/cards/beginner.webp" alt="Beginner" loading="lazy" width="414" height="160"></div>
+          <div class="category-card-body">
+            <div class="category-card-header">
+              <div class="category-card-tag">🔥 Start Here</div><span class="category-new-badge">NEW</span></div>
+            <h3>Beginner</h3>
+            <p>New to Gambonanza? Start here. Learn the core loop, understand Gambits, and make your first breakthrough.</p>
+            <div class="category-card-stats">
+              <span class="cat-stat">5 guides</span><span class="cat-stat">Updated Jun 5</span></div>
+          </div>
+        </a>
+      </article><article class="category-card is-new">
+        <a href="/afks-gambit-guide/" class="category-card-link">
+          <div class="category-card-image"><img src="images/cards/gambits.webp" alt="Gambits" loading="lazy" width="414" height="160"></div>
+          <div class="category-card-body">
+            <div class="category-card-header">
+              <div class="category-card-tag">💥 Most Popular</div><span class="category-new-badge">NEW</span></div>
+            <h3>Gambits</h3>
+            <p>150&#43; Gambits explained. Every rule-breaking move with exact effects, synergies, and how to use them.</p>
+            <div class="category-card-stats">
+              <span class="cat-stat">7 guides</span><span class="cat-stat">Updated Jun 5</span></div>
+          </div>
+        </a>
+      </article><article class="category-card is-new">
+        <a href="/jester-boss-guide/" class="category-card-link">
+          <div class="category-card-image"><img src="images/cards/bosses.webp" alt="Boss Battles" loading="lazy" width="414" height="160"></div>
+          <div class="category-card-body">
+            <div class="category-card-header">
+              <div class="category-card-tag">👑 Boss Fights</div><span class="category-new-badge">NEW</span></div>
+            <h3>Boss Battles</h3>
+            <p>Every boss analyzed. Weaknesses, patterns, and the exact strategies to defeat each one.</p>
+            <div class="category-card-stats">
+              <span class="cat-stat">6 guides</span><span class="cat-stat">Updated Jun 3</span></div>
+          </div>
+        </a>
+      </article><article class="category-card is-new">
+        <a href="/pawn-economy-loop/" class="category-card-link">
+          <div class="category-card-image"><img src="images/cards/economy.webp" alt="Economy" loading="lazy" width="414" height="160"></div>
+          <div class="category-card-body">
+            <div class="category-card-header">
+              <div class="category-card-tag">🎰 Economy</div><span class="category-new-badge">NEW</span></div>
+            <h3>Economy</h3>
+            <p>Master the casino economy. Stock investment, shop strategies, and how to multiply your winnings.</p>
+            <div class="category-card-stats">
+              <span class="cat-stat">7 guides</span><span class="cat-stat">Updated Jun 5</span></div>
+          </div>
+        </a>
+      </article><article class="category-card is-new">
+        <a href="/rook-gambit-build-guide/" class="category-card-link">
+          <div class="category-card-image"><img src="images/cards/achievements.webp" alt="Pieces &amp; Cards" loading="lazy" width="414" height="160"></div>
+          <div class="category-card-body">
+            <div class="category-card-header">
+              <div class="category-card-tag">♟ Pieces &amp; Cards</div><span class="category-new-badge">NEW</span></div>
+            <h3>Pieces &amp; Cards</h3>
+            <p>Complete card database, piece-specific guides, and advanced tactics for every chess piece.</p>
+            <div class="category-card-stats">
+              <span class="cat-stat">9 guides</span><span class="cat-stat">Updated Jun 5</span></div>
+          </div>
+        </a>
+      </article><article class="category-card is-new">
+        <a href="/5-emergency-strategies-salvage/" class="category-card-link">
+          <div class="category-card-image"><img src="images/cards/strategy.webp" alt="Strategy &amp; Guides" loading="lazy" width="414" height="160"></div>
+          <div class="category-card-body">
+            <div class="category-card-header">
+              <div class="category-card-tag">⚡ Advanced</div><span class="category-new-badge">NEW</span></div>
+            <h3>Strategy &amp; Guides</h3>
+            <p>Pro-level tactics. Tile combos, promotion chains, Crumble mechanics, and competitive builds.</p>
+            <div class="category-card-stats">
+              <span class="cat-stat">11 guides</span><span class="cat-stat">Updated Jun 5</span></div>
+          </div>
+        </a>
+      </article></div>
   </div>
 </section>
 
 
 <div class="ad-slot ad-slot--content-mid">
-  <div class="ad-label">Advertisement</div>
-    <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7551387157478980"
-     data-ad-slot=""
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  <div class="ad-placeholder">Google AdSense</div>
-</div>
-
-
+  <div class="ad-label">Advertisement</div><script>
+      atOptions = {
+        'key' : '23f7fbb812d81c5d85790948809f7c43',
+        'format' : 'iframe',
+        'height' : 90,
+        'width' : 728,
+        'params' : {}
+      };
+    </script>
+    <script src="https://www.highperformanceformat.com/23f7fbb812d81c5d85790948809f7c43/invoke.js"></script></div>
 
 
 
   </main>
+
+  <button id="back-to-top" class="btn-back-to-top" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑ TOP</button>
   <footer class="site-footer">
   <div class="container">
     <div class="footer-bottom">
@@ -366,5 +354,9 @@
   </div>
 </footer>
 
+  
+  <script src="/js/redesign.js"></script>
+  
+  <script src="https://pl29630345.effectivecpmnetwork.com/98/47/84/9847842fcd70248d47188a5263db471e.js"></script>
 </body>
 </html>

@@ -1,0 +1,43 @@
+{{/* Latest 8 articles - 4x2 grid */}}
+{{- $pages := where (where .Site.RegularPages "Draft" "==" false) "Params.hidden" "!=" true -}}
+
+{{- $sorted := slice -}}
+{{- range $pages -}}
+  {{- $sortDate := .PublishDate -}}
+  {{- if not $sortDate.IsZero -}}
+    {{- $sorted = $sorted | append (dict "Page" . "SortDate" $sortDate) -}}
+  {{- else -}}
+    {{- $sorted = $sorted | append (dict "Page" . "SortDate" .Lastmod) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $sorted = sort $sorted "SortDate" "desc" -}}
+{{- $latest := first 8 $sorted -}}
+
+{{- range $item := $latest -}}
+{{- $page := $item.Page -}}
+{{- $url := $page.RelPermalink -}}
+{{- $title := $page.Title -}}
+{{- $desc := $page.Description -}}
+
+{{- $displayDate := "" -}}
+{{- if not $page.Date.IsZero -}}
+  {{- $displayDate = time.Format "Jan 2" $page.Date -}}
+{{- else -}}
+  {{- $displayDate = time.Format "Jan 2" $page.Lastmod -}}
+{{- end -}}
+
+{{- $daysOld := div (sub now.Unix $item.SortDate.Unix) 86400 -}}
+{{- $isNew := le $daysOld 10 -}}
+
+{{- $category := "" -}}
+{{- with $page.Params.category -}}{{- $category = . -}}{{- end -}}
+      <a href="{{ $url }}" class="latest-article-card">
+{{- if $isNew -}}
+        <span class="new-badge">NEW</span>
+{{- end -}}
+        <div class="latest-article-meta"><span class="phase-tag phase-mid">{{ $category }}</span><span class="date-badge">{{ $displayDate }}</span></div>
+        <h3>{{ $title }}</h3>
+        <p>{{ $desc }}</p>
+      </a>
+{{- end -}}

@@ -1,0 +1,11 @@
+{{- /* table-wrap: wraps markdown tables in gold synergy-table frame.
+Usage (with %% delimiters for markdown processing):
+{{% table-wrap %}}
+| Header 1 | Header 2 |
+|----------|----------|
+| Cell 1   | Cell 2   |
+{{% /table-wrap %}}
+*/}}
+<div class="synergy-table" style="overflow-x:auto">
+{{ .Inner }}
+</div>

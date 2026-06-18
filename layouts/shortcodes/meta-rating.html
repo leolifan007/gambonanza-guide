@@ -1,0 +1,9 @@
+{{- /* meta-rating: S/A/B/C rating badge. Usage: {{< meta-rating grade="S" label="description" >}} */}}
+{{- $grade := .Get "grade" | default "S" | upper }}
+{{- $label := .Get "label" | default "" }}
+{{- $valid := slice "S" "A" "B" "C" }}
+{{- if not (in $valid $grade) }}{{ $grade = "B" }}{{ end }}
+<div class="meta-rating">
+  <span class="meta-badge meta-{{ lower $grade }}">{{ $grade }}</span>
+  {{- with $label }}<span class="meta-label">{{ . }}</span>{{ end }}
+</div>

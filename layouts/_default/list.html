@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} - {{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  {{ partial "header" . }}
+  <main>
+    <section class="section">
+      <div class="container">
+        <article class="main-content">
+          <div class="content-body">
+            <h1>{{ .Title }}</h1>
+            {{ with .Description }}<p>{{ . }}</p>{{ end }}
+            {{ .Content }}
+          </div>
+        </article>
+      </div>
+    </section>
+  </main>
+  {{ partial "footer" . }}
+  <script src="/js/redesign.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="380" viewBox="0 0 700 380">
+<rect width="700" height="380" fill="#1A0F1A" rx="12"/>
+<text x="350" y="35" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Hidden Gambit Unlock Path</text>
+
+<rect x="30" y="60" width="640" height="56" rx="8" fill="#3A2030" stroke="#4A9B9B" stroke-width="1"/>
+<text x="50" y="82" fill="#4A9B9B" font-family="'VT323',monospace" font-size="13">6 Hidden Gambits exist</text>
+<text x="50" y="102" fill="#E8D5C0" font-size="12">5 have vague descriptions in collection menu. 1 has NO description at all.</text>
+
+<rect x="30" y="130" width="150" height="80" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="105" y="156" fill="#4A9B9B" font-family="'VT323',monospace" font-size="14" text-anchor="middle">HG #1-5</text>
+<text x="105" y="178" fill="#E8D5C0" font-size="11" text-anchor="middle">Vague unlock hints</text>
+<text x="105" y="195" fill="#E8D5C0" font-size="11" text-anchor="middle">Try diverse builds</text>
+
+<text x="190" y="170" fill="#E8D5C0" font-size="18">-&gt;</text>
+
+<rect x="215" y="130" width="200" height="80" rx="8" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="315" y="156" fill="#D4764A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Theory: Triggers</text>
+<text x="315" y="178" fill="#E8D5C0" font-size="11" text-anchor="middle">Single piece type runs</text>
+<text x="315" y="195" fill="#E8D5C0" font-size="11" text-anchor="middle">Crumble Mode completions</text>
+
+<text x="425" y="170" fill="#E8D5C0" font-size="18">-&gt;</text>
+
+<rect x="450" y="130" width="220" height="80" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="2"/>
+<text x="560" y="156" fill="#D4A84A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Unlock!</text>
+<text x="560" y="178" fill="#E8D5C0" font-size="11" text-anchor="middle">New gambits added</text>
+<text x="560" y="195" fill="#E8D5C0" font-size="11" text-anchor="middle">to collection</text>
+
+<rect x="30" y="230" width="640" height="56" rx="8" fill="#3A2030" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="50" y="252" fill="#D4A84A" font-family="'VT323',monospace" font-size="13">HG #6 - The Mystery Gambit</text>
+<text x="50" y="272" fill="#E8D5C0" font-size="12">No unlock description. Community theory: Related to King True Final Boss Stage 6.</text>
+
+<rect x="30" y="300" width="640" height="65" rx="8" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1"/>
+<text x="50" y="322" fill="#5CB85C" font-family="'VT323',monospace" font-size="13">v1.1.0 added 2 new gambits:</text>
+<text x="50" y="344" fill="#F5E6D3" font-size="13">Empress - New S-tier contender being explored by community</text>
+<text x="50" y="360" fill="#F5E6D3" font-size="13">Horse Dealer - Knight-related interactions, synergy with Knight builds</text>
+</svg>

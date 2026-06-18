@@ -1,5 +1,6 @@
----
-title: 'Gambonanza Endgame Tips (v1.1.0) â€?Killer Strategies for Closing Out Games'
+---category: "Strategy & Guides"
+
+title: 'Gambonanza Endgame Tips (v1.1.0)-Killer Strategies for Closing Out Games'
 description: 'Gambonanza endgame guide for patch v1.1.0. Bishop deadlock solutions, King hunting timings, relic timing control, Pawn promotion traps, and a comeback checklist. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
@@ -14,46 +15,43 @@ see_also:
 
 ## The Endgame Is Not Just Grind
 
-> Most Gambonanza games end before the 6Ã—6 board. But what separates good players from great ones is how they close out games when the board gets big.
+> Most Gambonanza games end before the 6x6 board. But what separates good players from great ones is how they close out games when the board gets big.
 
-<div class='callout callout-verdict'>
-  <strong>Verdict</strong><br>
-  The biggest threat in the endgame isn't the opponent's piece density â€?it's your own panic. 90% of comebacks don't come from outplaying your opponent. They come from your opponent making more endgame mistakes than you. <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span> â€?knowing when to push and when to wait is the real skill.
-</div>
+{{< callout type="verdict" >}}<strong>Verdict</strong>
 
-## 1. Bishop Deadlock â€?Breaking the Same-Color Trap
+  The biggest threat in the endgame isn't the opponent's piece density-it's your own panic. 90% of comebacks don't come from outplaying your opponent. They come from your opponent making more endgame mistakes than you. <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span>-knowing when to push and when to wait is the real skill.{{< /callout >}}
+
+## 1. Bishop Deadlock-Breaking the Same-Color Trap
 
 ### The Problem
-When the board reaches 6Ã—6+ and both sides are left with same-color Bishops, you get a stalemate. Neither can eat the other.
+When the board reaches 6x6+ and both sides are left with same-color Bishops, you get a stalemate. Neither can eat the other.
 
 ### Solutions
 
-<div class='callout callout-tip'>
-  <strong>Three ways to break the deadlock</strong>
-</div>
+{{< callout type="tip" >}}<strong>Three ways to break the deadlock</strong>{{< /callout >}}
 
 **Method A: Rook Force Push**
-- Rook dominates same-color Bishops â€?it attacks on different colored squares
+- Rook dominates same-color Bishops-it attacks on different colored squares
 - Place your Rook on the opposite color of their Bishop and push
 
 **Method B: Pawn Sacrifice for Space**
 - Feed 2+ Pawns consecutively, forcing their Bishop off key squares
-- Rhythm: Pawn â†?Pawn â†?Bishop follows to control the flank
+- Rhythm: Pawn-Pawn-Bishop follows to control the flank
 
 **Method C: Queen Cleanup**
-- Queen ignores color restrictions â€?she eats Bishops regardless of square color
+- Queen ignores color restrictions-she eats Bishops regardless of square color
 - Save Gambit skills for Queen protection and repositioning
 
-<div class='pro-tip'>
-  <strong>Bishop Deadlock Misconception</strong><br>
-  Bishop deadlock looks like a battle of who blinks first â€?but that thinking loses. Wrong. The right solution is introducing a third color â€?Rook (colorless) or Queen (full-spectrum). Trying to Bishop-vs-Bishop your way out will drag the game forever.
-</div>
+{{< pro-tip >}}<strong>Bishop Deadlock Misconception</strong><br>
+  Bishop deadlock looks like a battle of who blinks first-but that thinking loses. Wrong. The right solution is introducing a third color-Rook (colorless) or Queen (full-spectrum). Trying to Bishop-vs-Bishop your way out will drag the game forever.{{< /pro-tip >}}
 
-## 2. King Hunting â€?The Three-Turn Window
+## 2. King Hunting-The Three-Turn Window
 
 When a King is exposed (fewer than 3 friendly pieces around it), you get exactly **3 turns** to execute.
 
 ### Hunt Rhythm
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Turn | Action | Goal |
 |------|--------|------|
@@ -62,38 +60,41 @@ When a King is exposed (fewer than 3 friendly pieces around it), you get exactly
 | T2 | Gambit + Execute | Use mobility Gambits to block escape routes |
 | T3 (Window closes) | Finish or retreat | If King gets protected, retreat immediately |
 
-<div class='callout callout-danger'>
-  <strong>Common Mistake</strong><br>
-  Once the King gets protected (opponent deploys support pieces), retreat immediately. Do not keep fighting. Most endgame throws happen because players keep attacking after the kill window closes.
 </div>
 
-## 3. Relic Timing â€?When to Open What
+{{< callout type="danger" >}}<strong>Common Mistake</strong>
+
+  Once the King gets protected (opponent deploys support pieces), retreat immediately. Do not keep fighting. Most endgame throws happen because players keep attacking after the kill window closes.{{< /callout >}}
+
+## 3. Relic Timing-When to Open What
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Phase | Open | Save |
 |-------|------|------|
-| Opening (3Ã—3) | Economy relics | Combat relics for mid-game |
-| Mid-game (4Ã—4~5Ã—5) | Gambit slot expanders | Finisher relics for endgame |
-| Endgame (6Ã—6+) | All damage-boosting relics | Economy relics are useless now |
+| Opening (3x3) | Economy relics | Combat relics for mid-game |
+| Mid-game (4x4~5x5) | Gambit slot expanders | Finisher relics for endgame |
+| Endgame (6x6+) | All damage-boosting relics | Economy relics are useless now |
 
-<span class='phase-tag'>Late</span> Economy relics should have been sold at peak value around 5Ã—5 to fund combat relic swaps.
+</div>
+
+<span class='phase-tag'>Late</span> Economy relics should have been sold at peak value around 5x5 to fund combat relic swaps.
 
 ## 4. Pawn Promotion Trap
 
 When a Pawn promotes, it **ceases to be a Pawn**. This means:
 
 1. Pawn Gambit buffs disappear immediately
-2. Relics that trigger "when no Pawns remain" now function â€?but you've lost your Pawn engine
-3. **Counter**: If you identify an opponent relying on Pawn Gambit, force their Pawn to promote by dangling a bait piece â€?you'll disable their core engine
+2. Relics that trigger "when no Pawns remain" now function-but you've lost your Pawn engine
+3. **Counter**: If you identify an opponent relying on Pawn Gambit, force their Pawn to promote by dangling a bait piece-you'll disable their core engine
 
-<div class='pro-tip'>
-  <strong>Pawn Trap in Action</strong><br>
-  Spot an opponent running Pawn Gambit? Drop a seemingly free Rook on their promotion path. Greed takes over, their Pawn eats and promotes â€?and suddenly their Gambit engine is gone. This is the "Sacrifice Rook to Break Gambit" technique.
-</div>
+{{< pro-tip >}}<strong>Pawn Trap in Action</strong><br>
+  Spot an opponent running Pawn Gambit? Drop a seemingly free Rook on their promotion path. Greed takes over, their Pawn eats and promotes-and suddenly their Gambit engine is gone. This is the "Sacrifice Rook to Break Gambit" technique.{{< /pro-tip >}}
 
 ## 5. Comeback Checklist
 
-![Battle preparation interface â€?check relics and Gambits before endgame](/images/screenshots/ss_5.jpg)
-*Preparation screen â€?inspect your relic and Gambit configuration before committing to the endgame*
+![Battle preparation interface-check relics and Gambits before endgame](/images/screenshots/ss_5.jpg)
+*Preparation screen-inspect your relic and Gambit configuration before committing to the endgame*
 
 When behind, check in this order:
 
@@ -105,12 +106,14 @@ When behind, check in this order:
 
 Most comebacks aren't about overpowering your opponent. They're about checking this list and finding the crack.
 
-<div class='callout callout-tip'>
-  <strong>Sources & Updates</strong><br>
-  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches â€?always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
-</div>
+{{< callout type="tip" >}}<strong>Sources & Updates</strong>
+
+  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}
 
 <div class='ad-slot ad-slot--after-content'>
   <div class='ad-label'>Advertisement</div>
   <div class='ad-placeholder'>Google AdSense</div>
 </div>
+
+
+

@@ -1,0 +1,5 @@
+{{- /* phase-tag: early/mid/late game indicator. Usage: {{< phase-tag "early" >}} */}}
+{{- $phase := .Get 0 | default "early" | lower }}
+{{- $valid := slice "early" "mid" "late" }}
+{{- if not (in $valid $phase) }}{{ $phase = "early" }}{{ end }}
+<span class="phase-tag phase-{{ $phase }}">{{ $phase | upper }} GAME</span>

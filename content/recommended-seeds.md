@@ -1,5 +1,6 @@
----
-title: 'Gambonanza Recommended Seeds (v1.1.0) â€?Best Opening Seeds Collection'
+---category: "Economy"
+
+title: 'Gambonanza Recommended Seeds (v1.1.0)-Best Opening Seeds Collection'
 description: 'The best Gambonanza opening seeds for patch v1.1.0. Community-verified seeds for all-round, economy, ranked mode, and high-variance builds. Updated with player-verified configurations for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
@@ -16,15 +17,16 @@ see_also:
 
 > A good seed determines your initial Gambit pool, relic offerings, and shop refreshes. Starting with the right seed can literally decide whether you win or lose before a single piece moves.
 
-<div class='callout callout-verdict'>
-  <strong>Verdict</strong><br>
-  Seed 1238513920 is the community's strongest all-rounder. Double Gambit slot opener + economy relic â€?works for every playstyle. Beginners and veterans alike. <strong>Rating:</strong> <span class='meta-badge meta-s'>S</span>
-</div>
+{{< callout type="verdict" >}}<strong>Verdict</strong>
+
+  Seed 1238513920 is the community's strongest all-rounder. Double Gambit slot opener + economy relic-works for every playstyle. Beginners and veterans alike. <strong>Rating:</strong> <span class='meta-badge meta-s'>S</span>{{< /callout >}}
 
 ## Community-Recommended Seeds
 
-![Opening board layout â€?good seed determines your initial advantage](/images/screenshots/ss_2.jpg)
-*Starting board â€?your seed determines the initial Gambit pool and relic pool*
+![Opening board layout-good seed determines your initial advantage](/images/screenshots/ss_2.jpg)
+*Starting board-your seed determines the initial Gambit pool and relic pool*
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Seed | Highlights | Best For | Rating |
 |------|-----------|----------|--------|
@@ -34,10 +36,10 @@ see_also:
 | 55512345 | High Pawn spawn rate | Pawn Rush | <span class='meta-badge meta-b'>B</span> |
 | 918273645 | High-risk high-reward Gambit pool | Lucky Gambler | <span class='meta-badge meta-b'>B</span> |
 
-<div class='pro-tip'>
-  <strong>Seed Trivia</strong><br>
-  You can use spaces when entering seeds (e.g. 1238 513 920) to avoid typos. The seed algorithm hasn't been published, but the community has confirmed seeds do not affect difficulty â€?S-tier seeds don't make bosses weaker.
 </div>
+
+{{< pro-tip >}}<strong>Seed Trivia</strong><br>
+  You can use spaces when entering seeds (e.g. 1238 513 920) to avoid typos. The seed algorithm hasn't been published, but the community has confirmed seeds do not affect difficulty-S-tier seeds don't make bosses weaker.{{< /pro-tip >}}
 
 ## How to Enter a Seed
 
@@ -46,14 +48,15 @@ see_also:
 3. Type your seed number
 4. Press Enter to confirm
 
-<div class='callout callout-tip'>
-  <strong>Note</strong><br>
-  Gambonanza seeds are purely numeric. Letter inputs will be rejected as invalid.
-</div>
+{{< callout type="tip" >}}<strong>Note</strong>
+
+  Gambonanza seeds are purely numeric. Letter inputs will be rejected as invalid.{{< /callout >}}
 
 ## Ranked Mode Seeds
 
 Ranked mode uses a fixed seed pool. These have been verified with high-score runs:
+
+<div class="synergy-table" style="overflow-x:auto">
 
 | Seed | Rank Range | Key Advantage |
 |------|-----------|--------------|
@@ -61,22 +64,23 @@ Ranked mode uses a fixed seed pool. These have been verified with high-score run
 | 11733900 | Platinum-Diamond | Early economy advantage is significant |
 | 999111333 | Gold-Platinum | Strong relic pool, beginner-friendly |
 
-<div class='pro-tip'>
-  <strong>Ranked Note</strong><br>
-  Using seeds in ranked mode does not affect matchmaking â€?your opponent is a real player and won't be affected by your seed choice. Use these seeds with confidence.
 </div>
+
+{{< pro-tip >}}<strong>Ranked Note</strong><br>
+  Using seeds in ranked mode does not affect matchmaking-your opponent is a real player and won't be affected by your seed choice. Use these seeds with confidence.{{< /pro-tip >}}
 
 ## Changelog
 
 - **v1.0** (v1.1.0-05-11): Initial release, community-verified seeds
 - **v1.1** (v1.1.0-05-14): Full English rewrite
 
-<div class='callout callout-tip'>
-  <strong>Sources & Updates</strong><br>
-  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches â€?always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.
-</div>
+{{< callout type="tip" >}}<strong>Sources & Updates</strong>
+
+  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}
 
 <div class='ad-slot ad-slot--after-content'>
   <div class='ad-label'>Advertisement</div>
   <div class='ad-placeholder'>Google AdSense</div>
 </div>
+
+

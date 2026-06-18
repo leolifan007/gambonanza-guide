@@ -5,12 +5,11 @@ description: "How Gambonanza Guide collects, uses, and protects your personal in
 
 ## Privacy Policy
 
-<div class="callout callout-tip">
-  <strong>?? LAST UPDATED:</strong> May 11, v1.1.0 (patch v1.1.0)<br>
-  This policy describes how Gambonanza Guide ("we," "us," or "our") handles your information when you use our website at <strong>gambonanza.guide</strong> and related subdomains.
-</div>
+{{< callout type="tip" >}}<strong>LAST UPDATED:</strong> May 11, v1.1.0 (patch v1.1.0)
 
-<hr class="section-divider">
+  This policy describes how Gambonanza Guide ("we," "us," or "our") handles your information when you use our website at <strong>gambonanza.guide</strong> and related subdomains.{{< /callout >}}
+
+{{< section-divider >}}
 
 ## Information We Collect
 
@@ -44,7 +43,7 @@ It is equally important to clarify what we do not collect:
 
 - **Sensitive Data:** We do not collect information about your race, ethnicity, political opinions, religious beliefs, health status, or sexual orientation.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## How We Use Your Information
 
@@ -55,8 +54,8 @@ The information we collect serves several legitimate purposes essential to opera
 Gambonanza Guide is provided as a free resource supported by advertising revenue. Your information helps us:
 
 - **Serve relevant advertisements** through Google AdSense, Google's advertising platform
-- **Measure ad performance** ！ understand which ads are being viewed and clicked
-- **Prevent fraudulent activity** ！ detect click fraud, bot traffic, and other abuse
+- **Measure ad performance**  understand which ads are being viewed and clicked
+- **Prevent fraudulent activity**  detect click fraud, bot traffic, and other abuse
 - **Report aggregate statistics** to advertisers without revealing individual user identities
 
 ### Website Improvement and Analytics
@@ -70,9 +69,9 @@ We use aggregated data to continuously improve the site:
 
 ### Security and Operations
 
-- **Protect against malicious activity** ！ detect DDoS attacks, scraping bots, and unauthorized access attempts
-- **Debug technical issues** ！ troubleshoot errors and performance bottlenecks
-- **Maintain service availability** ！ monitor traffic patterns to ensure server capacity
+- **Protect against malicious activity**  detect DDoS attacks, scraping bots, and unauthorized access attempts
+- **Debug technical issues**  troubleshoot errors and performance bottlenecks
+- **Maintain service availability**  monitor traffic patterns to ensure server capacity
 
 ### Legal Basis for Processing
 
@@ -82,7 +81,7 @@ We process your information based on the following legal grounds:
 - **Consent:** Where required by law (particularly in the EEA and UK), we request your consent before placing non-essential cookies
 - **Compliance:** Processing necessary to comply with legal obligations
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Cookies
 
@@ -130,7 +129,7 @@ You have control over cookies in several ways:
 
 Please note that disabling certain cookies may affect the functionality of our website and your overall experience.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Third-Party Services
 
@@ -182,7 +181,7 @@ Our site contains affiliate links to the Gambonanza product page on Steam. When 
 
 All third-party services listed above act as independent data controllers under applicable privacy laws. We encourage you to review their privacy policies for a complete understanding of how they process your data. We do not sell your personal information to any third party, nor do we share data with third parties for their own direct marketing purposes.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Your Rights
 
@@ -232,7 +231,7 @@ If you are a California resident, the California Consumer Privacy Act (CCPA) and
 
 To exercise any of the rights described above, please contact us through our [Contact page](/contact/). We will respond to your request within the time period required by applicable law (typically 30 days). We may need to verify your identity before processing your request.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Children's Privacy
 
@@ -254,7 +253,7 @@ Protecting children's privacy is important to us. Gambonanza Guide is a gaming s
 
 While Gambonanza Guide itself is not ESRB certified, the Gambonanza game is rated by the ESRB. We recommend that parents review the ESRB rating and privacy practices of any game before allowing children to play.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Data Retention and Security
 
@@ -282,7 +281,7 @@ While we strive to protect your information, no method of transmission over the 
 
 Your information may be transferred to and processed in countries other than your own, including the United States where our hosting provider and many of our third-party services are based. When transfers occur, we ensure appropriate safeguards are in place, such as Standard Contractual Clauses (SCCs) approved by the European Commission.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Changes to This Privacy Policy
 
@@ -306,7 +305,7 @@ We reserve the right to update this Privacy Policy at any time to reflect change
 
 Previous versions of this Privacy Policy are available upon request. Please contact us through our [Contact page](/contact/) if you would like to review an earlier version.
 
-<hr class="section-divider">
+{{< section-divider >}}
 
 ## Contact Us
 
@@ -318,17 +317,16 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 - Reporting a potential data issue or concern
 - Requesting archived versions of this policy
 
-<div class="callout callout-verdict">
-  <strong>?? CONTACT US</strong><br>
-  The best way to reach us is through our <a href="/contact/">Contact & About page</a>. We aim to respond to all privacy-related inquiries within 5-7 business days.
-</div>
+{{< callout type="verdict" >}}<strong>CONTACT US</strong>
 
-<hr class="section-divider">
+  The best way to reach us is through our <a href="/contact/">Contact & About page</a>. We aim to respond to all privacy-related inquiries within 5-7 business days.{{< /callout >}}
+
+{{< section-divider >}}
 
 ## Cookie Consent
 
-<div class="callout callout-tip">
-  <strong>?? MANAGE YOUR COOKIES</strong><br>
-  You can manage your cookie preferences at any time by adjusting your browser settings or using our cookie consent banner. To learn more about how cookies work on this site, see the <a href="#cookies">Cookies section</a> above.
-</div>
+{{< callout type="tip" >}}<strong>MANAGE YOUR COOKIES</strong>
+
+  You can manage your cookie preferences at any time by adjusting your browser settings or using our cookie consent banner. To learn more about how cookies work on this site, see the <a href="#cookies">Cookies section</a> above.{{< /callout >}}
+
 
