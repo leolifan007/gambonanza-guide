@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="380" viewBox="0 0 700 380">
+<rect width="700" height="380" fill="#1A0F1A" rx="12"/>
+<text x="350" y="35" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Post-Boss Recovery Decision Tree</text>
+
+<!-- Step 1 -->
+<rect x="45" y="65" width="610" height="38" rx="6" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="350" y="89" fill="#4A9B9B" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Step 1: INVENTORY - What survived? (gambits, pieces, stock)</text>
+
+<arrow y="105" fill="#E8D5C0" font-size="14">--> goto next</arrow>
+
+<!-- Decision: enough gambits? -->
+<rect x="45" y="115" width="610" height="38" rx="6" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1"/>
+<text x="350" y="139" fill="#D4A84A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">> 2 active gambits? ---YES--- Buy ECONOMY first, not attack</text>
+
+<rect x="45" y="158" width="610" height="38" rx="6" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1"/>
+<text x="350" y="182" fill="#A85D6A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">< 2 active gambits? ---RUN--- Emergency buy ANY gambit</text>
+
+<arrow y="200" fill="#E8D5C0" font-size="14">--> </arrow>
+
+<!-- Stage-specific recovery -->
+<rect x="100" y="210" width="500" height="80" rx="8" fill="#3A2030" stroke="#5CB85C" stroke-width="1"/>
+<text x="350" y="230" fill="#5CB85C" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Recovery Speed by Stage</text>
+<text x="350" y="252" fill="#5CB85C" font-size="12" text-anchor="middle">Stage 1->2:  5-8 turns back to normal. Low risk.</text>
+<text x="350" y="270" fill="#D4A84A" font-size="12" text-anchor="middle">Stage 3->4: 15-20 turns rebuild. Medium risk. Save 10 stock buffer.</text>
+<text x="350" y="288" fill="#D4764A" font-size="12" text-anchor="middle">Stage 5->6: 5 turns or die. Fatal risk. Pre-buy insurance gambits.</text>
+
+<!-- Bottom rule -->
+<rect x="100" y="305" width="500" height="28" rx="4" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1"/>
+<text x="350" y="324" fill="#D4A84A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">Golden Rule: Economy before attack. Always. Every post-boss.</text>
+</svg>
