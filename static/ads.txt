@@ -1,1 +1,2 @@
-﻿google.com, pub-7551387157478980, DIRECT, f08c47fec0942fa0
+# Adsterra - add publisher info here from Adsterra dashboard
+# Format: adsterra.com, PUBLISHER_ID, DIRECT, SELLER_ID
