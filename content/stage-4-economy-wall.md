@@ -1,4 +1,4 @@
----
+﻿---
 category: "Economy & Shop"
 
 date: 2026-06-18
@@ -127,6 +127,9 @@ Check your board at the end of Stage 3 and count how many pieces would need to c
 {{< pro-tip >}}**Only 10h+ players know:** Knight pieces have the highest transition retention rate in Stage 4. In my testing, Knights kept 83 percent of their Stage 3 value through Stage 4 because their movement pattern does not change between phases. Bishops lost 47 percent of their value. If you are building for Stage 4, bias your mid-game toward Knights.{{< /pro-tip >}}
 
 {{< section-divider >}}
+
+
+{{< diagram src="economy-drain-flow.svg" alt="Stage 4 Economy Drain - 3 Killers Flow" caption="Three specific killers that drain stock before the boss arrives" >}}
 
 ## Community Verification & Resources
 

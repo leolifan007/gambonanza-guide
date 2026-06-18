@@ -1,4 +1,4 @@
----
+﻿---
 title: "Why Your Gambit Won't Activate on Dark Tiles? The Hidden Tile-Specific Blocking Rules"
 description: "You placed your Gambit piece on a dark tile and nothing happens. This is not a bug. Here is why certain tiles block Gambit activation and how to pick legal positions every time."
 category: "Strategy & Guides"
@@ -150,6 +150,9 @@ Tiles that are directly adjacent (king move distance) to a Gold Tile have a very
 If you want guaranteed Gambit activation every time, place your Gambit pieces on the center 4x4 zone or on a permanent piece anchor. The outer ring and edge tiles are gambles. The Gold Tile adjacent zone is the best compromise between board positioning and activation safety. Commit this to memory and you will never waste stock on a silent Gambit fail again.{{< /callout >}}
 
 {{< section-divider >}}
+
+
+{{< diagram src="tile-behavior.svg" alt="Tile Gambit Legality Matrix" caption="Gambit activation behavior across all five tile types" >}}
 
 ## Community Verification & Resources
 

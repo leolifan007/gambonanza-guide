@@ -1,4 +1,4 @@
----
+﻿---
 title: "I Sacrificed the Wrong Piece and Lost the Run - The Piece Evaluation Rubric That Fixes Your Next Decision"
 description: "You sacrificed a piece thinking it was smart-and the loss killed your run. A diagnostic rubric for evaluating piece value post-sacrifice so you never make the same mistake."
 date: "2026-06-18"
@@ -99,6 +99,9 @@ Next time you consider a sacrifice, go through these 5 questions before you comm
 Write these 5 questions on a sticky note. Keep it next to your screen. After 10 runs, the questions become automatic and you stop making the mistakes I made.
 
 {{< section-divider >}}
+
+
+{{< diagram src="evaluation-matrix.svg" alt="4-Dimensional Piece Evaluation Matrix" caption="Evaluate sacrifices across stock value, gambit weight, board control, and replacement cost" >}}
 
 ## Community Verification & Resources
 

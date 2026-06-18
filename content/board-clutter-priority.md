@@ -1,4 +1,4 @@
----
+﻿---
 category: "Strategy & Guides"
 
 date: 2026-06-18
@@ -141,6 +141,9 @@ I tested this 3-second rule across 25 runs and I found it reduced my decision ti
 The worst thing you can do with a full board is sell nothing. I tracked 15 runs where players (myself included) tried to "make space work" by shifting pieces instead of selling. In 14 out of 15 runs, the board got more cluttered and the player lost the next Gambit spawn. Selling is not losing. Keeping everything is losing. C-tier pieces are not assets. They are liabilities wearing piece costumes.{{< /callout >}}
 
 {{< section-divider >}}
+
+
+{{< diagram src="pruning-priority.svg" alt="Piece Pruning Priority Pyramid" caption="S/A/B/C tier ranking with the 3-second sell rule" >}}
 
 ## Community Verification & Resources
 

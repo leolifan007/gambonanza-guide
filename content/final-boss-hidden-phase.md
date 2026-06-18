@@ -1,4 +1,4 @@
----
+﻿---
 title: "Final Boss Has a Hidden Phase 2? How to Spot the Transformation Trigger and Survive the Surprise"
 description: "The final boss transforms when you least expect it. How to recognize the hidden phase trigger, build a phase-proof strategy, and survive the surprise attack that kills 70% of first-time players."
 category: "Boss Guides"
@@ -132,6 +132,9 @@ The screen just flashed. The tiles reset. You are standing in Phase 2 with no bo
 The worst thing you can do in Phase 2 is activate a Gambit every turn to "catch up." Every Phase 2 activation fills the Patience Meter by 2, meaning you could trigger a Phase 3 within 2-3 Gambits. Some players report a Phase 3 exists. Do not find out by activating 4 Gambits in Phase 2. Stay calm, count your activations, and pick each Gambit carefully.{{< /callout >}}
 
 {{< section-divider >}}
+
+
+{{< diagram src="boss-phase-comparison.svg" alt="Final Boss Phase 1 vs Phase 2 Comparison" caption="Patience Meter trigger and Phase 2 transformation mechanics" >}}
 
 ## Community Verification & Resources
 

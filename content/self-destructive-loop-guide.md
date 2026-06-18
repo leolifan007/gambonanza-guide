@@ -1,4 +1,4 @@
----
+﻿---
 category: "Gambits & Combos"
 
 title: "Your Combo Loop Backfired? How to Spot Self-Destructive Gambit Cycles Before They Wipe Your Run"
@@ -182,6 +182,9 @@ Use this checklist at the start of any run where you plan to build a loop.
 If you check all seven boxes, your loop is safe. If you miss one or more, fix the gap before committing. One bad loop can end a run that was otherwise winning.
 
 {{< section-divider >}}
+
+
+{{< diagram src="loop-topology.svg" alt="Safe vs Self-Destructive Loop Topology" caption="Compare net-positive loops with net-zero/negative loops" >}}
 
 ## Community Verification & Resources
 

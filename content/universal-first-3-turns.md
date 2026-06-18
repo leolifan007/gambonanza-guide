@@ -1,4 +1,4 @@
----
+﻿---
 title: "First 3 Turns: The Universal Safe Opening Template (Works With Any Seed in Gambonanza)"
 description: "Stop losing in the opening. A 3-turn safe opening pattern that works regardless of your starting pieces, board size, or seed. Tested across 50+ runs."
 date: "2026-06-18"
@@ -123,6 +123,9 @@ Once you have completed the Move-Pick-Evaluate template, you face a branching de
 The key insight: no matter which branch you take, the first 3 turns remain identical. The template does not force you into a specific archetype. It gives you a safe foundation so you can adapt to what the game sends you.
 
 {{< section-divider >}}
+
+
+{{< diagram src="opening-decision-tree.svg" alt="Universal Opening Template Turn 1-3" caption="Move-Pick-Synergize template that works with any seed" >}}
 
 ## Community Verification & Resources
 

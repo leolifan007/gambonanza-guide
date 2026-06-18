@@ -1,4 +1,4 @@
----
+﻿---
 category: "Difficulty & Progression"
 
 title: "Unlocked King Difficulty and Die Every Run? 4 Hidden Mechanic Changes That Are Killing You"
@@ -151,6 +151,9 @@ This is the change nobody talks about. On Queen, the AI attacks somewhat randoml
 {{< pro-tip >}}<strong>Pro tip for King AI manipulation:</strong> The AI evaluates threat based on gambit frequency. A piece that activated a gambit in the last 2 turns gets highest priority. Rotate your gambit activations so no single piece triggers more than once every 3 turns. The AI will lose track of which piece is important.{{< /pro-tip >}}
 
 {{< section-divider >}}
+
+
+{{< diagram src="queen-king-comparison.svg" alt="Queen vs King Hidden Scaling Comparison" caption="Four hidden mechanic changes between Queen and King difficulty" >}}
 
 ## Community Verification & Resources
 

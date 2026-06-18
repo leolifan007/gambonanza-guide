@@ -1,4 +1,4 @@
----
+﻿---
 category: "Economy & Shop"
 title: "Beat the Boss, Lost the Economy - How to Restart Stock Generation After Every Boss Fight"
 description: "Boss fights don't test your strength-they test your recovery. A step-by-step post-boss economic restart procedure for each stage transition in Gambonanza."
@@ -122,6 +122,9 @@ Use this table when the boss screen fades. Find your stage transition on the lef
 </div>
 
 {{< section-divider >}}
+
+
+{{< diagram src="recovery-flow.svg" alt="Post-Boss Recovery Decision Tree" caption="Decision flow for restarting stock after each boss fight" >}}
 
 ## Community Verification & Resources
 

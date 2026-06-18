@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="380" viewBox="0 0 700 380">
+<rect width="700" height="380" fill="#1A0F1A" rx="12"/>
+<text x="350" y="35" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">4-Dimensional Piece Evaluation Matrix</text>
+
+<rect x="30" y="55" width="640" height="38" rx="6" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="350" y="79" fill="#D4A84A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Before sacrificing: evaluate across ALL 4 dimensions, not just 1</text>
+
+<!-- Dimensions -->
+<rect x="30" y="105" width="145" height="100" rx="8" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<rect x="30" y="105" width="145" height="26" rx="8" fill="#5CB85C" opacity="0.2"/>
+<text x="102" y="123" fill="#5CB85C" font-family="'VT323',monospace" font-size="13" text-anchor="middle">DIMENSION 1</text>
+<text x="102" y="148" fill="#F5E6D3" font-size="13" font-weight="bold" text-anchor="middle">Stock Value</text>
+<text x="102" y="170" fill="#E8D5C0" font-size="11" text-anchor="middle">Stock gain per turn</text>
+<text x="102" y="188" fill="#E8D5C0" font-size="11" text-anchor="middle">+ future projection</text>
+
+<rect x="190" y="105" width="145" height="100" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="190" y="105" width="145" height="26" rx="8" fill="#4A9B9B" opacity="0.2"/>
+<text x="262" y="123" fill="#4A9B9B" font-family="'VT323',monospace" font-size="13" text-anchor="middle">DIMENSION 2</text>
+<text x="262" y="148" fill="#F5E6D3" font-size="13" font-weight="bold" text-anchor="middle">Gambit Weight</text>
+<text x="262" y="170" fill="#E8D5C0" font-size="11" text-anchor="middle">Gambits this piece</text>
+<text x="262" y="188" fill="#E8D5C0" font-size="11" text-anchor="middle">triggers per turn</text>
+
+<rect x="350" y="105" width="145" height="100" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<rect x="350" y="105" width="145" height="26" rx="8" fill="#D4A84A" opacity="0.2"/>
+<text x="422" y="123" fill="#D4A84A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">DIMENSION 3</text>
+<text x="422" y="148" fill="#F5E6D3" font-size="13" font-weight="bold" text-anchor="middle">Board Control</text>
+<text x="422" y="170" fill="#E8D5C0" font-size="11" text-anchor="middle">Squares covered</text>
+<text x="422" y="188" fill="#E8D5C0" font-size="11" text-anchor="middle">Loss of space</text>
+
+<rect x="510" y="105" width="160" height="100" rx="8" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<rect x="510" y="105" width="160" height="26" rx="8" fill="#D4764A" opacity="0.2"/>
+<text x="590" y="123" fill="#D4764A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">DIMENSION 4</text>
+<text x="590" y="148" fill="#F5E6D3" font-size="13" font-weight="bold" text-anchor="middle">Replacement Cost</text>
+<text x="590" y="170" fill="#E8D5C0" font-size="11" text-anchor="middle">Stock to replace</text>
+<text x="590" y="188" fill="#E8D5C0" font-size="11" text-anchor="middle">+ missed turns</text>
+
+<!-- Common mistakes -->
+<rect x="100" y="225" width="500" height="75" rx="8" fill="#3A2030" stroke="#A85D6A" stroke-width="1"/>
+<text x="350" y="245" fill="#A85D6A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">3 Common Mistake Patterns</text>
+<text x="350" y="265" fill="#E8D5C0" font-size="11" text-anchor="middle">False Accounting: Only looking at stock value, ignoring gambit weight</text>
+<text x="350" y="283" fill="#E8D5C0" font-size="11" text-anchor="middle">Short Vision: Save 5 stock now, lose 8 stock per turn forever</text>
+<text x="350" y="301" fill="#E8D5C0" font-size="11" text-anchor="middle">Panic Sacrifice: Boss in 1 turn, sold the economy engine</text>
+
+<!-- 5-question checklist -->
+<rect x="100" y="315" width="500" height="50" rx="8" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="350" y="333" fill="#5CB85C" font-family="'VT323',monospace" font-size="13" text-anchor="middle">5-Question Sacrifice Checklist</text>
+<text x="350" y="353" fill="#F5E6D3" font-size="11" text-anchor="middle">Q1: Can I buy it back? | Q2: Does it trigger 2+ gambits? | Q3: Any other piece to sacrifice?</text>
+</svg>

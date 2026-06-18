@@ -1,4 +1,4 @@
----
+﻿---
 category: "Pieces & Cards"
 title: "Pawn Promotion Not Working? 4 Conditions That Block Your Upgrade (and How to Check Each)"
 description: "Your pawn should promote-but it isn't. 4 mechanical conditions that silently block pawn promotion in Gambonanza, and a step-by-step diagnostic checklist."
@@ -111,6 +111,9 @@ Use this table when promotion fails. Go condition by condition and check each co
 </div>
 
 {{< section-divider >}}
+
+
+{{< diagram src="promotion-flow.svg" alt="Pawn Promotion 4-Blocker Diagnostic" caption="Four conditions that block pawn promotion and how to check each" >}}
 
 ## Community Verification & Resources
 
