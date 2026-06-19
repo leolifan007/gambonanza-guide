@@ -1,24 +1,18 @@
-﻿---
+---
 category: "Strategy & Guides"
 
 date: 2026-06-18
 title: "Board Full of Pieces? The Pruning Priority Guide - What to Sell First When Space Runs Out"
 description: "Board clutter is the silent run-killer. A priority system for deciding what to keep, what to sell, and what to sacrifice when your Gambonanza board is full."
-see_also:
-  - title: 'Piece Sacrifice Guide'
-    url: '/piece-sacrifice-guide/'
-  - title: 'Economy Guide'
-    url: '/economy/'
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
 lastmod: 2026-06-18T17:30:00+08:00
 lastUpdated: 'v1.1.0-06-18'
 version: 'v1.1.0'
 draft: false
 hidden: false
+---e
 ---
 
-Your board is full, a new Gambit piece just spawned, and you have 3 seconds to decide what to sell. I tested over 50 board-clutter scenarios across every stage, and I found that indecision costs more stock than bad decisions. Players who freeze and overthink lose 2 to 3 turns of tempo. This guide gives you a priority system that eliminates the thinking entirely.
+Your board is full, a new Gambit piece just spawned, and you have 3 seconds to decide what to sell. I tested over 50 board-clutter scenarios across every stage, and I found that indecision costs more stock than bad decisions. Players who freeze and overthink lose 2 to 3 turns of tempo. This guide gives you a priority system that eliminates the thinking entirely. The [Piece Sacrifice Guide](/piece-sacrifice-guide/) covers this in depth. The [Economy Guide](/economy/) covers this in depth.
 
 {{< callout type="verdict" >}}**THE QUICK FIX**
 

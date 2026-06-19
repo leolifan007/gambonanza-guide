@@ -60,7 +60,7 @@ Jester's "random" actions are based on your board position:
 ## Best Build: Control Lock (68% Win Rate)
 
 **Pieces:** 2 Bishops + 1 Rook
-**Gambits:** Bishop's Domain + Rook Wall + King's Shield
+**Gambits:** Bishop's Domain + Rook Wall + King's Shield. For a deeper breakdown of Bishop+Rook synergy, the [Rook+Bishop Guide](/rook-bishop-guide/) covers positioning at each board size.
 
 ### Turn-by-Turn Strategy:
 
@@ -104,4 +104,6 @@ Jester's "random" actions are based on your board position:
 2. Use Control Lock build (68% win rate)
 3. Lock 60%+ of board by turn 6
 4. Trap Jester's King, win by positioning
+
+Once you master Jester, the [Boss Guide](/boss-guide/) gives you the full boss roster with unified stock benchmarks and fight timing.
 

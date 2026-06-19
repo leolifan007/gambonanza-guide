@@ -2,20 +2,15 @@
 
 title: "Gambonanza 4x4 Fast Farm Guide (v1.1.0)-Speedrun Your Economy on Small Boards"
 description: "Gambonanza 4x4 fast farm guide for v1.1.0. Knight aggro openers, farm routes, economy Gambit synergies, and speedrun strategies for maximum stock per minute. Updated for patch v1.1.0."
-see_also:
-  - title: 'Stock Market & Shop Guide'
-    url: '/economy/'
-  - title: 'Recommended Seeds'
-    url: '/recommended-seeds/'
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
 ---
 
 ## Why 4x4 Boards Are Your ATM
 
 {{< callout type="verdict" >}}<strong>THE SHORT VERSION</strong>
 
-  The smallest board in Gambonanza = fastest wins per minute. If your stock is below 50, stop doing 6x6 and drop down to 4x4. This isn't about winning pretty, it's about winning cheap.{{< /callout >}}
+  The smallest board in Gambonanza = fastest wins per minute. If your stock is below 50, stop doing 6x6 and drop down to 4x4. This isn't about winning pretty, it's about winning cheap. The [Economy Guide](/economy/) covers when to stay on 4x4 vs move up for boss prep.{{< /callout >}}
+
+This pairs well with the [Board Size Strategy Guide](/board-size-strategy/) to decide when to size up.
 
 <!-- toc handled by sidebar template -->
 

@@ -4,18 +4,11 @@ title: 'Gambonanza Endgame Tips (v1.1.0)-Killer Strategies for Closing Out Games
 description: 'Gambonanza endgame guide for patch v1.1.0. Bishop deadlock solutions, King hunting timings, relic timing control, Pawn promotion traps, and a comeback checklist. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
-see_also:
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
-  - title: 'Rook & Bishop Guide'
-    url: '/rook-bishop-guide/'
-  - title: 'Strategy Guide'
-    url: '/strategy/'
 ---
 
 ## The Endgame Is Not Just Grind
 
-> Most Gambonanza games end before the 6x6 board. But what separates good players from great ones is how they close out games when the board gets big.
+> Most Gambonanza games end before the 6x6 board. But what separates good players from great ones is how they close out games when the board gets big. The [Complete Walkthrough](/complete-walkthrough/) breaks this down in detail. The [Rook & Bishop Guide](/rook-bishop-guide/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Verdict</strong>
 

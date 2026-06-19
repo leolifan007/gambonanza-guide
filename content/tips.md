@@ -1,19 +1,11 @@
----category: "Beginner"
+---
+category: "Beginner"
 
 title: "Gambonanza Tips & Tricks (v1.1.0)-25 Pro Tips That Changed How I Play"
 description: "The best Gambonanza tips and tricks for patch v1.1.0. 25 pro tips from 100+ hours of gameplay, covering economy management, Gambit combos, boss patterns, and hidden mechanics. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-19'
 version: 'v1.1.0'
-see_also:
-  - title: 'Beginner Guide'
-    url: '/beginner/'
-  - title: 'Strategy Guide'
-    url: '/strategy/'
-  - title: 'All Gambits Guide'
-    url: '/gambits/'
-  - title: 'Endgame Killer Tips'
-    url: '/endgame-killer-tips/'
----
+------
 
 ## 25 Tips That Changed How I Play Gambonanza
 
@@ -31,7 +23,7 @@ Enter every boss fight with **50+ stock**. Boss retry costs 25 stock. If you're 
 
 ### 1. The 50-Stock Rule
 
-Never spend below 50 stock before a boss fight. Retry costs 25-if you die twice, you need 50. I can't count how many runs I've lost because I bought "one more Gambit" and couldn't afford my second attempt.
+Never spend below 50 stock before a boss fight. Retry costs 25-if you die twice, you need 50. I can't count how many runs I've lost because I bought "one more Gambit" and couldn't afford my second attempt. The [Beginner Guide](/beginner/) covers this in depth. The [Strategy Guide](/strategy/) covers this in depth.
 
 ### 2. Safe Haven First, Always
 

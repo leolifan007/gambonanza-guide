@@ -37,7 +37,7 @@ Here is why it is actually S-Tier:
 
 1. **Stock efficiency** - Your best Gambit fires twice for the price of one
 2. **Surprise factor** - Opponents don't expect a second activation
-3. **Versatility** - Works with any build that has at least one strong Gambit
+3. **Versatility** - Works with any build that has at least one strong Gambit. See [Gambit Synergy Chains](/gambit-synergy-chains/) for the best Gambits to pair with Enigmas
 4. **Scaling** - Gets better as your Gambits get stronger (late-game power spike)
 
 {{< callout type="verdict" >}}<strong>The Truth</strong>
@@ -48,7 +48,7 @@ Here is why it is actually S-Tier:
 
 ### Build 1: The Economy Engine (Easy)
 
-Pair Enigmas with a strong economy Gambit. Every copy doubles your stock generation.
+Pair Enigmas with a strong economy Gambit. Every copy doubles your stock generation. The [Pawn Economy Loop](/pawn-economy-loop/) is the most reliable economy base for this build.
 
 **Required Gambits:**
 - Enigmas Gambit (core)
@@ -79,7 +79,7 @@ Pair Enigmas with a suppression Gambit. Your opponent can never escape the contr
 3. Opponent is locked in a 2x suppression zone
 4. Slowly grind them out while building economy
 
-**Win rate:** 71% on 5x5-6x6 boards
+**Win rate:** 71% on 5x5-6x6 boards. For the full board control philosophy beyond Gambits, the [Board Clutter Priority Guide](/board-clutter-priority/) covers positioning fundamentals.
 
 ### Build 3: The Infinite Loop (Advanced)
 
@@ -113,6 +113,6 @@ Create a 3-Gambit rotation where each Gambit feeds into the next.
 ## Pro Tips
 
 - Count your trigger cycle. If Enigmas fires every 2 turns, plan your Gambit activations in that rhythm.
-- Never pick Enigmas as your FIRST Gambit. You need a strong Gambit to copy first.
+- Never pick Enigmas as your FIRST Gambit. You need a strong Gambit to copy first. The [Full Gambits List](/gambits/) ranks every Gambit so you know which ones deserve a copy.
 - Enigmas works best as your 2nd or 3rd Gambit pick.
 - If you are running Enigmas, track which Gambit was last activated. I've lost games because I triggered a weak Gambit right before Enigmas fired.

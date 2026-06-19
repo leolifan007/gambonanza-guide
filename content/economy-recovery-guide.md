@@ -3,13 +3,6 @@
 date: 2026-05-24
 title: "Why Is My Stock Crashing? Economy Recovery Guide"
 description: "Gambonanza economy crash recovery guide v1.1.0. Why your stock is dropping, how to stop the bleed, emergency stock generation strategies, and economy rebuild plans for v1.1.0."
-see_also:
-  - title: 'Economy Guide'
-    url: '/economy/'
-  - title: 'Stock Market & Shop Guide'
-    url: '/economy/'
-  - title: 'Gambonanza Beginner Guide'
-    url: '/beginner/'
 lastUpdated: 'v1.1.0-05-21'
 version: 'v1.1.0'
 draft: false
@@ -21,7 +14,7 @@ lastmod: 2026-05-25T05:02:57+08:00
 
 {{< callout type="verdict" >}}<strong>Stop. Don\u2019t play another Gambit until you diagnose.</strong>
 
-If your stock is actively falling, it\u2019s not bad luck. It\u2019s one of: (1) a broken chain debt spiral, (2) a boss economy drain ability, or (3) passive decay from inactivity. Fix the cause before you play. Playing more Gambits into a broken system only accelerates the crash.{{< /callout >}}
+If your stock is actively falling, it\u2019s not bad luck. It\u2019s one of: (1) a broken chain debt spiral, (2) a boss economy drain ability, or (3) passive decay from inactivity. Fix the cause before you play. Playing more Gambits into a broken system only accelerates the crash. The [Economy Guide](/economy/) ranks every income option so you know which to prioritize during recovery. Emergency stock strategies are covered in the [Emergency Salvage Guide](/5-emergency-strategies-salvage/).{{< /callout >}}
 
 ## The Three Causes of Stock Crashing
 

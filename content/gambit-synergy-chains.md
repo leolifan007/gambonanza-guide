@@ -52,7 +52,7 @@ Support Gambits should make your Core stronger, not weaker.
 
 **Example:** If your Core is Compound Interest (stock growth), add:
 - Stock Market (bonus at 100+ stock) ✅
-- Pawn Parade (generate more stock) ✅
+- [Pawn Parade](/pawn-economy-loop/) (generate more stock) ✅ - see the full Pawn Economy Loop for 5+ stock per turn
 - NOT First Blood (requires early attacks, conflicts with building stock) ❌
 
 ---
@@ -85,7 +85,7 @@ Support Gambits should make your Core stronger, not weaker.
 - Knight's Tour: Knight mobility boost
 - Quick Strike: Faster Gambit cooldown
 
-**Result:** Win by turn 5-6 or pivot to different strategy
+**Result:** Win by turn 5-6 or pivot to different strategy. The [Knight Rush Opener](/knight-rush-opener/) executes this strategy with a 62% win rate on 4x4 boards.
 
 ---
 
@@ -130,7 +130,7 @@ Support Gambits should make your Core stronger, not weaker.
 - Precision: +50% crit damage
 - Gambit Recycler: Reuse attack Gambits
 
-**Result:** Delete boss health bars
+**Result:** Delete boss health bars. For a complete walkthrough of each boss fight, our [Boss Strategy Guide](/boss-strategy-guide/) covers positioning and timing.
 
 ---
 

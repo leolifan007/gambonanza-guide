@@ -1,16 +1,10 @@
-﻿---
+---
 title: "Why Your Gambit Won't Activate on Dark Tiles? The Hidden Tile-Specific Blocking Rules"
 description: "You placed your Gambit piece on a dark tile and nothing happens. This is not a bug. Here is why certain tiles block Gambit activation and how to pick legal positions every time."
 category: "Strategy & Guides"
 lastmod: "2026-06-18T17:33:00+08:00"
 version: "v1.1.0"
-see_also:
-  - title: 'Spectral Piece & Gold Tile Guide'
-    url: '/spectral-piece-gold-tile-guide/'
-  - title: 'Tile Control Guide'
-    url: '/tile-control-guide/'
-  - title: 'Deterministic Gambits Guide'
-    url: '/deterministic-gambits-guide/'
+---'
 ---
 
 You placed your Gambit piece on what looked like a perfectly normal tile. The activation animation did not play. The Gambit did not trigger. Your stock is gone, and you are staring at a silent board wondering what went wrong.

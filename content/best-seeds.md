@@ -4,20 +4,11 @@ title: "Gambonanza Best Seeds (v1.1.0) - Top 15 S/A/B Seeds for Guaranteed Wins 
 description: "The best Gambonanza seeds for patch v1.1.0. Top 15 seeds ranked S/A/B for economy builds, speed runs, boss fights, and ranked mode. Includes how to use seeds and what makes a good seed. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-19'
 version: 'v1.1.0'
-see_also:
-  - title: 'Recommended Seeds Collection'
-    url: '/recommended-seeds/'
-  - title: 'Beginner Guide'
-    url: '/beginner/'
-  - title: 'Economy & Shop Guide'
-    url: '/economy/'
-  - title: '4x4 Fast Farm Guide'
-    url: '/4x4-fast-farm-guide/'
 ---
 
 ## Best Seeds-Ranked for Every Playstyle
 
-> Your seed determines your opening Gambit pool, relic offerings, and shop rotation. I've tested over 200 seeds across multiple patches and these are the ones that consistently deliver wins.
+> Your seed determines your opening Gambit pool, relic offerings, and shop rotation. I've tested over 200 seeds across multiple patches and these are the ones that consistently deliver wins. The [Recommended Seeds Collection](/recommended-seeds/) breaks this down in detail. The [Beginner Guide](/beginner/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Quick Pick</strong>
 

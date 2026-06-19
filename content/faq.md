@@ -2,16 +2,9 @@
 
 title: "Gambonanza FAQ (v1.1.0)-Real Answers to the Most Common Questions"
 description: "Gambonanza FAQ for patch v1.1.0. Real answers to the questions that actually trip players up-boss mechanics, Gambit combos, economy priorities, and hidden rules. Updated for patch v1.1.0."
-see_also:
-  - title: 'Beginner Guide'
-    url: '/beginner/'
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
-  - title: 'Boss Battle Guide'
-    url: '/bosses/'
 ---
 
-## The FAQ-What Players Actually Need to Know
+## The FAQ-What Players Actually Need to Know Check [Beginner Guide](/beginner/) for the full breakdown. The [Complete Walkthrough](/complete-walkthrough/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong> THE VERDICT</strong>
 

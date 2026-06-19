@@ -1,23 +1,17 @@
-﻿---
+---
 category: "Economy & Shop"
 title: "Beat the Boss, Lost the Economy - How to Restart Stock Generation After Every Boss Fight"
 description: "Boss fights don't test your strength-they test your recovery. A step-by-step post-boss economic restart procedure for each stage transition in Gambonanza."
 keywords: [post-boss, economy restart, recovery, stage transition]
-see_also:
-  - title: 'Economy & Shop Guide'
-    url: '/economy/'
-  - title: 'Economy Recovery Guide'
-    url: '/economy-recovery-guide/'
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
 lastUpdated: 'v1.1.0-06-18'
 version: 'v1.1.0'
 draft: false
 hidden: false
 lastmod: 2026-06-18T17:30:00+08:00
+---0
 ---
 
-You beat the boss. Your economy loop is gone. Your gambit setup is scrambled. Now what?
+You beat the boss. Your economy loop is gone. Your gambit setup is scrambled. Now what? Check out [Economy & Shop Guide](/economy/) for more. The [Economy Recovery Guide](/economy-recovery-guide/) covers this in depth.
 
 I have lost count of how many times I cleared a boss with 40+ stock, only to find myself at 8 stock five turns later with nothing but a lonely pawn and a useless Gambit slot. The boss fight is not the real test. The first 15 turns after the boss fight are where runs die.
 

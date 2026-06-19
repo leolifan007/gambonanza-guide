@@ -1,16 +1,10 @@
-﻿---
+---
 title: "Final Boss Has a Hidden Phase 2? How to Spot the Transformation Trigger and Survive the Surprise"
 description: "The final boss transforms when you least expect it. How to recognize the hidden phase trigger, build a phase-proof strategy, and survive the surprise attack that kills 70% of first-time players."
 category: "Boss Guides"
 lastmod: "2026-06-18T17:33:00+08:00"
 version: "v1.1.0"
-see_also:
-  - title: 'Boss Guide'
-    url: '/boss-guide/'
-  - title: 'Boss Strategy Guide'
-    url: '/boss-strategy-guide/'
-  - title: 'Endgame Killer Tips'
-    url: '/endgame-killer-tips/'
+---'
 ---
 
 You just landed your third Gambit activation in a row, the boss is at 20% HP, and you are already planning your victory celebration. Then the screen shakes, the tile grid resets, and your entire board is stripped clean. That is the hidden phase trigger, and it just killed your run.

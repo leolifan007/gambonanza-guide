@@ -2,18 +2,11 @@
 
 title: "Tile Control Guide"
 description: "Gambonanza tile control guide for patch v1.1.0. Tile value map visualization, center vs edge strategy, and a 5-rule checklist to own the board. Updated for patch v1.1.0."
-see_also:
-  - title: 'Crumble Mechanic Guide'
-    url: '/crumble-mechanic-guide/'
-  - title: 'Decision Framework'
-    url: '/decision-framework-guide/'
-  - title: 'Queen Supremacy Guide'
-    url: '/queen-supremacy-guide/'
 lastUpdated: 'v1.1.0-05-17'
 version: 'v1.1.0'
 ---
 
-## Tile Control  TL;DR
+## Tile Control  TL;DR Check [Crumble Mechanic Guide](/crumble-mechanic-guide/) for the full breakdown. The [Decision Framework](/decision-framework-guide/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Center = wins. Edges = Crumble bait.</strong>
 

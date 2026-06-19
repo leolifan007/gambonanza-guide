@@ -2,18 +2,11 @@
 
 title: "Combo Chain Guide"
 description: "Gambonanza combo chain guide for patch v1.1.0. Checkmate Express flowchart, Farm Loop diagram, and 4 chain types to double your value per turn. Updated for patch v1.1.0."
-see_also:
-  - title: 'All Gambits Guide'
-    url: '/gambits/'
-  - title: 'Deterministic Gambits Guide'
-    url: '/deterministic-gambits-guide/'
-  - title: 'Queen Supremacy Guide'
-    url: '/queen-supremacy-guide/'
 lastUpdated: 'v1.1.0-05-17'
 version: 'v1.1.0'
 ---
 
-## Combo Chains  TL;DR
+## Combo Chains  TL;DR Check [All Gambits Guide](/gambits/) for the full breakdown. The [Deterministic Gambits Guide](/deterministic-gambits-guide/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>1 Gambit per turn = beginner. 3 Gambits in 1 turn = game breaker.</strong>
 

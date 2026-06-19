@@ -6,7 +6,7 @@ description: "Complete Gambonanza Gambit database for patch v1.1.0. 150+ Gambits
 
 ## The Gambit System  Rated, Ranked & Explained
 
-**150+ Gambits.** Each one a rule-breaking chess power. But some are game-warping, and some are trap picks that look good but lose you the run. This guide tells you which is which.
+**150+ Gambits.** Each one a rule-breaking chess power. But some are game-warping, and some are trap picks that look good but lose you the run. This guide tells you which is which. For Gambit combinations that work together, the [Gambit Synergy Chains guide](/gambit-synergy-chains/) shows the top 5 proven pairings. The full [Tier List](/gambonanza-tier-list/) ranks every Gambit from S to C for quick reference.
 
 <div style="background:var(--dark-2);border:1px solid var(--gold);padding:16px;border-radius:3px;margin:16px 0;text-align:center">
   <strong style="font-family:var(--font-display);font-size:1.1rem;color:var(--gold)">HOW TO READ THIS GUIDE</strong><br>

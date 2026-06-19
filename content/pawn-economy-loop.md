@@ -25,7 +25,7 @@ category: "Economy"
 
 </div>
 
-**Turn 5 target: 80+ stock from Pawns alone.**
+**Turn 5 target: 80+ stock from Pawns alone.** Combined with the right Gambit picks, the [Full Gambits List](/gambits/) ranks Pawn Parade alongside the best economy options so you know which to prioritize.
 
 ---
 
@@ -97,7 +97,7 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 
 ## When to Spend Your Stock
 
-**Wait until you have 80+ stock before buying big pieces.**
+**Wait until you have 80+ stock before buying big pieces.** The [Queen Supremacy Guide](/queen-supremacy-guide/) shows exactly how to deploy Queen for maximum impact once your Pawn Economy Loop delivers the stock.
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -124,7 +124,8 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 
 </div>
 
-**Piece Build Order:**
+**Piece Build Order:** If bosses are your next bottleneck after building stock, the [Boss Strategy Guide](/boss-strategy-guide/) tells you exactly how much stock to hold before each boss encounter.
+
 <div class="synergy-table" style="overflow-x:auto">
 
 | Turn | Action |

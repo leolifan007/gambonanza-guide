@@ -4,18 +4,11 @@ title: 'Gambonanza Recommended Seeds (v1.1.0)-Best Opening Seeds Collection'
 description: 'The best Gambonanza opening seeds for patch v1.1.0. Community-verified seeds for all-round, economy, ranked mode, and high-variance builds. Updated with player-verified configurations for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
-see_also:
-  - title: 'Stock Market & Shop Guide'
-    url: '/economy/'
-  - title: 'Beginner Guide'
-    url: '/beginner/'
-  - title: '4x4 Fast Farm Guide'
-    url: '/4x4-fast-farm-guide/'
 ---
 
 ## Gambonanza Seed Quick-Reference
 
-> A good seed determines your initial Gambit pool, relic offerings, and shop refreshes. Starting with the right seed can literally decide whether you win or lose before a single piece moves.
+> A good seed determines your initial Gambit pool, relic offerings, and shop refreshes. Starting with the right seed can literally decide whether you win or lose before a single piece moves. The [Stock Market & Shop Guide](/economy/) breaks this down in detail. The [Beginner Guide](/beginner/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Verdict</strong>
 

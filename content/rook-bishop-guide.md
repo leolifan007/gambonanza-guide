@@ -4,26 +4,11 @@ title: 'Gambonanza Rook & Bishop Guide v1.1.0-Mastering the Support Pieces'
 description: 'Gambonanza Rook and Bishop guide for patch v1.1.0. Rook suppression power, Bishop control tactics, Gambit combos, and advanced formations for these underrated pieces. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
-see_also:
-  - title: 'Bosses Overview'
-    url: '/bosses/'
-  - title: 'Strategy Guide'
-    url: '/strategy/'
-  - title: 'Endgame Killer Tips'
-    url: '/endgame-killer-tips/'
-  - title: 'All Gambits Guide'
-    url: '/gambits/'
-  - title: 'King of Spades - Boss Breakdown'
-    url: '/king-of-spades-guide/'
-  - title: 'Blitzking Boss Guide'
-    url: '/blitzking-boss-guide/'
-  - title: 'Queen Supremacy Guide'
-    url: '/queen-supremacy-guide/'
 ---
 
 ## The Backbone, Not The Sidekick
 
-> Queen reaps the harvest. Rook and Bishop create the conditions for the harvest. But 80% of beginners treat Rook as an expensive Pawn and Bishop as a budget Rook-this is completely backward.
+> Queen reaps the harvest. Rook and Bishop create the conditions for the harvest. But 80% of beginners treat Rook as an expensive Pawn and Bishop as a budget Rook-this is completely backward. The [Bosses Overview](/bosses/) breaks this down in detail. The [Strategy Guide](/strategy/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Verdict</strong>
 

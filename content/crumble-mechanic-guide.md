@@ -2,18 +2,11 @@
 
 title: "Crumble Mechanic Guide"
 description: "Gambonanza Crumble mechanic guide for patch v1.1.0. Board shrink visualization, Heal Board loop diagram, 3 trap scenarios with solutions, and 5 counter-plays for every board size. Updated for patch v1.1.0."
-see_also:
-  - title: 'Beginner Guide'
-    url: '/beginner/'
-  - title: 'Tile Control Guide'
-    url: '/tile-control-guide/'
-  - title: 'All Gambits Guide'
-    url: '/gambits/'
 lastUpdated: 'v1.1.0-05-21'
 version: 'v1.1.0'
 ---
 
-## Crumble-TL;DR
+## Crumble-TL;DR Check [Beginner Guide](/beginner/) for the full breakdown. The [Tile Control Guide](/tile-control-guide/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Crumble is predictable, not random.</strong>
 

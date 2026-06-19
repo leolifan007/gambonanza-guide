@@ -4,18 +4,11 @@ title: 'Gambonanza Boss Strategy Guide v1.1.0-How to Beat Every Boss'
 description: 'Step-by-step Gambonanza boss strategies for patch v1.1.0. Phase-by-phase breakdowns, counter Gambits, and loadout recommendations for Jester, King of Spades, Blitzking, Queen of Hearts, and Grand Master. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
-see_also:
-  - title: 'Boss Battle Guide'
-    url: '/bosses/'
-  - title: 'King of Spades - Boss Breakdown'
-    url: '/king-of-spades-guide/'
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
 ---
 
 ## Bosses Are Not the Whole Game-But You Must Win Them
 
-> Every Gambonanza boss tests a different fundamental skill. There is no skipping-all 5 must be defeated to progress. Learn their patterns, and they become predictable puzzles rather than walls.
+> Every Gambonanza boss tests a different fundamental skill. There is no skipping-all 5 must be defeated to progress. Learn their patterns, and they become predictable puzzles rather than walls. The [Boss Battle Guide](/bosses/) breaks this down in detail. The [King of Spades - Boss Breakdown](/king-of-spades-guide/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Verdict</strong>
 

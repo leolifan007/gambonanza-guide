@@ -28,7 +28,7 @@ category: "Pieces & Cards"
 **The 3-turn setup:**
 1. Turn 1: Knight to center-adjacent square (not center itself)
 2. Turn 2: Second Knight OR Bishop support
-3. Turn 3: Assess - if opponent has 2+ Pawns blocking, PIVOT
+3. Turn 3: Assess - if opponent has 2+ Pawns blocking, PIVOT. See [Board Size Strategy](/board-size-strategy/) for which boards favor this opener.
 
 ---
 
@@ -84,6 +84,8 @@ If you hit red flags on turn 3:
 - Patience (conflicts with aggressive play)
 - Pawn Parade (you're not building Pawns)
 - Bishop's Domain (wrong piece type)
+
+If you pivot away from Knight Rush, the [Pawn Economy Loop](/pawn-economy-loop/) is the most reliable fallback for rebuilding your board.
 
 ---
 

@@ -2,20 +2,13 @@
 
 title: "Gambonanza Economy & Shop Guide v1.1.0-Stock Strategy & Investment Tips"
 description: "Complete Gambonanza economy guide for patch v1.1.0. S/A/B/C rated investment tables, compound growth strategies, shop spending priorities, and exact thresholds for maximum returns. Updated for patch v1.1.0."
-see_also:
-  - title: '4x4 Fast Farm Guide'
-    url: '/4x4-fast-farm-guide/'
-  - title: 'Recommended Seeds'
-    url: '/recommended-seeds/'
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
 ---
 
 ## The Economy System-Rated & Exploited
 
 {{< callout type="verdict" >}}<strong>###  THE VERDICT</strong>
 
-  Winning Gambonanza is 40% strategy and 60% economy. Players who manage their stock well beat players with better board skills every single time. This guide turns you from a spender into an investor.{{< /callout >}}
+  Winning Gambonanza is 40% strategy and 60% economy. Players who manage their stock well beat players with better board skills every single time. This guide turns you from a spender into an investor. Combined with a strong seed selection, the [Recommended Seeds Guide](/recommended-seeds/) gives you the stock foundations before your first shop visit.{{< /callout >}}
 
 {{< section-divider >}}
 

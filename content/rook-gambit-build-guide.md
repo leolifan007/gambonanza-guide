@@ -36,7 +36,7 @@ Most players treat the Rook like a heavy hitter - move it forward, attack the op
 The Rook build works when you:
 
 1. **Suppress, don't attack** - The Rook's column control forces the opponent to play around it, costing them tempo
-2. **Stack Column Gambits** - Gambits that trigger on Rook column moves have the highest synergy in the game
+2. **Stack Column Gambits** - Gambits that trigger on Rook column moves have the highest synergy in the game. See [Gambit Synergy Chains](/gambit-synergy-chains/) for the full Rook Gambit combo rotations
 3. **Protect the Rook at all costs** - A dead Rook means lost column control. The build crumbles without it
 
 {{< callout type="verdict" >}}<strong>The One Rule</strong>
@@ -88,8 +88,8 @@ The Rook build works when you:
 
 ## When NOT to Use the Rook Build
 
-- **8x8 boards** - Too much space. Rook column control is too diluted.
-- **Against King of Spades** - This boss punishes slow control builds.
+- **8x8 boards** - Too much space. Rook column control is too diluted. Check [Board Size Strategy](/board-size-strategy/) for 8x8-specific builds.
+- **Against King of Spades** - This boss punishes slow control builds. The [King of Spades Guide](/king-of-spades-guide/) has the exact turn-by-turn counter-strategy.
 - **Early Blitzking draw** - Blitzking can outpace your economy before the build comes online.
 
 ## Final Tips

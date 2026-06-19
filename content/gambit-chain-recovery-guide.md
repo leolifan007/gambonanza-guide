@@ -4,20 +4,13 @@ date: 2026-05-22
 lastmod: 2026-05-22T08:41:17+08:00
 title: "How to Fix a Broken Gambit Chain in Mid-Game"
 description: "Gambonanza gambit chain recovery guide v1.1.0. Why your combo stopped, how to restart it, salvage routes when you\u2019re stuck mid-board, and emergency fallback chains for v1.1.0."
-see_also:
-  - title: 'All Gambits Guide'
-    url: '/gambits/'
-  - title: 'Combo Chain Guide'
-    url: '/combo-chain-guide/'
-  - title: 'Deterministic Gambits Guide'
-    url: '/deterministic-gambits-guide/'
 lastUpdated: 'v1.1.0-05-21'
 version: 'v1.1.0'
 draft: false
 hidden: false
 ---
 
-## Gambit Chain Broken \u2014 TL;DR
+## Gambit Chain Broken \u2014 TL;DR Check [All Gambits Guide](/gambits/) for the full breakdown. The [Combo Chain Guide](/combo-chain-guide/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Don\u2019t panic. Don\u2019t restart.</strong>
 

@@ -39,6 +39,8 @@ category: "Strategy & Guides"
 
 ### Best Builds
 
+If you want the fastest 4x4 win rate, our [Knight Rush Opener](/knight-rush-opener/) delivers the 62-68% finish you need in an average of 10 turns.
+
 <div class="synergy-table" style="overflow-x:auto">
 
 | Build | Win Rate | Why It Works |
@@ -109,6 +111,8 @@ category: "Strategy & Guides"
 - Economy wins - the player with the most stock by turn 18 usually wins
 
 ### Best Builds
+
+The 8x8 board rewards long-term planning. The [Queen Supremacy Guide](/queen-supremacy-guide/) walks through full Queen positioning, while the [Pawn Economy Loop](/pawn-economy-loop/) shows how to accumulate the 100+ stock required for the late game.
 
 <div class="synergy-table" style="overflow-x:auto">
 

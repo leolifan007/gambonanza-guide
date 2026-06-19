@@ -31,7 +31,7 @@ category: "Beginner"
 
 You have 45 stock. A boss fight is coming. One more Gambit roll... and you are broke.
 
-**The fix:** Never enter a boss fight with less than 50 stock. Boss retry costs 25. If you die with 45 stock, you get one retry. Die again? Run over. With 50+ stock, you have two retries. That is often the difference between a win and a restart.
+**The fix:** Never enter a boss fight with less than 50 stock. Boss retry costs 25. If you die with 45 stock, you get one retry. Die again? Run over. With 50+ stock, you have two retries. That is often the difference between a win and a restart. See our [Boss Guide](/boss-guide/) for stock benchmarks against each boss type.
 
 **Real numbers from my games:**
 - Enters boss with 50+ stock: 72% win rate
@@ -42,7 +42,7 @@ You have 45 stock. A boss fight is coming. One more Gambit roll... and you are b
 
 If you use the same build on 4x4, 6x6, and 8x8, you are losing free win percentage.
 
-**The fix:** Match your build to the board size.
+**The fix:** Our [Board Size Guide](/board-size-strategy/) breaks down exactly which builds dominate each board size.
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -84,7 +84,7 @@ Some players fight every game to the death. Endless 25-turn games where they are
 
 Players love flashy Gambits (Copy, Infinite, Destruction) and ignore boring economy Gambits. Then they wonder why they have no stock by turn 10.
 
-**The fix:** Take at least ONE economy Gambit in your first 3 picks.
+**The fix:** Take at least ONE economy Gambit in your first 3 picks. The [Economy Guide](/economy/) ranks every Gambit by stock generation potential so you know which ones deliver.
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -141,7 +141,7 @@ This 3-second habit alone improved my win rate by 15%.
 
 You lost a run. You are frustrated. You queue up immediately. Now you are playing angry, making worse decisions, and losing again.
 
-**The fix:** After every loss, wait 2 minutes before the next run. Stand up. Drink water. Think about ONE thing you will do differently.
+**The fix:** After every loss, wait 2 minutes before the next run. Stand up. Drink water. Think about ONE thing you will do differently. The [3 Simple Habits Guide](/3-simple-habits-win-rate/) covers the full mental framework that turned a 40% winrate player into consistent winners.
 
 **My rule:** I keep a small note file. Every time I lose, I write one sentence about why. After 10 losses, I look at the pattern. Usually it is one mistake I keep making (for me, it was Mistake #1 - overspending before bosses). Once I identified it, I fixed it, and my win rate jumped.
 

@@ -1,19 +1,9 @@
----category: "Boss Battles"
+---
+category: "Boss Battles"
 
 title: "Gambonanza Bosses-All 8 Bosses Ranked by Difficulty (v1.1.0)"
 description: "Every Gambonanza boss ranked from easiest to hardest. Quick-reference stats, phase mechanics, and which Gambits counter each boss. Updated for patch v1.1.0."
-see_also:
-  - title: 'Blitzking Boss Guide'
-    url: '/blitzking-boss-guide/'
-  - title: 'All 5 Bosses - Quick Reference'
-    url: '/boss-strategy-guide/'
-  - title: 'King of Spades - Boss Breakdown'
-    url: '/king-of-spades-guide/'
-  - title: 'Queen Supremacy Guide'
-    url: '/queen-supremacy-guide/'
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
----
+------
 
 ## Universal Boss Tactics
 

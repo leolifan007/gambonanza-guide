@@ -2,13 +2,6 @@
 
 title: "Gambonanza Beginner's Guide v1.1.0-How to Win Your First 5 Runs"
 description: "Complete Gambonanza beginner guide for patch v1.1.0. Learn the 5 rules that actually work, God-Tier starter Gambits, and the Just Win formula. Updated for patch v1.1.0."
-see_also:
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
-  - title: 'Decision Framework'
-    url: '/decision-framework-guide/'
-  - title: 'All Gambits Guide'
-    url: '/gambits/'
 ---
 
 ## The Verdict-Why You're Going to Lose (And Why That's Fine)
@@ -40,9 +33,9 @@ Here's what actually matters-no filler, no "understand the basics," just the stu
 
 </div>
 
-**You win by checkmating OR completing the round's objective.** You earn stock between rounds. You spend stock on new Gambits and upgrades in casino shops. You die to bosses until you learn their patterns. Rinse, repeat, git gud.
+**You win by checkmating OR completing the round's objective.** You earn stock between rounds. You spend stock on new Gambits and upgrades in casino shops. You die to bosses until you learn their patterns. Rinse, repeat, git gud. The [Complete Walkthrough](/complete-walkthrough/) maps every phase from opening to Grandmaster with exact turn-by-turn decisions.
 
-**That's it.** Everything else is noise until you've cleared 5+ runs.
+**That's it.** Everything else is noise until you've cleared 5+ runs. The [Economy Guide](/economy/) breaks down every stock strategy if you want to optimize early.
 
 {{< section-divider >}}
 

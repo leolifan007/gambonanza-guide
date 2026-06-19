@@ -1,19 +1,11 @@
-﻿---
+---
 category: "Gambits & Combos"
 
 title: "Your Combo Loop Backfired? How to Spot Self-Destructive Gambit Cycles Before They Wipe Your Run"
 description: "Infinite loops sound great until they drain your economy to zero. How to identify, fix, and prevent self-destructive gambit cycles in Gambonanza."
-see_also:
-  - title: 'Combo Chain Guide'
-    url: '/combo-chain-guide/'
-  - title: 'Gambit Synergy Chains'
-    url: '/gambit-synergy-chains/'
-  - title: 'Gambit Chain Recovery Guide'
-    url: '/gambit-chain-recovery-guide/'
-  - title: 'Economy Guide'
-    url: '/economy/'
 lastUpdated: 'v1.1.0-06-18'
 version: 'v1.1.0'
+---'
 ---
 
 You built the infinite loop. Endless value. Unlimited economy. Everything was working. Then your stock hit zero in three turns.

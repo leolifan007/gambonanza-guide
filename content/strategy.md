@@ -1,17 +1,9 @@
----category: "Strategy & Guides"
+---
+category: "Strategy & Guides"
 
 title: "Gambonanza Strategy Guide v1.1.0 - S-Tier Builds & Pro Tactics (Win Rate Proven)"
 description: "Proven Gambonanza strategies with Meta Ratings for patch v1.1.0. Three S/A/B opening builds, exact Gambit combos, deck composition math, and endgame checkmate patterns. Updated for patch v1.1.0."
-see_also:
-  - title: 'Endgame Killer Tips'
-    url: '/endgame-killer-tips/'
-  - title: 'Rook & Bishop Guide'
-    url: '/rook-bishop-guide/'
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
-  - title: 'All Gambits Guide'
-    url: '/gambits/'
----
+------
 
 ## Strategy Guide-Rated Builds & Proven Tactics
 

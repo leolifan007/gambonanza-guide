@@ -20,6 +20,8 @@ description: "Complete Gambonanza tier list for patch v1.1.0. All 150+ Gambits r
   <a href="#quick-ref">Quick Reference Table</a>
 </div>
 
+For context on how these fit into a full-game strategy, the [Beginner Guide](/beginner/) walks through early-game Gambit selection from scratch. Each tier also maps to specific Gambit cards - the [All Gambits Guide](/gambits/) has the full catalog with synergy pairings.
+
 {{< section-divider >}}
 
 ## <span id="s-tier">S-Tier  Game-Warping Gambits</span>

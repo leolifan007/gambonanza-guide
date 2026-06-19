@@ -6,7 +6,7 @@ version: "v1.1.0"
 category: "Boss Battles"
 ---
 
-Boss fights are where Gambonanza runs end. With 9 total bosses across 5 stages plus the final Grandmaster encounter, knowing what each boss does is the difference between a winning streak and starting over.
+Boss fights are where Gambonanza runs end. With 9 total bosses across 5 stages plus the final Grandmaster encounter, knowing what each boss does is the difference between a winning streak and starting over. The [Pawn Economy Loop](/pawn-economy-loop/) is the most consistent income strategy for stocking up before boss encounters, and the [Queen Supremacy Guide](/queen-supremacy-guide/) covers the aggressive build that dominates mid-game bosses.
 
 {{< callout type="verdict" title="GSC Data Insight" >}}
 "Boss" related queries generate 136 impressions in GSC but only 8 clicks. Players are searching for boss help but not finding what they need. This guide targets those specific searches with phase-by-phase clarity.

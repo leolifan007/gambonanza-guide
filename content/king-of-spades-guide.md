@@ -1,22 +1,16 @@
----category: "Boss Battles"
+---
+category: "Boss Battles"
 
 
 title: "Gambonanza King of Spades Guide v1.1.0-Mechanics, Counters & Three Proven Builds"
 
 description: "Gambonanza King of Spades boss guide for patch v1.1.0. Teleport mechanics explained, piece priority ranking, and three proven builds: solid control, speed push, and no-damage sniper. Updated for patch v1.1.0."
 
-see_also:
-  - title: 'Boss Battle Guide'
-    url: '/bosses/'
-  - title: 'All 5 Bosses - Quick Reference'
-    url: '/boss-strategy-guide/'
-  - title: 'Blitzking Boss Guide'
-    url: '/blitzking-boss-guide/'
----
+------
 
 ## Why King of Spades?
 
-The community-agreed second-hardest boss after Grandmaster. Normal clear rate around 15%. The difficulty isn't damage-it's the teleport. One wrong piece placement and your whole board falls apart.
+The community-agreed second-hardest boss after Grandmaster. Normal clear rate around 15%. The difficulty isn't damage-it's the teleport. One wrong piece placement and your whole board falls apart. The [Boss Battle Guide](/bosses/) covers this in depth. The [All 5 Bosses - Quick Reference](/boss-strategy-guide/) covers this in depth.
 
 <div class="meta-rating">
 

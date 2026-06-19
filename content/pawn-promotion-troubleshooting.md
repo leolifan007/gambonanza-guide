@@ -1,21 +1,17 @@
-﻿---
+---
 category: "Pieces & Cards"
 title: "Pawn Promotion Not Working? 4 Conditions That Block Your Upgrade (and How to Check Each)"
 description: "Your pawn should promote-but it isn't. 4 mechanical conditions that silently block pawn promotion in Gambonanza, and a step-by-step diagnostic checklist."
 keywords: [pawn promotion, troubleshooting, not working, blocked, diagnose]
-see_also:
-  - title: 'Pawn Promotion Guide'
-    url: '/pawn-promotion-guide/'
-  - title: 'Pawn Promotion Sustainability Guide'
-    url: '/pawn-promotion-sustainability-guide/'
 lastUpdated: 'v1.1.0-06-18'
 version: 'v1.1.0'
 draft: false
 hidden: false
 lastmod: 2026-06-18T17:30:00+08:00
+---0
 ---
 
-Your pawn is on the back rank. The promotion button does not show. You check the conditions: rank 8, check. Pawn, check. No capture in progress, check. So why is the game refusing to promote your piece?
+Your pawn is on the back rank. The promotion button does not show. You check the conditions: rank 8, check. Pawn, check. No capture in progress, check. So why is the game refusing to promote your piece? Check out [Pawn Promotion Guide](/pawn-promotion-guide/) for more. The [Pawn Promotion Sustainability Guide](/pawn-promotion-sustainability-guide/) covers this in depth.
 
 I have spent hours testing every edge case of Gambonanza's pawn promotion system. The existing guides tell you when to promote and what to promote into. This guide tells you why promotion silently fails. These four conditions have cost me runs, and they cost you runs too if you do not know how to diagnose them.
 

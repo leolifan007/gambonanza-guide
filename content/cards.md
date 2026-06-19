@@ -6,7 +6,7 @@ description: "Complete Gambonanza card database for patch v1.1.0. Every piece ca
 
 ## Card Database  Rated, Ranked & Synergized
 
-Every piece in Gambonanza has an associated card. Moving that piece activates it. But some cards define runs and some are filler.
+Every piece in Gambonanza has an associated card. Moving that piece activates it. But some cards define runs and some are filler. The [All Gambits Guide](/gambits/) shows how specific cards enable key combo chains. See the [Tier List](/gambonanza-tier-list/) for the strongest card-to-Gambit builds.
 
 {{< callout type="verdict" >}}<strong>THE VERDICT</strong>
 

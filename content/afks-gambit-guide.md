@@ -37,7 +37,7 @@ Most Gambits reward you for DOING things - moving pieces, capturing opponent pie
 
   At the start of each turn, gain 3-8 stock for each piece that did not move on your previous turn. The stock amount scales with: (1) number of consecutive idle turns, (2) piece type (King gives most), (3) Afk's Gambit level.{{< /callout >}}
 
-Many players read the description and dismiss it. Why would you not move pieces? That is the whole game! This is the #1 reason Afk's Gambit is underrated. You don't stop moving - you stop moving CERTAIN pieces while others do the work.
+Many players read the description and dismiss it. Why would you not move pieces? That is the whole game! This is the #1 reason Afk's Gambit is underrated. You don't stop moving - you stop moving CERTAIN pieces while others do the work. For a complete ranking of all Gambits including Afk's under-the-radar value, check our [Gambit Tier List](/gambits/).
 
 ## The Idle Economy Strategy
 
@@ -48,6 +48,8 @@ Not all pieces should be idle. You need a mix:
 - Workers (2-3 pieces): These move every turn. Knights and Bishops are ideal - they have strong movement for their cost.
 - Idlers (3-4 pieces): These sit still. Rooks and the King are best - they provide the highest Idle stock gain.
 - Flex (1 piece): Switches between working and idling based on the board state. Queen or second Rook.
+
+Building an idle board requires smart piece control. If your opponent is aggressive and forces movement, the [Board Clutter Priority Guide](/board-clutter-priority/) explains how to protect your idlers through positioning rather than panic-moving them.
 
 ### Step 2: Build the Board
 
@@ -86,7 +88,7 @@ Afk's Gambit alone is good. With these support Gambits, it is broken:
 
 | Situation | Why | Workaround |
 |-----------|-----|------------|
-| 4x4 board | Not enough space for idlers | Skip this build on 4x4 |
+| 4x4 board | Not enough space for idlers | Skip this build on 4x4. Check [Board Size Strategy](/board-size-strategy/) for the best 4x4 builds instead |
 | Aggressive opponent | Forces you to move idlers | Pick Fortress early, or pivot |
 | Early boss fight | Need full board to reach critical mass | Delay boss fight if possible |
 | RNG didn't give support Gambits | Afk alone is mediocre | Play another build |
@@ -97,7 +99,7 @@ Afk's Gambit alone is good. With these support Gambits, it is broken:
 
 1. **Making ALL pieces idle** - You need workers to contest the board. 50% idle is the sweet spot.
 2. **Putting idlers in danger** - If a piece needs to move to survive, it is not a good idler placement.
-3. **Not transitioning in endgame** - Idler builds lose in the endgame if you don't pivot. You build stock to spend it.
+3. **Not transitioning in endgame** - Idler builds lose in the endgame if you don't pivot. You build stock to spend it. See our [Endgame Killer Tips](/endgame-killer-tips/) for how to spend that stock pile effectively in the final phase.
 4. **Picking Afk's Gambit too late** - If you pick it past turn 8, you've missed the economy window.
 
 {{< callout type="tip" >}}<strong>Pro Tip</strong>

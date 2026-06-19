@@ -1,24 +1,18 @@
-﻿---
+---
 category: "Economy & Shop"
 
 date: 2026-06-18
 title: "Stage 4 Economy Wall - 3 Reasons Your Stock Dies Before the Boss (and How to Fix Each)"
 description: "Stage 4 is the #1 quitting point in Gambonanza. 3 specific economy killers that wipe your stock before the boss fight, with turn-by-turn fixes for each."
-see_also:
-  - title: 'Economy Guide'
-    url: '/economy/'
-  - title: 'Economy Recovery Guide'
-    url: '/economy-recovery-guide/'
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
 lastmod: 2026-06-18T17:30:00+08:00
 lastUpdated: 'v1.1.0-06-18'
 version: 'v1.1.0'
 draft: false
 hidden: false
+---e
 ---
 
-You reach Stage 4 with 50 stock and by the time the boss fight starts you have 12. I tested this exact scenario over 40 runs across different builds, and I found the same pattern every time. The economy does not crash randomly. It crashes for three specific, preventable reasons that most players never diagnose.
+You reach Stage 4 with 50 stock and by the time the boss fight starts you have 12. I tested this exact scenario over 40 runs across different builds, and I found the same pattern every time. The economy does not crash randomly. It crashes for three specific, preventable reasons that most players never diagnose. The [Economy Guide](/economy/) covers this in depth. The [Economy Recovery Guide](/economy-recovery-guide/) covers this in depth.
 
 {{< callout type="verdict" >}}**THE QUICK FIX**
 

@@ -4,20 +4,11 @@ title: "How to Play Gambonanza (v1.1.0)-Complete Rules & Getting Started Guide"
 description: "Learn how to play Gambonanza in 5 minutes. Complete rules explanation, turn structure, win conditions, and the 3 things every new player needs to know. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-19'
 version: 'v1.1.0'
-see_also:
-  - title: 'Beginner Guide'
-    url: '/beginner/'
-  - title: 'Complete Walkthrough'
-    url: '/complete-walkthrough/'
-  - title: 'All Gambits Guide'
-    url: '/gambits/'
-  - title: 'FAQ'
-    url: '/faq/'
 ---
 
 ## How to Play Gambonanza-The 5-Minute Rules
 
-> Gambonanza is a chess roguelike deckbuilder. You move chess pieces on a board, but instead of playing against another chess player, you're building a deck of Gambits (special powers) and fighting bosses. Think Slay the Spire meets chess.
+> Gambonanza is a chess roguelike deckbuilder. You move chess pieces on a board, but instead of playing against another chess player, you're building a deck of Gambits (special powers) and fighting bosses. Think Slay the Spire meets chess. The [Beginner Guide](/beginner/) breaks this down in detail. The [Complete Walkthrough](/complete-walkthrough/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>The Short Version</strong>
 

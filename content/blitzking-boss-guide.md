@@ -2,22 +2,11 @@
 
 title: "Blitzking Boss Guide"
 description: "Blitzking gets 2 actions per turn. Use the Wasted-Turn strategy to beat him. 3-phase flowchart + Gambit counter table."
-see_also:
-  - title: 'Boss Battle Guide'
-    url: '/bosses/'
-  - title: 'Boss Strategy Guide'
-    url: '/boss-strategy-guide/'
-  - title: 'King of Spades Guide'
-    url: '/king-of-spades-guide/'
-  - title: 'Queen Supremacy Guide'
-    url: '/queen-supremacy-guide/'
-  - title: 'Decision Framework'
-    url: '/decision-framework-guide/'
 lastUpdated: 'v1.1.0-05-17'
 version: 'v1.1.0'
 ---
 
-## Blitzking-TL;DR
+## Blitzking-TL;DR Check [Boss Battle Guide](/bosses/) for the full breakdown. The [Boss Strategy Guide](/boss-strategy-guide/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Don't out-pace him. Make him waste his extra actions.</strong>
 

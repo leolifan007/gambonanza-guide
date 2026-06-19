@@ -26,7 +26,7 @@ category: "Economy"
 </div>
 
 **Free stock sources:**
-- Pawn moves with "Pawn Parade" Gambit: +1 stock per move
+- Pawn moves with [Pawn Parade](/pawn-economy-loop/) Gambit: +1 stock per move - see full loop setup for 5+ stock/turn
 - "Second Wind" Gambit: +20 stock when below 10
 - Selling Pieces: 50% of original cost
 
@@ -56,7 +56,7 @@ category: "Economy"
 
 **What to look for:**
 - Overextended pieces (you can capture)
-- Exposed King (you can attack)
+- Exposed King (you can attack) - the [Board Clutter Guide](/board-clutter-priority/) explains how to punish poor positioning
 - Stock lead but weak board position
 
 **Decision tree:**
@@ -88,6 +88,8 @@ category: "Economy"
 | 0 stock turn 5-7 | 42% |
 | 0 stock turn 8+ | 55% |
 | With Second Wind Gambit | 51% |
+
+If the comeback window doesn't open, the [5 Emergency Strategies](/5-emergency-strategies-salvage/) gives you alternative salvage options including tilting opponents into mistakes.
 
 </div>
 

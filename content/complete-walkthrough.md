@@ -4,17 +4,6 @@ title: 'Gambonanza Complete Walkthrough (v1.1.0)-Step-by-Step Run Guide'
 description: 'Full Gambonanza walkthrough for patch v1.1.0. Step-by-step run guide from seed selection to Grandmaster. Covers opening economy, mid-game transition, every boss fight, and endgame strategy. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
-see_also:
-  - title: 'Beginner Guide'
-    url: '/beginner/'
-  - title: 'All 5 Bosses - Quick Reference'
-    url: '/boss-strategy-guide/'
-  - title: 'Bosses Overview'
-    url: '/bosses/'
-  - title: 'Endgame Killer Tips'
-    url: '/endgame-killer-tips/'
-  - title: 'Rook & Bishop Guide'
-    url: '/rook-bishop-guide/'
 ---
 
 ## This Is Not a Quick Primer-It's Your Campaign Map
@@ -23,7 +12,7 @@ see_also:
 
 {{< callout type="verdict" >}}<strong>Verdict</strong>
 
-  Beginners make exactly two critical mistakes: over-expanding in the opening, and failing to transition in the mid-game. Fix those two things, and reaching Grand Master is just a matter of reps.
+  Beginners make exactly two critical mistakes: over-expanding in the opening, and failing to transition in the mid-game. Fix those two things, and reaching Grand Master is just a matter of reps. If you need a shortcut, the [Beginner Guide](/beginner/) covers the 5 rules that carry you through your first 5 runs. Each boss phase demands a different approach - check the [Boss Guide](/boss-guide/) for phase-by-phase tactics.
   <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span>-steep at first, but every run teaches you something.{{< /callout >}}
 
 ## Phase 1: Opening (3x3-4x4)
