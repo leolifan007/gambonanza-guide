@@ -72,9 +72,21 @@ Bunker's is now an **early pick** Gambit. Since it works from turn 1, grab it wh
 2. **Stage 2**: Start building PROTECT chains. Each PROTECT action stacks +$1.
 3. **Stage 3+**: PROTECT high-value pieces. Every PROTECT = income.
 
-Combine with:
+### Bunker's + Protect Synergy Build
+
+To maximize Bunker's value, combine PROTECT mechanics with multiple pieces:
+
+**Base setup (Stage 1-2):** Place 2-3 PAWNs, PROTECT the most threatened one each turn. Bunker's generates $1-3 per turn. This alone pays back Bunker's purchase cost ($60-80) by Stage 3.
+
+**Scale setup (Stage 3-4):** Add a ROOK and BISHOP. PROTECT both. Bunker's now generates $2-3 per turn. If you can stack PROTECT tiles (like Shield tiles), each PROTECT action triggers Bunker's independently.
+
+**Endgame (Stage 5+):** Protect all 6+ pieces. Bunker's generates $4-7 per turn. Pair this with the Stalemate reset -- you can farm post-boss for extra turns, PROTECTing everything, and Bunker's turns each safe turn into a payday.
+
+### Best Synergies
+
 - **Protect-intensive builds** -- Shield builds, Tower builds. Every PROTECT action becomes a $1 machine.
 - **Boss Tooth's Gambit** -- triggers more reliably post-boss since v1.2 fix
+- **Queen PROTECT loop** -- PROTECT your Queen, she generates value, Bunker's pays you for protecting her
 - **[Crumble Mode Guide](/crumble-mode-guide/)** -- still the best reference for Crumble fundamentals
 
 ## Summary

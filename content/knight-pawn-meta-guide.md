@@ -60,6 +60,27 @@ Knights and PAWNs have natural synergy:
 2. Use Show Jumping KNIGHTs to bypass enemy lines
 3. Protect your core with PROTECT tiles. See [Pawn Economy Loop](/pawn-economy-loop/).
 
+## Best Board Size for Knight + Pawn
+
+| Board | Verdict | Why |
+|-------|---------|-----|
+| 5x5 | Excellent | Knights cover almost the entire board. PAWN wall is only 2-3 tiles wide. |
+| 6x6 | Best | Ideal balance. PAWN wall can span 4 tiles. Knights have room to jump. |
+| 7x7 | Good | Works well but you need more PAWNs to hold the line. |
+| 8x8 | Playable | Requires more pieces to fill. Knight mobility is excellent but setup takes longer. |
+
+## Countering Knight + Pawn
+
+If you're facing this archetype:
+- **Backstab Gambit** bypasses the PAWN wall and goes straight for Knights
+- **Rook Wall building** creates columns the PAWNs can't easily cross
+- **Trap tiles** in front of the PAWN wall punish their predictable advance
+-Seems weak against **Queen Supremacy** if the Queen user gets online before Stage 4
+
+## Transition Tips
+
+When the build works well, you'll naturally generate more income than you need. The ideal transition around Stage 5 is to promote your strongest PAWNs to ROOKs (for Crumble Mode) or Queen (for pushing to Final Boss), while keeping the core KNIGHT cluster intact. If the game gives you Missigno's Gambit, wait until your board is 10+ pieces before activating it -- the more pieces you have, the better your odds of rolling multiple Queen/Knight upgrades.
+
 ## Comparison: Knight + Pawn vs. Queen Build
 
 | Aspect | Knight + Pawn | Queen Build |
@@ -68,6 +89,7 @@ Knights and PAWNs have natural synergy:
 | Consistency | Very high | Medium |
 | Economy required | Low-Medium | High |
 | Gambit dependency | Low | High |
+| Best board | 6x6 | 7x7 |
 
 Knight + Pawn is more **consistent** but peaks a bit later than Queen builds. Recommended for players who want reliable wins over high-roll runs.
 

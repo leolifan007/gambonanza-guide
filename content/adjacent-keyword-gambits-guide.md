@@ -40,15 +40,28 @@ Before v1.2.0, several of these Gambits had variations of "nearby" or "neighbori
 
 ### Positioning Basics
 
-ADJACENT Gambits reward **clustering** your pieces. Center placement maximizes ADJACENT coverage -- up to 4 pieces can be adjacent to one central piece at the same time.
+ADJACENT Gambits reward **clustering** your pieces. Center placement maximizes ADJACENT coverage -- up to 4 pieces can be adjacent to one central piece at the same time. Edge placement is the worst strategy for ADJACENT Gambits since you lose 1-3 potential trigger directions immediately.
+
+Key positioning rules:
+- **Avoid edges** unless your Gambit specifically benefits from edge placement
+- **Cluster at least 3 pieces** near your ADJACENT Gambit piece for consistent triggers
+- **Sacrifice a low-value piece** to reposition your Gambit piece to the center if needed
+- **Stack ADJACENT Gambits** on the same cluster for exponential returns (Catapult + Excalibur on the same center piece)
 
 ### Best Builds for ADJACENT Gambits
 
-**Catapult + Scout center build:** Place Catapult ROOK in the center, Scout PAWNs on all 4 adjacent tiles. Catapult fires diagonally, Scouts reveal everything.
+**Catapult + Scout center build:** Place Catapult ROOK in the center, Scout PAWNs on all 4 adjacent tiles. Catapult fires diagonally, Scouts reveal everything. This is the most reliable ADJACENT build for new players.
 
-**Excalibur cluster:** Create a KNIGHT cluster with Excalibur in the middle. Every ADJACENT KNIGHT gets +1 attack. Stack with Show Jumping or Whip's Gambit.
+**Excalibur cluster:** Create a KNIGHT cluster with Excalibur in the middle. Every ADJACENT KNIGHT gets +1 attack. In a 3x3 grid, you can position 8 KNIGHTs around a single Excalibur piece. Stack with Show Jumping or Whip's Gambit for even more value per turn.
 
-**Family PAWN wall:** Line up PAWNs in a row so every PAWN is adjacent to at least one other. Family's Gambit gives +1 move range. Combine with [Pawn Promotion Guide](/pawn-promotion-sustainability-guide/) for full value.
+**Family PAWN wall:** Line up PAWNs in a row so every PAWN is adjacent to at least one other. Family's Gambit gives +1 move range to each adjacent PAWN. A 6-PAWN wall means every PAWN gets the buff. Combine with [Pawn Promotion Guide](/pawn-promotion-sustainability-guide/) for full value.
+
+### Anti-Synergies to Avoid
+
+Not every ADJACENT combo works. Watch out for:
+- **Spread Gambits** that require distance -- they conflict with ADJACENT clustering
+- **Firewatch's Gambit** on a Crumble board -- if all tiles are immune, you lose Crumble-based triggers
+- **Super Hero Landing** overlaps with existing tile effects -- check your board before picking
 
 ## Community Resources
 

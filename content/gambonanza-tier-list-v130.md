@@ -58,8 +58,32 @@ This tier list replaces the v1.1.0 version. **Templar drops from S to B-tier** (
 
 ## Removed in v1.3.0
 
-- **Shield's Gambit** to replaced by Bubble Shield's
-- **Trojan's Gambit** to replaced by Jockey's
+- **Shield's Gambit** replaced by Bubble Shield's
+- **Trojan's Gambit** replaced by Jockey's
+
+### How to Adjust Your Tier Thinking
+
+If you have a tier list from v1.1.0 taped to your wall, here's what to unlearn:
+
+1. **Templar isn't a free pick anymore.** Stop taking it as your first Gambit. Wait until you have multiple BISHOPs.
+2. **Don't sleep on Show Jumping.** At 1/1 guaranteed, it's as good as any economy Gambit now.
+3. **Dead or Alive's is no longer a gamble.** Every capture pays. It's one of the best A-tier Gambits.
+4. **Missigno's is a pivot tool, not a pickup.** Don't grab it early. Don't grab it unless you have 8+ pieces.
+5. **Bunker's is worth buying.** At global +$1 per PROTECT, it's the most consistent income Gambit in the game.
+
+### Tier List FAQ
+
+**Q: Why is Miracle's Gambit only A-tier when it's 1/1 now?**
+A: Its effect (transform a piece) is good but situational. The 1/1 guarantee makes it reliable, but you won't always want to transform your pieces. In contrast, Whip's and Dead or Alive's generate unconditional value.
+
+**Q: Is Catapult still S-tier in v1.3?**
+A: Yes. Catapult's board control value is unchanged by the patch. The ADJACENT keyword clarification actually helps by confirming diagonal launch works off adjacent captures.
+
+**Q: Should I ever pick up Lich's Gambit?**
+A: Only if you're running a very specific sacrifice build and have nothing better. The v1.2 nerf was significant enough that Lich is a last-resort Gambit in v1.3.
+
+**Q: What about Graal's vs Miracle's?**
+A: Graal's is better for consistent tile upgrades across a full run. Miracle's is better for a single targeted transformation. Graal's wins in most builds.
 
 ## How the Meta Shifted
 

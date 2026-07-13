@@ -12,12 +12,12 @@
   <text x="30" y="82" fill="#d4af37" font-size="12" font-weight="bold">S-TIER</text>
   <rect x="30" y="88" width="200" height="45" rx="4" fill="#3e2723" stroke="#d4af37"/>
   <text x="130" y="105" text-anchor="middle" fill="#d4af37" font-size="10">Teleport | Ultimate Counter | Heal Board</text>
-  <text x="130" y="120" text-anchor="middle" fill="#888" font-size="9">3 Gambits, all unchanged</text>
+  <text x="130" y="120" text-anchor="middle" fill="#888" font-size="11">3 Gambits, all unchanged</text>
 
   <rect x="290" y="88" width="200" height="45" rx="4" fill="#3e2723" stroke="#d4af37"/>
-  <text x="390" y="103" text-anchor="middle" fill="#d4af37" font-size="9">Teleport | Ult Counter | Heal Board</text>
-  <text x="390" y="117" text-anchor="middle" fill="#4caf50" font-size="9">+ Missigno's, Whip, Dead or Alive,</text>
-  <text x="390" y="127" text-anchor="middle" fill="#4caf50" font-size="9">Graal's, Bunker's</text>
+  <text x="390" y="103" text-anchor="middle" fill="#d4af37" font-size="11">Teleport | Ult Counter | Heal Board</text>
+  <text x="390" y="117" text-anchor="middle" fill="#4caf50" font-size="11">+ Missigno's, Whip, Dead or Alive,</text>
+  <text x="390" y="127" text-anchor="middle" fill="#4caf50" font-size="11">Graal's, Bunker's</text>
 
   <!-- A-Tier -->
   <text x="30" y="152" fill="#2196f3" font-size="12" font-weight="bold">A-TIER</text>
