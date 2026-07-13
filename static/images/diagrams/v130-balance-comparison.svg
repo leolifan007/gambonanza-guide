@@ -1,70 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" font-family="system-ui, sans-serif" font-size="13">
-  <rect width="600" height="400" fill="#1a1a2e" rx="8"/>
-  <text x="300" y="28" text-anchor="middle" fill="#e0d5c1" font-size="16" font-weight="bold">v1.3.0 Balance Changes at a Glance</text>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="480" viewBox="0 0 700 480">
+<rect width="700" height="480" fill="#1A0F1A" rx="12"/>
+<text x="350" y="38" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">v1.3.0 Balance Changes</text>
 
-  <text x="30" y="60" fill="#d4af37" font-size="14" font-weight="bold">Gambit</text>
-  <text x="200" y="60" fill="#d4af37" font-size="14" font-weight="bold" text-anchor="middle">Before</text>
-  <text x="350" y="60" fill="#d4af37" font-size="14" font-weight="bold" text-anchor="middle">After</text>
-  <text x="500" y="60" fill="#d4af37" font-size="14" font-weight="bold" text-anchor="middle">Change</text>
+<!-- Header row -->
+<rect x="30" y="55" width="160" height="28" rx="4" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="110" y="73" fill="#D4A84A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">Gambit</text>
+<rect x="195" y="55" width="260" height="28" rx="4" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="325" y="73" fill="#D4A84A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">Change</text>
+<rect x="460" y="55" width="210" height="28" rx="4" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="565" y="73" fill="#D4A84A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">Verdict</text>
 
-  <line x1="30" y1="65" x2="570" y2="65" stroke="#d4af37" stroke-width="1" opacity="0.5"/>
+<!-- Templar -->
+<rect x="30" y="88" width="160" height="30" rx="4" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="110" y="107" fill="#F5E6D3" font-size="13" text-anchor="middle">Templar's Gambit</text>
+<rect x="195" y="88" width="260" height="30" rx="4" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="325" y="107" fill="#D4764A" font-size="13" text-anchor="middle">1/1 &rarr; 1/3 (NERFED)</text>
+<rect x="460" y="88" width="210" height="30" rx="4" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="565" y="107" fill="#D4764A" font-size="13" text-anchor="middle">S-Tier &rarr; B-Tier</text>
 
-  <text x="30" y="90" fill="#e0d5c1">Templar's</text>
-  <text x="200" y="90" fill="#4caf50" text-anchor="middle">1/1 Guaranteed</text>
-  <text x="350" y="90" fill="#f44336" text-anchor="middle">1/3 Chance</text>
-  <text x="500" y="90" fill="#f44336" text-anchor="middle">Nerf</text>
+<!-- Whip -->
+<rect x="30" y="123" width="160" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="110" y="142" fill="#F5E6D3" font-size="13" text-anchor="middle">Whip's Gambit</text>
+<rect x="195" y="123" width="260" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="325" y="142" fill="#5CB85C" font-size="13" text-anchor="middle">1/2 &rarr; 1/1 (BUFFED)</text>
+<rect x="460" y="123" width="210" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="565" y="142" fill="#5CB85C" font-size="13" text-anchor="middle">A-Tier &rarr; S-Tier</text>
 
-  <text x="30" y="115" fill="#e0d5c1">Whip's</text>
-  <text x="200" y="115" fill="#ff9800" text-anchor="middle">1/2 Chance</text>
-  <text x="350" y="115" fill="#4caf50" text-anchor="middle">1/1 Guaranteed</text>
-  <text x="500" y="115" fill="#4caf50" text-anchor="middle">Buff</text>
+<!-- Chamberlain -->
+<rect x="30" y="158" width="160" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="110" y="177" fill="#F5E6D3" font-size="13" text-anchor="middle">Chamberlain's</text>
+<rect x="195" y="158" width="260" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="325" y="177" fill="#5CB85C" font-size="13" text-anchor="middle">1/2 &rarr; 1/1 (BUFFED)</text>
+<rect x="460" y="158" width="210" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="565" y="177" fill="#5CB85C" font-size="13" text-anchor="middle">A-Tier &rarr; S-Tier</text>
 
-  <text x="30" y="140" fill="#e0d5c1">Dead or Alive's</text>
-  <text x="200" y="140" fill="#f44336" text-anchor="middle">1/3 Chance</text>
-  <text x="350" y="140" fill="#4caf50" text-anchor="middle">1/1 Guaranteed</text>
-  <text x="500" y="140" fill="#4caf50" text-anchor="middle">Buff</text>
+<!-- Dead or Alive -->
+<rect x="30" y="193" width="160" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="110" y="212" fill="#F5E6D3" font-size="13" text-anchor="middle">Dead or Alive's</text>
+<rect x="195" y="193" width="260" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="325" y="212" fill="#5CB85C" font-size="13" text-anchor="middle">1/3 &rarr; 1/1 (BUFFED)</text>
+<rect x="460" y="193" width="210" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="565" y="212" fill="#5CB85C" font-size="13" text-anchor="middle">B-Tier &rarr; S-Tier</text>
 
-  <text x="30" y="165" fill="#e0d5c1">Show Jumping's</text>
-  <text x="200" y="165" fill="#ff9800" text-anchor="middle">1/2 Chance</text>
-  <text x="350" y="165" fill="#4caf50" text-anchor="middle">1/1 Guaranteed</text>
-  <text x="500" y="165" fill="#4caf50" text-anchor="middle">Buff</text>
+<!-- Show Jumping -->
+<rect x="30" y="228" width="160" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="110" y="247" fill="#F5E6D3" font-size="13" text-anchor="middle">Show Jumping's</text>
+<rect x="195" y="228" width="260" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="325" y="247" fill="#5CB85C" font-size="13" text-anchor="middle">1/2 &rarr; 1/1 (BUFFED)</text>
+<rect x="460" y="228" width="210" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="565" y="247" fill="#5CB85C" font-size="13" text-anchor="middle">B-Tier &rarr; A-Tier</text>
 
-  <text x="30" y="190" fill="#e0d5c1">Pendant's</text>
-  <text x="200" y="190" fill="#ff9800" text-anchor="middle">1/2 Chance</text>
-  <text x="350" y="190" fill="#4caf50" text-anchor="middle">1/1 Guaranteed</text>
-  <text x="500" y="190" fill="#4caf50" text-anchor="middle">Buff</text>
+<!-- Pendant -->
+<rect x="30" y="263" width="160" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="110" y="282" fill="#F5E6D3" font-size="13" text-anchor="middle">Pendant's Gambit</text>
+<rect x="195" y="263" width="260" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="325" y="282" fill="#5CB85C" font-size="13" text-anchor="middle">1/2 &rarr; 1/1 (BUFFED)</text>
+<rect x="460" y="263" width="210" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="565" y="282" fill="#5CB85C" font-size="13" text-anchor="middle">B-Tier &rarr; A-Tier</text>
 
-  <text x="30" y="215" fill="#e0d5c1">Chamberlain's</text>
-  <text x="200" y="215" fill="#ff9800" text-anchor="middle">1/2 Chance</text>
-  <text x="350" y="215" fill="#4caf50" text-anchor="middle">1/1 Guaranteed</text>
-  <text x="500" y="215" fill="#4caf50" text-anchor="middle">Buff</text>
+<!-- Miracle -->
+<rect x="30" y="298" width="160" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="110" y="317" fill="#F5E6D3" font-size="13" text-anchor="middle">Miracle's Gambit</text>
+<rect x="195" y="298" width="260" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="325" y="317" fill="#5CB85C" font-size="13" text-anchor="middle">1/3 &rarr; 1/1 (BUFFED)</text>
+<rect x="460" y="298" width="210" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="565" y="317" fill="#5CB85C" font-size="13" text-anchor="middle">C-Tier &rarr; A-Tier</text>
 
-  <text x="30" y="240" fill="#e0d5c1">Miracle's</text>
-  <text x="200" y="240" fill="#f44336" text-anchor="middle">1/3 Chance</text>
-  <text x="350" y="240" fill="#4caf50" text-anchor="middle">1/1 Guaranteed</text>
-  <text x="500" y="240" fill="#4caf50" text-anchor="middle">Big Buff</text>
+<!-- Bunker -->
+<rect x="30" y="333" width="160" height="30" rx="4" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="110" y="352" fill="#F5E6D3" font-size="13" text-anchor="middle">Bunker's Gambit</text>
+<rect x="195" y="333" width="260" height="30" rx="4" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="325" y="352" fill="#4A9B9B" font-size="13" text-anchor="middle">Reworked (Net Buff)</text>
+<rect x="460" y="333" width="210" height="30" rx="4" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="565" y="352" fill="#5CB85C" font-size="13" text-anchor="middle">B-Tier &rarr; S-Tier</text>
 
-  <line x1="30" y1="255" x2="570" y2="255" stroke="#e0d5c1" stroke-width="0.5" opacity="0.3" stroke-dasharray="4"/>
+<!-- New Gambits section -->
+<rect x="30" y="375" width="640" height="28" rx="4" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="350" y="393" fill="#D4A84A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">New Gambits (v1.3.0)</text>
 
-  <text x="30" y="280" fill="#e0d5c1">Bunker's</text>
-  <text x="200" y="280" fill="#ff9800" text-anchor="middle">+$3 Crumble only</text>
-  <text x="350" y="280" fill="#4caf50" text-anchor="middle">+$1 Global</text>
-  <text x="500" y="280" fill="#2196f3" text-anchor="middle">Rework</text>
+<rect x="30" y="408" width="160" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="110" y="427" fill="#F5E6D3" font-size="13" text-anchor="middle">Missigno's Gambit</text>
+<rect x="195" y="408" width="260" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="325" y="427" fill="#5CB85C" font-size="13" text-anchor="middle">NEW - Randomize all pieces</text>
+<rect x="460" y="408" width="210" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="565" y="427" fill="#5CB85C" font-size="13" text-anchor="middle">S-Tier (Lategame)</text>
 
-  <text x="30" y="305" fill="#e0d5c1">Missigno's</text>
-  <text x="200" y="305" fill="#888" text-anchor="middle">---</text>
-  <text x="350" y="305" fill="#d4af37" text-anchor="middle">Randomize all pieces</text>
-  <text x="500" y="305" fill="#d4af37" text-anchor="middle">New!</text>
-
-  <text x="30" y="330" fill="#e0d5c1">Graal's</text>
-  <text x="200" y="330" fill="#888" text-anchor="middle">---</text>
-  <text x="350" y="330" fill="#d4af37" text-anchor="middle">Bless Tile on Gambit</text>
-  <text x="500" y="330" fill="#d4af37" text-anchor="middle">New!</text>
-
-  <text x="30" y="355" fill="#e0d5c1">Shield's / Trojan's</text>
-  <text x="200" y="355" fill="#888" text-anchor="middle">Existed</text>
-  <text x="350" y="355" fill="#888" text-anchor="middle">Removed</text>
-  <text x="500" y="355" fill="#f44336" text-anchor="middle">Removed</text>
-
-  <text x="30" y="382" fill="#888" font-size="11">Green = buffed / new | Red = nerfed / removed | Blue = reworked</text>
+<rect x="30" y="443" width="160" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="110" y="462" fill="#F5E6D3" font-size="13" text-anchor="middle">Graal's Gambit</text>
+<rect x="195" y="443" width="260" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="325" y="462" fill="#5CB85C" font-size="13" text-anchor="middle">NEW - Bless Tile on Gambit</text>
+<rect x="460" y="443" width="210" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="565" y="462" fill="#5CB85C" font-size="13" text-anchor="middle">A-Tier (Consistent)</text>
 </svg>
