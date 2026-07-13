@@ -6,8 +6,6 @@ game_version: ">=v1.2.0"
 last_reviewed: "2026-07-13"
 review_status: "current"
 date: "2026-07-13"
-hidden: true
-publishDate: "2026-07-15"
 ---
 
 {{< callout type="verdict" title="Board Customization Basics" >}}
@@ -88,3 +86,4 @@ If you want every board ASAP:
 ---
 
 *Guide updated for Gambonanza v1.3.0. Boards were introduced in v1.2.0 and unchanged in v1.3.0.*
+

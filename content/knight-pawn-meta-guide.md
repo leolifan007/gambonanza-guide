@@ -6,8 +6,6 @@ game_version: ">=v1.3.0"
 last_reviewed: "2026-07-13"
 review_status: "current"
 date: "2026-07-13"
-hidden: true
-publishDate: "2026-07-18"
 ---
 
 {{< callout type="verdict" title="The Knight + Pawn Meta" >}}
@@ -101,3 +99,4 @@ Knight + Pawn is more **consistent** but peaks a bit later than Queen builds. Re
 ---
 
 *Guide updated for Gambonanza v1.3.0. Knight + Pawn synergies originally buffed in v1.2.0 (June 1), Gambit triggers further improved in v1.3.0 (June 25).*
+

@@ -6,8 +6,6 @@ game_version: ">=v1.3.0"
 last_reviewed: "2026-07-13"
 review_status: "current"
 date: "2026-07-13"
-hidden: true
-publishDate: "2026-07-16"
 ---
 
 {{< callout type="verdict" title="Two New Gambits, Two Different Roles" >}}
@@ -96,3 +94,4 @@ Graal's is generally better than Candle's due to its consistency. Candle's requi
 ---
 
 *Guide updated for Gambonanza v1.3.0. Both Gambits introduced in v1.3.0 (June 25, 2026).*
+

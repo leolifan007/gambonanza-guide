@@ -6,8 +6,6 @@ game_version: ">=v1.3.0"
 last_reviewed: "2026-07-13"
 review_status: "current"
 date: "2026-07-13"
-hidden: true
-publishDate: "2026-07-14"
 ---
 
 {{< callout type="verdict" title="Patch Summary" >}}
@@ -106,3 +104,4 @@ Previously, Stalemate could carry over between stages and trigger unexpectedly. 
 ---
 
 *Guide updated for Gambonanza v1.3.0 (released June 25, 2026). v1.3.0e (July 10) fixed CJK localization only. No additional balance changes.*
+

@@ -6,8 +6,6 @@ game_version: ">=v1.3.0"
 last_reviewed: "2026-07-13"
 review_status: "current"
 date: "2026-07-13"
-hidden: true
-publishDate: "2026-07-20"
 ---
 
 {{< callout type="verdict" title="v1.3.0 Tier List at a Glance" >}}
@@ -104,3 +102,4 @@ A: Graal's is better for consistent tile upgrades across a full run. Miracle's i
 ---
 
 *Tier list updated for Gambonanza v1.3.0 (June 25, 2026). Supersedes the v1.1.0 tier list. Check our [v1.3.0 Patch Breakdown](/v130-patch-breakdown/) for a complete analysis of all changes.*
+

@@ -6,8 +6,6 @@ game_version: ">=v1.3.0"
 last_reviewed: "2026-07-13"
 review_status: "current"
 date: "2026-07-13"
-hidden: true
-publishDate: "2026-07-19"
 ---
 
 {{< callout type="verdict" title="Two Core Systems Changed" >}}
@@ -105,3 +103,4 @@ To maximize Bunker's value, combine PROTECT mechanics with multiple pieces:
 ---
 
 *Guide updated for Gambonanza v1.3.0. Both Stalemate revamp and Bunker's rework are v1.3.0 changes (June 25, 2026).*
+

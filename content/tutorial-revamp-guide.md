@@ -6,8 +6,6 @@ game_version: ">=v1.3.0"
 last_reviewed: "2026-07-13"
 review_status: "current"
 date: "2026-07-13"
-hidden: true
-publishDate: "2026-07-21"
 ---
 
 {{< callout type="verdict" title="Tutorial Got Better" >}}
@@ -75,3 +73,4 @@ If you played the v1.2 tutorial and were confused, the v1.3 version is noticeabl
 ---
 
 *Guide updated for Gambonanza v1.3.0. Tutorial Revamp introduced in v1.3.0 (June 25, 2026).*
+
