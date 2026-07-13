@@ -1,155 +1,132 @@
 ---
+category: "Gambits"
 
-{{< callout type="warning" title="v1.3.0 Update Available" >}}
-**This guide is from v1.1.0.** Several Gambit probabilities changed in v1.3.0: Whip's, Chamberlain's, Dead or Alive's, Show Jumping's, Pendant's, and Miracle's all moved to guaranteed triggers (1/1). These were previously in the "High Probability" tier but are now fully deterministic. See the **[v1.3.0 Patch Breakdown](/v130-patch-breakdown/)** for the full list of changes.
-{{< /callout >}}
+title: "Gambonanza Deterministic Gambits (v1.1.0)-The Best Reliable Gambits Ranked"
+description: "Gambonanza deterministic Gambits guide for patch v1.1.0. Reliable Gambits ranked by consistency and cost efficiency-no RNG dice rolls. Which chance-based Gambits to skip entirely. Updated for patch v1.1.0."
+------
+
+## Why Deterministic Gambits Win
+
+{{< callout type="verdict" >}}<strong> THE PROBLEM WITH RNG</strong>
+
+  "Gambit 80% are 1/3 chance."-actual player complaint. Gambonanza is full of Gambits that sound amazing until they whiff at the worst possible moment. This guide ranks Gambits by one metric: <strong>reliability</strong>.{{< /callout >}}
+
+{{< meta-rating grade="A" label="Core strategy reference for intermediate players. Combines well with other guides." >}}
 
 
-title: "Gambonanza Meta Report (v1.1.0) - Current Build Tier List & Meta Analysis"
-description: "Current Gambonanza meta analysis for patch v1.1.0. Economic gambits dominate, Teleport is still S-tier, the best builds ranked, and what the future holds."
-version: "v1.1.0"
-category: "Strategy & Guides"
-lastmod: "2026-06-13T13:44:01+08:00"
-date: "2026-06-13"
+{{< section-divider >}}
+
+The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +50 stock. Not because the expected value is lower (it often isn't)-but because in a roguelike, <strong>you plan around what you can count on</strong>. When that 1/3 Gambit fails, you're down a turn and a Gambit slot. When the deterministic one works, you execute your plan.
+
+{{< section-divider >}}
+
+## S-Tier: Always Works, Always Worth It
+
+<div class="synergy-table" style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Gambit</th><th>Cost</th><th>Effect</th><th style="width:80px">Rating</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Teleport</strong></td><td>40</td><td>Move any piece to any unoccupied square</td><td><span class="meta-badge meta-s">S</span></td></tr>
+      <tr><td><strong>Backstab</strong></td><td>30</td><td>Remove an adjacent enemy piece</td><td><span class="meta-badge meta-s">S</span></td></tr>
+      <tr><td><strong>Safe Haven</strong></td><td>10 min</td><td>Guaranteed % return on investment each shop visit</td><td><span class="meta-badge meta-s">S</span></td></tr>
+      <tr><td><strong>King's Shield</strong></td><td>50</td><td>King immune to capture for 1 turn</td><td><span class="meta-badge meta-s">S</span></td></tr>
+    </tbody>
+  </table>
+</div>
+
+{{< meta-rating grade="S" label="These four form the <strong>deterministic core</strong>. Every run should prioritize buying these before any RNG Gambit. They cost ~130 stock total and cover attack, defense, mobility, and economy-all without rolling a single die." >}}
+
+{{< section-divider >}}
+
+## A-Tier: High Probability, Low Variance
+
+<div class="synergy-table" style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Gambit</th><th>Cost</th><th>Effect</th><th>Reliability</th><th style="width:80px">Rating</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Double Down</strong></td><td>25</td><td>Double next stock earned from any source</td><td>100%</td><td><span class="meta-badge meta-a">A</span></td></tr>
+      <tr><td><strong>Steal Investment</strong></td><td>80</td><td>Take % of opponent's stock</td><td>100% (if opponent has stock)</td><td><span class="meta-badge meta-a">A</span></td></tr>
+      <tr><td><strong>Chain Capture</strong></td><td>70</td><td>Capture chain: take one piece, auto-capture adjacent</td><td>~85% (depends on board state)</td><td><span class="meta-badge meta-a">A</span></td></tr>
+      <tr><td><strong>Bishop's Diagonal</strong></td><td>20 min</td><td>Return rate tied to board control</td><td>~90% with center control</td><td><span class="meta-badge meta-a">A</span></td></tr>
+    </tbody>
+  </table>
+</div>
+
+{{< meta-rating grade="A" label="These have near-deterministic outcomes. Double Down is literally guaranteed returns. Steal Investment works as long as the opponent has stock. Bishop's Diagonal depends on you playing well-but that's a skill issue, not an RNG issue." >}}
+
+{{< section-divider >}}
+
+## B-Tier: Fun but Risky
+
+<div class="synergy-table" style="overflow-x:auto">
+
+| Gambit | Cost | Why It's Risky |
+|--------|------|----------------|
+| **Knight's Jump** | 30 | 60% double / 40% lose half-+EV but variance kills runs |
+| **Gambler's Gambit** | 20 | 20% 5x / 80% nothing-break-even EV, feels bad when it misses |
+| **Jackpot Gambit** | 60 | Only works before bosses, still has a chance component |
+| **Free Roll** | 20 | Reroll is RNG itself-you might get worse options |
+
+</div>
+
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Knight's Jump is the only B-Tier Gambit worth buying IF you have >100 stock. The variance matters less when you're rich. But if you're under 50 stock, skip it. A whiff at low stock ends your run.{{< /pro-tip >}}
+
+{{< section-divider >}}
+
+## C-Tier: Skip These
+
+{{< callout type="danger" >}}<strong> TRAP GAMBITS</strong>
+
+  These sound good on paper but rely on RNG in ways that make them unreliable. Skip unless you're memeing.{{< /callout >}}
+
+- **Roulette Gambit**-the name says everything. Pure RNG.
+- **Mystery Box**-unknown effect at unknown timing. You cannot plan around this.
+- **Chaos Gambit**-"random board effect" means random chance to help OR hurt you.
+- **Any Gambit that says "chance" or "random" in its description**-especially if it's the only effect.
+
+{{< section-divider >}}
+
+## The 80/20 Rule for Gambit Selection
+
+<div class="synergy-table" style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Stock Level</th><th>Deterministic Ratio</th><th>RNG Ratio</th></tr></thead>
+    <tbody>
+      <tr><td>Under 50</td><td><strong>100%</strong></td><td>0%</td></tr>
+      <tr><td>50-100</td><td><strong>80%</strong></td><td>20% (A-Tier RNG only)</td></tr>
+      <tr><td>100-200</td><td><strong>70%</strong></td><td>30% (Knight's Jump allowed)</td></tr>
+      <tr><td>200+</td><td><strong>50%</strong></td><td>50% (you can afford to gamble)</td></tr>
+    </tbody>
+  </table>
+</div>
+
+{{< callout type="tip" >}}<strong> THE PRINCIPLE</strong>
+
+  Buy the deterministic S-Tier core first. Every time. Then fill from A-Tier. Only touch B-Tier or C-Tier when you have stock to burn. This single rule will increase your win rate more than any combo strategy.{{< /callout >}}
+
+{{< section-divider >}}
+
+## Deterministic Gambit Priority on a New Run
+
+1. **Shop 1:** Teleport (40)-always available, always buy
+2. **Shop 1-2:** Backstab (30)-cheapest reliable attack
+3. **Shop 2-3:** Safe Haven investment (10+)-start compounding early
+4. **Shop 3-4:** Double Down (25)-you should have ~50+ stock by now
+5. **Shop 4+:** King's Shield (50)-for boss prep
+
+After this core, buy A-Tier depending on your build. B-Tier only as filler.
+
+{{< section-divider >}}
+
 ---
 
+*Ready to apply deterministic Gambits?-[All Gambits Guide](/gambits/)*<br>
+*Need the bigger economy picture?-[Stock Market & Shop Guide](/economy/)*
 
-{{< callout type="verdict" title="Current Meta Verdict" >}}
-v1.1.0 is the Economy meta. Three S-tier Gambits dominate every run, while the rest of the 150+ pool fills out specific niches. The gap between S-tier and everything else has never been wider.
-{{< /callout >}}
+---
 
-This report is based on community testing across the Gambonanza subreddit, YouTube pro runs, third-party analysis from GameBrief and GameStrategyHub, and internal data from our guides at gambonanzaguide.com.
+*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
 
-{{< diagram src="build-comparison.svg" alt="Build archetype comparison" caption="Build tiers by win rate and difficulty. Pawn Economy leads at 70%+." >}}
 
-{{% section-divider %}}
 
-## S-Tier Gambits - Game-Warping (97% Pick Rate)
 
-### 1. Teleport - Best Gambit in the Game
-
-Instantly move any piece to any unoccupied square. Zero positioning requirements, zero cooldown, universal application. Teleport functions as an escape tool, setup tool, combo enabler, and checkmate engine.
-
-**Why it sits alone at the top:** No other gambit provides this much flexibility. It works every stage, every difficulty, every board size.
-
-**Synergies:** Teleport + Free Gambit tile = double value trigger (confirmed in community runs).
-
-### 2. The Ultimate Counter - Boss Insurance
-
-One-turn god mode against all bosses. Works every phase, every difficulty. Pop it in Phase 3 for a free turn of pure aggression.
-
-**Why it's essential:** Boss fights are where most King difficulty runs end. The Ultimate Counter is the single highest-impact insurance policy in the game.
-
-### 3. Heal Board - The Comeback King
-
-Full board heal that can recover from catastrophic losses. Essential for King difficulty where gambits expire after 5 rounds and piece loss accumulates.
-
-**Source:** Our complete tier list at [gambonanzaguide.com](/gambonanza-tier-list/) ranks all 150+ gambits with these three at the top. All three have a 97%+ selection rate among top players.
-
-{{% section-divider %}}
-
-## A-Tier - Run-Defining Gambits
-
-| Gambit | Role | Best Board | Notes |
-|--------|------|-----------|-------|
-| Backstab | Attack tool | Any | Essential attack piece. Works with trap tiles for guaranteed kills |
-| Economic Gambits | Economy | Any | S-tier value for consistent runs. Converts pawns to gold |
-| Thunder | Early pressure | Small | Strong on 5x5 boards for rush strategies |
-| Chemist | Status effects | Medium | Poison/burn applications - better on smaller boards due to extra tick duration |
-
-**Source:** GameStrategyHub's early gambits tier list places these as top picks for new players ([link](https://gamestrategyhub.com/games/gambonanza/early-gambits/)).
-
-{{% section-divider %}}
-
-## B-Tier - Situational but Viable
-
-| Gambit | Role | Best Board | When to Take |
-|--------|------|-----------|-------------|
-| Clone | Duplication | Stage 3+ | Only on large boards. Wastes a slot on small boards |
-| Reserve-Interaction | One-shot | Stage 3+ | Fires once or wastes. Timing is critical |
-| Valkyrie | Aggro | Small | Rush strategy enabler but outclassed by Thunder |
-| Banana Peel | Disruption | Medium | Fun but inconsistent. Trap tile synergy saves it |
-| Silver Fork | Fork setup | Large | Excellent on 7x7+ boards |
-
-**Source:** GameBrief's tier list divides gambits into Economic, Clone, Reserve-Interaction, and Teleport categories ([source](https://www.gamebrief.net/blog/gambonanza-tier-list-gambits-2026)).
-
-{{% section-divider %}}
-
-## C-Tier - Niche / Filler
-
-Gambits that fall into "never pick unless forced":
-- **Jump** - Outclassed by Teleport in every scenario
-- **Falling Crown** - Too situational, requires specific board state
-- **Demon** - High risk, marginal reward. Negative synergy with most builds
-
-**Source:** Multi-source community ranking on TierMaker reflects broad consensus on these picks ([link](https://tiermaker.com/create/gambonanza-gambits-18761156)).
-
-{{% section-divider %}}
-
-## Build Archetypes - What Works in v1.1.0
-
-### S-Tier: Economic Loop (70% win rate)
-
-The dominant strategy. Take Economic Gambits, convert pawns to gold generators, stack on Gold tiles, scale income every turn.
-
-**Key pieces:** Pawns (base), Economic Gambit, Gold tiles
-**Transition:** Pure economy → hybrid combat in mid-game
-**Source:** [Pawn Economy Loop Guide](/pawn-economy-loop/) on our site.
-
-### A-Tier: Teleport Aggro
-
-Teleport + aggressive piece deployment. Use Teleport to set up forks and escapes simultaneously.
-
-**Key pieces:** Knight, Queen, Teleport gambit
-**Best board:** 5x5 or 6x6 for fast wins
-**Weakness:** Struggles in late-game scaling
-
-### A-Tier: Boss Hunter
-
-Ultimate Counter + Heal Board + Backstab. Focus on surviving to boss phases, then demolish with counter.
-
-**Key pieces:** Any (survivability first), The Ultimate Counter
-**Best for:** King difficulty and above
-
-### B-Tier: Crumble Specialization
-
-Build around Crumble mode mechanics. Take Reserve-Interaction gambits and time them for Stage 3+.
-
-**Key piece:** Clone, Reserve gambits
-**Warning:** High execution requirement. Not recommended for players with under 50 runs.
-
-{{% section-divider %}}
-
-## Board Size Meta
-
-| Board | Best Build | Why |
-|-------|-----------|-----|
-| 5x5 | Teleport Aggro | Small board = Teleport covers everything. Rush wins |
-| 6x6 | Economic Loop | Room for pawn economy without overextension |
-| 7x7 | Boss Hunter | More space = bosses gain more mechanics. Survival first |
-| 8x8 | Clone/Reserve | Large enough for Clone to work effectively |
-
-**Source:** Community discussion on board-size-specific strategy from the Gambonanza subreddit.
-
-{{% section-divider %}}
-
-## Meta Trends & Predictions
-
-Based on community data and recent patch behavior:
-
-1. **Economic Gambits will stay dominant** - They are the most consistent strategy across all difficulties. GameBrief calls them "S-tier every run" ([source](https://www.gamebrief.net/blog/gambonanza-tier-list-gambits-2026)).
-2. **Teleport will never be dethroned** - It is the most versatile card in the game. No nerf can hit it without fundamentally changing the game.
-3. **King difficulty clear rates are rising** - First King clear was a major milestone. Now multiple players have cleared it, and strategies are converging.
-4. **Gold tile + Spectral piece interaction needs attention** - This may get patched as it creates a pseudo-infinite piece strategy.
-5. **Hidden Queen's Gambit bug needs fixing** - Community is waiting for a patch on this confirmed bug.
-
-{{% section-divider %}}
-
-## Community Verification & Resources
-
-- [GameBrief - Gambonanza Tier List: All 4 Gambit Types Ranked](https://www.gamebrief.net/blog/gambonanza-tier-list-gambits-2026)
-- [GameStrategyHub - Gambonanza Early Gambits Tier List](https://gamestrategyhub.com/games/gambonanza/early-gambits/)
-- [TierMaker - Community Gambonanza Gambits Ranking](https://tiermaker.com/create/gambonanza-gambits-18761156)
-- [Reddit r/Gambonanza](https://www.reddit.com/r/Gambonanza/) - Active meta discussion
-- [Steam Community Discussions](https://steamcommunity.com/app/3509230/discussions/)
-- Our guides: [Tier List](/gambonanza-tier-list/), [Gambits](/gambits/), [Pawn Economy Loop](/pawn-economy-loop/)

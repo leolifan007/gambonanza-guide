@@ -4,12 +4,6 @@ title: "Gambonanza Tier List (v1.1.0)  Best Gambits & Builds Ranked S/A/B/C"
 description: "Complete Gambonanza tier list for patch v1.1.0. All 150+ Gambits ranked S/A/B/C with synergies, pro tips, and best builds. Find the strongest Gambits for every strategy. Updated for patch v1.1.0."
 ---
 
-{{< callout type="warning" title="v1.3.0 Update Available" >}}
-**This tier list is from v1.1.0 and is now outdated.** The v1.3.0 balance patch significantly changed the meta: Templar nerfed (1/1 → 1/3), 6 Gambits buffed to guaranteed triggers, 2 new Gambits added, and 2 removed. See the **[v1.3.0 Tier List](/gambonanza-tier-list-v130/)** for current rankings.
-{{< /callout >}}
-
-
-
 ##Gambonanza Tier List v1.0  Every Gambit Ranked
 
 <div class="callout callout-verdict" style="text-align:center;border-color:var(--gold);background:linear-gradient(135deg, rgba(212,175,55,0.15), rgba(212,175,55,0.05))">
