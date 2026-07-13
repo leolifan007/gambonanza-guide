@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 350" font-family="system-ui, sans-serif" font-size="12">
+  <rect width="400" height="350" fill="#1a1a2e" rx="8"/>
+  <text x="200" y="25" text-anchor="middle" fill="#d4af37" font-size="15" font-weight="bold">ADJACENT vs Diagonal: What Counts?</text>
+
+  <!-- Board grid -->
+  <rect x="80" y="50" width="240" height="240" fill="none" stroke="#555" stroke-width="1"/>
+
+  <!-- Grid lines -->
+  <line x1="160" y1="50" x2="160" y2="290" stroke="#555" stroke-width="1"/>
+  <line x1="240" y1="50" x2="240" y2="290" stroke="#555" stroke-width="1"/>
+  <line x1="80" y1="130" x2="320" y2="130" stroke="#555" stroke-width="1"/>
+  <line x1="80" y1="210" x2="320" y2="210" stroke="#555" stroke-width="1"/>
+
+  <!-- Center piece (Gambit piece) -->
+  <rect x="155" y="125" width="30" height="30" rx="4" fill="#d4af37"/>
+  <text x="170" y="145" text-anchor="middle" fill="#1a1a2e" font-size="11" font-weight="bold">O</text>
+  <text x="200" y="320" text-anchor="middle" fill="#d4af37" font-size="11">O = Your Gambit Piece</text>
+
+  <!-- ADJACENT pieces (orthogonal - green) -->
+  <rect x="155" y="50" width="30" height="30" rx="4" fill="#2e7d32" stroke="#4caf50" stroke-width="2"/>
+  <text x="170" y="70" text-anchor="middle" fill="#c8e6c9" font-size="11">X</text>
+
+  <rect x="80" y="125" width="30" height="30" rx="4" fill="#2e7d32" stroke="#4caf50" stroke-width="2"/>
+  <text x="95" y="145" text-anchor="middle" fill="#c8e6c9" font-size="11">X</text>
+
+  <rect x="240" y="125" width="30" height="30" rx="4" fill="#2e7d32" stroke="#4caf50" stroke-width="2"/>
+  <text x="255" y="145" text-anchor="middle" fill="#c8e6c9" font-size="11">X</text>
+
+  <rect x="155" y="205" width="30" height="30" rx="4" fill="#2e7d32" stroke="#4caf50" stroke-width="2"/>
+  <text x="170" y="225" text-anchor="middle" fill="#c8e6c9" font-size="11">X</text>
+
+  <text x="280" y="68" fill="#4caf50" font-size="10">ADJACENT (triggers!)</text>
+
+  <!-- Diagonal pieces (red - NOT adjacent) -->
+  <rect x="75" y="50" width="30" height="30" rx="4" fill="#b71c1c" stroke="#f44336" stroke-width="2"/>
+  <text x="90" y="70" text-anchor="middle" fill="#ffcdd2" font-size="11">_</text>
+
+  <rect x="240" y="50" width="30" height="30" rx="4" fill="#b71c1c" stroke="#f44336" stroke-width="2"/>
+  <text x="255" y="70" text-anchor="middle" fill="#ffcdd2" font-size="11">_</text>
+
+  <rect x="75" y="205" width="30" height="30" rx="4" fill="#b71c1c" stroke="#f44336" stroke-width="2"/>
+  <text x="90" y="225" text-anchor="middle" fill="#ffcdd2" font-size="11">_</text>
+
+  <rect x="240" y="205" width="30" height="30" rx="4" fill="#b71c1c" stroke="#f44336" stroke-width="2"/>
+  <text x="255" y="225" text-anchor="middle" fill="#ffcdd2" font-size="11">_</text>
+
+  <text x="280" y="180" fill="#f44336" font-size="10">Diagonal = NOT adjacent</text>
+  <text x="280" y="195" fill="#f44336" font-size="10">(does NOT trigger)</text>
+
+  <rect x="155" y="125" width="30" height="30" rx="4" fill="#d4af37"/>
+</svg>
