@@ -1,58 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 370" font-family="system-ui, sans-serif" font-size="12">
-  <rect width="420" height="370" fill="#1a1a2e" rx="8"/>
-  <text x="210" y="25" text-anchor="middle" fill="#d4af37" font-size="15" font-weight="bold">Knight + Pawn Formation (Top View)</text>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="600" height="380" viewBox="0 0 600 380">
+<rect width="600" height="380" fill="#1A0F1A" rx="12"/>
+<text x="300" y="38" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Knight + Pawn Formation</text>
 
-  <!-- Board -->
-  <rect x="30" y="50" width="300" height="300" fill="none" stroke="#555" stroke-width="1"/>
-  <!-- Grid lines -->
-  <g stroke="#555" stroke-width="0.5">
-    <line x1="105" y1="50" x2="105" y2="350"/>
-    <line x1="180" y1="50" x2="180" y2="350"/>
-    <line x1="255" y1="50" x2="255" y2="350"/>
-    <line x1="30" y1="125" x2="330" y2="125"/>
-    <line x1="30" y1="200" x2="330" y2="200"/>
-    <line x1="30" y1="275" x2="330" y2="275"/>
-  </g>
+<!-- Board 7x7 -->
+<rect x="30" y="55" width="540" height="310" rx="4" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="0.5"/>
 
-  <!-- PAWN wall -->
-  <text x="180" y="362" text-anchor="middle" fill="#888" font-size="12">PAWN Wall (bottom row)</text>
-  <g>
-    <rect x="38" y="280" width="26" height="26" rx="3" fill="#1565c0" stroke="#42a5f5" stroke-width="1.5"/>
-    <text x="51" y="297" text-anchor="middle" fill="#bbdefb" font-size="11">P</text>
-    <rect x="113" y="280" width="26" height="26" rx="3" fill="#1565c0" stroke="#42a5f5" stroke-width="1.5"/>
-    <text x="126" y="297" text-anchor="middle" fill="#bbdefb" font-size="11">P</text>
-    <rect x="188" y="280" width="26" height="26" rx="3" fill="#1565c0" stroke="#42a5f5" stroke-width="1.5"/>
-    <text x="201" y="297" text-anchor="middle" fill="#bbdefb" font-size="11">P</text>
-    <rect x="263" y="280" width="26" height="26" rx="3" fill="#1565c0" stroke="#42a5f5" stroke-width="1.5"/>
-    <text x="276" y="297" text-anchor="middle" fill="#bbdefb" font-size="11">P</text>
-  </g>
+<!-- Grid lines 7x7 -->
+<g stroke="#3A2030" stroke-width="0.5">
+<line x1="108" y1="55" x2="108" y2="365"/>
+<line x1="186" y1="55" x2="186" y2="365"/>
+<line x1="264" y1="55" x2="264" y2="365"/>
+<line x1="342" y1="55" x2="342" y2="365"/>
+<line x1="420" y1="55" x2="420" y2="365"/>
+<line x1="498" y1="55" x2="498" y2="365"/>
+<line x1="30" y1="99" x2="570" y2="99"/>
+<line x1="30" y1="143" x2="570" y2="143"/>
+<line x1="30" y1="187" x2="570" y2="187"/>
+<line x1="30" y1="231" x2="570" y2="231"/>
+<line x1="30" y1="275" x2="570" y2="275"/>
+<line x1="30" y1="319" x2="570" y2="319"/>
+</g>
 
-  <!-- Knights behind -->
-  <text x="180" y="238" text-anchor="middle" fill="#888" font-size="12">Knights (mid row)</text>
-  <g>
-    <rect x="113" y="205" width="26" height="26" rx="3" fill="#7b1fa2" stroke="#ab47bc" stroke-width="1.5"/>
-    <text x="126" y="222" text-anchor="middle" fill="#e1bee7" font-size="11">K</text>
-    <rect x="188" y="205" width="26" height="26" rx="3" fill="#7b1fa2" stroke="#ab47bc" stroke-width="1.5"/>
-    <text x="201" y="222" text-anchor="middle" fill="#e1bee7" font-size="11">K</text>
-  </g>
+<!-- PAWN wall (blue) - bottom row -->
+<text x="70" y="345" fill="#4A9B9B" font-size="16" text-anchor="middle">&#9823;</text>
+<text x="148" y="345" fill="#4A9B9B" font-size="16" text-anchor="middle">&#9823;</text>
+<text x="226" y="345" fill="#4A9B9B" font-size="16" text-anchor="middle">&#9823;</text>
+<text x="304" y="345" fill="#4A9B9B" font-size="16" text-anchor="middle">&#9823;</text>
+<text x="382" y="345" fill="#4A9B9B" font-size="16" text-anchor="middle">&#9823;</text>
+<text x="460" y="345" fill="#4A9B9B" font-size="16" text-anchor="middle">&#9823;</text>
 
-  <!-- Gambit piece (Excalibur) -->
-  <rect x="113" y="130" width="26" height="26" rx="3" fill="#d4af37" stroke="#ffd54f" stroke-width="1.5"/>
-  <text x="126" y="147" text-anchor="middle" fill="#1a1a2e" font-size="11">E</text>
+<!-- KNIGHT cluster (purple) -->
+<text x="70" y="257" fill="#A85D6A" font-size="16" text-anchor="middle">&#9822;</text>
+<text x="148" y="257" fill="#A85D6A" font-size="16" text-anchor="middle">&#9822;</text>
+<text x="226" y="257" fill="#A85D6A" font-size="16" text-anchor="middle">&#9822;</text>
+<text x="304" y="257" fill="#A85D6A" font-size="16" text-anchor="middle">&#9822;</text>
+<text x="382" y="257" fill="#A85D6A" font-size="16" text-anchor="middle">&#9822;</text>
 
-  <!-- Level up pieces -->
-  <rect x="38" y="130" width="26" height="26" rx="3" fill="#e65100" stroke="#ff9800" stroke-width="1.5"/>
-  <text x="51" y="147" text-anchor="middle" fill="#ffe0b2" font-size="11">R</text>
-  <rect x="263" y="130" width="26" height="26" rx="3" fill="#e65100" stroke="#ff9800" stroke-width="1.5"/>
-  <text x="276" y="147" text-anchor="middle" fill="#ffe0b2" font-size="11">B</text>
+<!-- E = Excalibur piece -->
+<text x="460" y="257" fill="#D4A84A" font-size="14" text-anchor="middle">&#9822;</text>
+<rect x="450" y="246" width="22" height="22" rx="3" fill="none" stroke="#D4A84A" stroke-width="1.5"/>
 
-  <!-- Key -->
-  <text x="370" y="80" fill="#42a5f5" font-size="12">P = PAWN</text>
-  <text x="370" y="100" fill="#ab47bc" font-size="12">K = KNIGHT</text>
-  <text x="370" y="120" fill="#d4af37" font-size="12">E = Excalibur</text>
-  <text x="370" y="140" fill="#ff9800" font-size="12">R = ROOK</text>
-  <text x="370" y="160" fill="#ff9800" font-size="12">B = BISHOP</text>
+<!-- Promoted Rook + Bishop -->
+<text x="148" y="169" fill="#D4764A" font-size="16" text-anchor="middle">&#9820;</text>
+<text x="304" y="169" fill="#D4764A" font-size="16" text-anchor="middle">&#9820;</text>
+<text x="226" y="169" fill="#5CB85C" font-size="16" text-anchor="middle">&#9821;</text>
+<text x="382" y="169" fill="#5CB85C" font-size="16" text-anchor="middle">&#9821;</text>
 
-  <!-- Arrow -->
-  <path d="M30 50 L0 0" stroke="none"/>
+<!-- Queen pushes the line -->
+<text x="304" y="81" fill="#D4A84A" font-size="16" text-anchor="middle">&#9819;</text>
+
+<!-- Arrow from mid to bottom -->
+<path d="M350 319 L350 325" stroke="#D4A84A" stroke-width="1" stroke-dasharray="3,3" marker-end="url(#arrow-gold)"/>
+<path d="M350 275 L350 281" stroke="#D4A84A" stroke-width="1" stroke-dasharray="3,3"/>
+
+<!-- Labels on the right -->
+<text x="510" y="345" fill="#4A9B9B" font-size="12">PAWN Wall</text>
+<text x="510" y="261" fill="#A85D6A" font-size="12">Knights</text>
+<text x="510" y="173" fill="#D4764A" font-size="12">Promoted</text>
+<text x="510" y="85" fill="#D4A84A" font-size="12">Queen Push</text>
 </svg>

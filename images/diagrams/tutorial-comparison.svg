@@ -1,40 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 280" font-family="system-ui, sans-serif" font-size="12">
-  <rect width="500" height="280" fill="#1a1a2e" rx="8"/>
-  <text x="250" y="25" text-anchor="middle" fill="#d4af37" font-size="15" font-weight="bold">Tutorial Content: v1.2 vs v1.3</text>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="380" viewBox="0 0 700 380">
+<rect width="700" height="380" fill="#1A0F1A" rx="12"/>
+<text x="350" y="38" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Tutorial Coverage: v1.2 vs v1.3</text>
 
-  <!-- v1.2 -->
-  <rect x="20" y="45" width="210" height="210" rx="8" fill="#333" stroke="#f44336"/>
-  <text x="125" y="68" text-anchor="middle" fill="#f44336" font-size="13" font-weight="bold">v1.2 Tutorial</text>
+<!-- Headers -->
+<rect x="40" y="55" width="200" height="30" rx="4" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="140" y="74" fill="#D4A84A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">Topic</text>
+<rect x="250" y="55" width="180" height="30" rx="4" fill="#3A2030" stroke="#A85D6A" stroke-width="1"/>
+<text x="340" y="74" fill="#A85D6A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">v1.2 Tutorial</text>
+<rect x="440" y="55" width="220" height="30" rx="4" fill="#3A2030" stroke="#5CB85C" stroke-width="1"/>
+<text x="550" y="74" fill="#5CB85C" font-family="'VT323',monospace" font-size="13" text-anchor="middle">v1.3 Tutorial</text>
 
-  <rect x="35" y="85" width="180" height="22" rx="3" fill="#4caf50"/>
-  <text x="125" y="100" text-anchor="middle" fill="#c8e6c9" font-size="11">Basic Moves</text>
-  <rect x="35" y="113" width="180" height="22" rx="3" fill="#4caf50"/>
-  <text x="125" y="128" text-anchor="middle" fill="#c8e6c9" font-size="11">Capture</text>
-  <rect x="35" y="141" width="180" height="22" rx="3" fill="#ff9800"/>
-  <text x="125" y="156" text-anchor="middle" fill="#ffe0b2" font-size="11">Stock (brief mention)</text>
-  <rect x="35" y="169" width="180" height="22" rx="3" fill="#ff9800"/>
-  <text x="125" y="184" text-anchor="middle" fill="#ffe0b2" font-size="11">Gambit (vague)</text>
-  <rect x="35" y="197" width="180" height="22" rx="3" fill="#f44336"/>
-  <text x="125" y="212" text-anchor="middle" fill="#ffcdd2" font-size="11">Crumble Mode (not covered)</text>
-  <rect x="35" y="225" width="180" height="22" rx="3" fill="#f44336"/>
-  <text x="125" y="240" text-anchor="middle" fill="#ffcdd2" font-size="11">Boss Prep (not covered)</text>
+<!-- Basic moves -->
+<rect x="40" y="92" width="200" height="34" rx="4" fill="#2D1A2D" stroke="#E8D5C0" stroke-width="1"/>
+<text x="140" y="113" fill="#F5E6D3" font-size="13" text-anchor="middle">Basic moves</text>
+<rect x="250" y="92" width="180" height="34" rx="4" fill="#1A2D1A" stroke="#5CB85C" stroke-width="1"/>
+<text x="340" y="113" fill="#5CB85C" font-size="13" text-anchor="middle">Covered</text>
+<rect x="440" y="92" width="220" height="34" rx="4" fill="#1A2D1A" stroke="#5CB85C" stroke-width="1"/>
+<text x="550" y="113" fill="#5CB85C" font-size="13" text-anchor="middle">Covered + visuals</text>
 
-  <!-- v1.3 -->
-  <rect x="275" y="45" width="210" height="210" rx="8" fill="#333" stroke="#4caf50"/>
-  <text x="380" y="68" text-anchor="middle" fill="#4caf50" font-size="13" font-weight="bold">v1.3 Tutorial</text>
+<!-- Capture -->
+<rect x="40" y="132" width="200" height="34" rx="4" fill="#2D1A2D" stroke="#E8D5C0" stroke-width="1"/>
+<text x="140" y="153" fill="#F5E6D3" font-size="13" text-anchor="middle">Capture</text>
+<rect x="250" y="132" width="180" height="34" rx="4" fill="#1A2D1A" stroke="#5CB85C" stroke-width="1"/>
+<text x="340" y="153" fill="#5CB85C" font-size="13" text-anchor="middle">Covered</text>
+<rect x="440" y="132" width="220" height="34" rx="4" fill="#1A2D1A" stroke="#5CB85C" stroke-width="1"/>
+<text x="550" y="153" fill="#5CB85C" font-size="13" text-anchor="middle">Covered</text>
 
-  <rect x="290" y="85" width="180" height="18" rx="3" fill="#4caf50"/>
-  <text x="380" y="97" text-anchor="middle" fill="#c8e6c9" font-size="11">Basic Moves</text>
-  <rect x="290" y="108" width="180" height="18" rx="3" fill="#4caf50"/>
-  <text x="380" y="120" text-anchor="middle" fill="#c8e6c9" font-size="11">Capture</text>
-  <rect x="290" y="131" width="180" height="18" rx="3" fill="#4caf50"/>
-  <text x="380" y="143" text-anchor="middle" fill="#c8e6c9" font-size="11">Stock (full explanation)</text>
-  <rect x="290" y="154" width="180" height="18" rx="3" fill="#4caf50"/>
-  <text x="380" y="166" text-anchor="middle" fill="#c8e6c9" font-size="11">Gambit (clear conditions)</text>
-  <rect x="290" y="177" width="180" height="18" rx="3" fill="#ff9800"/>
-  <text x="380" y="189" text-anchor="middle" fill="#ffe0b2" font-size="11">Crumble Mode (quick intro)</text>
-  <rect x="290" y="200" width="180" height="18" rx="3" fill="#ff9800"/>
-  <text x="380" y="212" text-anchor="middle" fill="#ffe0b2" font-size="11">Boss Prep (hint)</text>
-  <rect x="290" y="223" width="180" height="18" rx="3" fill="#888"/>
-  <text x="380" y="235" text-anchor="middle" fill="#ccc" font-size="11">(still no combos/arcs)</text>
+<!-- Stock -->
+<rect x="40" y="172" width="200" height="34" rx="4" fill="#2D1A2D" stroke="#E8D5C0" stroke-width="1"/>
+<text x="140" y="193" fill="#F5E6D3" font-size="13" text-anchor="middle">Stock management</text>
+<rect x="250" y="172" width="180" height="34" rx="4" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="340" y="193" fill="#D4764A" font-size="13" text-anchor="middle">Brief mention</text>
+<rect x="440" y="172" width="220" height="34" rx="4" fill="#1A2D1A" stroke="#5CB85C" stroke-width="1"/>
+<text x="550" y="193" fill="#5CB85C" font-size="13" text-anchor="middle">Full explanation</text>
+
+<!-- Gambit triggers -->
+<rect x="40" y="212" width="200" height="34" rx="4" fill="#2D1A2D" stroke="#E8D5C0" stroke-width="1"/>
+<text x="140" y="233" fill="#F5E6D3" font-size="13" text-anchor="middle">Gambit triggers</text>
+<rect x="250" y="212" width="180" height="34" rx="4" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="340" y="233" fill="#D4764A" font-size="13" text-anchor="middle">Vague</text>
+<rect x="440" y="212" width="220" height="34" rx="4" fill="#1A2D1A" stroke="#5CB85C" stroke-width="1"/>
+<text x="550" y="233" fill="#5CB85C" font-size="13" text-anchor="middle">Clear conditions</text>
+
+<!-- Crumble Mode -->
+<rect x="40" y="252" width="200" height="34" rx="4" fill="#2D1A2D" stroke="#E8D5C0" stroke-width="1"/>
+<text x="140" y="273" fill="#F5E6D3" font-size="13" text-anchor="middle">Crumble Mode</text>
+<rect x="250" y="252" width="180" height="34" rx="4" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="340" y="273" fill="#A85D6A" font-size="13" text-anchor="middle">Not covered</text>
+<rect x="440" y="252" width="220" height="34" rx="4" fill="#1A2D1A" stroke="#5CB85C" stroke-width="1"/>
+<text x="550" y="273" fill="#5CB85C" font-size="13" text-anchor="middle">Quick intro</text>
+
+<!-- Boss prep -->
+<rect x="40" y="292" width="200" height="34" rx="4" fill="#2D1A2D" stroke="#E8D5C0" stroke-width="1"/>
+<text x="140" y="313" fill="#F5E6D3" font-size="13" text-anchor="middle">Boss prep</text>
+<rect x="250" y="292" width="180" height="34" rx="4" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="340" y="313" fill="#A85D6A" font-size="13" text-anchor="middle">Not covered</text>
+<rect x="440" y="292" width="220" height="34" rx="4" fill="#2D1A2D" stroke="#D4764A" stroke-width="1"/>
+<text x="550" y="313" fill="#D4764A" font-size="13" text-anchor="middle">Stock reserve hint</text>
+
+<!-- Legend -->
+<rect x="40" y="340" width="620" height="28" rx="4" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1"/>
+<rect x="60" y="350" width="12" height="10" rx="2" fill="#5CB85C"/>
+<text x="78" y="359" fill="#5CB85C" font-size="11">Covered well</text>
+<rect x="170" y="350" width="12" height="10" rx="2" fill="#D4764A"/>
+<text x="188" y="359" fill="#D4764A" font-size="11">Brief/okay</text>
+<rect x="280" y="350" width="12" height="10" rx="2" fill="#A85D6A"/>
+<text x="298" y="359" fill="#A85D6A" font-size="11">Missing</text>
 </svg>
