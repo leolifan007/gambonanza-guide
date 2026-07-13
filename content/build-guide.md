@@ -66,7 +66,7 @@ Don't force a build. Read what the shop gives you and pivot. A flexible player w
 
 {{% section-divider %}}
 
-## Build 3: Knight Aggro A-Tier
+## Build 3: Knight Aggro S-Tier (v1.3.0 Update)
 
 **Best for:** Fast runs, Crumble Mode small boards, climbing ranked ladder
 
@@ -83,6 +83,8 @@ Don't force a build. Read what the shop gives you and pivot. A flexible player w
 - Turns 7+: Win before opponent's late-game scaling kicks in
 
 **Strengths:** Fastest build. Dominates turns 1-6. Excellent on 5x5 boards.
+
+**v1.3.0 buff:** Show Jumping (guaranteed 1/1) and Whip's Gambit (guaranteed 1/1) make this build significantly stronger. See [Knight & Pawn Meta Guide](/knight-pawn-meta-guide/).
 
 **Weaknesses:** Falls off hard after turn 12. Struggles on 8x8 boards.
 
@@ -136,7 +138,18 @@ Don't force a build. Read what the shop gives you and pivot. A flexible player w
 ## When to Pivot Between Builds
 
 | You have | But shop gives you | Pivot to |
-|----------|-------------------|----------|
+|---
+
+{{< callout type="warning" title="v1.2 & v1.3 Build Changes" >}}
+**This guide is from v1.1.0.** Key changes that affect builds:
+- **Knight Aggro (Build 3) upgraded to S-Tier** - Show Jumping and Whip's Gambit are now guaranteed (1/1), plus Knight+Pawn synergies were buffed in v1.2
+- **Templar-dependent builds weakened** - Templar nerfed 1/1 to 1/3 in v1.3
+- **New Missigno's Gambit** enables lategame pivoting
+
+See our **[Knight & Pawn Meta Guide](/knight-pawn-meta-guide/)** and **[v1.3.0 Patch Breakdown](/v130-patch-breakdown/)** for updated build recommendations.
+{{< /callout >}}
+
+-------|-------------------|----------|
 | Pawn setup | Queen early | Queen Supremacy hybrid |
 | Knight rush | Rook Gambits | Rook Control |
 | Queen planned | Economic Gambits | Queen + Pawn Hybrid |
@@ -147,11 +160,11 @@ Don't force a build. Read what the shop gives you and pivot. A flexible player w
 
 ## Build Tier List Summary
 
-| Build | Win Rate | Skill Floor | Best Board | Worst Board |
+| Build | Win Rate (v1.3) | Skill Floor | Best Board | Worst Board |
 |-------|----------|------------|------------|-------------|
 | Pawn Economy | 70%+ | Low | Any | None |
 | Queen Supremacy | 58-65% | High | 7x7 | 5x5 |
-| Knight Aggro | 50-57% | Medium | 5x5 | 8x8 |
+| Knight Aggro | 55-65% (buffed v1.3) | Medium | 5x5 | 8x8 |
 | Rook Control | 48-55% | High | 6x6-7x7 | 5x5 |
 | Gambit Chain | 35-60% | Very High | 7x7 | 5x5 |
 

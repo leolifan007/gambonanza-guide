@@ -40,7 +40,17 @@ Crumble Mode tracks a **3/3 counter**: three consecutive moves without a capture
 Based on community documentation, the board shrinks through 5 observable stages:
 
 | Stage | Board Size | Trigger | Strategy Shift |
-|-------|-----------|---------|---------------|
+|---
+
+{{< callout type="warning" title="v1.3.0 Update" >}}
+**Two major changes affect this guide:**
+1. **Bunker's Gambit reworked** - Now global (+$1 per PROTECT, any mode), not Crumble-only. The Crumble Mode section below is still accurate, but Bunker's is no longer Crumble-exclusive.
+2. **Stalemate now resets** after each boss fight - reduces pressure in post-boss Crumble stages.
+
+See our **[Stalemate & Bunker's Rework Guide](/stalemate-bunker-rework-guide/)** for full details.
+{{< /callout >}}
+
+----|-----------|---------|---------------|
 | 1 | Full 8x8 | Start | Play normal |
 | 2 | 7x7 | First collapse | Reduce piece count, focus center |
 | 3 | 6x6 | Second collapse | Knights lose mobility, favor Rooks |
@@ -95,9 +105,10 @@ Based on community documentation, the board shrinks through 5 observable stages:
 - **Heal Board** - Recovers from the inevitable losses
 - **Trap synergies** - Trap tiles + any capture gambit = value
 
-**B-Tier:**
+**B-Tier (buffed in v1.3):**
 - **Clone** - Works well in Stage 3+ when board is still large enough
 - **Reserve gambits** - Time them carefully, they fire once
+- **Bunker's Gambit** - Reworked to global +$1 per PROTECT. Much stronger now.
 
 **C-Tier:**
 - **Spread gambits** - Any gambit that requires wide board space

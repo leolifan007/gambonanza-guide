@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 370" font-family="system-ui, sans-serif" font-size="12">
+  <rect width="420" height="370" fill="#1a1a2e" rx="8"/>
+  <text x="210" y="25" text-anchor="middle" fill="#d4af37" font-size="15" font-weight="bold">Knight + Pawn Formation (Top View)</text>
+
+  <!-- Board -->
+  <rect x="30" y="50" width="300" height="300" fill="none" stroke="#555" stroke-width="1"/>
+  <!-- Grid lines -->
+  <g stroke="#555" stroke-width="0.5">
+    <line x1="105" y1="50" x2="105" y2="350"/>
+    <line x1="180" y1="50" x2="180" y2="350"/>
+    <line x1="255" y1="50" x2="255" y2="350"/>
+    <line x1="30" y1="125" x2="330" y2="125"/>
+    <line x1="30" y1="200" x2="330" y2="200"/>
+    <line x1="30" y1="275" x2="330" y2="275"/>
+  </g>
+
+  <!-- PAWN wall -->
+  <text x="180" y="362" text-anchor="middle" fill="#888" font-size="12">PAWN Wall (bottom row)</text>
+  <g>
+    <rect x="38" y="280" width="26" height="26" rx="3" fill="#1565c0" stroke="#42a5f5" stroke-width="1.5"/>
+    <text x="51" y="297" text-anchor="middle" fill="#bbdefb" font-size="11">P</text>
+    <rect x="113" y="280" width="26" height="26" rx="3" fill="#1565c0" stroke="#42a5f5" stroke-width="1.5"/>
+    <text x="126" y="297" text-anchor="middle" fill="#bbdefb" font-size="11">P</text>
+    <rect x="188" y="280" width="26" height="26" rx="3" fill="#1565c0" stroke="#42a5f5" stroke-width="1.5"/>
+    <text x="201" y="297" text-anchor="middle" fill="#bbdefb" font-size="11">P</text>
+    <rect x="263" y="280" width="26" height="26" rx="3" fill="#1565c0" stroke="#42a5f5" stroke-width="1.5"/>
+    <text x="276" y="297" text-anchor="middle" fill="#bbdefb" font-size="11">P</text>
+  </g>
+
+  <!-- Knights behind -->
+  <text x="180" y="238" text-anchor="middle" fill="#888" font-size="12">Knights (mid row)</text>
+  <g>
+    <rect x="113" y="205" width="26" height="26" rx="3" fill="#7b1fa2" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="126" y="222" text-anchor="middle" fill="#e1bee7" font-size="11">K</text>
+    <rect x="188" y="205" width="26" height="26" rx="3" fill="#7b1fa2" stroke="#ab47bc" stroke-width="1.5"/>
+    <text x="201" y="222" text-anchor="middle" fill="#e1bee7" font-size="11">K</text>
+  </g>
+
+  <!-- Gambit piece (Excalibur) -->
+  <rect x="113" y="130" width="26" height="26" rx="3" fill="#d4af37" stroke="#ffd54f" stroke-width="1.5"/>
+  <text x="126" y="147" text-anchor="middle" fill="#1a1a2e" font-size="11">E</text>
+
+  <!-- Level up pieces -->
+  <rect x="38" y="130" width="26" height="26" rx="3" fill="#e65100" stroke="#ff9800" stroke-width="1.5"/>
+  <text x="51" y="147" text-anchor="middle" fill="#ffe0b2" font-size="11">R</text>
+  <rect x="263" y="130" width="26" height="26" rx="3" fill="#e65100" stroke="#ff9800" stroke-width="1.5"/>
+  <text x="276" y="147" text-anchor="middle" fill="#ffe0b2" font-size="11">B</text>
+
+  <!-- Key -->
+  <text x="370" y="80" fill="#42a5f5" font-size="12">P = PAWN</text>
+  <text x="370" y="100" fill="#ab47bc" font-size="12">K = KNIGHT</text>
+  <text x="370" y="120" fill="#d4af37" font-size="12">E = Excalibur</text>
+  <text x="370" y="140" fill="#ff9800" font-size="12">R = ROOK</text>
+  <text x="370" y="160" fill="#ff9800" font-size="12">B = BISHOP</text>
+
+  <!-- Arrow -->
+  <path d="M30 50 L0 0" stroke="none"/>
+</svg>

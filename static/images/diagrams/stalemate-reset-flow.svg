@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 260" font-family="system-ui, sans-serif" font-size="12">
+  <rect width="520" height="260" fill="#1a1a2e" rx="8"/>
+  <text x="260" y="25" text-anchor="middle" fill="#d4af37" font-size="15" font-weight="bold">Stalemate Behavior: Before vs After v1.3.0</text>
+
+  <!-- Before -->
+  <text x="130" y="55" text-anchor="middle" fill="#f44336" font-size="13" font-weight="bold">Before v1.3.0</text>
+  <rect x="15" y="65" width="60" height="30" rx="4" fill="#333" stroke="#888"/>
+  <text x="45" y="84" text-anchor="middle" fill="#e0d5c1" font-size="10">Stage 1</text>
+  <text x="75" y="82" fill="#888" font-size="11">-&gt;</text>
+  <rect x="85" y="65" width="60" height="30" rx="4" fill="#333" stroke="#888"/>
+  <text x="115" y="84" text-anchor="middle" fill="#e0d5c1" font-size="10">Stage 2</text>
+  <text x="145" y="82" fill="#888" font-size="11">-&gt;</text>
+  <rect x="155" y="65" width="60" height="30" rx="4" fill="#333" stroke="#888"/>
+  <text x="185" y="84" text-anchor="middle" fill="#e0d5c1" font-size="10">Stage 3</text>
+  <text x="145" y="82" fill="#888" font-size="11">-&gt;</text>
+  <rect x="225" y="65" width="60" height="30" rx="4" fill="#f44336" stroke="#f44336"/>
+  <text x="255" y="84" text-anchor="middle" fill="#ffcdd2" font-size="10">COUNTER</text>
+
+  <text x="130" y="115" text-anchor="middle" fill="#888" font-size="11">Counter accumulates across ALL stages. Boss fight does NOT reset it.</text>
+  <text x="130" y="130" text-anchor="middle" fill="#888" font-size="11">Stalemate can trigger unexpectedly in Stage 3 due to carry-over.</text>
+
+  <!-- After -->
+  <text x="130" y="155" text-anchor="middle" fill="#4caf50" font-size="13" font-weight="bold">After v1.3.0</text>
+  <rect x="15" y="165" width="60" height="30" rx="4" fill="#333" stroke="#888"/>
+  <text x="45" y="184" text-anchor="middle" fill="#e0d5c1" font-size="10">Stage 1</text>
+  <text x="75" y="182" fill="#888" font-size="11">-&gt;</text>
+  <rect x="85" y="165" width="60" height="30" rx="4" fill="#333" stroke="#888"/>
+  <text x="115" y="184" text-anchor="middle" fill="#e0d5c1" font-size="10">Boss Win</text>
+  <text x="145" y="182" fill="#888" font-size="11">-&gt;</text>
+  <rect x="155" y="165" width="60" height="30" rx="4" fill="#4caf50" stroke="#4caf50"/>
+  <text x="185" y="184" text-anchor="middle" fill="#c8e6c9" font-size="10">RESET</text>
+  <text x="215" y="182" fill="#888" font-size="11">-&gt;</text>
+  <rect x="225" y="165" width="60" height="30" rx="4" fill="#333" stroke="#888"/>
+  <text x="255" y="184" text-anchor="middle" fill="#e0d5c1" font-size="10">Stage 2</text>
+
+  <text x="130" y="215" text-anchor="middle" fill="#888" font-size="11">Counter resets to 0 after each boss victory. Clean slate every stage.</text>
+  <text x="130" y="230" text-anchor="middle" fill="#888" font-size="11">More rebuilt time post-boss. No forced aggression from carry-over.</text>
+
+  <text x="390" y="55" fill="#d4af37" font-size="13" font-weight="bold">Benefit</text>
+  <text x="390" y="80" fill="#4caf50" font-size="11">More aggressive post-boss</text>
+  <text x="390" y="100" fill="#4caf50" font-size="11">No forced play</text>
+  <text x="390" y="120" fill="#4caf50" font-size="11">Extra farm turns</text>
+  <text x="390" y="140" fill="#4caf50" font-size="11">Clean slate for</text>
+  <text x="390" y="155" fill="#4caf50" font-size="11">True Final Boss</text>
+</svg>
