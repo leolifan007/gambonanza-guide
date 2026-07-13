@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 280" font-family="system-ui, sans-serif" font-size="12">
+  <rect width="500" height="280" fill="#1a1a2e" rx="8"/>
+  <text x="250" y="25" text-anchor="middle" fill="#d4af37" font-size="15" font-weight="bold">Tutorial Content: v1.2 vs v1.3</text>
+
+  <!-- v1.2 -->
+  <rect x="20" y="45" width="210" height="210" rx="8" fill="#333" stroke="#f44336"/>
+  <text x="125" y="68" text-anchor="middle" fill="#f44336" font-size="13" font-weight="bold">v1.2 Tutorial</text>
+
+  <rect x="35" y="85" width="180" height="22" rx="3" fill="#4caf50"/>
+  <text x="125" y="100" text-anchor="middle" fill="#c8e6c9" font-size="11">Basic Moves</text>
+  <rect x="35" y="113" width="180" height="22" rx="3" fill="#4caf50"/>
+  <text x="125" y="128" text-anchor="middle" fill="#c8e6c9" font-size="11">Capture</text>
+  <rect x="35" y="141" width="180" height="22" rx="3" fill="#ff9800"/>
+  <text x="125" y="156" text-anchor="middle" fill="#ffe0b2" font-size="11">Stock (brief mention)</text>
+  <rect x="35" y="169" width="180" height="22" rx="3" fill="#ff9800"/>
+  <text x="125" y="184" text-anchor="middle" fill="#ffe0b2" font-size="11">Gambit (vague)</text>
+  <rect x="35" y="197" width="180" height="22" rx="3" fill="#f44336"/>
+  <text x="125" y="212" text-anchor="middle" fill="#ffcdd2" font-size="11">Crumble Mode (not covered)</text>
+  <rect x="35" y="225" width="180" height="22" rx="3" fill="#f44336"/>
+  <text x="125" y="240" text-anchor="middle" fill="#ffcdd2" font-size="11">Boss Prep (not covered)</text>
+
+  <!-- v1.3 -->
+  <rect x="275" y="45" width="210" height="210" rx="8" fill="#333" stroke="#4caf50"/>
+  <text x="380" y="68" text-anchor="middle" fill="#4caf50" font-size="13" font-weight="bold">v1.3 Tutorial</text>
+
+  <rect x="290" y="85" width="180" height="18" rx="3" fill="#4caf50"/>
+  <text x="380" y="97" text-anchor="middle" fill="#c8e6c9" font-size="11">Basic Moves</text>
+  <rect x="290" y="108" width="180" height="18" rx="3" fill="#4caf50"/>
+  <text x="380" y="120" text-anchor="middle" fill="#c8e6c9" font-size="11">Capture</text>
+  <rect x="290" y="131" width="180" height="18" rx="3" fill="#4caf50"/>
+  <text x="380" y="143" text-anchor="middle" fill="#c8e6c9" font-size="11">Stock (full explanation)</text>
+  <rect x="290" y="154" width="180" height="18" rx="3" fill="#4caf50"/>
+  <text x="380" y="166" text-anchor="middle" fill="#c8e6c9" font-size="11">Gambit (clear conditions)</text>
+  <rect x="290" y="177" width="180" height="18" rx="3" fill="#ff9800"/>
+  <text x="380" y="189" text-anchor="middle" fill="#ffe0b2" font-size="11">Crumble Mode (quick intro)</text>
+  <rect x="290" y="200" width="180" height="18" rx="3" fill="#ff9800"/>
+  <text x="380" y="212" text-anchor="middle" fill="#ffe0b2" font-size="11">Boss Prep (hint)</text>
+  <rect x="290" y="223" width="180" height="18" rx="3" fill="#888"/>
+  <text x="380" y="235" text-anchor="middle" fill="#ccc" font-size="11">(still no combos/arcs)</text>
+</svg>

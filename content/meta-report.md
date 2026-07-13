@@ -45,7 +45,13 @@ Full board heal that can recover from catastrophic losses. Essential for King di
 ## A-Tier - Run-Defining Gambits
 
 | Gambit | Role | Best Board | Notes |
-|--------|------|-----------|-------|
+|---
+
+{{< callout type="warning" title="v1.3.0 Update Available" >}}
+**This meta report is from v1.1.0.** The v1.3.0 patch changed the meta significantly: Templar nerfed, 6 Gambits buffed to guaranteed triggers, Bunker's reworked globally, Stalemate reset after boss fights, and 2 new Gambits added. See our **[v1.3.0 Patch Breakdown](/v130-patch-breakdown/)** for the current meta analysis.
+{{< /callout >}}
+
+-----|------|-----------|-------|
 | Backstab | Attack tool | Any | Essential attack piece. Works with trap tiles for guaranteed kills |
 | Economic Gambits | Economy | Any | S-tier value for consistent runs. Converts pawns to gold |
 | Thunder | Early pressure | Small | Strong on 5x5 boards for rush strategies |
@@ -127,7 +133,7 @@ Build around Crumble mode mechanics. Take Reserve-Interaction gambits and time t
 
 {{% section-divider %}}
 
-## Meta Trends & Predictions
+## Meta Trends & Predictions (v1.1.0 - Outdated)
 
 Based on community data and recent patch behavior:
 

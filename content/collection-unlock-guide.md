@@ -69,7 +69,18 @@ The 6th hidden gambit is likely the hardest to unlock. Focus on completing King 
 Based on community documentation, collection items can be categorized:
 
 | Tier | Items | How to Get |
-|------|-------|-----------|
+|---
+
+{{< callout type="warning" title="v1.2 & v1.3 Update" >}}
+**New collection content added since this guide was written:**
+- **Board Customization** (v1.2.0) - 21 boards (17 unlockable) added to the collection system
+- **Missigno's Gambit & Graal's Gambit** (v1.3.0) - 2 new Gambits added (Shield's and Trojan's removed)
+- **Collection count still 200+** - removals were minimal (2 Gambits culled, 2 added, plus boards)
+
+See our **[Custom Boards Guide](/custom-boards-guide/)** and **[Missigno & Graal Guide](/missigno-graal-gambits-guide/)** for the new content.
+{{< /callout >}}
+
+---|-------|-----------|
 | Common | 100+ items | Natural play, win runs |
 | Rare | 50+ items | Boss kills, specific challenges |
 | Epic | 25+ items | Difficulty-specific completions |
@@ -119,7 +130,7 @@ If you're grinding for specific unlocks:
 
 {{% section-divider %}}
 
-## v1.1.0 New Gambits in Collection
+## v1.1.0 - 1.3.0 New Gambits in Collection
 
 Patch v1.1.0 added 2 new gambits to the collection system (per Apple Store patch notes):
 

@@ -5,6 +5,12 @@ title: "Gambonanza Deterministic Gambits (v1.1.0)-The Best Reliable Gambits Rank
 description: "Gambonanza deterministic Gambits guide for patch v1.1.0. Reliable Gambits ranked by consistency and cost efficiency-no RNG dice rolls. Which chance-based Gambits to skip entirely. Updated for patch v1.1.0."
 ------
 
+{{< callout type="warning" title="v1.3.0 Update Available" >}}
+**This guide is from v1.1.0.** Several Gambit probabilities changed in v1.3.0: Whip's, Chamberlain's, Dead or Alive's, Show Jumping's, Pendant's, and Miracle's all moved to guaranteed triggers (1/1). These were previously in the High Probability tier but are now fully deterministic. See the **[v1.3.0 Patch Breakdown](/v130-patch-breakdown/)** for the full list of changes.
+{{< /callout >}}
+
+
+
 ## Why Deterministic Gambits Win
 
 {{< callout type="verdict" >}}<strong> THE PROBLEM WITH RNG</strong>

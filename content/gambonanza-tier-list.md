@@ -53,6 +53,12 @@ see_also:
     url: '/cards/'
 ---
 
+{{< callout type="warning" title="v1.3.0 Update Available" >}}
+**This tier list is from v1.1.0 and is now outdated.** The v1.3.0 balance patch significantly changed the meta: Templar nerfed (1/1 to 1/3), 6 Gambits buffed to guaranteed triggers, 2 new Gambits added, and 2 removed. See the **[v1.3.0 Tier List](/gambonanza-tier-list-v130/)** for current rankings.
+{{< /callout >}}
+
+
+
 ### 2 The Ultimate Counter-? <span style="color:var(--gold)"> Boss Killer #1</span>
 
 {{< meta-rating grade="S" label="1-turn god mode against ALL bosses. The single most important boss Gambit." >}}
