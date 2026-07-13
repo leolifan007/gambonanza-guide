@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Guide (v1.1.0)-Complete Strategy, Best Builds & Seeds"
-description: "The #1 Gambonanza guide for v1.1.0. Best builds, tier list, all 150+ Gambits rated, boss strategies, and recommended seeds. Updated for patch v1.1.0."
+title: "Gambonanza Guide (v1.3.0)-Complete Strategy, Best Builds & Seeds"
+description: "The #1 Gambonanza guide for v1.3.0. Best builds, tier list, all 200+ Gambits rated, boss strategies, and recommended seeds. Updated for patch v1.3.0."
 ---
 
 ## Complete Guide-Pick Your Path
@@ -149,10 +149,10 @@ I've spotted at least 2 Queen cards in my recent runs that the community hasn't 
 
 ---
 
-*Guide last updated: May 11, v1.1.0 (patch v1.1.0). Card database expanded with Phase-Tier Matrix and Phase FAQ. Meta converging.*
+*Guide last updated: July 13, v1.3.0 (patch v1.3.0). Balance overhaul, 2 new Gambits, 6 Gambit trigger buffs, Templar nerfed, Bunker's reworked, ADJACENT keyword clarified, Board Customization, and more.*
 
 <div class="update-banner">
-  <strong>v1.1.0 Patch:</strong> Card database updated with phase-strategy matrix. Cards.md expanded +7.7KB. Check the <a href="/cards/">Card Database</a> for the latest.
+  <strong>v1.3.0 Patch:</strong> Major balance update! <a href="/v130-patch-breakdown/">Full patch breakdown</a> | <a href="/gambonanza-tier-list-v130/">New tier list</a> | <a href="/custom-boards-guide/">Board customization guide</a>
 </div>
 
 

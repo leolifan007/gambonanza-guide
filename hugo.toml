@@ -10,7 +10,7 @@ publishDir = 'public'
 disableHugoGeneratorInject = false
 
 [params]
-  description = 'The #1 most complete Gambonanza strategy guide. Master 150+ Gambits, beat all 8 bosses, and learn the casino economy. Updated May 2026.'
+  description = 'The #1 most complete Gambonanza strategy guide. Master 200+ Gambits, beat all 8 bosses, and learn the casino economy. Updated July 2026 (v1.3.0).'
   author = 'Gambonanza Guide'
   keywords = 'Gambonanza guide, Gambonanza strategy, Gambonanza Gambits, Gambonanza bosses, Gambonanza tips, Gambonanza walkthrough, chess roguelike, Balatro chess'
   steam_url = 'https://store.steampowered.com/app/3182810/Gambonanza/'
