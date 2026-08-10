@@ -1,10 +1,14 @@
 ---
+tags:
+  - "Strategy & Guides"
+  - "Meta & Builds"
+  - "Strategy"
 title: "Which Gambonanza Build Is Best? Pick Your Archetype (71% Win Rate)"
 description: "Not all playstyles are equal. After 200 hours, I found the build that matches your personality determines your success. Aggro, Control, or Economy -- which one are you? Detailed analysis with win rate data."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
 ---
 
 

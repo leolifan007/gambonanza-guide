@@ -1,5 +1,7 @@
----category: "Strategy & Guides"
-
+---
+categories: ["Strategy & Guides"]
+tags:
+  - "Walkthrough"
 title: 'Gambonanza Complete Walkthrough (v1.1.0)-Step-by-Step Run Guide'
 description: 'Full Gambonanza walkthrough for patch v1.1.0. Step-by-step run guide from seed selection to Grandmaster. Covers opening economy, mid-game transition, every boss fight, and endgame strategy. Updated for patch v1.1.0.'
 lastUpdated: 'v1.1.0-05-14'

@@ -1,7 +1,10 @@
----category: "Pieces & Cards"
-
+---
+categories: ["Pieces & Cards"]
 lastmod: 2026-05-26T05:06:08+08:00
 date: 2026-05-26
+tags:
+  - "Pieces & Cards"
+  - "Strategy"
 title: "When to Sacrifice Pieces in Gambonanza"
 description: "Gambonanza piece sacrifice strategy guide v1.1.0. When to trade a pawn for board advantage, sacrificing a bishop to break a Boss defense, Queen sacrifice value analysis, and trade decision framework for v1.1.0."
 lastUpdated: 'v1.1.0-05-21'

@@ -1,10 +1,13 @@
 ---
+tags:
+  - "Strategy & Guides"
+  - "Recovery & Mistakes"
 title: "5 Emergency Strategies to Salvage ANY Bad Run (500-Hour Secrets)"
 description: "After 500 hours in Gambonanza, I've seen every type of bad run. Low stock? Broken chain? Wrong builds? These 5 emergency strategies have saved my run over 200 times. Real salvage data included."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
 ---
 
 

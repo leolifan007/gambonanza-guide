@@ -1,8 +1,11 @@
 ---
+tags:
+  - "Beginner"
+  - "Difficulty"
 title: "Gambonanza Difficulty Guide - How to Progress from Easy to King"
 description: "Step-by-step Gambonanza difficulty progression guide. What changes at each difficulty level, which builds work best at each tier, and how to finally beat King difficulty."
 version: "v1.1.0"
-category: "Beginner"
+categories: ["Beginner"]
 lastmod: "2026-06-15T14:35:13+08:00"
 date: "2026-06-15"
 ---

@@ -1,11 +1,16 @@
 ---
+tags:
+  - "Pieces & Cards"
+  - "Knights"
+  - "Meta & Builds"
+  - "Strategy"
 title: "Best Knight Strategy - Win More Games with the Knight Rush Build"
 description: "The Knight Rush build has 62% win rate on 4x4 and 5x5 boards. Exact turn-by-turn setup, when to use it, and how to win even when it fails."
 date: "2026-05-29"
 lastmod: "2026-05-29T21:36:00+08:00"
 hidden: false
 version: "1.1.0"
-category: "Pieces & Cards"
+categories: ["Pieces & Cards"]
 ---
 
 # Best Knight Strategy - Win More Games with the Knight Rush Build

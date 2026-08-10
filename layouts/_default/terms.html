@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }} - {{ .Site.Title }}</title>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}All Gambonanza Guide articles filed under {{ .Title }}.{{ end }}">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}Browse all {{ lower .Title }} on Gambonanza Guide.{{ end }}">
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
@@ -17,16 +17,16 @@
             <h1>{{ .Title }}</h1>
             {{ with .Description }}<p>{{ . }}</p>{{ end }}
             {{ if .Pages }}
-            <ul class="taxonomy-article-list">
-              {{ range .Pages }}
+            <ul class="taxonomy-term-list">
+              {{ range .Pages.ByTitle }}
               <li>
-                <a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a>
-                {{ with .Description }}<p>{{ . }}</p>{{ end }}
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <span class="taxonomy-term-count">({{ len .Pages }} article{{ if ne (len .Pages) 1 }}s{{ end }})</span>
               </li>
               {{ end }}
             </ul>
             {{ else }}
-            <p>No articles in this {{ lower .Data.Singular }} yet.</p>
+            <p>No {{ lower .Title }} yet. Check back soon.</p>
             {{ end }}
           </div>
         </article>

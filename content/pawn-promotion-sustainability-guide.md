@@ -1,6 +1,8 @@
 ---
-category: "Pieces & Cards"
-
+categories: ["Pieces & Cards"]
+tags:
+  - "Pawns"
+  - "Meta & Builds"
 title: "Gambonanza Pawn Promotion Guide v1.1.0-Don't Break Your Build When Pawns Evolve"
 description: "Gambonanza Pawn promotion guide for patch v1.1.0. When to promote, what to promote to, and how to keep your build intact when Pawns evolve. Avoid breaking relic synergies. Updated for patch v1.1.0."
 ------

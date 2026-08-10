@@ -1,5 +1,7 @@
----category: "Boss Battles"
-
+---
+categories: ["Boss Battles"]
+tags:
+  - "Queens"
 title: "Queen Supremacy Guide"
 description: "Gambonanza Queen supremacy guide for patch v1.1.0. When to deploy the Queen, 3 best Gambit combos, and a 4-step flowchart that wins games. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-17'

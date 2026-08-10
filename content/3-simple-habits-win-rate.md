@@ -1,10 +1,13 @@
 ---
+tags:
+  - "Strategy & Guides"
+  - "Strategy"
 title: "From 25% to 72%: 3 Simple Habits That Doubled My Win Rate"
 description: "After 200 hours of Gambonanza, I fixed 3 habits and my win rate jumped from 25% to 72%. Stop overbuying, fix your economy, and learn when to hold. Real player experience with proven results."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
 ---
 
 

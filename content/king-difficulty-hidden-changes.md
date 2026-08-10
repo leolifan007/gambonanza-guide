@@ -1,6 +1,10 @@
 ---
-category: "Difficulty & Progression"
-
+categories: ["Difficulty & Progression"]
+tags:
+  - "Difficulty & Progression"
+  - "Difficulty"
+  - "Collection"
+  - "Recovery & Mistakes"
 title: "Unlocked King Difficulty and Die Every Run? 4 Hidden Mechanic Changes That Are Killing You"
 description: "King difficulty doesn't just make enemies harder-it changes the rules. 4 hidden mechanic scaling changes that explain why your Queen Difficulty strategies stop working."
 lastUpdated: 'v1.1.0-06-18'

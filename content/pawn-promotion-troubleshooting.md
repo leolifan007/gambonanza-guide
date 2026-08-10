@@ -1,5 +1,8 @@
 ---
-category: "Pieces & Cards"
+categories: ["Pieces & Cards"]
+tags:
+  - "Pieces & Cards"
+  - "Pawns"
 title: "Pawn Promotion Not Working? 4 Conditions That Block Your Upgrade (and How to Check Each)"
 description: "Your pawn should promote-but it isn't. 4 mechanical conditions that silently block pawn promotion in Gambonanza, and a step-by-step diagnostic checklist."
 keywords: [pawn promotion, troubleshooting, not working, blocked, diagnose]

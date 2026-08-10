@@ -1,5 +1,7 @@
----category: "Boss Battles"
-
+---
+categories: ["Boss Battles"]
+tags:
+  - "Bosses"
 title: "Blitzking Boss Guide"
 description: "Blitzking gets 2 actions per turn. Use the Wasted-Turn strategy to beat him. 3-phase flowchart + Gambit counter table."
 lastUpdated: 'v1.1.0-05-17'

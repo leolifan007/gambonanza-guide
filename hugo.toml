@@ -33,7 +33,7 @@ disableHugoGeneratorInject = false
     endLevel = 2
     ordered = false
 
-# Disable taxonomies to remove /categories/ and /tags/ from sitemap
+# Taxonomies: /categories/ and /tags/ pages (articles use singular `category:` front matter)
 [taxonomies]
-  tag = ''
-  category = ''
+  category = 'categories'
+  tag = 'tags'

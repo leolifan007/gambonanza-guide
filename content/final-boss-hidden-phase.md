@@ -1,7 +1,12 @@
 ---
+tags:
+  - "Boss Guides"
+  - "Bosses"
+  - "Recovery & Mistakes"
+  - "Endgame"
 title: "Final Boss Has a Hidden Phase 2? How to Spot the Transformation Trigger and Survive the Surprise"
 description: "The final boss transforms when you least expect it. How to recognize the hidden phase trigger, build a phase-proof strategy, and survive the surprise attack that kills 70% of first-time players."
-category: "Boss Guides"
+categories: ["Boss Guides"]
 lastmod: "2026-06-18T17:33:00+08:00"
 version: "v1.1.0"
 ---'

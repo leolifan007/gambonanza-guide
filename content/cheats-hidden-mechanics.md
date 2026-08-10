@@ -1,8 +1,10 @@
 ---
+tags:
+  - "Strategy & Guides"
 title: "Gambonanza Cheats & Hidden Mechanics (v1.1.0)"
 description: "Undocumented Gambonanza mechanics, the bugged Hidden Queen's gambit, secret tile synergies the community discovered, gold tile permanent piece trick, and strategies that exploit game systems."
 version: "v1.1.0"
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
 lastmod: "2026-06-12T13:58:31+08:00"
 date: "2026-06-12"
 ---

@@ -1,10 +1,15 @@
-﻿---
+---
+tags:
+  - "Strategy & Guides"
+  - "Pieces & Cards"
+  - "Recovery & Mistakes"
+  - "Strategy"
 title: "I Sacrificed the Wrong Piece and Lost the Run - The Piece Evaluation Rubric That Fixes Your Next Decision"
 description: "You sacrificed a piece thinking it was smart-and the loss killed your run. A diagnostic rubric for evaluating piece value post-sacrifice so you never make the same mistake."
 date: "2026-06-18"
 lastmod: "2026-06-18T17:30:00+08:00"
 version: "1.1.0"
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
 keywords: ["sacrifice", "wrong piece", "evaluation", "rubric", "post-mortem", "mistake"]
 see_also:
   - title: "Piece Sacrifice Guide"

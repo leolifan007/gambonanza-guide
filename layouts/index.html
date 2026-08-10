@@ -52,7 +52,12 @@
 -}}
 
 {{- range $cat := $cats -}}
-{{- $catPages := where $.Site.RegularPages "Params.category" $cat.label -}}
+{{- $catPages := slice -}}
+{{- range $.Site.RegularPages -}}
+  {{- if and .Params.categories (in .Params.categories $cat.label) -}}
+    {{- $catPages = $catPages | append . -}}
+  {{- end -}}
+{{- end -}}
 {{- $catCount := len $catPages -}}
 
 {{- /* Find latest article date */ -}}

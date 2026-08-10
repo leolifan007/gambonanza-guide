@@ -1,10 +1,14 @@
-﻿---
+---
+tags:
+  - "Strategy & Guides"
+  - "Seeds"
+  - "Beginner"
 title: "First 3 Turns: The Universal Safe Opening Template (Works With Any Seed in Gambonanza)"
 description: "Stop losing in the opening. A 3-turn safe opening pattern that works regardless of your starting pieces, board size, or seed. Tested across 50+ runs."
 date: "2026-06-18"
 lastmod: "2026-06-18T17:30:00+08:00"
 version: "1.1.0"
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
 keywords: ["first 3 turns", "opening", "universal", "template", "seed-agnostic"]
 see_also:
   - title: "Knight Rush Opener"

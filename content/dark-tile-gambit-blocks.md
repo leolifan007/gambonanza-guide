@@ -1,7 +1,12 @@
 ---
+tags:
+  - "Strategy & Guides"
+  - "Gambits"
+  - "Beginner"
+  - "Board & Tiles"
 title: "Why Your Gambit Won't Activate on Dark Tiles? The Hidden Tile-Specific Blocking Rules"
 description: "You placed your Gambit piece on a dark tile and nothing happens. This is not a bug. Here is why certain tiles block Gambit activation and how to pick legal positions every time."
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
 lastmod: "2026-06-18T17:33:00+08:00"
 version: "v1.1.0"
 ---'

@@ -1,8 +1,12 @@
 ---
+tags:
+  - "Strategy & Guides"
+  - "Crumble Mode"
+  - "Board & Tiles"
 title: "Gambonanza Crumble Mode Guide v1.1.0 - 3/3 Timer, Board Decay & All 5 Stages"
 description: "Complete Gambonanza Crumble Mode guide. How the 3/3 counter works, board edge collapse mechanics, optimal strategies for all 5 stages, and why the community is divided on this mode."
 version: "v1.1.0"
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
 lastmod: "2026-06-16T14:41:21+08:00"
 date: "2026-06-16"
 ---

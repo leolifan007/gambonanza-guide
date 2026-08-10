@@ -31,7 +31,7 @@
 {{- $isNew := le $daysOld 10 -}}
 
 {{- $category := "" -}}
-{{- with $page.Params.category -}}{{- $category = . -}}{{- end -}}
+{{- with $page.Params.categories -}}{{- $category = index . 0 -}}{{- end -}}
       <a href="{{ $url }}" class="latest-article-card">
 {{- if $isNew -}}
         <span class="new-badge">NEW</span>

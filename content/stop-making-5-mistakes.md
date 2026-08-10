@@ -1,10 +1,14 @@
 ---
+tags:
+  - "Strategy & Guides"
+  - "Recovery & Mistakes"
+  - "Strategy"
 title: "5 Mistakes Keeping Your Win Rate Below 30% (Fix These Now)"
 description: "I was stuck at 30% win rate for 150 hours. These 5 mistakes were holding me back. After fixing them, I win 7 out of 10 runs. Player experience with exact before/after data."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
 ---
 
 

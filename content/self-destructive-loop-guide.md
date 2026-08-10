@@ -1,6 +1,10 @@
 ---
-category: "Gambits & Combos"
-
+categories: ["Gambits & Combos"]
+tags:
+  - "Gambits & Combos"
+  - "Gambits"
+  - "Combos & Synergy"
+  - "Recovery & Mistakes"
 title: "Your Combo Loop Backfired? How to Spot Self-Destructive Gambit Cycles Before They Wipe Your Run"
 description: "Infinite loops sound great until they drain your economy to zero. How to identify, fix, and prevent self-destructive gambit cycles in Gambonanza."
 lastUpdated: 'v1.1.0-06-18'

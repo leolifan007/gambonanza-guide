@@ -1,8 +1,12 @@
 ---
+tags:
+  - "Pieces & Cards"
+  - "Gambits"
+  - "Collection"
 title: "Gambonanza Collection Unlock Guide - All 200 Items & 6 Hidden Gambits"
 description: "Complete Gambonanza collection unlock guide for v1.1.0. How to unlock all 200 collection items, 6 hidden gambits, achievements, and what each unlock does for your runs."
 version: "v1.1.0"
-category: "Pieces & Cards"
+categories: ["Pieces & Cards"]
 lastmod: "2026-06-17T14:24:58+08:00"
 date: "2026-06-17"
 ---

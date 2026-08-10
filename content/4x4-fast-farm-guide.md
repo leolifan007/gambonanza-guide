@@ -1,5 +1,8 @@
----category: "Economy"
-
+---
+categories: ["Economy"]
+tags:
+  - "Economy"
+  - "Board & Tiles"
 title: "Gambonanza 4x4 Fast Farm Guide (v1.1.0)-Speedrun Your Economy on Small Boards"
 description: "Gambonanza 4x4 fast farm guide for v1.1.0. Knight aggro openers, farm routes, economy Gambit synergies, and speedrun strategies for maximum stock per minute. Updated for patch v1.1.0."
 ---

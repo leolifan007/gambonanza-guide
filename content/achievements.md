@@ -1,6 +1,8 @@
 ---
-category: "Strategy & Guides"
-
+categories: ["Strategy & Guides"]
+tags:
+  - "Achievements"
+  - "Collection"
 title: "Gambonanza Achievements Guide v1.1.0-All 22 Steam Achievements Unlock Guide"
 description: "Complete Gambonanza achievement guide for patch v1.1.0. All 22 Steam achievements with difficulty ratings, exact unlock strategies, and Pro Tips for the hardest ones. Updated for patch v1.1.0."
 ------

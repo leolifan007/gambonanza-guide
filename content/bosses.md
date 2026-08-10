@@ -1,6 +1,9 @@
 ---
-category: "Boss Battles"
-
+categories: ["Boss Battles"]
+tags:
+  - "Bosses"
+  - "Difficulty"
+  - "Meta & Builds"
 title: "Gambonanza Bosses-All 8 Bosses Ranked by Difficulty (v1.1.0)"
 description: "Every Gambonanza boss ranked from easiest to hardest. Quick-reference stats, phase mechanics, and which Gambits counter each boss. Updated for patch v1.1.0."
 ------

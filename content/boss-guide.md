@@ -1,9 +1,12 @@
 ---
+tags:
+  - "Boss Battles"
+  - "Bosses"
 title: "Gambonanza Boss Guide v1.1.0 - All 9 Bosses and How to Beat Them"
 description: "Complete Gambonanza boss guide for v1.1.0. All 9 bosses ranked by difficulty, phase-by-phase breakdowns, recommended gambits and builds for each boss, strategy for Grandmaster final boss."
 lastmod: "2026-06-10"
 version: "v1.1.0"
-category: "Boss Battles"
+categories: ["Boss Battles"]
 ---
 
 Boss fights are where Gambonanza runs end. With 9 total bosses across 5 stages plus the final Grandmaster encounter, knowing what each boss does is the difference between a winning streak and starting over. The [Pawn Economy Loop](/pawn-economy-loop/) is the most consistent income strategy for stocking up before boss encounters, and the [Queen Supremacy Guide](/queen-supremacy-guide/) covers the aggressive build that dominates mid-game bosses.

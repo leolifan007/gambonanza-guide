@@ -1,7 +1,10 @@
----category: "Gambits"
-
+---
+categories: ["Gambits"]
 date: 2026-05-22
 lastmod: 2026-05-22T08:41:17+08:00
+tags:
+  - "Gambits"
+  - "Combos & Synergy"
 title: "How to Fix a Broken Gambit Chain in Mid-Game"
 description: "Gambonanza gambit chain recovery guide v1.1.0. Why your combo stopped, how to restart it, salvage routes when you\u2019re stuck mid-board, and emergency fallback chains for v1.1.0."
 lastUpdated: 'v1.1.0-05-21'

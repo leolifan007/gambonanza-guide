@@ -1,6 +1,8 @@
 ---
-category: "Strategy & Guides"
-
+categories: ["Strategy & Guides"]
+tags:
+  - "Recovery & Mistakes"
+  - "Strategy"
 title: "Gambonanza Decision Framework (v1.1.0)-Stop Making Costly Mistakes"
 description: "Gambonanza decision framework for patch v1.1.0. How to read the board, when to attack vs defend, your personal mistake pattern, and the decision tree that stops you from throwing runs. Updated for patch v1.1.0."
 ------

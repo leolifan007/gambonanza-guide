@@ -14,16 +14,18 @@
       </article>
       <aside class="sidebar category-sidebar" id="category-sidebar">
         {{- /* Category article list */}}
-        {{- $cat := .Params.category -}}
+        {{- $cat := "" -}}
+        {{- with .Params.categories -}}{{- $cat = index . 0 -}}{{- end -}}
         {{- $catPageCount := 0 -}}
         {{- if $cat -}}
-        {{- $catPages := where $.Site.RegularPages "Params.category" $cat -}}
-        {{- /* Sort by most recent date */ -}}
+        {{- /* Collect pages in this category, sorted by most recent date */ -}}
         {{- $sortedPages := slice -}}
-        {{- range $catPages -}}
-          {{- $d := .PublishDate -}}
-          {{- if $d.IsZero -}}{{- $d = .Lastmod -}}{{- end -}}
-          {{- $sortedPages = $sortedPages | append (dict "Page" . "SortDate" $d) -}}
+        {{- range $.Site.RegularPages -}}
+          {{- if and .Params.categories (in .Params.categories $cat) -}}
+            {{- $d := .PublishDate -}}
+            {{- if $d.IsZero -}}{{- $d = .Lastmod -}}{{- end -}}
+            {{- $sortedPages = $sortedPages | append (dict "Page" . "SortDate" $d) -}}
+          {{- end -}}
         {{- end -}}
         {{- $sortedPages = sort $sortedPages "SortDate" "desc" -}}
         {{- $catPageCount = len $sortedPages -}}

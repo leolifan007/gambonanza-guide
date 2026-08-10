@@ -1,10 +1,14 @@
 ---
+tags:
+  - "Boss Battles"
+  - "Bosses"
+  - "Strategy"
 title: "How to Beat Jester Boss - Strategy Guide (68% Win Rate)"
 description: "Jester's random moves follow patterns. This guide shows how to read him, the best build (Control Lock), and turn-by-turn strategy for 68% win rate."
 date: "2026-06-03"
 lastmod: "2026-06-03T16:52:00+08:00"
 version: "1.1.0"
-category: "Boss Battles"
+categories: ["Boss Battles"]
 ---
 
 

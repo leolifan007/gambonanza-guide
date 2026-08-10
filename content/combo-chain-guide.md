@@ -1,5 +1,7 @@
----category: "Gambits"
-
+---
+categories: ["Gambits"]
+tags:
+  - "Combos & Synergy"
 title: "Combo Chain Guide"
 description: "Gambonanza combo chain guide for patch v1.1.0. Checkmate Express flowchart, Farm Loop diagram, and 4 chain types to double your value per turn. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-17'

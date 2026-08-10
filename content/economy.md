@@ -1,5 +1,9 @@
----category: "Economy"
-
+---
+categories: ["Economy"]
+tags:
+  - "Economy"
+  - "Tips"
+  - "Strategy"
 title: "Gambonanza Economy & Shop Guide v1.1.0-Stock Strategy & Investment Tips"
 description: "Complete Gambonanza economy guide for patch v1.1.0. S/A/B/C rated investment tables, compound growth strategies, shop spending priorities, and exact thresholds for maximum returns. Updated for patch v1.1.0."
 ---

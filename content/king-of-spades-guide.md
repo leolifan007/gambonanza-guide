@@ -1,7 +1,7 @@
 ---
-category: "Boss Battles"
-
-
+categories: ["Boss Battles"]
+tags:
+  - "Meta & Builds"
 title: "Gambonanza King of Spades Guide v1.1.0-Mechanics, Counters & Three Proven Builds"
 
 description: "Gambonanza King of Spades boss guide for patch v1.1.0. Teleport mechanics explained, piece priority ranking, and three proven builds: solid control, speed push, and no-damage sniper. Updated for patch v1.1.0."

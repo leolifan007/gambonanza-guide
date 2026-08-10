@@ -1,5 +1,7 @@
----category: "Pieces & Cards"
-
+---
+categories: ["Pieces & Cards"]
+tags:
+  - "Crumble Mode"
 title: "Crumble Mechanic Guide"
 description: "Gambonanza Crumble mechanic guide for patch v1.1.0. Board shrink visualization, Heal Board loop diagram, 3 trap scenarios with solutions, and 5 counter-plays for every board size. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-21'

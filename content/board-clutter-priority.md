@@ -1,7 +1,10 @@
 ---
-category: "Strategy & Guides"
-
+categories: ["Strategy & Guides"]
 date: 2026-06-18
+tags:
+  - "Strategy & Guides"
+  - "Pieces & Cards"
+  - "Board & Tiles"
 title: "Board Full of Pieces? The Pruning Priority Guide - What to Sell First When Space Runs Out"
 description: "Board clutter is the silent run-killer. A priority system for deciding what to keep, what to sell, and what to sacrifice when your Gambonanza board is full."
 lastmod: 2026-06-18T17:30:00+08:00

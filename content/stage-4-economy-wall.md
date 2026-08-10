@@ -1,7 +1,11 @@
 ---
-category: "Economy & Shop"
-
+categories: ["Economy & Shop"]
 date: 2026-06-18
+tags:
+  - "Economy & Shop"
+  - "Economy"
+  - "Bosses"
+  - "Recovery & Mistakes"
 title: "Stage 4 Economy Wall - 3 Reasons Your Stock Dies Before the Boss (and How to Fix Each)"
 description: "Stage 4 is the #1 quitting point in Gambonanza. 3 specific economy killers that wipe your stock before the boss fight, with turn-by-turn fixes for each."
 lastmod: 2026-06-18T17:30:00+08:00

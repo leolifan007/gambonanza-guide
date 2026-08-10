@@ -1,5 +1,10 @@
 ---
-category: "Economy & Shop"
+categories: ["Economy & Shop"]
+tags:
+  - "Economy & Shop"
+  - "Economy"
+  - "Bosses"
+  - "Beginner"
 title: "Beat the Boss, Lost the Economy - How to Restart Stock Generation After Every Boss Fight"
 description: "Boss fights don't test your strength-they test your recovery. A step-by-step post-boss economic restart procedure for each stage transition in Gambonanza."
 keywords: [post-boss, economy restart, recovery, stage transition]

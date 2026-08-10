@@ -1,5 +1,7 @@
----category: "Pieces & Cards"
-
+---
+categories: ["Pieces & Cards"]
+tags:
+  - "Board & Tiles"
 title: "Tile Control Guide"
 description: "Gambonanza tile control guide for patch v1.1.0. Tile value map visualization, center vs edge strategy, and a 5-rule checklist to own the board. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-17'
