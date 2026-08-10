@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pieces &amp; Cards on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/categories/pieces--cards/</link><description>Recent content in Pieces &amp; Cards on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 17:30:00 +0800</lastBuildDate><atom:link href="https://gambonanzaguide.com/categories/pieces--cards/index.xml" rel="self" type="application/rss+xml"/><item><title>Pawn Promotion Not Working? 4 Conditions That Block Your Upgrade (and How to Check Each)</title><link>https://gambonanzaguide.com/pawn-promotion-troubleshooting/</link><pubDate>Thu, 18 Jun 2026 17:30:00 +0800</pubDate><guid>https://gambonanzaguide.com/pawn-promotion-troubleshooting/</guid><description>&lt;h2 id="0"&gt;0&lt;/h2&gt;
+&lt;p&gt;Your pawn is on the back rank. The promotion button does not show. You check the conditions: rank 8, check. Pawn, check. No capture in progress, check. So why is the game refusing to promote your piece? Check out &lt;a href="https://gambonanzaguide.com/pawn-promotion-guide/"&gt;Pawn Promotion Guide&lt;/a&gt; for more. The &lt;a href="https://gambonanzaguide.com/pawn-promotion-sustainability-guide/"&gt;Pawn Promotion Sustainability Guide&lt;/a&gt; covers this in depth.&lt;/p&gt;
+&lt;p&gt;I have spent hours testing every edge case of Gambonanza&amp;rsquo;s pawn promotion system. The existing guides tell you when to promote and what to promote into. This guide tells you why promotion silently fails. These four conditions have cost me runs, and they cost you runs too if you do not know how to diagnose them.&lt;/p&gt;</description></item><item><title>Gambonanza Collection Unlock Guide - All 200 Items &amp; 6 Hidden Gambits</title><link>https://gambonanzaguide.com/collection-unlock-guide/</link><pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/collection-unlock-guide/</guid><description>&lt;p&gt;Gambonanza has a massive collection system with over 200 items to unlock across runs. Beyond the visible progression, there are 6 hidden gambits that require specific conditions to unlock. The Gambonanza Wiki barely documents most of these - this guide consolidates what the community has discovered.&lt;/p&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&amp;ldquo;gambonanza achievements&amp;rdquo; has 35 impressions with no dedicated page. Combined with &amp;ldquo;gambonanza cheats&amp;rdquo; (37 imp) and collection-related searches, there is clear demand for unlock/collection content.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/hidden-gambit-path.svg" alt="Hidden gambit unlock path" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;6 hidden gambits exist, with the 6th being the most mysterious - no unlock description at all.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;hr class="section-divider"&gt;
+&lt;h2 id="how-the-collection-system-works"&gt;How the Collection System Works&lt;/h2&gt;
+&lt;p&gt;Per GameBrief&amp;rsquo;s analysis: Gambonanza adds &amp;ldquo;a 200-item collection to unlock across runs&amp;rdquo; (&lt;a href="https://www.gamebrief.net/blog/gambonanza-complete-guide-2026"&gt;source&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Best Rook Build - Turn Rook Control Into 65% Wins (Full Build Guide)</title><link>https://gambonanzaguide.com/rook-gambit-build-guide/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/rook-gambit-build-guide/</guid><description>&lt;h1 id="best-rook-build---turn-rook-control-into-65-wins"&gt;Best Rook Build - Turn Rook Control Into 65% Wins&lt;/h1&gt;
+&lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Rook Gambit build wins 65% of games on 6x6 boards. Here is the exact setup:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="synergy-table" style="overflow-x:auto"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Piece Pairing&lt;/th&gt;
+ &lt;th&gt;Win Rate&lt;/th&gt;
+ &lt;th&gt;Best Board&lt;/th&gt;
+ &lt;th&gt;Difficulty&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Rook + Queen&lt;/td&gt;
+ &lt;td&gt;72%&lt;/td&gt;
+ &lt;td&gt;6x6&lt;/td&gt;
+ &lt;td&gt;Advanced&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Rook + Bishop&lt;/td&gt;
+ &lt;td&gt;68%&lt;/td&gt;
+ &lt;td&gt;5x5-6x6&lt;/td&gt;
+ &lt;td&gt;Intermediate&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Rook + Knight&lt;/td&gt;
+ &lt;td&gt;61%&lt;/td&gt;
+ &lt;td&gt;4x4-5x5&lt;/td&gt;
+ &lt;td&gt;Beginner&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Core principle:&lt;/strong&gt; The Rook is not a frontline fighter. It is a suppression engine. If you place the Rook to directly attack the opponent, you are using it wrong. The Rook&amp;rsquo;s job is to control columns, not to capture pieces.&lt;/p&gt;</description></item><item><title>Master the Knight: The Most Underrated Piece in Gambonanza (Pro Tips)</title><link>https://gambonanzaguide.com/master-the-knight-guide/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/master-the-knight-guide/</guid><description>&lt;h1 id="master-the-knight-the-most-underrated-piece-in-gambonanza-pro-tips"&gt;Master the Knight: The Most Underrated Piece in Gambonanza (Pro Tips)&lt;/h1&gt;
+&lt;h2 id="the-tldr"&gt;The TL;DR&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Knight is the single most flexible piece in Gambonanza. Here&amp;rsquo;s why most players underuse it &amp;ndash; and how to make it your run&amp;rsquo;s backbone.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="synergy-table" style="overflow-x:auto"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Knight Skill&lt;/th&gt;
+ &lt;th&gt;What It Does&lt;/th&gt;
+ &lt;th&gt;Why It Wins&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;L-move reach&lt;/td&gt;
+ &lt;td&gt;Hits any tile in 2-3 moves&lt;/td&gt;
+ &lt;td&gt;Best chain connector&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Jump over pieces&lt;/td&gt;
+ &lt;td&gt;Ignores board congestion&lt;/td&gt;
+ &lt;td&gt;Unstoppable positioning&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Knight Fork Gambit&lt;/td&gt;
+ &lt;td&gt;Hits 2+ targets&lt;/td&gt;
+ &lt;td&gt;Best value Gambit in the game&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The 3 Knight techniques that changed my game:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Best Knight Strategy - Win More Games with the Knight Rush Build</title><link>https://gambonanzaguide.com/knight-rush-opener/</link><pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/knight-rush-opener/</guid><description>&lt;h1 id="best-knight-strategy---win-more-games-with-the-knight-rush-build"&gt;Best Knight Strategy - Win More Games with the Knight Rush Build&lt;/h1&gt;
+&lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Knight Rush build wins 62% of games on small boards (4x4, 5x5). Here&amp;rsquo;s exactly how to use it:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="synergy-table" style="overflow-x:auto"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Board Size&lt;/th&gt;
+ &lt;th&gt;Knight Rush&lt;/th&gt;
+ &lt;th&gt;Better Opener&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;4x4&lt;/td&gt;
+ &lt;td&gt;Strong&lt;/td&gt;
+ &lt;td&gt;-&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;5x5&lt;/td&gt;
+ &lt;td&gt;Viable&lt;/td&gt;
+ &lt;td&gt;Bishop Control&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;6x6&lt;/td&gt;
+ &lt;td&gt;Too slow&lt;/td&gt;
+ &lt;td&gt;Pawn Economy&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;7x7+&lt;/td&gt;
+ &lt;td&gt;Don&amp;rsquo;t&lt;/td&gt;
+ &lt;td&gt;Farm Loop&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The 3-turn setup:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Turn 1: Knight to center-adjacent square (not center itself)&lt;/li&gt;
+&lt;li&gt;Turn 2: Second Knight OR Bishop support&lt;/li&gt;
+&lt;li&gt;Turn 3: Assess - if opponent has 2+ Pawns blocking, PIVOT. See &lt;a href="https://gambonanzaguide.com/board-size-strategy/"&gt;Board Size Strategy&lt;/a&gt; for which boards favor this opener.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="how-to-win-with-knight-rush-step-by-step"&gt;How to Win with Knight Rush (Step by Step)&lt;/h2&gt;
+&lt;h3 id="step-1-check-board-size"&gt;Step 1: Check Board Size&lt;/h3&gt;
+&lt;p&gt;Knight Rush only works on 4x4 and 5x5 boards. If you see 6x6 or larger, skip this build and use Pawn Economy instead.&lt;/p&gt;</description></item><item><title>When to Sacrifice Pieces in Gambonanza</title><link>https://gambonanzaguide.com/piece-sacrifice-guide/</link><pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/piece-sacrifice-guide/</guid><description>&lt;h2 id="sacrifice-u2014-tldr-check-tile-control-guide-for-the-full-breakdown-the-crumble-mechanic-guide-breaks-this-down-in-detail"&gt;Sacrifice \u2014 TL;DR Check &lt;a href="https://gambonanzaguide.com/tile-control-guide/"&gt;Tile Control Guide&lt;/a&gt; for the full breakdown. The &lt;a href="https://gambonanzaguide.com/crumble-mechanic-guide/"&gt;Crumble Mechanic Guide&lt;/a&gt; breaks this down in detail.&lt;/h2&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;In Gambonanza, sacrifice doesn\u2019t mean losing a piece. It means converting a piece into board advantage.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The rule: sacrifice when the resulting Gambit activation + stock gain is worth at least 2x the piece\u2019s current board value. Never sacrifice for no immediate return.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id="the-sacrifice-decision-framework"&gt;The Sacrifice Decision Framework&lt;/h2&gt;
+&lt;p&gt;Every move in Gambonanza has a calculated value. Before you sacrifice, run this three-question filter:&lt;/p&gt;</description></item><item><title>Crumble Mechanic Guide</title><link>https://gambonanzaguide.com/crumble-mechanic-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/crumble-mechanic-guide/</guid><description>&lt;h2 id="crumble-tldr-check-beginner-guide-for-the-full-breakdown-the-tile-control-guide-breaks-this-down-in-detail"&gt;Crumble-TL;DR Check &lt;a href="https://gambonanzaguide.com/beginner/"&gt;Beginner Guide&lt;/a&gt; for the full breakdown. The &lt;a href="https://gambonanzaguide.com/tile-control-guide/"&gt;Tile Control Guide&lt;/a&gt; breaks this down in detail.&lt;/h2&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;Crumble is predictable, not random.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Edges collapse first. Center survives to the end. Control the center and Crumble becomes your weapon.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class="meta-rating"&gt;
+ &lt;span class="meta-badge meta-a"&gt;A&lt;/span&gt;&lt;span class="meta-label"&gt;Understanding Crumble = &amp;#43;30% win rate on 5x5&amp;#43; boards.&lt;/span&gt;
+&lt;/div&gt;
+
+
+&lt;hr class="section-divider"&gt;
+
+&lt;h2 id="how-the-board-shrinks-5x5"&gt;How the Board Shrinks (5x5)&lt;/h2&gt;
+&lt;img src="https://gambonanzaguide.com/images/guides/crumble-5x5-wave.svg" alt="5x5 Crumble Wave Visualization: corners-edges-center over 3 waves" style="width:100%;max-width:800px;border-radius:8px;" loading="lazy"&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Rule:&lt;/strong&gt; Center 4 tiles (5x5) or center 9 tiles (6x6) collapse last. Anchor there.&lt;/p&gt;</description></item><item><title>Gambonanza Card Database (v1.1.0) Every Piece Card Rated &amp; Ranked</title><link>https://gambonanzaguide.com/cards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/cards/</guid><description>&lt;h2 id="card-database--rated-ranked--synergized"&gt;Card Database Rated, Ranked &amp;amp; Synergized&lt;/h2&gt;
+&lt;p&gt;Every piece in Gambonanza has an associated card. Moving that piece activates it. But some cards define runs and some are filler. The &lt;a href="https://gambonanzaguide.com/gambits/"&gt;All Gambits Guide&lt;/a&gt; shows how specific cards enable key combo chains. See the &lt;a href="https://gambonanzaguide.com/gambonanza-tier-list/"&gt;Tier List&lt;/a&gt; for the strongest card-to-Gambit builds.&lt;/p&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;THE VERDICT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Your deck is only as strong as its weakest 3 cards. A deck with 15 A-tier cards beats a deck with 10 S-tier + 5 C-tier every time. Trim the filler.&lt;/p&gt;</description></item><item><title>Gambonanza Pawn Promotion Guide v1.1.0-Don't Break Your Build When Pawns Evolve</title><link>https://gambonanzaguide.com/pawn-promotion-sustainability-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/pawn-promotion-sustainability-guide/</guid><description>&lt;hr&gt;
+&lt;h2 id="the-promotion-trap"&gt;The Promotion Trap&lt;/h2&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;PROMOTION-AUTOMATIC UPGRADE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Promoting a pawn to a queen sounds good-until your &amp;ldquo;Pawns only&amp;rdquo; relic stops working and you lose the economy engine that carried you through 10 runs. Promotion is a strategic decision, not a default.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class="meta-rating"&gt;
+ &lt;span class="meta-badge meta-a"&gt;A&lt;/span&gt;&lt;span class="meta-label"&gt;Core strategy reference for intermediate players. Combines well with other guides.&lt;/span&gt;
+&lt;/div&gt;
+
+
+&lt;hr class="section-divider"&gt;
+
+&lt;p&gt;Promotion in Gambonanza works differently than standard chess. It&amp;rsquo;s not just about getting a queen-it&amp;rsquo;s about what you LOSE when a pawn stops being a pawn. Certain Gambits, relics, and economy bonuses only trigger on pawn moves.&lt;/p&gt;</description></item><item><title>Gambonanza Rook &amp; Bishop Guide v1.1.0-Mastering the Support Pieces</title><link>https://gambonanzaguide.com/rook-bishop-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/rook-bishop-guide/</guid><description>&lt;h2 id="the-backbone-not-the-sidekick"&gt;The Backbone, Not The Sidekick&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Queen reaps the harvest. Rook and Bishop create the conditions for the harvest. But 80% of beginners treat Rook as an expensive Pawn and Bishop as a budget Rook-this is completely backward. The &lt;a href="https://gambonanzaguide.com/bosses/"&gt;Bosses Overview&lt;/a&gt; breaks this down in detail. The &lt;a href="https://gambonanzaguide.com/strategy/"&gt;Strategy Guide&lt;/a&gt; breaks this down in detail.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;Verdict&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rook is Gambonanza&amp;rsquo;s best value piece-moderate deployment cost, brutal suppression power, explosive Gambit synergy. Bishop is weaker man-for-man but irreplaceable in the right formations. Neither is a downgraded Queen-they&amp;rsquo;re complementary tools. &lt;strong&gt;Rating:&lt;/strong&gt; &lt;span class='meta-rating'&gt;A&lt;/span&gt; for Rook, &lt;span class='meta-rating'&gt;B&lt;/span&gt; for Bishop (S-tier in the right formation).&lt;/p&gt;</description></item><item><title>Tile Control Guide</title><link>https://gambonanzaguide.com/tile-control-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/tile-control-guide/</guid><description>&lt;h2 id="tile-control--tldr-check-crumble-mechanic-guide-for-the-full-breakdown-the-decision-framework-breaks-this-down-in-detail"&gt;Tile Control TL;DR Check &lt;a href="https://gambonanzaguide.com/crumble-mechanic-guide/"&gt;Crumble Mechanic Guide&lt;/a&gt; for the full breakdown. The &lt;a href="https://gambonanzaguide.com/decision-framework-guide/"&gt;Decision Framework&lt;/a&gt; breaks this down in detail.&lt;/h2&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;Center = wins. Edges = Crumble bait.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gambonanza is territory control, not chess. Control the center tiles and the game plays itself.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class="meta-rating"&gt;
+ &lt;span class="meta-badge meta-a"&gt;A&lt;/span&gt;&lt;span class="meta-label"&gt;Once you see the board as territory, everything else makes sense.&lt;/span&gt;
+&lt;/div&gt;
+
+
+&lt;hr class="section-divider"&gt;
+
+&lt;h2 id="tile-value-map-5x5"&gt;Tile Value Map (5x5)&lt;/h2&gt;
+&lt;img src="https://gambonanzaguide.com/images/guides/tile-value-5x5.svg" alt="5x5 Tile Value Map: piece-based tier guide" class="schema-diagram" loading="lazy" style="width:100%;max-width:640px;height:auto"&gt;
+&lt;div class="synergy-table" style="overflow-x:auto"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Tier&lt;/th&gt;
+ &lt;th&gt;Value&lt;/th&gt;
+ &lt;th&gt;Crumble Safety&lt;/th&gt;
+ &lt;th&gt;Best Piece&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;S&lt;/strong&gt; (center)&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;Never collapses&lt;/td&gt;
+ &lt;td&gt;Queen / Knight&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;A&lt;/strong&gt; (mid-ring)&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;Collapses last&lt;/td&gt;
+ &lt;td&gt;Rook / Bishop&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;B&lt;/strong&gt; (bridge)&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;Collapses mid-game&lt;/td&gt;
+ &lt;td&gt;Any&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;C&lt;/strong&gt; (corridor)&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;Collapses early&lt;/td&gt;
+ &lt;td&gt;Avoid&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;D&lt;/strong&gt; (edge)&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;1st to collapse&lt;/td&gt;
+ &lt;td&gt;Avoid&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;hr class="section-divider"&gt;
+
+&lt;h2 id="gambit-tiles--quick-reference"&gt;Gambit Tiles Quick Reference&lt;/h2&gt;
+&lt;div class="synergy-table" style="overflow-x:auto"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Tile&lt;/th&gt;
+ &lt;th&gt;Effect&lt;/th&gt;
+ &lt;th&gt;Priority&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Free Gambit&lt;/td&gt;
+ &lt;td&gt;Free Gambit use (3-turn cooldown)&lt;/td&gt;
+ &lt;td&gt;?(always take)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Stock Boost&lt;/td&gt;
+ &lt;td&gt;+2-5 stock&lt;/td&gt;
+ &lt;td&gt;?(only if safe)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Heal Square&lt;/td&gt;
+ &lt;td&gt;Restore 1 collapsed adjacent tile&lt;/td&gt;
+ &lt;td&gt;?(vs Crumble)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Power Square&lt;/td&gt;
+ &lt;td&gt;Next move +1 range&lt;/td&gt;
+ &lt;td&gt;?(nice to have)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Trap Tile&lt;/td&gt;
+ &lt;td&gt;Damages your piece&lt;/td&gt;
+ &lt;td&gt;?(avoid)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Rule:&lt;/strong&gt; Free Gambit tiles are the most valuable on the board. Plan routes to revisit them after cooldown.&lt;/p&gt;</description></item></channel></rss>

@@ -1,39 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ .Title }} - {{ .Site.Title }}</title>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}Browse all {{ lower .Title }} on Gambonanza Guide.{{ end }}">
-  <link rel="stylesheet" href="/css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>{{ .Title }}</title>
 </head>
 <body>
-  {{ partial "header" . }}
-  <main>
-    <section class="section">
-      <div class="container">
-        <article class="main-content">
-          <div class="content-body">
-            <h1>{{ .Title }}</h1>
-            {{ with .Description }}<p>{{ . }}</p>{{ end }}
-            {{ if .Pages }}
-            <ul class="taxonomy-term-list">
-              {{ range .Pages.ByTitle }}
-              <li>
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                <span class="taxonomy-term-count">({{ len .Pages }} article{{ if ne (len .Pages) 1 }}s{{ end }})</span>
-              </li>
-              {{ end }}
-            </ul>
-            {{ else }}
-            <p>No {{ lower .Title }} yet. Check back soon.</p>
-            {{ end }}
-          </div>
-        </article>
-      </div>
-    </section>
-  </main>
-  {{ partial "footer" . }}
-  <script src="/js/redesign.js"></script>
+  <p>Redirecting...</p>
+  <script>
+    window.location.href = "/";
+  </script>
 </body>
 </html>
