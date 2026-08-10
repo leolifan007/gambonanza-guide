@@ -1,5 +1,7 @@
 ---
-category: "Gambits"
+categories: ["Gambits"]
+tags:
+  - "Gambits"
 title: "Missigno's & Graal's Gambit Guide - The Two New v1.3.0 Gambits Explained"
 description: "Deep dive strategy guide for Gambonanza v1.3.0's two new Gambits: Missigno's (community-made, randomizes all pieces) and Graal's (creates Blessing Tile). When to pick each and how to build around them."
 game_version: ">=v1.3.0"

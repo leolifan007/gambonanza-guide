@@ -1,5 +1,7 @@
 ---
-category: "Gambits"
+categories: ["Gambits"]
+tags:
+  - "Gambits"
 title: "ADJACENT Keyword Guide - All 11 Gambits Using Gambonanza's New Keyword (v1.2+)"
 description: "Gambonanza v1.2.0 introduced the ADJACENT keyword for 11 Gambits. Complete guide to how adjacency works and which Gambits use it. Updated for v1.3.0."
 game_version: ">=v1.2.0"

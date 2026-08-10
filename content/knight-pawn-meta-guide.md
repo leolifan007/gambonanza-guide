@@ -1,5 +1,10 @@
 ---
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
+tags:
+  - "Pawns"
+  - "Knights"
+  - "Pieces & Cards"
+  - "Meta & Builds"
 title: "Knight & Pawn Meta Guide - How v1.2.0's Buffs Made These Two Pieces Dominant (v1.3+)"
 description: "Gambonanza v1.2.0 specifically buffed Knight + Pawn synergies. Combined with v1.3.0's Show Jumping and Whip buffs, this archetype is now top-tier. Updated for v1.3.0."
 game_version: ">=v1.3.0"

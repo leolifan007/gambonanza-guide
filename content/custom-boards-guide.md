@@ -1,5 +1,8 @@
 ---
-category: "Beginner"
+categories: ["Beginner"]
+tags:
+  - "Collection"
+  - "Board & Tiles"
 title: "Gambonanza Custom Boards Guide - How to Unlock All 21 Boards (17 Unlockable)"
 description: "Complete guide to unlocking all 21 Gambonanza boards. Every board has specific unlock conditions from achievements to hidden triggers. Updated for v1.3.0."
 game_version: ">=v1.2.0"

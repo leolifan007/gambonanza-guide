@@ -1,5 +1,7 @@
 ---
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
+tags:
+  - "Meta & Builds"
 title: "Gambonanza v1.3.0 Patch Breakdown - All Balance Changes & What They Mean for Your Builds"
 description: "Complete breakdown of Gambonanza v1.3.0. Templar nerfed to 1/3, two new Gambits, Stalemate revamp, Bunker rework, and 6 Gambits buffed. Updated for patch v1.3.0."
 game_version: ">=v1.3.0"

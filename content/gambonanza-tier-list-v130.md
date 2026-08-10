@@ -1,5 +1,8 @@
 ---
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
+tags:
+  - "Gambits"
+  - "Meta & Builds"
 title: "Gambonanza Tier List v1.3.0 - All Gambits Ranked After the Balance Patch"
 description: "Updated Gambonanza tier list for v1.3.0. Templar drops from S to B, Missigno and Graal join the pool, 6 Gambits move up. All 150+ Gambits ranked S/A/B/C with the latest balance data."
 game_version: ">=v1.3.0"
