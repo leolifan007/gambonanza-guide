@@ -11,6 +11,10 @@ description: "Gambonanza deterministic Gambits guide for patch v1.1.0. Reliable 
 **This guide is from v1.1.0.** Several Gambit probabilities changed in v1.3.0: Whip's, Chamberlain's, Dead or Alive's, Show Jumping's, Pendant's, and Miracle's all moved to guaranteed triggers (1/1). These were previously in the High Probability tier but are now fully deterministic. See the **[v1.3.0 Patch Breakdown](/v130-patch-breakdown/)** for the full list of changes.
 {{< /callout >}}
 
+{{< callout type="info" title="Updated for v1.4.0" >}}
+**v1.4.0 changed several Gambits this guide covers.** Yin's Gambit (1/3 to 1/2) and Yang's Gambit (1/3 to 1/2) are now more reliable. Rear Up's Gambit economy doubled (+$2 to +$4). Three Gambits were revamped: Clown's (promoting to a non-QUEEN now spawns a tile by piece: ROOK to Protective, KNIGHT to Trap, BISHOP to Blessing, KING to Golden, PAWN to Phantom), Enigma's (capturing on a tile switches its color), and AFK's (Stock-full pieces now land on the board instead of being lost). See the **[v1.4.0 Patch Breakdown](/v140-patch-breakdown/)** and the **[Clown/Enigma/AFK revamp guide](/clown-enigma-afk-revamp-guide/)**.
+{{< /callout >}}
+
 
 
 ## Why Deterministic Gambits Win

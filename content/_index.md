@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Guide (v1.3.0)-Complete Strategy, Best Builds & Seeds"
-description: "The #1 Gambonanza guide for v1.3.0. Best builds, tier list, all 200+ Gambits rated, boss strategies, and recommended seeds. Updated for patch v1.3.0."
+title: "Gambonanza Guide (v1.4.0)-Complete Strategy, Best Builds & Seeds"
+description: "The #1 Gambonanza guide for v1.4.0. Best builds, tier list, all 200+ Gambits rated, boss strategies, and recommended seeds. Updated for patch v1.4.0."
 ---
 
 ## Complete Guide-Pick Your Path
@@ -149,10 +149,10 @@ I've spotted at least 2 Queen cards in my recent runs that the community hasn't 
 
 ---
 
-*Guide last updated: July 13, v1.3.0 (patch v1.3.0). Balance overhaul, 2 new Gambits, 6 Gambit trigger buffs, Templar nerfed, Bunker's reworked, ADJACENT keyword clarified, Board Customization, and more.*
+*Guide last updated: August 18, v1.4.0 (patch v1.4.0). Enhanced AI Mode, the Graveyard, promote into PAWN, Yin/Yang buffed to 1/2, Clown/Enigma/AFK revamped, and QoL settings. Full [v1.4.0 patch breakdown](/v140-patch-breakdown/).*
 
 <div class="update-banner">
-  <strong>v1.3.0 Patch:</strong> Major balance update! <a href="/v130-patch-breakdown/">Full patch breakdown</a> | <a href="/gambonanza-tier-list-v130/">New tier list</a> | <a href="/custom-boards-guide/">Board customization guide</a>
+  <strong>v1.4.0 Patch:</strong> Enhanced AI Mode, the Graveyard, promote into PAWN, Yin/Yang buffed, Clown/Enigma/AFK revamped! <a href="/v140-patch-breakdown/">Full patch breakdown</a> | <a href="/enhanced-ai-mode-guide/">Enhanced AI Mode guide</a> | <a href="/graveyard-system-guide/">Graveyard guide</a>
 </div>
 
 

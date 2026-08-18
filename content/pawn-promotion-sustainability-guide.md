@@ -7,6 +7,10 @@ title: "Gambonanza Pawn Promotion Guide v1.1.0-Don't Break Your Build When Pawns
 description: "Gambonanza Pawn promotion guide for patch v1.1.0. When to promote, what to promote to, and how to keep your build intact when Pawns evolve. Avoid breaking relic synergies. Updated for patch v1.1.0."
 ------
 
+{{< callout type="info" title="Updated for v1.4.0" >}}
+**You can now promote into a PAWN in v1.4.0.** This pairs with the revamped Clown's Gambit: promoting to a non-QUEEN spawns a tile by piece, and promoting into a PAWN drops a Phantom Tile. That enables Phantom-loop builds that were previously hard to seed. See the **[promote-into-PAWN guide](/promote-into-pawn-guide/)**.
+{{< /callout >}}
+
 ## The Promotion Trap
 
 {{< callout type="verdict" >}}<strong>PROMOTION-AUTOMATIC UPGRADE</strong>

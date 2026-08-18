@@ -14,6 +14,10 @@ lastmod: 2026-06-18T17:30:00+08:00
 ---0
 ---
 
+{{< callout type="info" title="Updated for Gambonanza v1.4.0" >}}
+Pawn promotion changed in v1.4.0: you can now also promote a pawn INTO a PAWN, which was not possible before. On KNIGHT difficulty and above, the Graveyard safety net is removed by the Strain system, so a lost promotion piece stays lost. Read the [v1.4.0 patch breakdown](/v140-patch-breakdown/) and the [Promote Into PAWN guide](/promote-into-pawn-guide/) for the new rules before troubleshooting.
+{{< /callout >}}
+
 Your pawn is on the back rank. The promotion button does not show. You check the conditions: rank 8, check. Pawn, check. No capture in progress, check. So why is the game refusing to promote your piece? Check out [Pawn Promotion Guide](/pawn-promotion-guide/) for more. The [Pawn Promotion Sustainability Guide](/pawn-promotion-sustainability-guide/) covers this in depth.
 
 I have spent hours testing every edge case of Gambonanza's pawn promotion system. The existing guides tell you when to promote and what to promote into. This guide tells you why promotion silently fails. These four conditions have cost me runs, and they cost you runs too if you do not know how to diagnose them.

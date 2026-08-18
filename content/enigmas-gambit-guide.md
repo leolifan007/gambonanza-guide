@@ -11,6 +11,10 @@ categories: ["Gambits"]
 ---
 
 
+{{< callout type="info" title="Updated for v1.4.0" >}}
+**Enigma's Gambit was revamped in v1.4.0.** Capturing on a tile now switches its color (BLACK tiles turn WHITE, and WHITE tiles turn BLACK). That opens new board-control lines where you flip a bad tile good or set up color-gated synergies. See the **[v1.4.0 Patch Breakdown](/v140-patch-breakdown/)** and the **[Clown/Enigma/AFK revamp guide](/clown-enigma-afk-revamp-guide/)**.
+{{< /callout >}}
+
 # Enigmas Gambit - The Hidden S-Tier Gambit Most Players Miss
 
 ## Quick Fix

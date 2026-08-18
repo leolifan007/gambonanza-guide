@@ -11,6 +11,10 @@ categories: ["Gambits"]
 ---
 
 
+{{< callout type="info" title="Updated for v1.4.0" >}}
+**AFK's Gambit was improved in v1.4.0.** If your Stock is full, new pieces are now placed directly onto the board instead of being lost. That removes the old failure mode where a full Stock wasted your generated pieces. See the **[v1.4.0 Patch Breakdown](/v140-patch-breakdown/)** and the **[Clown/Enigma/AFK revamp guide](/clown-enigma-afk-revamp-guide/)**.
+{{< /callout >}}
+
 # Afk's Gambit Explained - How to Farm 40 Stock Per Turn
 
 ## Quick Fix

@@ -8,6 +8,10 @@ lastUpdated: 'v1.1.0-05-21'
 version: 'v1.1.0'
 ---
 
+{{< callout type="info" title="Updated for v1.4.0" >}}
+**Crumble pacing changed in v1.4.0.** Waiting against a Stasis enemy no longer increases the Crumble counter. With Enhanced AI on, the AI avoids crumble tiles and Crumble Mode triggers later. See the **[Crumble Mode changes guide](/crumble-mode-14-changes/)**.
+{{< /callout >}}
+
 ## Crumble-TL;DR Check [Beginner Guide](/beginner/) for the full breakdown. The [Tile Control Guide](/tile-control-guide/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Crumble is predictable, not random.</strong>

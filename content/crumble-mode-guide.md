@@ -12,6 +12,10 @@ date: "2026-06-16"
 ---
 
 
+{{< callout type="info" title="Updated for v1.4.0" >}}
+**Crumble Mode pacing changed in v1.4.0.** Waiting against a Stasis enemy no longer increases the Crumble Mode counter, so you can safely stall on Stasis lanes. With Enhanced AI Mode on, the AI also avoids crumble tiles and Crumble Mode triggers later. See the **[Crumble Mode changes guide](/crumble-mode-14-changes/)**.
+{{< /callout >}}
+
 Crumble Mode is Gambonanza's alternate game mode where the board physically degrades over time. Unlike standard play where the board stays intact, Crumble Mode runs on a 3/3 counter that forces aggressive play. If you don't make a capture every 3 moves, the board starts collapsing from the edges.
 
 {{< callout type="verdict" title="Community Verdict" >}}
