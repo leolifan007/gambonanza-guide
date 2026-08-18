@@ -8,6 +8,9 @@ date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
 categories: ["Gambits"]
+game_version: ">=v1.4.0"
+last_reviewed: 2026-08-18
+review_status: updated
 ---
 
 

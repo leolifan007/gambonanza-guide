@@ -1,5 +1,8 @@
 ---
 categories: ["Pieces & Cards"]
+game_version: ">=v1.4.0"
+last_reviewed: 2026-08-18
+review_status: updated
 tags:
   - "Pawns"
   - "Meta & Builds"
