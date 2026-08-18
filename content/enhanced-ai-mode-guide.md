@@ -79,6 +79,12 @@ For survival builds, this is a meaningful upgrade to your testing environment: y
 
 Enhanced AI Mode is the best training tool Gambonanza has ever shipped, and a genuinely nice accessibility option. It is not a replacement for normal mode, and the developers were right to disable achievements and rewards while it is active. Flip it on when you want to get better. Flip it off when you want to get rewarded.
 
+## Does Turning Enhanced AI Off Restore Achievements and Bonuses?
+
+Yes. The Enhanced AI toggle is a live setting in Settings, under Extras. The patch notes state that enabling it disables achievements and extra rewards for that run. The moment you switch it back off, the next run is once again eligible for achievements and bonuses.
+
+What this means in practice: you are not locking yourself out permanently. Players who want the traditional chess feel for one session, then go for 100 percent achievements on another, can flip the switch without losing progress. Just do not expect both at the same time on a single run.
+
 ## Community Resources
 
 - [Official Gambonanza Steam News (v1.4.0 announcements)](https://store.steampowered.com/news/app/3509230/){target="_blank" rel="noopener noreferrer"}

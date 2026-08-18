@@ -75,6 +75,12 @@ This does not mean PAWN is trivial. It means PAWN is the right difficulty for le
 The Graveyard is a smart addition that reduces PAWN difficulty's worst frustration moments without trivializing higher-tier runs. Use it as a deliberate recovery tool for your 1-2 most impactful lost pieces. Do not treat it as a unlimited safety net - the escalating cost is the developer's way of saying "make hard choices, not easy ones." For PAWN farmers trying to refine a build, it is one of the best new quality-of-life features in v1.4.0.
 {{< /callout >}}
 
+## How the Buyback Cost Scales Each Time (and the Diminishing-Return Wall)
+
+The Graveyard keeps your last five lost pieces, but every time you buy one back, the cost of the remaining pieces goes up. The patch notes call this out directly: each repurchase raises the price of what is still in the graveyard.
+
+The practical ceiling: once a piece costs more to recover than it is worth on the board, stop. A common mistake is clawing back three or four pieces in a panic and ending up unable to afford the one that actually matters. Spend on the piece that swings the current fight, let the rest stay buried, and revisit only if the board state changes.
+
 ## Community Resources
 
 - [Official Gambonanza Steam News (v1.4.0 announcements)](https://store.steampowered.com/news/app/3509230/){target="_blank" rel="noopener noreferrer"}

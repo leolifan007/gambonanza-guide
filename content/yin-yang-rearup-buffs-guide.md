@@ -86,6 +86,12 @@ Pick up Yin and Yang if you already run a capture or condition-focused board and
 
 The honest ceiling: none of these three are broken. They are buffed, not reworked. But in a patch where most changes were features and QoL, free reliability and free economy are the easiest wins you can take. Slot them, build around the triggers, and let the doubled promotion payout carry the late game.
 
+## Rear Up +$4 in Practice: A Turn-by-Turn Economy Example
+
+Rear Up's Gambit reward went from +$2 to +$4. That sounds small until you stack it. If Rear Up fires three times across a run, the old value gave you $6 of breathing room; the new value gives $12. On a board where a key piece costs $5 to recover, that extra $6 is the difference between a stalled economy and a recovered board.
+
+Pair Rear Up with Yin and Yang (now 1/2 instead of 1/3) and the economy swings compound: more trigger events, more cash, more recovery. That is why these three buffs are best read as one package, not three separate tweaks.
+
 ## Community Resources
 
 - <a href="https://store.steampowered.com/news/app/3509230/" target="_blank" rel="noopener noreferrer">Official Gambonanza Steam News (v1.4.0 announcements)</a>

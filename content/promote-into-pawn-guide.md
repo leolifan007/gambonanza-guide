@@ -69,6 +69,12 @@ If Phantom strategies were on your radar before, they should be central to your 
 Promote-into-PAWN + Clown's Gambit is the most mechanically significant addition for strategic board-builders in v1.4.0. It is repeatable, early-game accessible, and creates board presence that previously required RNG to generate. If you are running any Phantom-based strategy, this is your new opener priority.
 {{< /callout >}}
 
+## Promote Into PAWN vs Promote Into Queen: When Each Wins
+
+Promoting into a PAWN is the 1.4 headline, but it is not always the right call. A Queen gives you raw board power and is still the default for closing a run. Promoting into a PAWN instead keeps the piece in its weakest form on purpose, and that is what feeds the Phantom Tile loop through Clown's Gambit and the pawn-economy sustainability guides.
+
+Rule of thumb: go Queen when you need to end the game now. Go PAWN when you are building a tile-engine board and want the phantom and pawn synergy to keep paying off over several turns.
+
 ## Community Resources
 
 - [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/){target="_blank" rel="noopener noreferrer"}

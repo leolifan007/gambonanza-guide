@@ -91,6 +91,12 @@ Your 1.4 Crumble checklist:
 
 The big-picture takeaway: v1.4.0 turns Crumble Mode from a pure aggression tax into a real positioning puzzle. The Stasis fix is the headline, Enhanced AI is the optional helper, and the visual cues keep you informed. Patient players win more now than they ever did.
 
+## Stasis Enemies No Longer Feed the Crumble Counter
+
+This is the single most asked 1.4 Crumble question, so to be exact: waiting on Stasis enemies used to push the Crumble Mode counter forward. As of 1.4, it does not. You can now play around a Stasis node without accelerating the board collapse.
+
+Combined with the new visual cues and the slower Enhanced-AI Crumble trigger, 1.4 is noticeably more forgiving on pacing. Use the Stasis reprieve to set up your board instead of bracing for an early collapse.
+
 ## Community Resources
 
 - <a href="https://store.steampowered.com/news/app/3509230/" target="_blank" rel="noopener noreferrer">Official Gambonanza Steam News (v1.4.0 announcements)</a>
