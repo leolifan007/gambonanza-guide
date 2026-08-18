@@ -1,5 +1,8 @@
 ---
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
+tags:
+  - "Strategy & Guides"
+  - "Enemies & Waves"
 title: "New Enemy Waves in Gambonanza 1.4: How to Adapt Your Openings"
 description: "Gambonanza v1.4.0 added new enemy waves to the pool but did not list them. Here is how to adapt your openers and build flexible strategy that works against any formation."
 game_version: ">=v1.4.0"

@@ -1,5 +1,9 @@
 ---
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
+tags:
+  - "Strategy & Guides"
+  - "Crumble Mode"
+  - "Board & Tiles"
 title: "Crumble Mode Changes in Gambonanza 1.4: Stasis Waiting Is Safe Now"
 description: "Gambonanza v1.4.0 makes survival play safer: waiting against a Stasis enemy no longer advances the Crumble Mode counter. Learn how the Crumble pacing shift, Enhanced AI hazard avoidance, and new visual cues change your 1.4 runs."
 game_version: ">=v1.4.0"

@@ -1,5 +1,8 @@
 ---
-category: "Strategy & Guides"
+categories: ["Economy"]
+tags:
+  - "Economy"
+  - "Game Mechanics"
 title: "The Graveyard in Gambonanza 1.4: Recovering Lost Pieces & Buyback Cost Math"
 description: "How the Graveyard system works in Gambonanza v1.4.0: buyback costs, escalating pricing, which pieces are worth recovering, and why it is locked to PAWN difficulty by design."
 game_version: ">=v1.4.0"

@@ -1,5 +1,8 @@
 ---
-category: "Beginner"
+categories: ["Beginner"]
+tags:
+  - "Beginner"
+  - "Strategy & Guides"
 title: "New to Gambonanza After 1.4? What Changed for Beginners"
 description: "New to Gambonanza after the v1.4.0 update? Here is what changed for beginners: Enhanced AI Mode, the Graveyard safety net, and quality-of-life settings that make learning the game far easier."
 game_version: ">=v1.4.0"

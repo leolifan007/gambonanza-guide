@@ -1,5 +1,8 @@
 ---
-category: "Gambits"
+categories: ["Gambits"]
+tags:
+  - "Gambits"
+  - "Meta & Builds"
 title: "Clown, Enigma & AFK Revamped in Gambonanza 1.4: What Changed"
 description: "Full breakdown of the three Gambit revamps in Gambonanza v1.4.0: Clown's Gambit (War Horse replacement), Enigma's Gambit (tile color flip), and AFK's Gambit (Stock-full fix). Learn how each works and which is the biggest winner."
 game_version: ">=v1.4.0"

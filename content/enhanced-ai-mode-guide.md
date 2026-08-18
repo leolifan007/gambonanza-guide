@@ -1,5 +1,8 @@
 ---
-category: "Strategy & Guides"
+categories: ["Strategy & Guides"]
+tags:
+  - "Strategy & Guides"
+  - "Game Modes"
 title: "Enhanced AI Mode in Gambonanza 1.4: Should You Turn It On?"
 description: "Everything you need to know about Gambonanza v1.4.0's Enhanced AI Mode: how to enable it, what it changes about enemy play, the achievement tradeoff, and when it is worth using."
 game_version: ">=v1.4.0"

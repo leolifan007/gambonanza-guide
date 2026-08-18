@@ -1,5 +1,8 @@
 ---
-category: "Beginner"
+categories: ["Beginner"]
+tags:
+  - "Beginner"
+  - "Game Mechanics"
 title: "Gambonanza 1.4 Quality-of-Life Settings: Skip Animations, Algebraic Notation & Unlock All"
 description: "A practical guide to every v1.4.0 quality-of-life setting in Gambonanza. Flip these first: Skip Animations, algebraic notation toggle, Unlock All, and more. Updated for patch v1.4.0."
 game_version: ">=v1.4.0"

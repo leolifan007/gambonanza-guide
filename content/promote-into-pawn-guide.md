@@ -1,5 +1,9 @@
 ---
-category: "Strategy & Guides"
+categories: ["Pieces & Cards"]
+tags:
+  - "Pieces & Cards"
+  - "Pawns"
+  - "Gambits"
 title: "Promote Into PAWN in Gambonanza 1.4: The Phantom-Tile Loop Explained"
 description: "How to promote into a PAWN in Gambonanza v1.4.0, how Clown's Gambit turns that promotion into a Phantom Tile, and why this is the sleeper combo of the patch."
 game_version: ">=v1.4.0"
