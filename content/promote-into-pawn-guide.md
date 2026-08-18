@@ -23,6 +23,8 @@ Clown's Gambit, which replaced War Horse in v1.4.0, does something specific. Whe
 
 Promote into a PAWN, get a Phantom Tile. That is the core of the loop, and it changes everything for anyone running Phantom-based strategies.
 
+{{< diagram src="promote-pawn-phantom-loop.svg" alt="Promote into PAWN phantom tile loop" caption="Promoting into a PAWN triggers Clown's Gambit, which drops a Phantom Tile you can chain." >}}
+
 ## Why Phantom Tiles Matter
 
 Phantom Tiles represent a specific board-control mechanic: they generate or transform pieces in ways that are difficult to replicate through normal play. Before this patch, seeding Phantom Tiles required either lucky Gachapon drops or expensive shop rolls. You had no reliable way to guarantee one in the first few stages.

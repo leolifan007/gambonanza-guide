@@ -15,6 +15,8 @@ That single line is enormous for anyone who stalls on purpose. Before 1.4, sitti
 
 This guide breaks down exactly what the Crumble Mode changes mean, how the new Enhanced AI hazard behavior interacts with them, and how the new visual effects make the whole system more readable. The short version: 1.4 rewards patient, position-first play far more than any previous version, and Stasis lanes are now the single best place to stall.
 
+{{< diagram src="stasis-crumble-before-after.svg" alt="Stasis and the Crumble counter before versus after 1.4" caption="Waiting on a Stasis enemy no longer advances the Crumble counter in v1.4.0." >}}
+
 ## The Core Change, Plain English
 
 In older versions, the Crumble counter climbed whenever you failed to make forward progress, and "waiting" counted as failing to progress. If a Stasis enemy locked down a lane, you were stuck choosing between marching into a bad trade or quietly dying to the crumble timer.

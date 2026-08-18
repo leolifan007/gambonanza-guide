@@ -13,6 +13,8 @@ hidden: false
 Enhanced AI Mode does exactly what it promises: your enemies start playing real chess instead of chaotic gambling. But the tradeoff is severe - **achievements and extra rewards are disabled while it is on**. Use it for practice runs, learning piece interactions, or a chill tactical session. Turn it off before any run where you want progress to count.
 {{< /callout >}}
 
+{{< diagram src="enhanced-ai-decision.svg" alt="Enhanced AI enable decision flow" caption="Enabling Enhanced AI trades achievements and extra rewards for a safer, traditional chess feel." >}}
+
 ## The Short Answer
 
 Enhanced AI Mode is the headline feature of Gambonanza v1.4.0, and it finally answers a complaint that has existed since launch: enemy pieces sometimes play like they are trying to lose. Flip the toggle and the enemy stops making suicidal trades, stops blundering into forks, and stops walking onto crumbling tiles. It is a fundamentally more conventional chess experience.

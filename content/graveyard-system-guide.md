@@ -11,6 +11,8 @@ hidden: false
 
 The Graveyard is a new piece-recovery system introduced in Gambonanza v1.4.0. It holds your last 5 lost pieces during a run, and lets you spend money to bring them back. Each piece you recover raises the cost of every remaining piece in the Graveyard, so the system punishes greedy recovery attempts while still giving you a genuine second chance. This guide covers exactly how the system works, how the cost escalation math plays out in practice, which pieces are worth buying back, and the design logic behind why it only appears on PAWN difficulty.
 
+{{< diagram src="graveyard-buyback-loop.svg" alt="Graveyard buyback decision loop" caption="Each rebuy raises the cost of the remaining pieces, so stop when the price exceeds the value." >}}
+
 ## How the Graveyard Works
 
 On PAWN difficulty, the Graveyard appears as a dedicated UI panel during your run. It tracks the last 5 chess pieces you lost in chronological order, oldest first. When you open it, you see each piece listed with a buyback price.

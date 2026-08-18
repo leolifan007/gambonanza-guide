@@ -13,6 +13,8 @@ Gambonanza v1.4.0 ships the most significant quality-of-life update the game has
 
 All of these live inside the new **Extra settings category** (Main Menu -> Settings -> Extras), which v1.4.0 introduced specifically to group accessibility and convenience options in one place. Before this patch they were scattered or absent entirely.
 
+{{< diagram src="settings-map-14.svg" alt="1.4 settings that matter" caption="Skip animations, algebraic notation, Unlock All, and Erase Save Data are the settings to know." >}}
+
 ## Where to Find Everything: The New Extra Tab
 
 v1.4.0 introduced a dedicated **Extra** section inside Settings. Every new QoL feature in this article lives there. If you are coming from an earlier version, your Settings menu will look slightly different now. Look for the **Extras** tab on the left or bottom rail and click through. You will find the following grouped by function:

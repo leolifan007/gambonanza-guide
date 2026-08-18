@@ -17,6 +17,8 @@ If you want the one-line takeaway, here it is. Run Yin and Yang together for ste
 Yin's Gambit: 1/3 trigger to 1/2 trigger. Yang's Gambit: 1/3 trigger to 1/2 trigger. Rear Up's Gambit: +$2 to +$4 on promotion. That is the whole headline. The rest is about how to actually use the extra uptime and the extra cash.
 {{< /callout >}}
 
+{{< diagram src="buffs-before-after.svg" alt="Yin, Yang, and Rear Up buffs before versus after 1.4" caption="Yin and Yang move from 1/3 to 1/2; Rear Up pays +$4 instead of +$2." >}}
+
 ## The Three Buffs at a Glance
 
 Here are the exact numbers from the v1.4.0 patch, no guessing involved.

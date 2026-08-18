@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker></defs>
+<text x="350" y="34" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Promote into PAWN Loop</text>
+<rect x="40" y="90" width="170" height="90" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="40" y="90" width="170" height="24" rx="8" fill="#4A9B9B" opacity="0.18"/>
+<text x="125" y="107" fill="#4A9B9B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Promote to PAWN</text>
+<text x="125" y="130" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Now possible</text>
+<text x="125" y="148" fill="#E8D5C0" font-size="12.5" text-anchor="middle">in v1.4.0</text>
+<rect x="260" y="90" width="170" height="90" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<rect x="260" y="90" width="170" height="24" rx="8" fill="#D4A84A" opacity="0.18"/>
+<text x="345" y="107" fill="#D4A84A" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Clown's Gambit</text>
+<text x="345" y="130" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Fires on promote</text>
+<text x="345" y="148" fill="#E8D5C0" font-size="12.5" text-anchor="middle">to non-QUEEN</text>
+<text x="345" y="166" fill="#E8D5C0" font-size="12.5" text-anchor="middle">drops a tile</text>
+<rect x="480" y="90" width="170" height="90" rx="8" fill="#2D1A2D" stroke="#6BBF6B" stroke-width="1.5"/>
+<rect x="480" y="90" width="170" height="24" rx="8" fill="#6BBF6B" opacity="0.18"/>
+<text x="565" y="107" fill="#6BBF6B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Phantom Tile</text>
+<text x="565" y="130" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Spawns free piece</text>
+<text x="565" y="148" fill="#E8D5C0" font-size="12.5" text-anchor="middle">on a delay</text>
+<rect x="260" y="250" width="170" height="90" rx="8" fill="#2D1A2D" stroke="#F5E6D3" stroke-width="1.5"/>
+<rect x="260" y="250" width="170" height="24" rx="8" fill="#F5E6D3" opacity="0.18"/>
+<text x="345" y="267" fill="#F5E6D3" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Chain it</text>
+<text x="345" y="290" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Repeat promotions</text>
+<text x="345" y="308" fill="#E8D5C0" font-size="12.5" text-anchor="middle">for a board engine</text>
+<line x1="210" y1="135" x2="260" y2="135" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="430" y1="135" x2="480" y2="135" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="480" y1="180" x2="430" y2="250" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="430" y1="295" x2="260" y2="295" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+</svg>

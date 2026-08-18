@@ -13,6 +13,8 @@ hidden: false
 v1.4.0 is a feature-forward update, not a balance nuke. The two headline systems are **Enhanced AI Mode** (a toggle for players who want conventional chess instead of rogue chaos) and **The Graveyard** (a PAWN-difficulty safety net that lets you buy back your last 5 lost pieces). Under the hood, Yin and Yang Gambits jumped to a 1/2 trigger, promote-into-PAWN is now real, and three Gambits got meaningful revamps. If you only change one habit after this patch, turn on Skip Animations in the new Extra settings tab.
 {{< /callout >}}
 
+{{< diagram src="v140-change-map.svg" alt="v1.4.0 change map across four update categories" caption="v1.4.0 ships Enhanced AI, the Graveyard, balance and QoL, and three Gambit revamps." >}}
+
 ## What Landed in 1.4.0
 
 This is every material change pulled straight from the official Steam news posts (1.4.0, plus hotfixes 1.4.0e and 1.4.0f), and what each one means for your next run.

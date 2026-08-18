@@ -17,6 +17,8 @@ The core answer is simple. Start on PAWN difficulty. In the new Extra settings t
 You picked a good time to start. v1.4.0 removes the two things that scare off new players: erratic enemy behavior and the feeling that one bad trade ends your run. Use PAWN plus the Graveyard and you have room to learn.
 {{< /callout >}}
 
+{{< diagram src="beginner-onboarding-14.svg" alt="Where to start after 1.4" caption="New and returning players should set up Skip Animations, then explore the new systems." >}}
+
 ## Why 1.4.0 Is the Right On-Ramp
 
 Earlier versions of Gambonanza threw you into a roguelike where enemy decisions could feel random and a single early loss could snowball. The v1.4.0 update quietly fixes that. The developer notes describe a patient, feature-focused patch rather than a competitive shakeup. For someone learning the systems, that means the game is more willing to cut you slack than ever before.

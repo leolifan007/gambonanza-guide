@@ -15,6 +15,8 @@ What you can do is build a flexible, adaptive playstyle that does not rely on me
 
 The core principle is simple: **stop rehearsing openers against a fixed wave list, and start reading the board every run.** Here is how to do that in practice.
 
+{{< diagram src="new-enemy-pool.svg" alt="New enemy formations added to the pool" caption="The enemy pool gained formations, so each run plays out differently. Build flexible boards." >}}
+
 ## Why the Old Wave-List Approach Is Broken Now
 
 Before v1.4.0, the enemy pool was known. Players could look up "Wave 3 is always X pieces in Y formation" and pre-load a counter build. v1.4.0 breaks that workflow by injecting genuine variety. The new formations are not cosmetic flavor text; they alter early pressure patterns, economy demands, and board-control requirements in ways that a memorized opener cannot handle.

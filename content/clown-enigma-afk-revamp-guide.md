@@ -19,6 +19,8 @@ v1.4.0 shipped three Gambit revamps that fundamentally change how those strategi
 
 All three changes are live now in v1.4.0.
 
+{{< diagram src="three-revamps.svg" alt="Three Gambit revamps in 1.4" caption="Clown replaces War Horse, Enigma flips tile color, and AFK keeps pieces when Stock is full." >}}
+
 ## Clown's Gambit: The Promotion Tile Engine
 
 **What changed:** Clown's Gambit replaced War Horse. It no longer has anything to do with extra moves. Instead, it turns every promotion into a tile-generation event.
