@@ -1,5 +1,5 @@
 ---
-categories: ["Economy"]
+categories: ["Economy & Shop"]
 date: 2026-05-24
 tags:
   - "Economy"

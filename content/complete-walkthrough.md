@@ -1,5 +1,5 @@
 ---
-categories: ["Strategy & Guides"]
+categories: ["Difficulty & Progression"]
 tags:
   - "Walkthrough"
 title: 'Gambonanza Complete Walkthrough (v1.1.0)-Step-by-Step Run Guide'

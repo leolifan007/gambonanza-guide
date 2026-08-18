@@ -1,5 +1,5 @@
 /* ============================================
-   GAMBONANZA GUIDE - v4.0 Responsive Pixel Chess
+   GAMBONANZA GUIDE — v4.0 Responsive Pixel Chess
    Mobile-first. Future sites follow same pattern.
    ============================================ */
 
@@ -324,7 +324,7 @@ ul { list-style: none; padding: 0; }
   padding: 2px 8px;
 }
 
-/* ─── Ad Slot Placeholder (hidden until AdSense approved) ─── */
+/* ─── Ad Slot Placeholder ─── */
 .ad-slot {
   display: none;
   width: 100%;
@@ -903,7 +903,7 @@ ul { list-style: none; padding: 0; }
 }
 
 /* ─── Edge-to-Edge Tables & Centered Images in Section Cards ─── */
-/* ALL synergy-tables get a gold card frame - whether h2+* or standalone */
+/* ALL synergy-tables get a gold card frame — whether h2+* or standalone */
 .main-content .synergy-table {
   border: 2px solid var(--gold);
   background: var(--dark-2);

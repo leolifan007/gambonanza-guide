@@ -1,5 +1,5 @@
 ---
-categories: ["Strategy & Guides"]
+categories: ["Pieces & Cards"]
 tags:
   - "Pawns"
   - "Knights"

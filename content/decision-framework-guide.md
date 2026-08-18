@@ -1,5 +1,5 @@
 ---
-categories: ["Strategy & Guides"]
+categories: ["Beginner"]
 tags:
   - "Recovery & Mistakes"
   - "Strategy"

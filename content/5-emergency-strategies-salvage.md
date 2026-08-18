@@ -7,7 +7,7 @@ description: "After 500 hours in Gambonanza, I've seen every type of bad run. Lo
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
-categories: ["Strategy & Guides"]
+categories: ["Economy & Shop"]
 ---
 
 

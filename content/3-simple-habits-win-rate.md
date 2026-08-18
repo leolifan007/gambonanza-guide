@@ -7,7 +7,7 @@ description: "After 200 hours of Gambonanza, I fixed 3 habits and my win rate ju
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
-categories: ["Strategy & Guides"]
+categories: ["Beginner"]
 ---
 
 

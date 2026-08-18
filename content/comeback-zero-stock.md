@@ -7,7 +7,7 @@ description: "Hit 0 stock by turn 5? This recovery guide has 42% win rate. Exact
 date: "2026-06-01"
 lastmod: "2026-06-01T11:43:00+08:00"
 version: "1.1.0"
-categories: ["Economy"]
+categories: ["Economy & Shop"]
 ---
 
 

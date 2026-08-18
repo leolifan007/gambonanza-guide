@@ -8,7 +8,7 @@ description: "Stop losing in the opening. A 3-turn safe opening pattern that wor
 date: "2026-06-18"
 lastmod: "2026-06-18T17:30:00+08:00"
 version: "1.1.0"
-categories: ["Strategy & Guides"]
+categories: ["Difficulty & Progression"]
 keywords: ["first 3 turns", "opening", "universal", "template", "seed-agnostic"]
 see_also:
   - title: "Knight Rush Opener"

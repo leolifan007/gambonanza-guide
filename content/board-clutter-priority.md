@@ -1,5 +1,5 @@
 ---
-categories: ["Strategy & Guides"]
+categories: ["Pieces & Cards"]
 date: 2026-06-18
 tags:
   - "Strategy & Guides"

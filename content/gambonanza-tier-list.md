@@ -1,5 +1,5 @@
 ---
-categories: ["Strategy & Guides"]
+categories: ["Gambits"]
 tags:
   - "Gambits"
   - "Meta & Builds"

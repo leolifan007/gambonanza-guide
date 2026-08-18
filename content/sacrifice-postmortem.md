@@ -9,7 +9,7 @@ description: "You sacrificed a piece thinking it was smart-and the loss killed y
 date: "2026-06-18"
 lastmod: "2026-06-18T17:30:00+08:00"
 version: "1.1.0"
-categories: ["Strategy & Guides"]
+categories: ["Pieces & Cards"]
 keywords: ["sacrifice", "wrong piece", "evaluation", "rubric", "post-mortem", "mistake"]
 see_also:
   - title: "Piece Sacrifice Guide"

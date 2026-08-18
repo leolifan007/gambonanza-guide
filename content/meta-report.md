@@ -5,7 +5,7 @@ tags:
 title: "Gambonanza Meta Report (v1.1.0) - Current Build Tier List & Meta Analysis"
 description: "Current Gambonanza meta analysis for patch v1.1.0. Economic gambits dominate, Teleport is still S-tier, the best builds ranked, and what the future holds."
 version: "v1.1.0"
-categories: ["Strategy & Guides"]
+categories: ["Gambits & Combos"]
 lastmod: "2026-06-13T13:44:01+08:00"
 date: "2026-06-13"
 ---

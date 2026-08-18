@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Patch Updates on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/patch-updates/</link><description>Recent content in Patch Updates on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/patch-updates/index.xml" rel="self" type="application/rss+xml"/><item><title>Gambonanza 1.4.0 Patch Breakdown: Enhanced AI, the Graveyard &amp; Every Change That Matters</title><link>https://gambonanzaguide.com/v140-patch-breakdown/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v140-patch-breakdown/</guid><description>&lt;div class="callout callout-verdict"&gt;
+v1.4.0 is a feature-forward update, not a balance nuke. The two headline systems are &lt;strong&gt;Enhanced AI Mode&lt;/strong&gt; (a toggle for players who want conventional chess instead of rogue chaos) and &lt;strong&gt;The Graveyard&lt;/strong&gt; (a PAWN-difficulty safety net that lets you buy back your last 5 lost pieces). Under the hood, Yin and Yang Gambits jumped to a 1/2 trigger, promote-into-PAWN is now real, and three Gambits got meaningful revamps. If you only change one habit after this patch, turn on Skip Animations in the new Extra settings tab.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/v140-change-map.svg" alt="v1.4.0 change map across four update categories" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;v1.4.0 ships Enhanced AI, the Graveyard, balance and QoL, and three Gambit revamps.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="what-landed-in-140"&gt;What Landed in 1.4.0&lt;/h2&gt;
+&lt;p&gt;This is every material change pulled straight from the official Steam news posts (1.4.0, plus hotfixes 1.4.0e and 1.4.0f), and what each one means for your next run.&lt;/p&gt;</description></item></channel></rss>

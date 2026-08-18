@@ -1,5 +1,5 @@
 ---
-categories: ["Boss Battles"]
+categories: ["Boss Guides"]
 tags:
   - "Meta & Builds"
 title: "Gambonanza King of Spades Guide v1.1.0-Mechanics, Counters & Three Proven Builds"

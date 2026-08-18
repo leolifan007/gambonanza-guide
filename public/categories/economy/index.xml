@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/categories/economy/</link><description>Recent content in Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 05 Jun 2026 21:30:00 +0800</lastBuildDate><atom:link href="https://gambonanzaguide.com/categories/economy/index.xml" rel="self" type="application/rss+xml"/><item><title>5+ Stock Per Turn: The Pawn Economy Loop (70% Win Rate)</title><link>https://gambonanzaguide.com/pawn-economy-loop/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/pawn-economy-loop/</guid><description>&lt;h1 id="best-economy-strategy---generate-5-stock-per-turn-from-pawns"&gt;Best Economy Strategy - Generate 5+ Stock Per Turn from Pawns&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/categories/economy/</link><description>Recent content in Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/categories/economy/index.xml" rel="self" type="application/rss+xml"/><item><title>The Graveyard in Gambonanza 1.4: Recovering Lost Pieces &amp; Buyback Cost Math</title><link>https://gambonanzaguide.com/graveyard-system-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/graveyard-system-guide/</guid><description>&lt;p&gt;The Graveyard is a new piece-recovery system introduced in Gambonanza v1.4.0. It holds your last 5 lost pieces during a run, and lets you spend money to bring them back. Each piece you recover raises the cost of every remaining piece in the Graveyard, so the system punishes greedy recovery attempts while still giving you a genuine second chance. This guide covers exactly how the system works, how the cost escalation math plays out in practice, which pieces are worth buying back, and the design logic behind why it only appears on PAWN difficulty.&lt;/p&gt;</description></item><item><title>5+ Stock Per Turn: The Pawn Economy Loop (70% Win Rate)</title><link>https://gambonanzaguide.com/pawn-economy-loop/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/pawn-economy-loop/</guid><description>&lt;h1 id="best-economy-strategy---generate-5-stock-per-turn-from-pawns"&gt;Best Economy Strategy - Generate 5+ Stock Per Turn from Pawns&lt;/h1&gt;
 &lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;The Pawn Economy Loop generates 5+ stock per turn. Here&amp;rsquo;s the setup:&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="synergy-table" style="overflow-x:auto"&gt;
@@ -34,55 +34,7 @@
  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Turn 5 target: 80+ stock from Pawns alone.&lt;/strong&gt; Combined with the right Gambit picks, the &lt;a href="https://gambonanzaguide.com/gambits/"&gt;Full Gambits List&lt;/a&gt; ranks Pawn Parade alongside the best economy options so you know which to prioritize.&lt;/p&gt;</description></item><item><title>How to Win from 0 Stock - Emergency Recovery Guide</title><link>https://gambonanzaguide.com/comeback-zero-stock/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/comeback-zero-stock/</guid><description>&lt;h1 id="how-to-win-from-0-stock---emergency-recovery-guide"&gt;How to Win from 0 Stock - Emergency Recovery Guide&lt;/h1&gt;
-&lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;You CAN win from 0 stock. Here&amp;rsquo;s the 3-step recovery:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="synergy-table" style="overflow-x:auto"&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Step&lt;/th&gt;
- &lt;th&gt;Action&lt;/th&gt;
- &lt;th&gt;Why&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;1&lt;/td&gt;
- &lt;td&gt;Stop spending&lt;/td&gt;
- &lt;td&gt;Every stock point matters&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;2&lt;/td&gt;
- &lt;td&gt;Check opponent&amp;rsquo;s board&lt;/td&gt;
- &lt;td&gt;Find their weakness&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;3&lt;/td&gt;
- &lt;td&gt;Find free stock sources&lt;/td&gt;
- &lt;td&gt;Some Gambits/Pieces generate stock&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;4&lt;/td&gt;
- &lt;td&gt;Turtle until turn 8&lt;/td&gt;
- &lt;td&gt;Comeback window opens late&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Free stock sources:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Pawn moves with &lt;a href="https://gambonanzaguide.com/pawn-economy-loop/"&gt;Pawn Parade&lt;/a&gt; Gambit: +1 stock per move - see full loop setup for 5+ stock/turn&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Second Wind&amp;rdquo; Gambit: +20 stock when below 10&lt;/li&gt;
-&lt;li&gt;Selling Pieces: 50% of original cost&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="step-1-stop-spending-immediately"&gt;Step 1: Stop Spending (Immediately)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;What to do:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Why Is My Stock Crashing? Economy Recovery Guide</title><link>https://gambonanzaguide.com/economy-recovery-guide/</link><pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/economy-recovery-guide/</guid><description>&lt;h2 id="stock-is-crashing-u2014-tldr"&gt;Stock Is Crashing \u2014 TL;DR&lt;/h2&gt;
-
-&lt;div class="callout callout-verdict"&gt;
-&lt;p&gt;&lt;strong&gt;Stop. Don\u2019t play another Gambit until you diagnose.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;If your stock is actively falling, it\u2019s not bad luck. It\u2019s one of: (1) a broken chain debt spiral, (2) a boss economy drain ability, or (3) passive decay from inactivity. Fix the cause before you play. Playing more Gambits into a broken system only accelerates the crash. The &lt;a href="https://gambonanzaguide.com/economy/"&gt;Economy Guide&lt;/a&gt; ranks every income option so you know which to prioritize during recovery. Emergency stock strategies are covered in the &lt;a href="https://gambonanzaguide.com/5-emergency-strategies-salvage/"&gt;Emergency Salvage Guide&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Gambonanza 4x4 Fast Farm Guide (v1.1.0)-Speedrun Your Economy on Small Boards</title><link>https://gambonanzaguide.com/4x4-fast-farm-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/4x4-fast-farm-guide/</guid><description>&lt;h2 id="why-4x4-boards-are-your-atm"&gt;Why 4x4 Boards Are Your ATM&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Turn 5 target: 80+ stock from Pawns alone.&lt;/strong&gt; Combined with the right Gambit picks, the &lt;a href="https://gambonanzaguide.com/gambits/"&gt;Full Gambits List&lt;/a&gt; ranks Pawn Parade alongside the best economy options so you know which to prioritize.&lt;/p&gt;</description></item><item><title>Gambonanza 4x4 Fast Farm Guide (v1.1.0)-Speedrun Your Economy on Small Boards</title><link>https://gambonanzaguide.com/4x4-fast-farm-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/4x4-fast-farm-guide/</guid><description>&lt;h2 id="why-4x4-boards-are-your-atm"&gt;Why 4x4 Boards Are Your ATM&lt;/h2&gt;
 
 &lt;div class="callout callout-verdict"&gt;
 &lt;p&gt;&lt;strong&gt;THE SHORT VERSION&lt;/strong&gt;&lt;/p&gt;
@@ -227,7 +179,7 @@
 &lt;h2 id="the-3-phase-economy-strategy"&gt;The 3-Phase Economy Strategy&lt;/h2&gt;
 &lt;div class="split-col"&gt;
 &lt;div class="col"&gt;
-&lt;h3 id="phase-1-survival-hahahugoshortcode1s8hbhb"&gt;Phase 1: Survival 
+&lt;h3 id="phase-1-survival-hahahugoshortcode28s8hbhb"&gt;Phase 1: Survival 
 &lt;span class="phase-tag phase-early"&gt;EARLY GAME&lt;/span&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Stock split:&lt;/strong&gt; 80% Safe Haven / 20% Knight&amp;rsquo;s Jump&lt;/p&gt;</description></item><item><title>Gambonanza Recommended Seeds (v1.1.0)-Best Opening Seeds Collection</title><link>https://gambonanzaguide.com/recommended-seeds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/recommended-seeds/</guid><description>&lt;h2 id="gambonanza-seed-quick-reference"&gt;Gambonanza Seed Quick-Reference&lt;/h2&gt;

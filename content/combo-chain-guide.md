@@ -1,5 +1,5 @@
 ---
-categories: ["Gambits"]
+categories: ["Gambits & Combos"]
 tags:
   - "Combos & Synergy"
 title: "Combo Chain Guide"

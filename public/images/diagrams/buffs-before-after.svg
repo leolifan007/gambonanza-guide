@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker></defs>
+<text x="350" y="34" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">The Three Buffs Before vs After</text>
+<text x="60" y="108" fill="#F5E6D3" font-size="14" text-anchor="start">Yin's Gambit</text>
+<text x="300" y="108" fill="#E8D5C0" font-size="14" text-anchor="middle">1/3</text>
+<text x="420" y="108" fill="#D4A84A" font-family="'VT323',monospace" font-size="16" text-anchor="middle">to</text>
+<text x="540" y="108" fill="#6BBF6B" font-family="'VT323',monospace" font-size="18" text-anchor="middle">1/2</text>
+<path d="M360,102 L400,102" stroke="#6BBF6B" stroke-width="2" marker-end="url(#ar)"/>
+<text x="60" y="178" fill="#F5E6D3" font-size="14" text-anchor="start">Yang's Gambit</text>
+<text x="300" y="178" fill="#E8D5C0" font-size="14" text-anchor="middle">1/3</text>
+<text x="420" y="178" fill="#D4A84A" font-family="'VT323',monospace" font-size="16" text-anchor="middle">to</text>
+<text x="540" y="178" fill="#6BBF6B" font-family="'VT323',monospace" font-size="18" text-anchor="middle">1/2</text>
+<path d="M360,172 L400,172" stroke="#6BBF6B" stroke-width="2" marker-end="url(#ar)"/>
+<text x="60" y="248" fill="#F5E6D3" font-size="14" text-anchor="start">Rear Up's Gambit</text>
+<text x="300" y="248" fill="#E8D5C0" font-size="14" text-anchor="middle">+$2</text>
+<text x="420" y="248" fill="#D4A84A" font-family="'VT323',monospace" font-size="16" text-anchor="middle">to</text>
+<text x="540" y="248" fill="#6BBF6B" font-family="'VT323',monospace" font-size="18" text-anchor="middle">+$4</text>
+<path d="M360,242 L400,242" stroke="#6BBF6B" stroke-width="2" marker-end="url(#ar)"/>
+<text x="350" y="310" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Green arrows = buffed in v1.4.0. More trigger events, more economy.</text>
+</svg>

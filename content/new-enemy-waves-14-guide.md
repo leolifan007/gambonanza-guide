@@ -1,5 +1,5 @@
 ---
-categories: ["Strategy & Guides"]
+categories: ["Boss Battles"]
 tags:
   - "Strategy & Guides"
   - "Enemies & Waves"

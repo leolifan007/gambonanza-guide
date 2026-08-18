@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/economy/</link><description>Recent content in Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2026 17:30:00 +0800</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/economy/index.xml" rel="self" type="application/rss+xml"/><item><title>Beat the Boss, Lost the Economy - How to Restart Stock Generation After Every Boss Fight</title><link>https://gambonanzaguide.com/post-boss-economy-restart/</link><pubDate>Thu, 18 Jun 2026 17:30:00 +0800</pubDate><guid>https://gambonanzaguide.com/post-boss-economy-restart/</guid><description>&lt;h2 id="0"&gt;0&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/economy/</link><description>Recent content in Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/economy/index.xml" rel="self" type="application/rss+xml"/><item><title>The Graveyard in Gambonanza 1.4: Recovering Lost Pieces &amp; Buyback Cost Math</title><link>https://gambonanzaguide.com/graveyard-system-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/graveyard-system-guide/</guid><description>&lt;p&gt;The Graveyard is a new piece-recovery system introduced in Gambonanza v1.4.0. It holds your last 5 lost pieces during a run, and lets you spend money to bring them back. Each piece you recover raises the cost of every remaining piece in the Graveyard, so the system punishes greedy recovery attempts while still giving you a genuine second chance. This guide covers exactly how the system works, how the cost escalation math plays out in practice, which pieces are worth buying back, and the design logic behind why it only appears on PAWN difficulty.&lt;/p&gt;</description></item><item><title>Yin &amp; Yang Buffed to 1/2 in Gambonanza 1.4: Builds to Abuse</title><link>https://gambonanzaguide.com/yin-yang-rearup-buffs-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/yin-yang-rearup-buffs-guide/</guid><description>&lt;p&gt;The short version: Gambonanza 1.4.0 quietly turned three Gambits into real picks. Yin&amp;rsquo;s Gambit and Yang&amp;rsquo;s Gambit both moved from a 1/3 trigger to a 1/2 trigger, so they now fire almost 50 percent more often. Rear Up&amp;rsquo;s Gambit went from +$2 to +$4 on promotion, which doubles the economy you get every time you promote a piece.&lt;/p&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+Run Yin and Yang together for steady triggers. Run Rear Up in any promotion build. Both are cheap, both scale with run length.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/buffs-before-after.svg" alt="Yin, Yang, and Rear Up buffs before versus after 1.4" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;Yin and Yang move from 1/3 to 1/2; Rear Up pays &amp;#43;$4 instead of &amp;#43;$2.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="the-three-buffs-at-a-glance"&gt;The Three Buffs at a Glance&lt;/h2&gt;
+
+&lt;div class="callout callout-tip"&gt;
+&lt;strong&gt;Yin and Yang&lt;/strong&gt;: 1/3 -&amp;gt; &lt;strong&gt;1/2&lt;/strong&gt; trigger chance. &lt;strong&gt;Rear Up&lt;/strong&gt;: +$2 -&amp;gt; &lt;strong&gt;+$4&lt;/strong&gt; per promotion. That is the whole headline.
+&lt;/div&gt;
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Gambit&lt;/th&gt;
+ &lt;th&gt;Before&lt;/th&gt;
+ &lt;th&gt;After&lt;/th&gt;
+ &lt;th&gt;Impact&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Yin&amp;rsquo;s Gambit&lt;/td&gt;
+ &lt;td&gt;1/3 chance&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;1/2 chance&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Fires almost 50% more often&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Yang&amp;rsquo;s Gambit&lt;/td&gt;
+ &lt;td&gt;1/3 chance&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;1/2 chance&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Same reliability bump&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Rear Up&amp;rsquo;s Gambit&lt;/td&gt;
+ &lt;td&gt;+$2 per promotion&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;+$4 per promotion&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Doubles promotion economy&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The key point: &lt;strong&gt;Yin and Yang are triggers&lt;/strong&gt;. &lt;strong&gt;Rear Up is economy&lt;/strong&gt;. They solve different problems, which is why they pair cleanly.&lt;/p&gt;</description></item><item><title>Beat the Boss, Lost the Economy - How to Restart Stock Generation After Every Boss Fight</title><link>https://gambonanzaguide.com/post-boss-economy-restart/</link><pubDate>Thu, 18 Jun 2026 17:30:00 +0800</pubDate><guid>https://gambonanzaguide.com/post-boss-economy-restart/</guid><description>&lt;h2 id="0"&gt;0&lt;/h2&gt;
 &lt;p&gt;You beat the boss. Your economy loop is gone. Your gambit setup is scrambled. Now what? Check out &lt;a href="https://gambonanzaguide.com/economy/"&gt;Economy &amp;amp; Shop Guide&lt;/a&gt; for more. The &lt;a href="https://gambonanzaguide.com/economy-recovery-guide/"&gt;Economy Recovery Guide&lt;/a&gt; covers this in depth.&lt;/p&gt;
 &lt;p&gt;I have lost count of how many times I cleared a boss with 40+ stock, only to find myself at 8 stock five turns later with nothing but a lonely pawn and a useless Gambit slot. The boss fight is not the real test. The first 15 turns after the boss fight are where runs die.&lt;/p&gt;</description></item><item><title>Stage 4 Economy Wall - 3 Reasons Your Stock Dies Before the Boss (and How to Fix Each)</title><link>https://gambonanzaguide.com/stage-4-economy-wall/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/stage-4-economy-wall/</guid><description>&lt;h2 id="e"&gt;e&lt;/h2&gt;
 &lt;p&gt;You reach Stage 4 with 50 stock and by the time the boss fight starts you have 12. I tested this exact scenario over 40 runs across different builds, and I found the same pattern every time. The economy does not crash randomly. It crashes for three specific, preventable reasons that most players never diagnose. The &lt;a href="https://gambonanzaguide.com/economy/"&gt;Economy Guide&lt;/a&gt; covers this in depth. The &lt;a href="https://gambonanzaguide.com/economy-recovery-guide/"&gt;Economy Recovery Guide&lt;/a&gt; covers this in depth.&lt;/p&gt;
@@ -55,42 +104,13 @@ Don&amp;rsquo;t force a build. Read what the shop gives you and pivot. A flexibl
  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Turn 5 target: 80+ stock from Pawns alone.&lt;/strong&gt; Combined with the right Gambit picks, the &lt;a href="https://gambonanzaguide.com/gambits/"&gt;Full Gambits List&lt;/a&gt; ranks Pawn Parade alongside the best economy options so you know which to prioritize.&lt;/p&gt;</description></item><item><title>Afk's Gambit Explained - How to Farm 40 Stock Per Turn (Full Guide)</title><link>https://gambonanzaguide.com/afks-gambit-guide/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/afks-gambit-guide/</guid><description>&lt;h1 id="afks-gambit-explained---how-to-farm-40-stock-per-turn"&gt;Afk&amp;rsquo;s Gambit Explained - How to Farm 40 Stock Per Turn&lt;/h1&gt;
-&lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Afk&amp;rsquo;s Gambit generates stock when your pieces DON&amp;rsquo;T move. Counter-intuitive, but game-breaking when built correctly.&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="synergy-table" style="overflow-x:auto"&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Setup&lt;/th&gt;
- &lt;th&gt;Stock Per Turn&lt;/th&gt;
- &lt;th&gt;Condition&lt;/th&gt;
- &lt;th&gt;Difficulty&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Basic&lt;/td&gt;
- &lt;td&gt;8-12&lt;/td&gt;
- &lt;td&gt;3 idle pieces turn 5+&lt;/td&gt;
- &lt;td&gt;Easy&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Core&lt;/td&gt;
- &lt;td&gt;18-25&lt;/td&gt;
- &lt;td&gt;4 idle pieces + Gambit synergy&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Optimal&lt;/td&gt;
- &lt;td&gt;35-45&lt;/td&gt;
- &lt;td&gt;5 idle pieces + relics + board position&lt;/td&gt;
- &lt;td&gt;Hard&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Turn 5 target: 80+ stock from Pawns alone.&lt;/strong&gt; Combined with the right Gambit picks, the &lt;a href="https://gambonanzaguide.com/gambits/"&gt;Full Gambits List&lt;/a&gt; ranks Pawn Parade alongside the best economy options so you know which to prioritize.&lt;/p&gt;</description></item><item><title>Afk's Gambit Explained - How to Farm 40 Stock Per Turn (Full Guide)</title><link>https://gambonanzaguide.com/afks-gambit-guide/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/afks-gambit-guide/</guid><description>&lt;div class="callout callout-info"&gt;
+&lt;strong&gt;AFK&amp;rsquo;s Gambit was improved in v1.4.0.&lt;/strong&gt; If your Stock is full, new pieces are now placed directly onto the board instead of being lost. That removes the old failure mode where a full Stock wasted your generated pieces. See the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/v140-patch-breakdown/"&gt;v1.4.0 Patch Breakdown&lt;/a&gt;&lt;/strong&gt; and the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/clown-enigma-afk-revamp-guide/"&gt;Clown/Enigma/AFK revamp guide&lt;/a&gt;&lt;/strong&gt;.
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Core mechanic:&lt;/strong&gt; Afk&amp;rsquo;s Gambit triggers at the START of your turn for each eligible idle piece. A piece is idle if it didn&amp;rsquo;t move on your previous turn. The more idle pieces, the more stock.&lt;/p&gt;</description></item><item><title>How to Win from 0 Stock - Emergency Recovery Guide</title><link>https://gambonanzaguide.com/comeback-zero-stock/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/comeback-zero-stock/</guid><description>&lt;h1 id="how-to-win-from-0-stock---emergency-recovery-guide"&gt;How to Win from 0 Stock - Emergency Recovery Guide&lt;/h1&gt;
+
+&lt;h1 id="afks-gambit-explained---how-to-farm-40-stock-per-turn"&gt;Afk&amp;rsquo;s Gambit Explained - How to Farm 40 Stock Per Turn&lt;/h1&gt;
+&lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Afk&amp;rsquo;s Gambit generates stock when your pieces DON&amp;rsquo;T move. Counter-intuitive, but game-breaking when built correctly.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>How to Win from 0 Stock - Emergency Recovery Guide</title><link>https://gambonanzaguide.com/comeback-zero-stock/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/comeback-zero-stock/</guid><description>&lt;h1 id="how-to-win-from-0-stock---emergency-recovery-guide"&gt;How to Win from 0 Stock - Emergency Recovery Guide&lt;/h1&gt;
 &lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;You CAN win from 0 stock. Here&amp;rsquo;s the 3-step recovery:&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="synergy-table" style="overflow-x:auto"&gt;
@@ -276,7 +296,7 @@ Don&amp;rsquo;t force a build. Read what the shop gives you and pivot. A flexibl
 &lt;h2 id="the-3-phase-economy-strategy"&gt;The 3-Phase Economy Strategy&lt;/h2&gt;
 &lt;div class="split-col"&gt;
 &lt;div class="col"&gt;
-&lt;h3 id="phase-1-survival-hahahugoshortcode1s8hbhb"&gt;Phase 1: Survival 
+&lt;h3 id="phase-1-survival-hahahugoshortcode28s8hbhb"&gt;Phase 1: Survival 
 &lt;span class="phase-tag phase-early"&gt;EARLY GAME&lt;/span&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Stock split:&lt;/strong&gt; 80% Safe Haven / 20% Knight&amp;rsquo;s Jump&lt;/p&gt;</description></item><item><title>Gambonanza Rook &amp; Bishop Guide v1.1.0-Mastering the Support Pieces</title><link>https://gambonanzaguide.com/rook-bishop-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/rook-bishop-guide/</guid><description>&lt;h2 id="the-backbone-not-the-sidekick"&gt;The Backbone, Not The Sidekick&lt;/h2&gt;

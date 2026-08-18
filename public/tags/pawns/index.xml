@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pawns on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/pawns/</link><description>Recent content in Pawns on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/pawns/index.xml" rel="self" type="application/rss+xml"/><item><title>Knight &amp; Pawn Meta Guide - How v1.2.0's Buffs Made These Two Pieces Dominant (v1.3+)</title><link>https://gambonanzaguide.com/knight-pawn-meta-guide/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/knight-pawn-meta-guide/</guid><description>&lt;div class="callout callout-verdict"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pawns on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/pawns/</link><description>Recent content in Pawns on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/pawns/index.xml" rel="self" type="application/rss+xml"/><item><title>Promote Into PAWN in Gambonanza 1.4: The Phantom-Tile Loop Explained</title><link>https://gambonanzaguide.com/promote-into-pawn-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/promote-into-pawn-guide/</guid><description>&lt;p&gt;Before v1.4.0, promoting into a PAWN was not possible. That restriction is gone. You can now promote any pawn to a PAWN, which sounds odd until you realize what it interacts with: Clown&amp;rsquo;s Gambit.&lt;/p&gt;
+&lt;p&gt;Clown&amp;rsquo;s Gambit, which replaced War Horse in v1.4.0, does something specific. When you promote into a non-QUEEN piece, it spawns a tile adjacent to the promoted piece. The tile type is determined by what you promoted into.&lt;/p&gt;</description></item><item><title>Knight &amp; Pawn Meta Guide - How v1.2.0's Buffs Made These Two Pieces Dominant (v1.3+)</title><link>https://gambonanzaguide.com/knight-pawn-meta-guide/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/knight-pawn-meta-guide/</guid><description>&lt;div class="callout callout-verdict"&gt;
 v1.2.0 buffed &amp;ldquo;several KNIGHT + PAWN synergies.&amp;rdquo; Combined with v1.3.0&amp;rsquo;s Show Jumping (now 1/1 guaranteed) and Whip&amp;rsquo;s Gambit (now always triggers), the Knight + Pawn archetype is the strongest it&amp;rsquo;s ever been. &lt;strong&gt;This is no longer a niche build. It&amp;rsquo;s a reliable path to the Final Boss.&lt;/strong&gt;
 &lt;/div&gt;
 
@@ -11,8 +12,12 @@ v1.2.0 buffed &amp;ldquo;several KNIGHT + PAWN synergies.&amp;rdquo; Combined wi
 
 &lt;h2 id="why-knight--pawn-works"&gt;Why Knight + Pawn Works&lt;/h2&gt;
 &lt;p&gt;Knights and PAWNs have natural synergy:&lt;/p&gt;</description></item><item><title>Pawn Promotion Not Working? 4 Conditions That Block Your Upgrade (and How to Check Each)</title><link>https://gambonanzaguide.com/pawn-promotion-troubleshooting/</link><pubDate>Thu, 18 Jun 2026 17:30:00 +0800</pubDate><guid>https://gambonanzaguide.com/pawn-promotion-troubleshooting/</guid><description>&lt;h2 id="0"&gt;0&lt;/h2&gt;
-&lt;p&gt;Your pawn is on the back rank. The promotion button does not show. You check the conditions: rank 8, check. Pawn, check. No capture in progress, check. So why is the game refusing to promote your piece? Check out &lt;a href="https://gambonanzaguide.com/pawn-promotion-guide/"&gt;Pawn Promotion Guide&lt;/a&gt; for more. The &lt;a href="https://gambonanzaguide.com/pawn-promotion-sustainability-guide/"&gt;Pawn Promotion Sustainability Guide&lt;/a&gt; covers this in depth.&lt;/p&gt;
-&lt;p&gt;I have spent hours testing every edge case of Gambonanza&amp;rsquo;s pawn promotion system. The existing guides tell you when to promote and what to promote into. This guide tells you why promotion silently fails. These four conditions have cost me runs, and they cost you runs too if you do not know how to diagnose them.&lt;/p&gt;</description></item><item><title>Gambonanza Build Guide v1.1.0 - All Archetypes from Pawn Economy to Queen Supremacy</title><link>https://gambonanzaguide.com/build-guide/</link><pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/build-guide/</guid><description>&lt;p&gt;Not every build works in every run. The best Gambonanza players know how to read the shop and adapt. This guide covers the 5 major build archetypes in v1.1.0, when to build each one, and how to transition between them.&lt;/p&gt;
+
+&lt;div class="callout callout-info"&gt;
+Pawn promotion changed in v1.4.0: you can now also promote a pawn INTO a PAWN, which was not possible before. On KNIGHT difficulty and above, the Graveyard safety net is removed by the Strain system, so a lost promotion piece stays lost. Read the &lt;a href="https://gambonanzaguide.com/v140-patch-breakdown/"&gt;v1.4.0 patch breakdown&lt;/a&gt; and the &lt;a href="https://gambonanzaguide.com/promote-into-pawn-guide/"&gt;Promote Into PAWN guide&lt;/a&gt; for the new rules before troubleshooting.
+&lt;/div&gt;
+
+&lt;p&gt;Your pawn is on the back rank. The promotion button does not show. You check the conditions: rank 8, check. Pawn, check. No capture in progress, check. So why is the game refusing to promote your piece? Check out &lt;a href="https://gambonanzaguide.com/pawn-promotion-guide/"&gt;Pawn Promotion Guide&lt;/a&gt; for more. The &lt;a href="https://gambonanzaguide.com/pawn-promotion-sustainability-guide/"&gt;Pawn Promotion Sustainability Guide&lt;/a&gt; covers this in depth.&lt;/p&gt;</description></item><item><title>Gambonanza Build Guide v1.1.0 - All Archetypes from Pawn Economy to Queen Supremacy</title><link>https://gambonanzaguide.com/build-guide/</link><pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/build-guide/</guid><description>&lt;p&gt;Not every build works in every run. The best Gambonanza players know how to read the shop and adapt. This guide covers the 5 major build archetypes in v1.1.0, when to build each one, and how to transition between them.&lt;/p&gt;
 
 &lt;div class="callout callout-verdict"&gt;
 Don&amp;rsquo;t force a build. Read what the shop gives you and pivot. A flexible player with a B-tier build that fits their gambits will beat a rigid player forcing S-tier without the right cards.
@@ -64,20 +69,13 @@ Don&amp;rsquo;t force a build. Read what the shop gives you and pivot. A flexibl
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Turn 5 target: 80+ stock from Pawns alone.&lt;/strong&gt; Combined with the right Gambit picks, the &lt;a href="https://gambonanzaguide.com/gambits/"&gt;Full Gambits List&lt;/a&gt; ranks Pawn Parade alongside the best economy options so you know which to prioritize.&lt;/p&gt;</description></item><item><title>Gambonanza Pawn Promotion Guide v1.1.0-Don't Break Your Build When Pawns Evolve</title><link>https://gambonanzaguide.com/pawn-promotion-sustainability-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/pawn-promotion-sustainability-guide/</guid><description>&lt;hr&gt;
+
+&lt;div class="callout callout-info"&gt;
+&lt;strong&gt;You can now promote into a PAWN in v1.4.0.&lt;/strong&gt; This pairs with the revamped Clown&amp;rsquo;s Gambit: promoting to a non-QUEEN spawns a tile by piece, and promoting into a PAWN drops a Phantom Tile. That enables Phantom-loop builds that were previously hard to seed. See the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/promote-into-pawn-guide/"&gt;promote-into-PAWN guide&lt;/a&gt;&lt;/strong&gt;.
+&lt;/div&gt;
+
 &lt;h2 id="the-promotion-trap"&gt;The Promotion Trap&lt;/h2&gt;
 
 &lt;div class="callout callout-verdict"&gt;
 &lt;p&gt;&lt;strong&gt;PROMOTION-AUTOMATIC UPGRADE&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Promoting a pawn to a queen sounds good-until your &amp;ldquo;Pawns only&amp;rdquo; relic stops working and you lose the economy engine that carried you through 10 runs. Promotion is a strategic decision, not a default.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class="meta-rating"&gt;
- &lt;span class="meta-badge meta-a"&gt;A&lt;/span&gt;&lt;span class="meta-label"&gt;Core strategy reference for intermediate players. Combines well with other guides.&lt;/span&gt;
-&lt;/div&gt;
-
-
-&lt;hr class="section-divider"&gt;
-
-&lt;p&gt;Promotion in Gambonanza works differently than standard chess. It&amp;rsquo;s not just about getting a queen-it&amp;rsquo;s about what you LOSE when a pawn stops being a pawn. Certain Gambits, relics, and economy bonuses only trigger on pawn moves.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Promoting a pawn to a queen sounds good-until your &amp;ldquo;Pawns only&amp;rdquo; relic stops working and you lose the economy engine that carried you through 10 runs. Promotion is a strategic decision, not a default.&lt;/p&gt;</description></item></channel></rss>

@@ -1,5 +1,5 @@
 ---
-categories: ["Strategy & Guides"]
+categories: ["Gambits & Combos"]
 tags:
   - "Gambits"
 title: "Stalemate & Bunker's Gambit Rework - How v1.3.0 Changed Two Core Systems"

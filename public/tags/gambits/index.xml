@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gambits on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/gambits/</link><description>Recent content in Gambits on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/gambits/index.xml" rel="self" type="application/rss+xml"/><item><title>ADJACENT Keyword Guide - All 11 Gambits Using Gambonanza's New Keyword (v1.2+)</title><link>https://gambonanzaguide.com/adjacent-keyword-gambits-guide/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/adjacent-keyword-gambits-guide/</guid><description>&lt;div class="callout callout-verdict"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gambits on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/gambits/</link><description>Recent content in Gambits on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/gambits/index.xml" rel="self" type="application/rss+xml"/><item><title>Clown, Enigma &amp; AFK Revamped in Gambonanza 1.4: What Changed</title><link>https://gambonanzaguide.com/clown-enigma-afk-revamp-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/clown-enigma-afk-revamp-guide/</guid><description>&lt;p&gt;v1.4.0 shipped three Gambit revamps that fundamentally change how those strategies play. Here is what each one does, how to use it, and which one deserves your attention first.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clown&amp;rsquo;s Gambit&lt;/strong&gt; replaces War Horse entirely. Promoting to any non-QUEEN piece now spawns a specific tile under the promotion target: ROOK gives Protective, KNIGHT gives Trap, BISHOP gives Blessing, KING gives Golden, and yes &amp;ndash; PAWN gives Phantom. That last one is new and it unlocks a loop that was not possible before.&lt;/p&gt;</description></item><item><title>Promote Into PAWN in Gambonanza 1.4: The Phantom-Tile Loop Explained</title><link>https://gambonanzaguide.com/promote-into-pawn-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/promote-into-pawn-guide/</guid><description>&lt;p&gt;Before v1.4.0, promoting into a PAWN was not possible. That restriction is gone. You can now promote any pawn to a PAWN, which sounds odd until you realize what it interacts with: Clown&amp;rsquo;s Gambit.&lt;/p&gt;
+&lt;p&gt;Clown&amp;rsquo;s Gambit, which replaced War Horse in v1.4.0, does something specific. When you promote into a non-QUEEN piece, it spawns a tile adjacent to the promoted piece. The tile type is determined by what you promoted into.&lt;/p&gt;</description></item><item><title>Yin &amp; Yang Buffed to 1/2 in Gambonanza 1.4: Builds to Abuse</title><link>https://gambonanzaguide.com/yin-yang-rearup-buffs-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/yin-yang-rearup-buffs-guide/</guid><description>&lt;p&gt;The short version: Gambonanza 1.4.0 quietly turned three Gambits into real picks. Yin&amp;rsquo;s Gambit and Yang&amp;rsquo;s Gambit both moved from a 1/3 trigger to a 1/2 trigger, so they now fire almost 50 percent more often. Rear Up&amp;rsquo;s Gambit went from +$2 to +$4 on promotion, which doubles the economy you get every time you promote a piece.&lt;/p&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+Run Yin and Yang together for steady triggers. Run Rear Up in any promotion build. Both are cheap, both scale with run length.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/buffs-before-after.svg" alt="Yin, Yang, and Rear Up buffs before versus after 1.4" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;Yin and Yang move from 1/3 to 1/2; Rear Up pays &amp;#43;$4 instead of &amp;#43;$2.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="the-three-buffs-at-a-glance"&gt;The Three Buffs at a Glance&lt;/h2&gt;
+
+&lt;div class="callout callout-tip"&gt;
+&lt;strong&gt;Yin and Yang&lt;/strong&gt;: 1/3 -&amp;gt; &lt;strong&gt;1/2&lt;/strong&gt; trigger chance. &lt;strong&gt;Rear Up&lt;/strong&gt;: +$2 -&amp;gt; &lt;strong&gt;+$4&lt;/strong&gt; per promotion. That is the whole headline.
+&lt;/div&gt;
+
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Gambit&lt;/th&gt;
+ &lt;th&gt;Before&lt;/th&gt;
+ &lt;th&gt;After&lt;/th&gt;
+ &lt;th&gt;Impact&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Yin&amp;rsquo;s Gambit&lt;/td&gt;
+ &lt;td&gt;1/3 chance&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;1/2 chance&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Fires almost 50% more often&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Yang&amp;rsquo;s Gambit&lt;/td&gt;
+ &lt;td&gt;1/3 chance&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;1/2 chance&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Same reliability bump&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Rear Up&amp;rsquo;s Gambit&lt;/td&gt;
+ &lt;td&gt;+$2 per promotion&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;+$4 per promotion&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Doubles promotion economy&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The key point: &lt;strong&gt;Yin and Yang are triggers&lt;/strong&gt;. &lt;strong&gt;Rear Up is economy&lt;/strong&gt;. They solve different problems, which is why they pair cleanly.&lt;/p&gt;</description></item><item><title>ADJACENT Keyword Guide - All 11 Gambits Using Gambonanza's New Keyword (v1.2+)</title><link>https://gambonanzaguide.com/adjacent-keyword-gambits-guide/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/adjacent-keyword-gambits-guide/</guid><description>&lt;div class="callout callout-verdict"&gt;
 ADJACENT means a piece is on one of the four orthogonally adjacent tiles: up, down, left, or right. &lt;strong&gt;Diagonals do NOT count.&lt;/strong&gt; This keyword was added in v1.2.0 to 11 Gambits that previously had vague or missing range descriptions. Now every ADJACENT Gambit has the same, clear rule.
 &lt;/div&gt;
 
@@ -262,77 +313,19 @@ v1.3.0 made two significant system-level changes that don&amp;rsquo;t get enough
 
 &lt;hr class="section-divider"&gt;
 &lt;h2 id="how-the-collection-system-works"&gt;How the Collection System Works&lt;/h2&gt;
-&lt;p&gt;Per GameBrief&amp;rsquo;s analysis: Gambonanza adds &amp;ldquo;a 200-item collection to unlock across runs&amp;rdquo; (&lt;a href="https://www.gamebrief.net/blog/gambonanza-complete-guide-2026"&gt;source&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Afk's Gambit Explained - How to Farm 40 Stock Per Turn (Full Guide)</title><link>https://gambonanzaguide.com/afks-gambit-guide/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/afks-gambit-guide/</guid><description>&lt;h1 id="afks-gambit-explained---how-to-farm-40-stock-per-turn"&gt;Afk&amp;rsquo;s Gambit Explained - How to Farm 40 Stock Per Turn&lt;/h1&gt;
-&lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Afk&amp;rsquo;s Gambit generates stock when your pieces DON&amp;rsquo;T move. Counter-intuitive, but game-breaking when built correctly.&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="synergy-table" style="overflow-x:auto"&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Setup&lt;/th&gt;
- &lt;th&gt;Stock Per Turn&lt;/th&gt;
- &lt;th&gt;Condition&lt;/th&gt;
- &lt;th&gt;Difficulty&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Basic&lt;/td&gt;
- &lt;td&gt;8-12&lt;/td&gt;
- &lt;td&gt;3 idle pieces turn 5+&lt;/td&gt;
- &lt;td&gt;Easy&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Core&lt;/td&gt;
- &lt;td&gt;18-25&lt;/td&gt;
- &lt;td&gt;4 idle pieces + Gambit synergy&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Optimal&lt;/td&gt;
- &lt;td&gt;35-45&lt;/td&gt;
- &lt;td&gt;5 idle pieces + relics + board position&lt;/td&gt;
- &lt;td&gt;Hard&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Per GameBrief&amp;rsquo;s analysis: Gambonanza adds &amp;ldquo;a 200-item collection to unlock across runs&amp;rdquo; (&lt;a href="https://www.gamebrief.net/blog/gambonanza-complete-guide-2026"&gt;source&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Afk's Gambit Explained - How to Farm 40 Stock Per Turn (Full Guide)</title><link>https://gambonanzaguide.com/afks-gambit-guide/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/afks-gambit-guide/</guid><description>&lt;div class="callout callout-info"&gt;
+&lt;strong&gt;AFK&amp;rsquo;s Gambit was improved in v1.4.0.&lt;/strong&gt; If your Stock is full, new pieces are now placed directly onto the board instead of being lost. That removes the old failure mode where a full Stock wasted your generated pieces. See the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/v140-patch-breakdown/"&gt;v1.4.0 Patch Breakdown&lt;/a&gt;&lt;/strong&gt; and the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/clown-enigma-afk-revamp-guide/"&gt;Clown/Enigma/AFK revamp guide&lt;/a&gt;&lt;/strong&gt;.
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Core mechanic:&lt;/strong&gt; Afk&amp;rsquo;s Gambit triggers at the START of your turn for each eligible idle piece. A piece is idle if it didn&amp;rsquo;t move on your previous turn. The more idle pieces, the more stock.&lt;/p&gt;</description></item><item><title>Enigmas Gambit - The Hidden S-Tier Gambit Most Players Miss (Complete Guide)</title><link>https://gambonanzaguide.com/enigmas-gambit-guide/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/enigmas-gambit-guide/</guid><description>&lt;h1 id="enigmas-gambit---the-hidden-s-tier-gambit-most-players-miss"&gt;Enigmas Gambit - The Hidden S-Tier Gambit Most Players Miss&lt;/h1&gt;
+
+&lt;h1 id="afks-gambit-explained---how-to-farm-40-stock-per-turn"&gt;Afk&amp;rsquo;s Gambit Explained - How to Farm 40 Stock Per Turn&lt;/h1&gt;
 &lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Enigmas Gambit copies the LAST Gambit you played. If you set it up correctly, it doubles your strongest effect every other turn.&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="synergy-table" style="overflow-x:auto"&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Setup&lt;/th&gt;
- &lt;th&gt;Effective Power&lt;/th&gt;
- &lt;th&gt;Consistency&lt;/th&gt;
- &lt;th&gt;Skill Floor&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Basic Copy&lt;/td&gt;
- &lt;td&gt;Single Gambit doubled&lt;/td&gt;
- &lt;td&gt;Low&lt;/td&gt;
- &lt;td&gt;Beginner&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Chain Loop&lt;/td&gt;
- &lt;td&gt;3 Gambits in rotation&lt;/td&gt;
- &lt;td&gt;Medium&lt;/td&gt;
- &lt;td&gt;Intermediate&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Infinite Loop&lt;/td&gt;
- &lt;td&gt;5 Gambit recursion&lt;/td&gt;
- &lt;td&gt;High&lt;/td&gt;
- &lt;td&gt;Advanced&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Afk&amp;rsquo;s Gambit generates stock when your pieces DON&amp;rsquo;T move. Counter-intuitive, but game-breaking when built correctly.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Enigmas Gambit - The Hidden S-Tier Gambit Most Players Miss (Complete Guide)</title><link>https://gambonanzaguide.com/enigmas-gambit-guide/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/enigmas-gambit-guide/</guid><description>&lt;div class="callout callout-info"&gt;
+&lt;strong&gt;Enigma&amp;rsquo;s Gambit was revamped in v1.4.0.&lt;/strong&gt; Capturing on a tile now switches its color (BLACK tiles turn WHITE, and WHITE tiles turn BLACK). That opens new board-control lines where you flip a bad tile good or set up color-gated synergies. See the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/v140-patch-breakdown/"&gt;v1.4.0 Patch Breakdown&lt;/a&gt;&lt;/strong&gt; and the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/clown-enigma-afk-revamp-guide/"&gt;Clown/Enigma/AFK revamp guide&lt;/a&gt;&lt;/strong&gt;.
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Core mechanic:&lt;/strong&gt; Enigmas Gambit triggers when your opponent activates a Gambit OR when a specific trigger condition is met (depends on your Enigmas variant). It then replays the last Gambit YOU activated at no stock cost.&lt;/p&gt;</description></item><item><title>Best Gambit Combinations - 5 Synergy Chains That Win Games</title><link>https://gambonanzaguide.com/gambit-synergy-chains/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/gambit-synergy-chains/</guid><description>&lt;h1 id="best-gambit-combinations---5-synergy-chains-that-win-games"&gt;Best Gambit Combinations - 5 Synergy Chains That Win Games&lt;/h1&gt;
+
+&lt;h1 id="enigmas-gambit---the-hidden-s-tier-gambit-most-players-miss"&gt;Enigmas Gambit - The Hidden S-Tier Gambit Most Players Miss&lt;/h1&gt;
+&lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Enigmas Gambit copies the LAST Gambit you played. If you set it up correctly, it doubles your strongest effect every other turn.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Best Gambit Combinations - 5 Synergy Chains That Win Games</title><link>https://gambonanzaguide.com/gambit-synergy-chains/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/gambit-synergy-chains/</guid><description>&lt;h1 id="best-gambit-combinations---5-synergy-chains-that-win-games"&gt;Best Gambit Combinations - 5 Synergy Chains That Win Games&lt;/h1&gt;
 &lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Stop picking Gambits randomly. These 5 combinations have the highest win rates:&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="synergy-table" style="overflow-x:auto"&gt;
@@ -407,11 +400,15 @@ v1.3.0 made two significant system-level changes that don&amp;rsquo;t get enough
 &lt;strong&gt;This guide is from v1.1.0.&lt;/strong&gt; Several Gambit probabilities changed in v1.3.0: Whip&amp;rsquo;s, Chamberlain&amp;rsquo;s, Dead or Alive&amp;rsquo;s, Show Jumping&amp;rsquo;s, Pendant&amp;rsquo;s, and Miracle&amp;rsquo;s all moved to guaranteed triggers (1/1). These were previously in the High Probability tier but are now fully deterministic. See the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/v130-patch-breakdown/"&gt;v1.3.0 Patch Breakdown&lt;/a&gt;&lt;/strong&gt; for the full list of changes.
 &lt;/div&gt;
 
+
+&lt;div class="callout callout-info"&gt;
+&lt;strong&gt;v1.4.0 changed several Gambits this guide covers.&lt;/strong&gt; Yin&amp;rsquo;s Gambit (1/3 to 1/2) and Yang&amp;rsquo;s Gambit (1/3 to 1/2) are now more reliable. Rear Up&amp;rsquo;s Gambit economy doubled (+$2 to +$4). Three Gambits were revamped: Clown&amp;rsquo;s (promoting to a non-QUEEN now spawns a tile by piece: ROOK to Protective, KNIGHT to Trap, BISHOP to Blessing, KING to Golden, PAWN to Phantom), Enigma&amp;rsquo;s (capturing on a tile switches its color), and AFK&amp;rsquo;s (Stock-full pieces now land on the board instead of being lost). See the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/v140-patch-breakdown/"&gt;v1.4.0 Patch Breakdown&lt;/a&gt;&lt;/strong&gt; and the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/clown-enigma-afk-revamp-guide/"&gt;Clown/Enigma/AFK revamp guide&lt;/a&gt;&lt;/strong&gt;.
+&lt;/div&gt;
+
 &lt;h2 id="why-deterministic-gambits-win"&gt;Why Deterministic Gambits Win&lt;/h2&gt;
 
 &lt;div class="callout callout-verdict"&gt;
-&lt;p&gt;&lt;strong&gt; THE PROBLEM WITH RNG&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Gambit 80% are 1/3 chance.&amp;quot;-actual player complaint. Gambonanza is full of Gambits that sound amazing until they whiff at the worst possible moment. This guide ranks Gambits by one metric: &lt;strong&gt;reliability&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Gambonanza Tier List (v1.1.0) Best Gambits &amp; Builds Ranked S/A/B/C</title><link>https://gambonanzaguide.com/gambonanza-tier-list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/gambonanza-tier-list/</guid><description>&lt;p&gt;##Gambonanza Tier List v1.0 Every Gambit Ranked&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; THE PROBLEM WITH RNG&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Gambonanza Tier List (v1.1.0) Best Gambits &amp; Builds Ranked S/A/B/C</title><link>https://gambonanzaguide.com/gambonanza-tier-list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/gambonanza-tier-list/</guid><description>&lt;p&gt;##Gambonanza Tier List v1.0 Every Gambit Ranked&lt;/p&gt;
 &lt;div class="callout callout-verdict" style="text-align:center;border-color:var(--gold);background:linear-gradient(135deg, rgba(212,175,55,0.15), rgba(212,175,55,0.05))"&gt;
  &lt;strong style="font-family:var(--font-display);font-size:1.4rem;color:var(--gold)"&gt;?? Must-Pick Gambits to Break the Game in v1.0&lt;/strong&gt;&lt;br&gt;
  &lt;span style="font-size:1rem;color:var(--cream-dark)"&gt;Not all Gambits are created equal. Three picks are literally game-warping the rest are filler, traps, or niche. Here's exactly where to spend your stock.&lt;/span&gt;
