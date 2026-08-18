@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="380" viewBox="0 0 700 380">
+<rect width="700" height="380" fill="#1A0F1A" rx="12"/>
+<text x="350" y="35" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Loop Topology: Safe vs Self-Destructive</text>
+
+<rect x="30" y="55" width="310" height="38" rx="6" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="185" y="79" fill="#5CB85C" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Safe Loop (Net Positive)</text>
+
+<rect x="360" y="55" width="310" height="38" rx="6" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="515" y="79" fill="#A85D6A" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Self-Destructive (Net Zero/Negative)</text>
+
+<!-- Safe row -->
+<rect x="30" y="105" width="310" height="28" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="0.5"/>
+<text x="185" y="123" fill="#5CB85C" font-size="12" text-anchor="middle">Income > Activation cost per cycle</text>
+
+<rect x="30" y="138" width="310" height="28" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="0.5"/>
+<text x="185" y="156" fill="#E8D5C0" font-size="12" text-anchor="middle">Board space grows with economy</text>
+
+<rect x="30" y="171" width="310" height="28" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="0.5"/>
+<text x="185" y="189" fill="#E8D5C0" font-size="12" text-anchor="middle">0-1 piece sold per cycle max</text>
+
+<rect x="30" y="204" width="310" height="28" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="0.5"/>
+<text x="185" y="222" fill="#E8D5C0" font-size="12" text-anchor="middle">300+ stock by turn 30</text>
+
+<rect x="30" y="237" width="310" height="28" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="0.5"/>
+<text x="185" y="255" fill="#E8D5C0" font-size="12" text-anchor="middle">Survives stage transitions</text>
+
+<!-- Destructive row -->
+<rect x="360" y="105" width="310" height="28" rx="4" fill="#2D1A2D" stroke="#A85D6A" stroke-width="0.5"/>
+<text x="515" y="123" fill="#A85D6A" font-size="12" text-anchor="middle">Income < Activation cost per cycle</text>
+
+<rect x="360" y="138" width="310" height="28" rx="4" fill="#2D1A2D" stroke="#A85D6A" stroke-width="0.5"/>
+<text x="515" y="156" fill="#E8D5C0" font-size="12" text-anchor="middle">Board overflows, forced sells</text>
+
+<rect x="360" y="171" width="310" height="28" rx="4" fill="#2D1A2D" stroke="#A85D6A" stroke-width="0.5"/>
+<text x="515" y="189" fill="#E8D5C0" font-size="12" text-anchor="middle">3+ pieces sold per cycle</text>
+
+<rect x="360" y="204" width="310" height="28" rx="4" fill="#2D1A2D" stroke="#A85D6A" stroke-width="0.5"/>
+<text x="515" y="222" fill="#E8D5C0" font-size="12" text-anchor="middle">Stock flat or decreasing by turn 20</text>
+
+<rect x="360" y="237" width="310" height="28" rx="4" fill="#2D1A2D" stroke="#A85D6A" stroke-width="0.5"/>
+<text x="515" y="255" fill="#E8D5C0" font-size="12" text-anchor="middle">Collapses on stage transition</text>
+
+<!-- 3 types -->
+<rect x="80" y="285" width="540" height="80" rx="8" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="350" y="305" fill="#D4A84A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">3 Self-Destructive Patterns to Watch</text>
+<text x="350" y="325" fill="#A85D6A" font-size="12" text-anchor="middle">Type A: Summon Spam - Generates faster than economy supports</text>
+<text x="350" y="343" fill="#A85D6A" font-size="12" text-anchor="middle">Type B: Resource Loop Lock - Gambits consume each other</text>
+<text x="350" y="361" fill="#A85D6A" font-size="12" text-anchor="middle">Type C: Timer Trap - Key gambit expires, chain breaks</text>
+</svg>

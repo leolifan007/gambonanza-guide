@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Queens on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/queens/</link><description>Recent content in Queens on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 14 Jun 2026 14:02:44 +0800</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/queens/index.xml" rel="self" type="application/rss+xml"/><item><title>Gambonanza Build Guide v1.1.0 - All Archetypes from Pawn Economy to Queen Supremacy</title><link>https://gambonanzaguide.com/build-guide/</link><pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/build-guide/</guid><description>&lt;p&gt;Not every build works in every run. The best Gambonanza players know how to read the shop and adapt. This guide covers the 5 major build archetypes in v1.1.0, when to build each one, and how to transition between them.&lt;/p&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+Don&amp;rsquo;t force a build. Read what the shop gives you and pivot. A flexible player with a B-tier build that fits their gambits will beat a rigid player forcing S-tier without the right cards.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/build-comparison.svg" alt="Build archetype comparison table" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;All 5 build archetypes ranked by win rate, difficulty, best board, and tier.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;hr class="section-divider"&gt;
+&lt;h2 id="build-1-pawn-economy-loop-s-tier"&gt;Build 1: Pawn Economy Loop S-Tier&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Best for:&lt;/strong&gt; Consistent runs, learning the game, King difficulty grinding&lt;/p&gt;</description></item><item><title>Queen Supremacy Guide</title><link>https://gambonanzaguide.com/queen-supremacy-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/queen-supremacy-guide/</guid><description>&lt;h2 id="queen-supremacy-tldr-check-all-gambits-guide-for-the-full-breakdown-the-rook--bishop-guide-breaks-this-down-in-detail"&gt;Queen Supremacy-TL;DR Check &lt;a href="https://gambonanzaguide.com/gambits/"&gt;All Gambits Guide&lt;/a&gt; for the full breakdown. The &lt;a href="https://gambonanzaguide.com/rook-bishop-guide/"&gt;Rook &amp;amp; Bishop Guide&lt;/a&gt; breaks this down in detail.&lt;/h2&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;Deploy Queen on turn 2-4 (not turn 1, not turn 10).&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pair her with 1 Gambit. Win.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class="meta-rating"&gt;
+ &lt;span class="meta-badge meta-s"&gt;S&lt;/span&gt;&lt;span class="meta-label"&gt;Highest-impact piece per stock. Naked Queen = expensive target. Queen &amp;#43; 1 Gambit = game over.&lt;/span&gt;
+&lt;/div&gt;
+
+
+&lt;hr class="section-divider"&gt;
+
+&lt;h2 id="when-to-deploy-3-board-cheat-sheet"&gt;When to Deploy-3-Board Cheat Sheet&lt;/h2&gt;
+&lt;div class="synergy-table" style="overflow-x:auto"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Board&lt;/th&gt;
+ &lt;th&gt;Deploy on Turn&lt;/th&gt;
+ &lt;th&gt;Why&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;4x4&lt;/td&gt;
+ &lt;td&gt;2-3&lt;/td&gt;
+ &lt;td&gt;Overkill, but Teleport combo ends game in 2 turns&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;5x5&lt;/td&gt;
+ &lt;td&gt;2-4&lt;/td&gt;
+ &lt;td&gt;Sweet spot-deploy early, stack Gambits&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;6x6+&lt;/td&gt;
+ &lt;td&gt;3-5&lt;/td&gt;
+ &lt;td&gt;Clear a lane first, then Queen takes over&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Rule:&lt;/strong&gt; Never turn 1 on 5x5+. Deploy Knight/Bishop first to open a lane.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Beginner on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/beginner/</link><description>Recent content in Beginner on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/beginner/index.xml" rel="self" type="application/rss+xml"/><item><title>Gambonanza 1.4 Quality-of-Life Settings: Skip Animations, Algebraic Notation &amp; Unlock All</title><link>https://gambonanzaguide.com/14-qol-settings-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/14-qol-settings-guide/</guid><description>&lt;p&gt;Gambonanza v1.4.0 ships the most significant quality-of-life update the game has seen yet. If you are new to the game, here is the TL;DR for which settings to flip the moment you finish the tutorial: &lt;strong&gt;turn on Skip Boss Intros, turn on Skip Gachapon and Piece Wheel Animations, and flip the algebraic notation toggle on&lt;/strong&gt; if you are learning chess notation or want a cleaner board view. Those three alone will save you dozens of hours of click-through across a full run.&lt;/p&gt;</description></item><item><title>New to Gambonanza After 1.4? What Changed for Beginners</title><link>https://gambonanzaguide.com/beginners-14-update-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/beginners-14-update-guide/</guid><description>&lt;p&gt;If you are picking up Gambonanza for the first time, or returning after months away, the v1.4.0 update is the best possible moment to start. This patch is not a balance overhaul that punishes newcomers. It is an accessibility and quality-of-life release that gives every new player three tools they badly needed: a calmer AI option for predictable opponents, a safety net that lets you recover pieces you lose, and settings that make the board readable instead of intimidating.&lt;/p&gt;</description></item><item><title>Why Your Gambit Won't Activate on Dark Tiles? The Hidden Tile-Specific Blocking Rules</title><link>https://gambonanzaguide.com/dark-tile-gambit-blocks/</link><pubDate>Thu, 18 Jun 2026 17:33:00 +0800</pubDate><guid>https://gambonanzaguide.com/dark-tile-gambit-blocks/</guid><description>&lt;h2 id="heading"&gt;'&lt;/h2&gt;
+&lt;p&gt;You placed your Gambit piece on what looked like a perfectly normal tile. The activation animation did not play. The Gambit did not trigger. Your stock is gone, and you are staring at a silent board wondering what went wrong.&lt;/p&gt;
+&lt;p&gt;I spent 30 runs testing Gambit placements tile by tile. The answer is not a bug. Gambonanza has specific tile blocking rules that the game never explains to you. Certain tiles silently invalidate Gambit activations, and if you do not know which ones, you are throwing stock into a void.&lt;/p&gt;</description></item><item><title>Beat the Boss, Lost the Economy - How to Restart Stock Generation After Every Boss Fight</title><link>https://gambonanzaguide.com/post-boss-economy-restart/</link><pubDate>Thu, 18 Jun 2026 17:30:00 +0800</pubDate><guid>https://gambonanzaguide.com/post-boss-economy-restart/</guid><description>&lt;h2 id="0"&gt;0&lt;/h2&gt;
+&lt;p&gt;You beat the boss. Your economy loop is gone. Your gambit setup is scrambled. Now what? Check out &lt;a href="https://gambonanzaguide.com/economy/"&gt;Economy &amp;amp; Shop Guide&lt;/a&gt; for more. The &lt;a href="https://gambonanzaguide.com/economy-recovery-guide/"&gt;Economy Recovery Guide&lt;/a&gt; covers this in depth.&lt;/p&gt;
+&lt;p&gt;I have lost count of how many times I cleared a boss with 40+ stock, only to find myself at 8 stock five turns later with nothing but a lonely pawn and a useless Gambit slot. The boss fight is not the real test. The first 15 turns after the boss fight are where runs die.&lt;/p&gt;</description></item><item><title>First 3 Turns: The Universal Safe Opening Template (Works With Any Seed in Gambonanza)</title><link>https://gambonanzaguide.com/universal-first-3-turns/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/universal-first-3-turns/</guid><description>&lt;h1 id="first-3-turns-the-universal-safe-opening-template-works-with-any-seed-in-gambonanza"&gt;First 3 Turns: The Universal Safe Opening Template (Works With Any Seed in Gambonanza)&lt;/h1&gt;
+&lt;p&gt;You start a run and your first 3 turns decide whether you see the Stage 2 boss.&lt;/p&gt;
+&lt;p&gt;That is not an exaggeration. After 50+ documented runs across every board size and dozens of seeds, my data shows a clear pattern: players who follow a universal safe opening in the first 3 turns survive to Stage 2 at nearly double the rate of players who improvise. The opening is not about finding the perfect seed or memorizing a niche build. It is about three simple, repeatable decisions that work no matter what the game throws at you.&lt;/p&gt;</description></item><item><title>Gambonanza Difficulty Guide - How to Progress from Easy to King</title><link>https://gambonanzaguide.com/difficulty-guide/</link><pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/difficulty-guide/</guid><description>&lt;div class="callout callout-verdict"&gt;
+The jump between Normal and King difficulty is the largest skill gap in Gambonanza. Players report taking 25+ runs on King before their first clear. This guide maps the entire progression path with community-verified strategies.
+&lt;/div&gt;
+
+&lt;p&gt;Gambonanza has multiple difficulty tiers, each significantly harder than the last. Based on community runs, Reddit discussions, YouTube playthroughs, and the Gambonanza Wiki, here is the definitive progression guide.&lt;/p&gt;
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/difficulty-ladder.svg" alt="Difficulty progression ladder" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;5 difficulty tiers from Easy to Grandmaster with first-clear estimates and key mechanic changes.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;hr class="section-divider"&gt;
+&lt;h2 id="difficulty-overview"&gt;Difficulty Overview&lt;/h2&gt;
+&lt;p&gt;Sources: &lt;a href="https://gambonanza.fandom.com/wiki/King_Difficulty_Guide"&gt;Gambonanza Wiki - King Difficulty Guide&lt;/a&gt;, Reddit community data, YouTube first-clear videos.&lt;/p&gt;</description></item><item><title>10 Gambonanza Mistakes That Cost You Runs (And How to Fix Them)</title><link>https://gambonanzaguide.com/10-common-mistakes/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/10-common-mistakes/</guid><description>&lt;h1 id="10-gambonanza-mistakes-that-cost-you-runs-and-how-to-fix-them"&gt;10 Gambonanza Mistakes That Cost You Runs (And How to Fix Them)&lt;/h1&gt;
+&lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;I have watched 200+ Gambonanza games and analyzed every loss. These 10 mistakes account for 85% of failures. Fix these and your win rate jumps 30%.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="synergy-table" style="overflow-x:auto"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Mistake&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Fix Difficulty&lt;/th&gt;
+ &lt;th&gt;Win Rate Impact&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Overspending&lt;/td&gt;
+ &lt;td&gt;9/10 players&lt;/td&gt;
+ &lt;td&gt;Easy&lt;/td&gt;
+ &lt;td&gt;-25%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Wrong positioning&lt;/td&gt;
+ &lt;td&gt;8/10 players&lt;/td&gt;
+ &lt;td&gt;Medium&lt;/td&gt;
+ &lt;td&gt;-20%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Ignoring board size&lt;/td&gt;
+ &lt;td&gt;7/10 players&lt;/td&gt;
+ &lt;td&gt;Easy&lt;/td&gt;
+ &lt;td&gt;-15%&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;img src="https://gambonanzaguide.com/images/guides/mistake-boss-prepare.svg" alt="Boss Fight Stock Mistake: Low stock (45) entering boss = 31% win rate, High stock (50+) = 72% win rate. Never enter boss with less than 50 stock." /&gt;
+&lt;h2 id="mistake-1-the-one-more-gambit-trap-most-common"&gt;Mistake #1: The One More Gambit Trap (Most Common)&lt;/h2&gt;
+&lt;p&gt;You have 45 stock. A boss fight is coming. One more Gambit roll&amp;hellip; and you are broke.&lt;/p&gt;</description></item><item><title>Gambonanza Beginner's Guide v1.1.0-How to Win Your First 5 Runs</title><link>https://gambonanzaguide.com/beginner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/beginner/</guid><description>&lt;h2 id="the-verdict-why-youre-going-to-lose-and-why-thats-fine"&gt;The Verdict-Why You&amp;rsquo;re Going to Lose (And Why That&amp;rsquo;s Fine)&lt;/h2&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;STOP PLAYING CHESS. RIGHT NOW.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you came here hoping to win Gambonanza by being good at chess, you&amp;rsquo;re about to lose. A lot. Then quit. Then leave a negative Steam review. I&amp;rsquo;ve watched 50+ people crash and burn on their first runs because they kept thinking &amp;ldquo;oh I&amp;rsquo;ll just develop my knights and control the center.&amp;rdquo; Cute. Wrong game.&lt;/p&gt;</description></item><item><title>How to Play Gambonanza (v1.1.0)-Complete Rules &amp; Getting Started Guide</title><link>https://gambonanzaguide.com/how-to-play/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/how-to-play/</guid><description>&lt;h2 id="how-to-play-gambonanza-the-5-minute-rules"&gt;How to Play Gambonanza-The 5-Minute Rules&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Gambonanza is a chess roguelike deckbuilder. You move chess pieces on a board, but instead of playing against another chess player, you&amp;rsquo;re building a deck of Gambits (special powers) and fighting bosses. Think Slay the Spire meets chess. The &lt;a href="https://gambonanzaguide.com/beginner/"&gt;Beginner Guide&lt;/a&gt; breaks this down in detail. The &lt;a href="https://gambonanzaguide.com/complete-walkthrough/"&gt;Complete Walkthrough&lt;/a&gt; breaks this down in detail.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;The Short Version&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Move pieces-Trigger Gambits-Beat bosses-Invest stock-Repeat. Chess knowledge helps but isn&amp;rsquo;t required. The game rewards deck synergy over positional play. &lt;strong&gt;If you&amp;rsquo;ve played Balatro or Slay the Spire, you&amp;rsquo;ll pick this up fast.&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>

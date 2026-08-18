@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 510" width="100%" height="auto" style="max-width:640px;display:block;margin:0 auto">
+<defs>
+  <filter id="g"><feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.5"/></filter>
+  <filter id="s"><feDropShadow dx="1" dy="1.5" stdDeviation="1.5" flood-color="#000" flood-opacity="0.6"/></filter>
+  <style>
+    .bg{fill:#120812}.cl{fill:#2A1420}.cd{fill:#1C0A14}.hl{fill:#142E1A}
+    .sl{font:10px 'Segoe UI',monospace;fill:#C08870;text-anchor:middle;dominant-baseline:central}
+    .pw{font:28px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#F0E0CC}
+    .pb{font:28px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#D44030}
+    .ps{font:28px 'Segoe UI',monospace;text-anchor:middle;dominant-baseline:central;filter:url(#s);fill:#F0C040}
+    .l{font:15px Tahoma,sans-serif;fill:#E0D0C0}
+    .ls{font:11.5px Tahoma,sans-serif;fill:#B08070}
+    .tl{font:13px Tahoma,sans-serif;fill:#C09050;font-weight:700}
+    /* All highlights: golden dashed #F0A030 */
+    .ho{fill:none;stroke:#F0A030;stroke-width:2.5;stroke-dasharray:5,3}
+    .ho-thick{fill:none;stroke:#F0A030;stroke-width:3.5;stroke-dasharray:5,3}
+    .ho-thin{fill:none;stroke:#F0A030;stroke-width:1.5;stroke-dasharray:4,3}
+  </style>
+</defs>
+<rect class="bg" width="640" height="510" rx="8" filter="url(#g)"/>
+<text x="320" y="48" class="l" font-size="16" text-anchor="middle" font-weight="700">5×5 Tile Value Map</text>
+<text x="320" y="66" class="ls" text-anchor="middle">Center dominates → Corners collapse first under Crumble</text>
+
+<text x="145" y="90" class="tl" text-anchor="middle">Tile Value Zones</text>
+<g transform="translate(20,98)">
+  <!-- Row 0: D C B C D -->
+  <rect x="0"   y="0"   width="48" height="48" class="cl" rx="4"/><text x="24" y="25" class="pb">♟</text>
+  <rect x="48"  y="0"   width="48" height="48" class="cd" rx="4"/><text x="72" y="25" class="pw">♚</text>
+  <rect x="96"  y="0"   width="48" height="48" class="cl" rx="4"/><text x="120" y="25" class="pw">♞</text>
+  <rect x="144" y="0"   width="48" height="48" class="cd" rx="4"/><text x="168" y="25" class="pw">♚</text>
+  <rect x="192" y="0"   width="48" height="48" class="cl" rx="4"/><text x="216" y="25" class="pb">♟</text>
+  <!-- Row 1: C A A A C -->
+  <rect x="0"   y="48"  width="48" height="48" class="cd" rx="4"/><text x="24" y="73" class="pw">♚</text>
+  <rect x="48"  y="48"  width="48" height="48" class="cl" rx="4"/><text x="72" y="73" class="ps">♛</text>
+  <rect x="96"  y="48"  width="48" height="48" class="cd" rx="4"/><text x="120" y="73" class="ps">♛</text>
+  <rect x="144" y="48"  width="48" height="48" class="cl" rx="4"/><text x="168" y="73" class="ps">♛</text>
+  <rect x="192" y="48"  width="48" height="48" class="cd" rx="4"/><text x="216" y="73" class="pw">♚</text>
+  <!-- Row 2: B A S A B -->
+  <rect x="0"   y="96"  width="48" height="48" class="cl" rx="4"/><text x="24" y="121" class="pw">♞</text>
+  <rect x="48"  y="96"  width="48" height="48" class="cd" rx="4"/><text x="72" y="121" class="ps">♛</text>
+  <rect x="96"  y="96"  width="48" height="48" class="hl" rx="4"/><text x="120" y="121" class="ps" font-size="30">♜</text>
+  <rect x="144" y="96"  width="48" height="48" class="cl" rx="4"/><text x="168" y="121" class="ps">♛</text>
+  <rect x="192" y="96"  width="48" height="48" class="cd" rx="4"/><text x="216" y="121" class="pw">♞</text>
+  <!-- Row 3: C A A A C -->
+  <rect x="0"   y="144" width="48" height="48" class="cd" rx="4"/><text x="24" y="169" class="pw">♚</text>
+  <rect x="48"  y="144" width="48" height="48" class="cl" rx="4"/><text x="72" y="169" class="ps">♛</text>
+  <rect x="96"  y="144" width="48" height="48" class="cd" rx="4"/><text x="120" y="169" class="ps">♛</text>
+  <rect x="144" y="144" width="48" height="48" class="cl" rx="4"/><text x="168" y="169" class="ps">♛</text>
+  <rect x="192" y="144" width="48" height="48" class="cd" rx="4"/><text x="216" y="169" class="pw">♚</text>
+  <!-- Row 4: D C B C D -->
+  <rect x="0"   y="192" width="48" height="48" class="cl" rx="4"/><text x="24" y="217" class="pb">♟</text>
+  <rect x="48"  y="192" width="48" height="48" class="cd" rx="4"/><text x="72" y="217" class="pw">♚</text>
+  <rect x="96"  y="192" width="48" height="48" class="cl" rx="4"/><text x="120" y="217" class="pw">♞</text>
+  <rect x="144" y="192" width="48" height="48" class="cd" rx="4"/><text x="168" y="217" class="pw">♚</text>
+  <rect x="192" y="192" width="48" height="48" class="cl" rx="4"/><text x="216" y="217" class="pb">♟</text>
+
+  <!-- S center: golden thick highlight -->
+  <rect x="96" y="96" width="48" height="48" class="ho-thick" rx="2"/>
+  <!-- A ring: golden standard highlights -->
+  <rect x="48" y="48" width="48" height="48" class="ho" rx="2"/>
+  <rect x="96" y="48" width="48" height="48" class="ho" rx="2"/>
+  <rect x="144" y="48" width="48" height="48" class="ho" rx="2"/>
+  <rect x="48" y="96" width="48" height="48" class="ho" rx="2"/>
+  <rect x="144" y="96" width="48" height="48" class="ho" rx="2"/>
+  <rect x="48" y="144" width="48" height="48" class="ho" rx="2"/>
+  <rect x="96" y="144" width="48" height="48" class="ho" rx="2"/>
+  <rect x="144" y="144" width="48" height="48" class="ho" rx="2"/>
+  <!-- D corners: golden thin highlights -->
+  <rect x="0" y="0" width="48" height="48" class="ho-thin" rx="2"/>
+  <rect x="192" y="0" width="48" height="48" class="ho-thin" rx="2"/>
+  <rect x="0" y="192" width="48" height="48" class="ho-thin" rx="2"/>
+  <rect x="192" y="192" width="48" height="48" class="ho-thin" rx="2"/>
+</g>
+<!-- Column labels (reference style) -->
+<text x="44"  y="88" class="sl">a</text>
+<text x="92"  y="88" class="sl">b</text>
+<text x="140" y="88" class="sl">c</text>
+<text x="188" y="88" class="sl">d</text>
+<text x="236" y="88" class="sl">e</text>
+<!-- Row labels (reference style) -->
+<text x="16"  y="122" class="sl">5</text>
+<text x="16"  y="170" class="sl">4</text>
+<text x="16"  y="218" class="sl">3</text>
+<text x="16"  y="266" class="sl">2</text>
+<text x="16"  y="314" class="sl">1</text>
+
+<!-- Legend - fits within 640px viewBox -->
+<g transform="translate(20,370)">
+  <rect x="0" y="0" width="14" height="14" fill="#142E1A" stroke="#F0A030" stroke-width="2" rx="2"/>
+  <text x="20" y="12" fill="#81C784" font-size="11" font-weight="bold">S → Center (safe from Crumble)</text>
+
+  <rect x="0" y="22" width="14" height="14" fill="none" stroke="#F0A030" stroke-width="1.5" rx="2"/>
+  <text x="20" y="34" fill="#F0A030" font-size="11">A → Mid-ring (collapses last)</text>
+
+  <rect x="310" y="0" width="14" height="14" fill="#1C0A14" stroke="#F0A030" stroke-width="1" rx="2"/>
+  <text x="330" y="12" fill="#C08870" font-size="11">B → Bridge (collapses mid-game)</text>
+
+  <rect x="310" y="22" width="14" height="14" fill="#2A1420" stroke="#F0A030" stroke-width="1.5" rx="2"/>
+  <text x="330" y="34" fill="#F0A030" font-size="11">C/D → Edges &amp; Corners (1st to collapse)</text>
+</g>
+
+<text x="320" y="450" class="l" text-anchor="middle">Center tiles survive longest → control the middle = control the game</text>
+<text x="320" y="475" class="ls" text-anchor="middle">Piece placement determines territory advantage under Crumble pressure</text>
+</svg>

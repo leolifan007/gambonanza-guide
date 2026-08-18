@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="380" viewBox="0 0 700 380">
+<rect width="700" height="380" fill="#1A0F1A" rx="12"/>
+<text x="350" y="38" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Bunker's Gambit: Before vs After</text>
+
+<!-- Column headers -->
+<rect x="40" y="60" width="310" height="32" rx="4" fill="#3A2030" stroke="#A85D6A" stroke-width="1"/>
+<text x="195" y="81" fill="#A85D6A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">BEFORE v1.3 (Crumble only)</text>
+
+<rect x="360" y="60" width="310" height="32" rx="4" fill="#3A2030" stroke="#5CB85C" stroke-width="1"/>
+<text x="515" y="81" fill="#5CB85C" font-family="'VT323',monospace" font-size="14" text-anchor="middle">AFTER v1.3 (Global)</text>
+
+<!-- Stage 1-3 row -->
+<rect x="40" y="100" width="310" height="65" rx="6" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1"/>
+<text x="195" y="122" fill="#A85D6A" font-size="12" text-anchor="middle">Stage 1-3 (No Crumble)</text>
+<text x="195" y="140" fill="#E8D5C0" font-size="13" text-anchor="middle">$0 total</text>
+<text x="195" y="155" fill="#E8D5C0" font-size="11" text-anchor="middle">Bunker does NOTHING</text>
+
+<rect x="360" y="100" width="310" height="65" rx="6" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1"/>
+<text x="515" y="122" fill="#5CB85C" font-size="12" text-anchor="middle">Stage 1-3 (Active)</text>
+<text x="515" y="140" fill="#5CB85C" font-size="13" text-anchor="middle">$20-40 total</text>
+<text x="515" y="155" fill="#E8D5C0" font-size="11" text-anchor="middle">$1 per PROTECT, every turn</text>
+
+<!-- Stage 4+ row -->
+<rect x="40" y="175" width="310" height="65" rx="6" fill="#2D1A2D" stroke="#D4764A" stroke-width="1"/>
+<text x="195" y="197" fill="#D4764A" font-size="12" text-anchor="middle">Stage 4+ (Crumble active)</text>
+<text x="195" y="215" fill="#D4764A" font-size="13" text-anchor="middle">$3-9 total</text>
+<text x="195" y="230" fill="#E8D5C0" font-size="11" text-anchor="middle">$3 per PROTECT, few PROTECTs</text>
+
+<rect x="360" y="175" width="310" height="65" rx="6" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1"/>
+<text x="515" y="197" fill="#5CB85C" font-size="12" text-anchor="middle">Stage 4+ (Crumble active)</text>
+<text x="515" y="215" fill="#5CB85C" font-size="13" text-anchor="middle">$4-7 per turn</text>
+<text x="515" y="230" fill="#E8D5C0" font-size="11" text-anchor="middle">$1 per PROTECT, many PROTECTs</text>
+
+<!-- Total row -->
+<rect x="40" y="255" width="310" height="50" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="2"/>
+<text x="195" y="278" fill="#A85D6A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">RUN TOTAL</text>
+<text x="195" y="296" fill="#E8D5C0" font-size="13" text-anchor="middle">$3-9 per run</text>
+
+<rect x="360" y="255" width="310" height="50" rx="8" fill="#2D1A2D" stroke="#5CB85C" stroke-width="2"/>
+<text x="515" y="278" fill="#5CB85C" font-family="'VT323',monospace" font-size="14" text-anchor="middle">RUN TOTAL</text>
+<text x="515" y="296" fill="#5CB85C" font-size="13" text-anchor="middle">$25-50+ per run</text>
+
+<!-- Summary -->
+<rect x="40" y="320" width="620" height="40" rx="6" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1"/>
+<text x="350" y="342" fill="#D4A84A" font-family="'VT323',monospace" font-size="13" text-anchor="middle">Verdict: Net buff. Old Bunker paid more per trigger but triggered rarely. New Bunker pays less per trigger but triggers constantly.</text>
+</svg>

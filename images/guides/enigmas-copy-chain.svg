@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" width="100%" height="auto" style="max-width:720px;display:block;margin:0 auto" font-family="'Segoe UI','Inter',sans-serif">
+  <defs>
+    <filter id="s"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.5"/></filter>
+    <filter id="g"><feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.6"/></filter>
+    <marker id="arr" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#C09050"/>
+    </marker>
+    <marker id="arr-dash" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#C08870"/>
+    </marker>
+  </defs>
+  <rect width="720" height="200" rx="10" fill="#120812" filter="url(#g)"/>
+  <text x="360" y="26" text-anchor="middle" fill="#E0D0C0" font-size="14" font-weight="bold" filter="url(#s)">🔁 Enigmas Copy Chain (Infinite Loop Build)</text>
+  
+  <!-- Step 1: Activate Gambit A -->
+  <g transform="translate(14,38)">
+    <rect width="165" height="130" rx="6" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+    <rect width="165" height="28" rx="6" fill="#2A1420"/>
+    <text x="82" y="20" text-anchor="middle" fill="#FFF" font-size="11" font-weight="bold" filter="url(#s)">TURN 1: Gambit A</text>
+    <text x="82" y="62" text-anchor="middle" fill="#F0C040" font-size="24" filter="url(#s)">♜</text>
+    <text x="82" y="86" text-anchor="middle" fill="#E0D0C0" font-size="13">Column Lock</text>
+    <text x="82" y="106" text-anchor="middle" fill="#C08870" font-size="10">Suppression applied</text>
+    <text x="82" y="148" text-anchor="middle" fill="#C09050" font-size="9">Cost: 12 stock</text>
+  </g>
+  <!-- Arrow -->
+  <line x1="184" y1="102" x2="206" y2="102" stroke="#C09050" stroke-width="2.5" marker-end="url(#arr)"/>
+  
+  <!-- Step 2: Enigmas Copies -->
+  <g transform="translate(210,38)">
+    <rect width="165" height="130" rx="6" fill="#2D1A2D" stroke="#9C27B0" stroke-width="1.5"/>
+    <rect width="165" height="28" rx="6" fill="#2A1028"/>
+    <text x="82" y="20" text-anchor="middle" fill="#FFF" font-size="11" font-weight="bold" filter="url(#s)">TURN 2: ENIGMAS</text>
+    <text x="82" y="62" text-anchor="middle" fill="#CE93D8" font-size="24" filter="url(#s)">🔁</text>
+    <text x="82" y="86" text-anchor="middle" fill="#D0A0D0" font-size="13">Copies Gambit A</text>
+    <text x="82" y="106" text-anchor="middle" fill="#C08870" font-size="10">Free activation!</text>
+    <text x="82" y="148" text-anchor="middle" fill="#C09050" font-size="9">Cost: 0 stock</text>
+  </g>
+  <!-- Arrow -->
+  <line x1="380" y1="102" x2="402" y2="102" stroke="#C09050" stroke-width="2.5" marker-end="url(#arr)"/>
+  
+  <!-- Step 3: Suppression Doubled -->
+  <g transform="translate(414,38)">
+    <rect width="170" height="130" rx="6" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+    <rect width="170" height="28" rx="6" fill="#3A1A10"/>
+    <text x="85" y="20" text-anchor="middle" fill="#FFF" font-size="11" font-weight="bold" filter="url(#s)">TURN 3: Double Effect</text>
+    <text x="42" y="65" text-anchor="middle" fill="#F0C040" font-size="20" filter="url(#s)">♜</text>
+    <text x="128" y="65" text-anchor="middle" fill="#C09050" font-size="20" filter="url(#s)">🔁</text>
+    <text x="85" y="90" text-anchor="middle" fill="#E0D0C0" font-size="12">2x Suppression</text>
+    <text x="85" y="108" text-anchor="middle" fill="#C08870" font-size="10">on opponent</text>
+    <text x="85" y="148" text-anchor="middle" fill="#C09050" font-size="9">Value: 24 stock</text>
+  </g>
+  <!-- Dashed loop arrow back to step 1 -->
+  <path d="M 414 130 Q 230 170 210 130" fill="none" stroke="#9C27B0" stroke-width="1.5" stroke-dasharray="5,3" marker-end="url(#arr-dash)"/>
+  
+  <!-- Step 4: Loop -->
+  <g transform="translate(588,38)">
+    <rect width="120" height="130" rx="6" fill="#142E1A" stroke="#4CAF50" stroke-width="2" filter="url(#g)"/>
+    <rect width="120" height="28" rx="6" fill="#0E2A12"/>
+    <text x="60" y="20" text-anchor="middle" fill="#FFF" font-size="11" font-weight="bold" filter="url(#s)">INFINITE</text>
+    <text x="60" y="65" text-anchor="middle" fill="#81C784" font-size="22" font-weight="bold" filter="url(#g)">∞</text>
+    <text x="60" y="90" text-anchor="middle" fill="#4CAF50" font-size="12">Self-sustaining</text>
+    <text x="60" y="112" text-anchor="middle" fill="#81C784" font-size="11">loop active</text>
+    <text x="60" y="138" text-anchor="middle" fill="#81C784" font-size="9">78% Win Rate</text>
+  </g>
+</svg>
