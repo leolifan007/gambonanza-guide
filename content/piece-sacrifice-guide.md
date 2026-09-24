@@ -1,5 +1,5 @@
 ---
-categories: ["Pieces & Cards"]
+categories: ["Gambits & Combos"]
 lastmod: 2026-05-26T05:06:08+08:00
 date: 2026-05-26
 tags:

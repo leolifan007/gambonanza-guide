@@ -86,8 +86,8 @@ Clown's Gambit wins this round. The Phantom Tile loop via promote-into-PAWN is t
 
 ## Community Resources
 
-- [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/){target="_blank" rel="noopener noreferrer"}
-- [All Gambits on Gambonanza Wiki](https://gambonanza.fandom.com/wiki/Gambits){target="_blank" rel="noopener noreferrer"}
+- [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/)
+- [All Gambits on Gambonanza Wiki](https://gambonanza.fandom.com/wiki/Gambits)
 
 ---
 

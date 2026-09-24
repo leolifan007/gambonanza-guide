@@ -83,8 +83,8 @@ Rule of thumb: go Queen when you need to end the game now. Go PAWN when you are 
 
 ## Community Resources
 
-- [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/){target="_blank" rel="noopener noreferrer"}
-- [All Gambits on Gambonanza Wiki](https://gambonanza.fandom.com/wiki/Gambits){target="_blank" rel="noopener noreferrer"}
+- [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/)
+- [All Gambits on Gambonanza Wiki](https://gambonanza.fandom.com/wiki/Gambits)
 
 ---
 

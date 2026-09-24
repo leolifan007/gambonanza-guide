@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="420" viewBox="0 0 700 420">
+<rect width="700" height="420" fill="#1A0F1A" rx="12"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker></defs>
+<text x="350.0" y="34" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Steam Deck Setup Flow</text>
+<rect x="255" y="55" width="190" height="90" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<rect x="255" y="55" width="190" height="24" rx="8" fill="#D4A84A" opacity="0.18"/>
+<text x="350.0" y="72" fill="#D4A84A" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Text Readability</text>
+<text x="350.0" y="97" fill="#E8D5C0" font-size="12.5" text-anchor="middle">UI revamp in 1.5</text>
+<text x="350.0" y="115" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Larger, sharper text</text>
+<rect x="60" y="200" width="180" height="120" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="60" y="200" width="180" height="24" rx="8" fill="#4A9B9B" opacity="0.18"/>
+<text x="150.0" y="217" fill="#4A9B9B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Display</text>
+<text x="150.0" y="242" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Check letterboxing</text>
+<text x="150.0" y="260" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Match Deck aspect</text>
+<text x="150.0" y="278" fill="#E8D5C0" font-size="12.5" text-anchor="middle">No black bars</text>
+<rect x="260" y="200" width="180" height="120" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<rect x="260" y="200" width="180" height="24" rx="8" fill="#D4A84A" opacity="0.18"/>
+<text x="350.0" y="217" fill="#D4A84A" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Controls</text>
+<text x="350.0" y="242" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Controller nav</text>
+<text x="350.0" y="260" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Strains menus</text>
+<text x="350.0" y="278" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Trackpad clicks</text>
+<rect x="460" y="200" width="180" height="120" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="460" y="200" width="180" height="24" rx="8" fill="#4A9B9B" opacity="0.18"/>
+<text x="550.0" y="217" fill="#4A9B9B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">In-Game</text>
+<text x="550.0" y="242" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Settings / Extras</text>
+<text x="550.0" y="260" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Skip animations</text>
+<text x="550.0" y="278" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Algebraic notation</text>
+<line x1="350" y1="145" x2="350" y2="200" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="300" y1="260" x2="260" y2="260" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="400" y1="260" x2="460" y2="260" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+</svg>

@@ -88,8 +88,8 @@ The practical ceiling: once a piece costs more to recover than it is worth on th
 
 ## Community Resources
 
-- [Official Gambonanza Steam News (v1.4.0 announcements)](https://store.steampowered.com/news/app/3509230/){target="_blank" rel="noopener noreferrer"}
-- [All 200+ Gambits on the Gambonanza Wiki](https://gambonanza.fandom.com/wiki/Gambits){target="_blank" rel="noopener noreferrer"}
+- [Official Gambonanza Steam News (v1.4.0 announcements)](https://store.steampowered.com/news/app/3509230/)
+- [All 200+ Gambits on the Gambonanza Wiki](https://gambonanza.fandom.com/wiki/Gambits)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-categories: ["Boss Battles"]
+categories: ["Boss Guides"]
 tags:
   - "Bosses"
 title: "Blitzking Boss Guide"

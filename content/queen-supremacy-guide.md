@@ -1,5 +1,5 @@
 ---
-categories: ["Boss Battles"]
+categories: ["Boss Guides"]
 tags:
   - "Queens"
 title: "Queen Supremacy Guide"

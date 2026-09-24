@@ -121,8 +121,8 @@ Quick highlights relevant to settings-conscious players:
 
 ## Community Resources
 
-- [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/){target="_blank" rel="noopener noreferrer"}
-- [Gambonanza Wiki - Gambits Database](https://gambonanza.fandom.com/wiki/Gambits){target="_blank" rel="noopener noreferrer"}
+- [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/)
+- [Gambonanza Wiki - Gambits Database](https://gambonanza.fandom.com/wiki/Gambits)
 
 ---
 

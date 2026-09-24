@@ -92,8 +92,8 @@ What this means in practice: you are not locking yourself out permanently. Playe
 
 ## Community Resources
 
-- [Official Gambonanza Steam News (v1.4.0 announcements)](https://store.steampowered.com/news/app/3509230/){target="_blank" rel="noopener noreferrer"}
-- [All Gambits on the Gambonanza Wiki](https://gambonanza.fandom.com/wiki/Gambits){target="_blank" rel="noopener noreferrer"}
+- [Official Gambonanza Steam News (v1.4.0 announcements)](https://store.steampowered.com/news/app/3509230/)
+- [All Gambits on the Gambonanza Wiki](https://gambonanza.fandom.com/wiki/Gambits)
 
 ---
 

@@ -82,8 +82,8 @@ Stop memorizing openers. Start reading the board. v1.4.0 added new enemy waves s
 
 ## Community Resources
 
-- [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/){target="_blank" rel="noopener noreferrer"}
-- [Gambonanza Wiki: Gambits](https://gambonanza.fandom.com/wiki/Gambits){target="_blank" rel="noopener noreferrer"}
+- [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/)
+- [Gambonanza Wiki: Gambits](https://gambonanza.fandom.com/wiki/Gambits)
 
 ---
 

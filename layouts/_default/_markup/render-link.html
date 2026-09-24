@@ -1,0 +1,6 @@
+{{- $u := urls.Parse .Destination -}}
+{{- if $u.IsAbs -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} target="_blank" rel="noopener noreferrer">{{ .Text | safeHTML }}</a>
+{{- else -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

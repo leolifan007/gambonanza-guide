@@ -76,5 +76,5 @@ v1.4.0 also shipped balance tweaks (Yin and Yang trigger at 1/2, Rear Up pays +$
 
 ## Community Resources
 
-- [Official Gambonanza Steam News (v1.4.0 announcements)](https://store.steampowered.com/news/app/3509230/){target="_blank" rel="noopener noreferrer"}
-- [Gambonanza Wiki - Gambits](https://gambonanza.fandom.com/wiki/Gambits){target="_blank" rel="noopener noreferrer"}
+- [Official Gambonanza Steam News (v1.4.0 announcements)](https://store.steampowered.com/news/app/3509230/)
+- [Gambonanza Wiki - Gambits](https://gambonanza.fandom.com/wiki/Gambits)
