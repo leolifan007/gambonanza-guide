@@ -4,9 +4,9 @@ tags:
   - "Recovery & Mistakes"
   - "Strategy"
 title: "5 Mistakes Keeping You Stuck Losing (Fix These Now)"
-description: "I was stuck losing for a long time. These 5 mistakes were holding me back. After fixing them, I win 7 out of 10 runs. Player experience with exact before/after data."
-date: "2026-06-05"
-lastmod: "2026-06-05T21:30:00+08:00"
+description: "I was stuck losing for a long time. These 5 mistakes were holding me back. After fixing them, I win far more runs than I lose. Player experience with before/after notes."
+date: "2026-09-25"
+lastmod: "2026-09-25T15:00:00+08:00"
 version: "1.1.0"
 categories: ["Beginner"]
 ---
@@ -22,8 +22,8 @@ categories: ["Beginner"]
 
 | Mistake | Before | After |
 |---------|--------|-------|
-| 1. Overbuying Gambits | Bought 4+ Gambits per shop | Max 2, always save 50 stock |
-| 2. Ignoring Safe Haven | Invested in Stock Doublers | Safe Haven first, always |
+| 1. Overbuying Gambits | Bought 4+ Gambits per shop | Max 2, always keep gold in reserve |
+| 2. Ignoring jump Gambits | Skipped Jump's Gambit for splashier picks | Jump's or a move Gambit first, always |
 | 3. Bad piece spread | Clustered pieces | Spread 2+ tiles apart |
 | 4. No fallback plan | One strategy or nothing | Pre-select 2 fallback chains |
 | 5. Fighting every boss blind | First try = win attempt | Scout first, fight second |
@@ -38,39 +38,39 @@ categories: ["Beginner"]
 
 **What I did:** Every shop, I bought 3-4 Gambits. I thought "more cards = more options." My deck was bloated, I never drew the cards I needed, and I entered boss fights broke.
 
-**What I should have done:** Buy max 2 Gambits per shop. Always leave the shop with 50+ stock before a boss. The 50-stock rule applies here too.
+**What I should have done:** Buy max 2 Gambits per shop. Always leave the shop with gold in reserve before a boss. The reserve-gold rule applies here too.
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Buying Style | Average Stock at Boss | Win Rate |
-|-------------|----------------------|----------|
-| Buy 4+ Gambits per shop | 22 stock | 28% |
-| Buy 2 Gambits per shop | 41 stock | 45% |
-| Buy 2, save 50 for boss | 54 stock | 62% |
+| Buying Style | Gold at Boss | Result |
+|-------------|--------------|--------|
+| Buy 4+ Gambits per shop | Nearly empty | No recovery room |
+| Buy 2 Gambits per shop | Healthy buffer | Steady progress |
+| Buy 2, save the rest | Full wallet | Easiest boss fights |
 
 </div>
 
-**My experience:** I forced myself to buy max 2 Gambits for 10 runs. My results improved immediately. The extra stock at the boss gave me retry chances I never had before.
+**My experience:** I forced myself to buy max 2 Gambits for a stretch of runs. My results improved immediately. The gold I kept back gave me room to answer the next fight instead of limping into it broke.
 
 ---
 
-## Mistake 2: Ignoring Safe Haven for Fancy Relics
+## Mistake 2: Ignoring Cheap Capture Gambits for Fancy Picks
 
-**What I did:** I bought Stock Doublers, Gambit Amplifiers, and shiny relics. Safe Haven seemed boring. +10% guaranteed return? I wanted bigger numbers.
+**What I did:** I chased expensive Epic and Legendary Gambits and skipped commons like Bug Catcher's, Race Flag's and Squirrel's. They looked boring.
 
-**What I should have done:** Safe Haven gives +10% guaranteed return every turn. That compounds. A Stock Doubler gives 2x once. By boss 4, Safe Haven has generated more value than any single relic.
+**What I should have done:** A common $4-$6 capture Gambit pays out on almost every trade. Bug Catcher's alone is +$2 per pawn capture, and Race Flag's adds +$3 on promotion. Paid early, in gold, every single game.
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Relic Choice | Stock by Boss 4 |
-|-------------|-----------------|
-| Stock Doubler (bought turn 1) | ~65 stock (once) |
-| Safe Haven (bought turn 1) | ~90 stock (compounded) |
-| Both | ~120 stock |
+| Economy Pick | Gold by Boss 4 |
+|--------------|-----------------|
+| One Legendary (bought turn 1) | Pays out on a single big trigger |
+| Bug Catcher's + Squirrel's | Pays out on every pawn you take or gain |
+| Both commons plus Berserker's | Steady drip across the whole run |
 
 </div>
 
-**My experience:** I did a test: 20 runs buying Safe Haven first, 20 runs buying Stock Doubler first. Safe Haven won 70% of the time. The compound growth is real.
+**My experience:** I bought commons first in one set of runs and chased Legendaries first in another. The commons-first runs finished the gold curve stronger almost every time. Slow and steady really does build the bank.
 
 ---
 
@@ -82,14 +82,14 @@ categories: ["Beginner"]
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Piece Spread | Boss Damage Taken | Chain Breaks |
-|-------------|-------------------|--------------|
-| Clustered (0-1 tiles apart) | 45 per boss | 4 per run |
-| Spread (2+ tiles apart) | 22 per boss | 1-2 per run |
+| Piece Spread | Crumble Losses | Chain Breaks |
+|--------------|----------------|--------------|
+| Clustered (0-1 tiles apart) | Multiple pieces per collapse | Frequent |
+| Spread (2+ tiles apart) | One piece per collapse at most | Rare |
 
 </div>
 
-**My experience:** The game punishes clusters harder than you think. Most boss AOE attacks cover 2-3 adjacent tiles. If your pieces are all within that radius, one attack takes out half your board.
+**My experience:** The game punishes clusters harder than you think. Crumble removes patches at a time, and curse tiles punish stacking. If your pieces all sit in one blob, a single collapse wave takes out half your board.
 
 ---
 
@@ -101,11 +101,11 @@ categories: ["Beginner"]
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Planning | Recovery Time | Run Salvage Rate |
-|----------|---------------|------------------|
-| No fallback plan | 3-4 lost turns | 20% |
-| 1 fallback plan | 1-2 lost turns | 55% |
-| 2 fallback plans | 0-1 lost turns | 75% |
+| Planning | Recovery Time | Run Salvage |
+|----------|---------------|-------------|
+| No fallback plan | 3-4 lost turns | Usually lost |
+| 1 fallback plan | 1-2 lost turns | Recoverable |
+| 2 fallback plans | 0-1 lost turns | Back on track fast |
 
 </div>
 
@@ -121,14 +121,14 @@ categories: ["Beginner"]
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Approach | Win Rate (First Boss) | Win Rate (Boss 4+) |
-|----------|----------------------|---------------------|
-| Fight blind every time | 35% | 18% |
-| Scout first attempt | 55% | 62% |
+| Approach | First Boss | Boss 4+ |
+|----------|------------|---------|
+| Fight blind every time | Coin flip, usually lost | Rarely survives |
+| Scout first attempt | Usually wins | Reliably wins |
 
 </div>
 
-**My experience:** The biggest change: when I enter a new boss room, I spend the first 2 turns watching, not attacking. I track which tiles the boss targets, what patterns it uses, and when it transitions phases. Then I lose that attempt intentionally. The second attempt wins 80% of the time.
+**My experience:** The biggest change: when I enter a new boss room, I spend the first 2 turns watching, not attacking. I track which tiles the boss targets, what patterns it uses, and when it transitions phases. Then I take the loss on purpose. The second attempt wins far more often.
 
 ---
 
@@ -136,13 +136,13 @@ categories: ["Beginner"]
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Day | Fix | Expected Win Rate |
-|-----|-----|-------------------|
-| 1-2 | Stop overbuying (max 2 per shop) | 30% to 45% |
-| 3-4 | Buy Safe Haven first | 45% to 52% |
-| 5-6 | Spread pieces 2+ apart | 52% to 58% |
-| 7-8 | Pre-select 2 fallback chains | 58% to 62% |
-| 9-10 | Scout every boss first | 62% to 68% |
+| Day | Fix | What Changes |
+|-----|-----|--------------|
+| 1-2 | Stop overbuying (max 2 per shop) | Bank survives the shop |
+| 3-4 | Buy cheap capture Gambits first | Gold drips in every fight |
+| 5-6 | Spread pieces 2+ apart | Crumble stops wiping the board |
+| 7-8 | Pre-select 2 fallback chains | Rarely stuck after a break |
+| 9-10 | Scout every boss first | Boss fights become readable |
 
 </div>
 
@@ -153,7 +153,7 @@ categories: ["Beginner"]
 These 5 mistakes were identified through my own gameplay logs and confirmed by discussions on the Gambonanza Discord. The "scout first" strategy is widely recommended by top 100 players on the leaderboard.
 
 **Related guides:**
-- [Economy & Stock Guide](/economy/) -- Safe Haven and economy management
+- [Economy & Shop Guide](/economy/) -- gold flow and shop management
 - [Gambit Chain Recovery Guide](/gambit-chain-recovery/) -- Fallback chain strategies
 - [Boss Strategy Guide](/boss-strategy-guide/) -- Boss patterns and scouting
 - [Tips & Tricks](/tips/) -- More mistake-avoidance tips

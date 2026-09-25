@@ -2,70 +2,68 @@
 categories: ["Gambits & Combos"]
 tags:
   - "Combos & Synergy"
-title: "Combo Chain Guide"
-description: "Gambonanza combo chain guide for patch v1.1.0. Checkmate Express flowchart, Farm Loop diagram, and 4 chain types to double your value per turn. Updated for patch v1.1.0."
-lastUpdated: 'v1.1.0-05-17'
-version: 'v1.1.0'
+title: "Gambonanza Gambit Chaining Guide - Stack Triggers in One Turn"
+description: "How Gambit chaining actually works in Gambonanza. Match trigger conditions, stack captures and landings, and build a board where several Gambits fire at once."
+lastmod: "2026-09-25T15:00:00+08:00"
+version: "v1.5.0"
 ---
 
-## Combo Chains  TL;DR Check [All Gambits Guide](/gambits/) for the full breakdown. The [Deterministic Gambits Guide](/deterministic-gambits-guide/) breaks this down in detail.
+## Chaining 101
 
-{{< callout type="verdict" >}}<strong>1 Gambit per turn = beginner. 3 Gambits in 1 turn = game breaker.</strong>
+{{< callout type="verdict" >}}<strong>One Gambit per turn is fine. Three Gambits on one capture wins games.</strong>
 
-Chain them. Win.{{< /callout >}}
+A chain is not a script. It is a board you build so that one move satisfies several Gambit trigger conditions at once.{{< /callout >}}
 
-{{< meta-rating grade="S" label="My win rate on 6x6 jumped once I learned to chain Gambits." >}}
+See the [All Gambits Guide](/gambits/) for the full list, and the [Deterministic Gambits Guide](/deterministic-gambits-guide/) for the difference between guaranteed and chance-based triggers.
 
 {{< section-divider >}}
 
-## 4 Chain Types (Know These)
+## How Chaining Really Works
+
+Every Gambit fires from a trigger condition. You do not "play" three Gambits in a row. Instead, you arrange the board so one action triggers several at once.
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Type | What Happens | Example |
-|------|---------------|---------|
-| Setup -> Execute | Gambit A preps, Gambit B hits | Early Check -> Knight Fork |
-| Amplify -> Amplify | Each Gambit boosts the next | Double Move -> Teleport -> Capture |
-| Deny -> Punish | Remove opponent options, then strike | Freeze -> Board Shrink -> Mate |
-| Loop | Gambit feeds back into itself | Heal -> Gambit Tile -> Free Gambit -> Heal |
+| Trigger type | What sets it off | Example Gambit |
+|--------------|------------------|----------------|
+| Capture | Taking an enemy piece | Silver Fork's, Beth's |
+| Landing | Placing a piece from Stock | Skydiver's, Spy's, Dungeon's |
+| Promotion | Turning a pawn into a queen | Race Flag's |
+| Pawn action | A pawn moving or capturing | Squirrel's, Bug Catcher's |
+| Turn condition | The enemy turn being skipped or altered | Thunder's |
 
 </div>
 
+A chain happens when a single move satisfies more than one of these at the same time.
+
+{{< pro-tip >}}<strong>Stack triggers, do not script them</strong><br>
+  The best chain setup is a board where your capturing piece also lands on a Gold Tile and completes a promotion route. One move, three payoffs. Build for overlap, not for a fixed sequence.{{< /pro-tip >}}
+
 {{< section-divider >}}
 
-## The 5 Best Chains
+## Chain Patterns That Actually Work
 
-###  Checkmate Express <span class="meta-badge meta-s">S</span>
+### Capture Plus Tempo <span class="meta-badge meta-s">S</span>
 
-<img src="/images/guides/checkmate-express.svg" alt="Checkmate Express: Early Check -> Teleport Queen -> Double Move -> Checkmate" style="width:100%;max-width:780px;border-radius:8px;" loading="lazy">
-
-**Cost:** High (3 Gambits) | **Best for:** Late game, exposed King | **Win rate:** Devastating when it lands
+**Thunder's** (a pawn capture skips the enemy turn) plus any capture Gambit. You take a piece, you keep the initiative, and the second Gambit fires on the same capture. This is the most reliable chain in the game and the reason Thunder's is a top pick.
 
 ---
 
-###  Farm Loop <span class="meta-badge meta-s">S</span>
+### Landing Plus Payout <span class="meta-badge meta-a">A</span>
 
-<img src="/images/guides/heal-board-loop.svg" alt="Farm Loop: Collapse -> Heal -> Restore + Gambit -> Trigger -> Repeat" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
-
-**Cost:** Medium (only Heal Board) | **Best for:** Economy farming on 5x5+ | **Stock per loop:** +8-12
+**Skydiver's** or **Dungeon's** plus a Gold Tile landing. You spend one turn to land a piece, and the landing both repositions you and pays out. Best when you were going to land anyway.
 
 ---
 
-###  Denial Cascade <span class="meta-badge meta-a">A</span>
+### Promotion Engine <span class="meta-badge meta-a">A</span>
 
-Freeze key piece -> Board Shrink around it -> attack freely. **Result:** Opponent loses 2 turns.
-
----
-
-###  Fork Factory <span class="meta-badge meta-a">A</span>
-
-Knight Boost -> Teleport Knight to fork -> Double Move -> capture 2. **Result:** +2 material in 1 turn.
+**Race Flag's** around a pawn promotion. Push a pawn up a promotion route with support, and the promotion triggers both the new queen and the Gambit payout. Strong on the cramped opening board where a pawn can promote fast.
 
 ---
 
-###  Crumble Trap <span class="meta-badge meta-b">B</span>
+### Pawn Economy Loop <span class="meta-badge meta-b">B</span>
 
-Lure piece to edge -> Earthquake -> attack isolated piece. **Result:** Free capture.
+**Squirrel's** plus **Bug Catcher's** plus **Race Flag's**. This is not a turn loop, it is an economy rotation: cheap pawn effects that pay out across the stage. See the [Pawn Economy Loop](/pawn-economy-loop/) for the full plan.
 
 {{< section-divider >}}
 
@@ -73,41 +71,33 @@ Lure piece to edge -> Earthquake -> attack isolated piece. **Result:** Free capt
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Chain | Optimal Window | Miss It If... |
-|-------|---------------|-------------|
-| Checkmate Express | Opponent King exposed | King castles / Fortress Gambit |
-| Farm Loop | Gambit tile collapsed | Opponent Heals it first |
-| Denial Cascade | Key piece in Crumble zone | Piece moves to center |
-| Fork Factory | 2+ pieces in Knight range | Opponent trades or repositions |
-| Crumble Trap | Piece on crumbling edge | Piece moves before Earthquake |
+| Situation | Best chain |
+|-----------|------------|
+| Enemy piece exposed, you need tempo | Capture plus Thunder's |
+| You must land a piece anyway | Skydiver's or Dungeon's onto a Gold Tile |
+| Pawn is one step from promoting | Race Flag's plus support |
+| Board is cramped at the start | Pawn economy rotation |
+| Boss modifier limits your Stock | Land your key pieces before the fight |
 
 </div>
 
-> **Rule:** A good chain now beats a perfect chain that never happens. Pull the trigger.
+> **Rule:** a chain you can pull off now beats a perfect chain that never lines up. If the overlap is not there, just take the best single action.
 
 {{< section-divider >}}
 
-## Deck Building for Chains
+## Building a Chaining Board
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Type | Count | Examples |
-|------|-------|---------|
-| Setup Gambits | 2-3 | Early Check, Freeze, Knight Boost |
-| Execute Gambits | 2-3 | Teleport, Double Move, Earthquake |
-| Utility | 1-2 | Heal Board, Fortress, Swap |
+| Slot | What to look for |
+|------|------------------|
+| Core | One trigger your board hits every game (Thunder's is the default) |
+| Overlap | A second trigger that fires on the same move as your core |
+| Flex | An answer for the next boss, swapped from the preview |
 
 </div>
 
-<div class="synergy-table" style="overflow-x:auto">
-
-| Chain Length | Total Cost | Affordable On... |
-|--------------|------------|-----------------|
-| 2-Gambit | 2-3 stock | Turn 3-4 (4x4), 5-6 (5x5) |
-| 3-Gambit | 4-6 stock | Turn 6+ (5x5), 8+ (6x6) |
-| 4-Gambit | 7-10 stock | Turn 10+ (6x6) or with Farm Loop |
-
-</div>
+Remember the **5-Gambit hold cap**. Every slot is precious, so a chaining setup wants two Gambits on the same trigger rather than four that never co-fire.
 
 {{< section-divider >}}
 
@@ -116,17 +106,16 @@ Lure piece to edge -> Earthquake -> attack isolated piece. **Result:** Free capt
 <div class="synergy-table" style="overflow-x:auto">
 
 | Mistake | Fix |
-|------------|---------|
-| Forcing chains that aren't there | Play a single Gambit instead |
-| Ignoring Farm Loop | Heal Board = free stock for chains |
-| Telegraphing (hesitating after setup) | Execute in consecutive turns |
-|  Chaining vs Mighty Kasparov | He has counter-chains. Single Gambits safer. |
-| Not checking opponent's Gambits | Freeze/Swap = your chain backfires |
+|---------|-----|
+| Buying Gambits with triggers your board cannot hit | Match the trigger to your pieces first |
+| Hoarding Gambits that never co-fire | Drop the one that does not overlap |
+| Chaining against Mighty Kasparov | He skips your next turn on a capture, so keep single-safe plays ready |
+| Ignoring the landing cost | Landing costs a full turn, so make that turn earn multiple payoffs |
+| Forgetting the 5-Gambit cap | Sell dead weight before the shop |
 
 </div>
 
 ---
 
-*Last updated: May 17, v1.1.0 | Version: v1.1.0*
-
-
+*Want the full list? -*[All Gambits Guide](/gambits/)*<br>
+*Want the reliable ones only? -*[Deterministic Gambits Guide](/deterministic-gambits-guide/)*

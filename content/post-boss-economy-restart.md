@@ -131,6 +131,6 @@ The post-boss recovery window is a known pain point across the Gambonanza commun
 
 **Verified by**: Community testing across 50+ runs on v1.1.0. The 5-turn sprint window for Stage 1 to 2 and the 20-turn grinding pattern for Stage 3 to 4 have been confirmed across multiple board seeds and boss variants.
 
-**Common variation**: If you enter the recovery phase with a "Safe Haven" investment active from the shop, your stock floor is higher by 10 percent. This is the single best pre-boss insurance policy you can buy.
+**Common variation**: If you enter the recovery phase with Squirrel's or Bug Catcher's still active, your income restarts the moment pawns start moving again. That is the single best pre-boss insurance policy you can buy.
 
 **Before you continue**: Make sure your Gambit setup is stable. Head to the Economy Recovery Guide if your stock is still falling after following these steps. The recovery only works if you execute the correct priority order for your stage.

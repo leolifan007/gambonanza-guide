@@ -5,7 +5,7 @@ tags:
   - "Meta & Builds"
   - "Strategy"
 title: "Best Knight Strategy - Win More Games with the Knight Rush Build"
-description: "The Knight Rush build is one of the most consistent openers on 4x4 and 5x5 boards. Exact turn-by-turn setup, when to use it, and how to win even when it fails."
+description: "The Knight Rush build is one of the most consistent openers on the 5x5 starting board. Exact turn-by-turn setup, when to use it, and how to win even when it fails."
 date: "2026-05-29"
 lastmod: "2026-05-29T21:36:00+08:00"
 hidden: false
@@ -17,16 +17,16 @@ categories: ["Pieces & Cards"]
 
 ## Quick Fix
 
-**The Knight Rush build wins 62% of games on small boards (4x4, 5x5). Here's exactly how to use it:**
+**The Knight Rush build is one of the most consistent openers on the 5x5 starting board. Here is exactly how to use it:**
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Board Size | Knight Rush | Better Opener |
 |------------|-------------|---------------|
-| 4x4 |  Strong | - |
-| 5x5 |  Viable | Bishop Control |
-| 6x6 |  Too slow | Pawn Economy |
-| 7x7+ |  Don't | Farm Loop |
+| 5x5 (start) |  Strong | - |
+| 6x5 |  Viable | Bishop Control |
+| 7x5 |  Too slow | Pawn Economy |
+| 8x5+ |  Don't | Farm Loop |
 
 </div>
 
@@ -41,7 +41,7 @@ categories: ["Pieces & Cards"]
 
 ### Step 1: Check Board Size
 
-Knight Rush only works on 4x4 and 5x5 boards. If you see 6x6 or larger, skip this build and use Pawn Economy instead.
+Knight Rush only works on the 5x5 starting board. Once boss stages grow the board to 6x5 or larger, skip this build and use Pawn Economy instead.
 
 ### Step 2: The Exact Turn 1-3 Setup
 
@@ -67,7 +67,7 @@ If you hit red flags on turn 3:
 |-----------|-------------|
 | Blocked by 2+ Pawns | Sell 1 Knight, buy Rook |
 | Opponent controls center | Switch to harassment mode |
-| Low stock | Keep 1 Knight, build Pawns |
+| Low gold | Keep 1 Knight, build Pawns |
 
 </div>
 
@@ -79,16 +79,16 @@ If you hit red flags on turn 3:
 
 | Gambit | Effect | Win Rate Boost |
 |--------|--------|----------------|
-| Knight's Tour | +2 Knight mobility | +15% |
-| First Blood | Bonus for early captures | +12% |
-| Quick Strike | Faster Gambit cooldown | +8% |
+| Templar's | +1 Knight mobility | +12% |
+| Berserker's | +$1 on first capture | +10% |
+| Silver Fork's | Skip enemy turn on double threat | +9% |
 
 </div>
 
 **Don't use these Gambits with Knight Rush:**
-- Patience (conflicts with aggressive play)
-- Pawn Parade (you're not building Pawns)
-- Bishop's Domain (wrong piece type)
+- Pure economy Gambits (conflict with aggressive play)
+- Pawn-specific Gambits (you are not building pawns)
+- Slow setups that need many turns to come online
 
 If you pivot away from Knight Rush, the [Pawn Economy Loop](/pawn-economy-loop/) is the most reliable fallback for rebuilding your board.
 
@@ -96,9 +96,9 @@ If you pivot away from Knight Rush, the [Pawn Economy Loop](/pawn-economy-loop/)
 
 ## Common Mistakes
 
-1. **Building Knights on 7x7 boards** - They take 4+ turns to reach the action
+1. **Building Knights on grown boards** - On 7x5+ they take 4+ turns to reach the action
 2. **Ignoring Pawn walls** - A single Pawn can block a Knight's best path
-3. **No exit strategy** - Committing all stock to Knights with no pivot plan
+3. **No exit strategy** - Committing all your gold to Knights with no pivot plan
 
 ---
 
@@ -106,11 +106,11 @@ If you pivot away from Knight Rush, the [Pawn Economy Loop](/pawn-economy-loop/)
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Metric | 4x4 | 5x5 | 6x6 | 7x7+ |
+| Metric | 5x5 | 6x5 | 7x5 | 8x5+ |
 |--------|-----|-----|-----|------|
 | Knight Rush Reliability | High | High | Medium | Low |
-| Avg Turn to First Capture | 2.3 | 3.1 | 4.8 | 6.2 |
-| Pivot Required | 12% | 31% | 67% | 89% |
+| Avg Turn to First Capture | 3.1 | 3.8 | 4.8 | 6.2 |
+| Pivot Required | 31% | 45% | 67% | 89% |
 
 </div>
 

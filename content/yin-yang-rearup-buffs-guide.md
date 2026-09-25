@@ -7,13 +7,13 @@ tags:
 title: "Yin & Yang Buffed to 1/2 in Gambonanza 1.4: Builds to Abuse"
 description: "Gambonanza v1.4.0 buffed Yin and Yang to a 1/2 trigger and doubled Rear Up's promotion reward to +$4. Here are the builds and openers to abuse these three economy Gambits right now."
 game_version: ">=v1.4.0"
-last_reviewed: "2026-08-18"
+last_reviewed: "2026-09-25"
 review_status: "current"
-date: "2026-08-18"
+date: "2026-09-25"
 hidden: false
 ---
 
-The short version: Gambonanza 1.4.0 quietly turned three Gambits into real picks. Yin's Gambit and Yang's Gambit both moved from a 1/3 trigger to a 1/2 trigger, so they now fire almost 50 percent more often. Rear Up's Gambit went from +$2 to +$4 on promotion, which doubles the economy you get every time you promote a piece.
+The short version: Gambonanza 1.4.0 quietly turned three Gambits into real picks. Yin's Gambit and Yang's Gambit both moved from a 1/3 trigger to a 1/2 trigger, so they now fire noticeably more often. Rear Up's Gambit went from +$2 to +$4 on promotion, which doubles the economy you get every time you promote a piece.
 
 {{< callout type="verdict" title="Quick Takeaway" >}}
 Run Yin and Yang together for steady triggers. Run Rear Up in any promotion build. Both are cheap, both scale with run length.
@@ -29,7 +29,7 @@ Run Yin and Yang together for steady triggers. Run Rear Up in any promotion buil
 
 | Gambit | Before | After | Impact |
 |--------|--------|-------|--------|
-| Yin's Gambit | 1/3 chance | **1/2 chance** | Fires almost 50% more often |
+| Yin's Gambit | 1/3 chance | **1/2 chance** | Fires noticeably more often |
 | Yang's Gambit | 1/3 chance | **1/2 chance** | Same reliability bump |
 | Rear Up's Gambit | +$2 per promotion | **+$4 per promotion** | Doubles promotion economy |
 

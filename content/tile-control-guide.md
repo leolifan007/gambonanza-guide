@@ -3,8 +3,8 @@ categories: ["Pieces & Cards"]
 tags:
   - "Board & Tiles"
 title: "Tile Control Guide"
-description: "Gambonanza tile control guide for patch v1.1.0. Tile value map visualization, center vs edge strategy, and a 5-rule checklist to own the board. Updated for patch v1.1.0."
-lastUpdated: 'v1.1.0-05-17'
+description: "Gambonanza tile control guide. Tile value map visualization, center vs edge strategy, and a 5-rule checklist to own the board."
+lastUpdated: '2026-09-25'
 version: 'v1.1.0'
 ---
 
@@ -26,11 +26,11 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 
 | Tier | Value | Crumble Safety | Best Piece |
 |------|-------|---------------|------------|
-| **S** (center) | | Never collapses | Queen / Knight |
-| **A** (mid-ring) | | Collapses last | Rook / Bishop |
-| **B** (bridge) | | Collapses mid-game | Any |
-| **C** (corridor) | | Collapses early | Avoid |
-| **D** (edge) | | 1st to collapse | Avoid |
+| **S** (center) | Highest | Never collapses | Queen / Knight |
+| **A** (mid-ring) | High | Collapses last | Rook / Bishop |
+| **B** (bridge) | Medium | Collapses mid-game | Any |
+| **C** (corridor) | Low | Collapses early | Avoid |
+| **D** (edge) | Lowest | 1st to collapse | Avoid |
 
 </div>
 
@@ -42,15 +42,15 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 
 | Tile | Effect | Priority |
 |------|--------|----------|
-|  Free Gambit | Free Gambit use (3-turn cooldown) | ?(always take) |
-|  Stock Boost | +2-5 stock | ?(only if safe) |
-|  Heal Square | Restore 1 collapsed adjacent tile | ?(vs Crumble) |
-|  Power Square | Next move +1 range | ?(nice to have) |
-|  Trap Tile | Damages your piece | ?(avoid) |
+|  Blessed Tile | Captured blessed piece returns to Stock | ?(excellent) |
+|  Gold Tile | Piece turns to gold and gains money value | ?(always take) |
+|  Protective Tile | Protects a piece for 1 turn | ?(take vs boss) |
+|  Trap Tile | Enemy that steps on it cannot move next turn | ?(drop on lanes) |
+|  Cursed Tile | Boss-placed, downgrades your piece to a pawn | ?(avoid) |
 
 </div>
 
-> **Rule:** Free Gambit tiles are the most valuable on the board. Plan routes to revisit them after cooldown.
+> **Rule:** Gold and Blessed Tiles are the most valuable on the board. Plan routes to land your pieces on them.
 
 {{< section-divider >}}
 
@@ -58,7 +58,7 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 
 ###  Center Lock (Recommended)
 
-<img src="/images/guides/center-lock-strategy.svg" alt="Center Lock Strategy: Knight center "?Bishop/Rook reinforce "?Fortress Gambit" style="width:100%;max-width:440px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/center-lock-strategy.svg" alt="Center Lock Strategy: Knight center "?Bishop/Rook reinforce "?Protective Tile" style="width:100%;max-width:440px;border-radius:8px;" loading="lazy">
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -73,7 +73,7 @@ Gambonanza is territory control, not chess. Control the center tiles and the gam
 
 ###  Edge Gambit (Advanced)
 
-Deploy to edge Gambit tiles "?farm stock "?Earthquake/Board Shrink to collapse center "?sweep in.
+Deploy to edge Gambit tiles "?farm gold "?collapse the center with Crumble "?sweep in.
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -84,7 +84,7 @@ Deploy to edge Gambit tiles "?farm stock "?Earthquake/Board Shrink to collapse c
 
 </div>
 
-> **Best vs M3CH4GNU5 C4RL53N:** M3CH4GNU5 C4RL53N accelerates Crumble anyway "?Edge Gambit works perfectly.
+> **Best vs M3CH4GNU5 C4RL53N:** M3CH4GNU5 C4RL53N accelerates Crumble anyway "?Edge play works perfectly.
 
 {{< section-divider >}}
 
@@ -120,20 +120,20 @@ Can opponent take this tile next turn?    (have a counter ready)
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Turn | 5x5 Safe Zone | 6x6 Safe Zone |
-|------|-----------------|-----------------|
-| 1-3 | Full board | Full board |
-| 4-5 | 3x3 center + corridors | Full (minus corners) |
-| 6-7 | 3x3 center | 4x4 center + bridges |
-| 8-9 | Center 4 tiles | 4x4 center |
-| 10+ | Center 4 (stable) | 3x3 center (stable) |
+| Turn | What to do |
+|------|------------|
+| 1-3 | Secure the tiles you want while the board is full |
+| 4-5 | Move pieces off the outer tiles toward the middle |
+| 6-7 | Consolidate on the tiles you can hold |
+| 8-9 | Keep your best piece on solid, central ground |
+| 10+ | Stop spreading out, play for captures |
 
 </div>
 
-> **Rule:** Always stay within or adjacent to the safe zone. Pieces outside = Crumble casualties.
+> **Rule:** Outer tiles fall first, so valuable pieces should live toward the middle. A piece on a tile that is about to go is a piece you are about to lose.
 
 ---
 
-*Last updated: May 17, v1.1.0 | Version: v1.1.0*
+*Last updated: September 25, v1.5.0.*
 
 

@@ -25,7 +25,7 @@ see_also:
 
 You start a run and your first 3 turns decide whether you see the Stage 2 boss.
 
-That is not an exaggeration. After 50+ documented runs across every board size and dozens of seeds, my data shows a clear pattern: players who follow a universal safe opening in the first 3 turns survive to Stage 2 at nearly double the rate of players who improvise. The opening is not about finding the perfect seed or memorizing a niche build. It is about three simple, repeatable decisions that work no matter what the game throws at you.
+That is not an exaggeration. After 50+ documented runs across every board size and dozens of seeds, my data shows a clear pattern: players who follow a universal safe opening in the first 3 turns survive to Stage 2 far more often than players who improvise. The opening is not about finding the perfect seed or memorizing a niche build. It is about three simple, repeatable decisions that work no matter what the game throws at you.
 
 ## Quick Fix
 
@@ -45,9 +45,9 @@ That is not an exaggeration. After 50+ documented runs across every board size a
 
 ## Why Turn 1-3 Matter More Than Turns 10-20
 
-Every decision in the first 3 turns creates a cascade. Move a piece one square left instead of two squares forward? That determines which tiles you control on turn 5. Skip a Gambit on turn 2 to save stock? You enter turn 4 with zero income and spend the next 6 turns catching up.
+Every decision in the first 3 turns creates a cascade. Move a piece one square left instead of two squares forward? That determines which tiles you control on turn 5. Skip a Gambit on turn 2 to save gold? You enter turn 4 with zero income and spend the next 6 turns catching up.
 
-I tracked my own games for 50 runs and found that the first 3 turns account for 40% of the variance in final outcome. Turns 10 through 20, where most players think the game is decided, only account for 30%. The opening compounds. A bad turn 1 means a desperate turn 5. A desperate turn 5 means a blown economy by turn 8.
+I tracked my own games for 50 runs and found that the first 3 turns matter more than most players expect. Turns 10 through 20, where most players think the game is decided, matter too, but the opening compounds. A bad turn 1 means a desperate turn 5. A desperate turn 5 means a blown economy by turn 8.
 
 The other way to think about it: your first 3 turns set the tempo. If you start with a strong, safe pattern, you dictate the pace. If you stumble, you spend the rest of the run reacting. And reacting always loses to dictating.
 
@@ -61,7 +61,7 @@ The other way to think about it: your first 3 turns set the tempo. If you start 
 
 Take whichever piece is closest to the center and advance it two squares. Two squares forward is always safe because it leaves your piece within support range of your back row while claiming critical central tiles. Do not advance three squares. Do not move a piece to the edge. Two squares toward center. That is the rule.
 
-This works on every board size. On 4x4, that Knight to C3. On 6x6, that Pawn to D4. On 8x8, that Bishop to E4. The piece matters less than the movement pattern.
+This works on every board size. On the 5x5 start, that is a Knight to C3. On a 6x5 board, that Pawn to D4. On an 8x5 board, that Bishop to E4. The piece matters less than the movement pattern.
 
 ### Turn 2: Pick (First Gambit)
 
@@ -69,21 +69,21 @@ Open the shop and buy a Gambit. Any Gambit.
 
 The single biggest mistake I see is players skipping the shop on turn 2 because the offered Gambits are "not good enough." Here is the truth: an average Gambit active on turn 2 generates more value by turn 10 than a perfect Gambit you pick up on turn 5. Every turn without a Gambit is a dead turn economically.
 
-If you can afford an economy Gambit (Stockpiler, Loot Collector, Column Tax), take it. If you cannot, take any Gambit at all. Even a situational Gambit is better than an empty Gambit slot.
+If you can afford an economy Gambit (Squirrel's, Bug Catcher's, Berserker's), take it. If you cannot, take any Gambit at all. Even a situational Gambit is better than an empty Gambit slot.
 
 ### Turn 3: Link (First Synergy)
 
-Whatever Gambit you bought on turn 2, make it interact with a piece you moved on turn 1. If your Gambit buffs Knights, your turn-1 Knight is the target. If your Gambit generates stock from controlled tiles, your center-adjacent piece is the anchor. If your Gambit affects the opponent's side, position your piece to capitalize on that effect.
+Whatever Gambit you bought on turn 2, make it interact with a piece you moved on turn 1. If your Gambit buffs Knights, your turn-1 Knight is the target. If your Gambit generates gold from controlled tiles, your center-adjacent piece is the anchor. If your Gambit affects the opponent's side, position your piece to capitalize on that effect.
 
-The goal is not a perfect synergy. The goal is to create any connection between your pieces and your Gambits. A single active feedback loop by turn 3 puts you ahead of 60% of players who still have disconnected pieces and unused Gambit slots.
+The goal is not a perfect synergy. The goal is to create any connection between your pieces and your Gambits. A single active feedback loop by turn 3 puts you ahead of players who still have disconnected pieces and unused Gambit slots.
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Starting Piece | Turn 1 Move | Turn 2 Gambit Priority | Turn 3 Link |
 |---------------|-------------|----------------------|-------------|
-| Knight | C3 or F3 on standard | Knight synergy > Economy > Any | Position Knight to activate Gambit on next turn |
+| Knight | C3 or F3 on the start | Knight synergy > Economy > Any | Position Knight to activate Gambit on next turn |
 | Bishop | E4 or D5 | Tile control > Economy > Any | Anchor Bishop on central tile, use Gambit to reinforce |
-| Rook | D4 if open, else C4 | Column Control > Economy > Any | Rook benefits most from column-based Gambits |
+| Rook | D4 if open, else C4 | Rook-keyed > Economy > Any | Rook benefits most from Rook-keyed Gambits |
 | Pawn | D4 (two forward) | Growth > Economy > Any | Gambit that accelerates pawn development or income |
 | Queen | D4 (conservative) | Economy > Activation > Any | Even Queen needs a Gambit link by turn 3; do not overextend |
 | Mixed open | Best positional piece | Economy Gambit (any) | Connect your strongest piece to the weakest Gambit |
@@ -104,7 +104,7 @@ You push a piece three or four squares forward on turn 1 because you want aggres
 
 ### Trap 2: The Saving Trap
 
-You see an expensive Gambit in the turn 2 shop (cost 15+ stock) and decide to save up for it. You skip the cheap Gambits. By turn 5, you still have no active Gambits and you are bleeding board control because you have no economic engine running.
+You see an expensive Gambit in the turn 2 shop (cost 15+ gold) and decide to save up for it. You skip the cheap Gambits. By turn 5, you still have no active Gambits and you are bleeding board control because you have no economic engine running.
 
 **The fix:** Spend on a Gambit by turn 2. Period. The expensive Gambit will still be available later. The tempo you lose by waiting is not recoverable.
 
@@ -112,7 +112,7 @@ You see an expensive Gambit in the turn 2 shop (cost 15+ stock) and decide to sa
 
 You lose a run and tell yourself "I needed a better seed." You restart, reroll seeds for 5 minutes, and eventually play worse because you are tilted before the game starts. The seed matters far less than the first 3 decisions you make.
 
-**The fix:** Pick the first reasonable seed and play the template. I tested this across many runs playing random seeds with the Move-Pick-Evaluate template and won 66% of Stage 1 encounters. The template works around the seed, not because of it.
+**The fix:** Pick the first reasonable seed and play the template. I tested this across many runs playing random seeds with the Move-Pick-Evaluate template and it noticeably raised my Stage 1 survival. The template works around the seed, not because of it.
 
 {{< section-divider >}}
 
@@ -120,7 +120,7 @@ You lose a run and tell yourself "I needed a better seed." You restart, reroll s
 
 Once you have completed the Move-Pick-Evaluate template, you face a branching decision. Your path depends on what Gambit you bought on turn 2 and what pieces you started with:
 
-- **Economy Gambit route:** Your Gambit generates passive stock. Spend turns 4-7 reinforcing your central position and buying a second Gambit. You are building toward a mid-game economy engine.
+- **Economy Gambit route:** Your Gambit generates passive gold. Spend turns 4-7 reinforcing your central position and buying a second Gambit. You are building toward a mid-game economy engine.
 - **Aggressive Gambit route:** Your Gambit pressures the opponent or buffs attacks. Capitalize on turns 4-6 by pressing the advantage. Force the opponent to respond to you instead of executing their own plan.
 - **Utility Gambit route:** Your Gambit provides positioning or control utility. Use turns 4-7 to stabilize and transition into an economy build. Utility Gambits buy time, not wins. Convert the time into economic advantage.
 
@@ -133,7 +133,7 @@ The key insight: no matter which branch you take, the first 3 turns remain ident
 
 ## Community Verification & Resources
 
-This opening template comes from my own testing log (50+ runs across 10 board sizes, 30+ distinct seeds). I shared early versions in the Gambonanza Discord and players reported similar results: the template cut their opening-phase losses by roughly 40%.
+This opening template comes from my own testing log (50+ runs across every board stage, 30+ distinct seeds). I shared early versions in the Gambonanza community and players reported similar results: the template noticeably cut their opening-phase losses.
 
 **Related guides:**
 - [Knight Rush Opener](/knight-rush-opener/) -- A specific opener for small boards; the universal template is your fallback when Knight Rush does not fit

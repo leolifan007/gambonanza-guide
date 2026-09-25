@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Strategy &amp; Guides on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/categories/strategy--guides/</link><description>Recent content in Strategy &amp; Guides on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/categories/strategy--guides/index.xml" rel="self" type="application/rss+xml"/><item><title>Gambonanza 1.5.0 Patch Breakdown: UI Revamp, Steam Deck Verified &amp; Enemy Power Feedback</title><link>https://gambonanzaguide.com/v150-patch-breakdown/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v150-patch-breakdown/</guid><description>&lt;span class="phase-tag phase-mid"&gt;MID GAME&lt;/span&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Strategy &amp; Guides on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/categories/strategy--guides/</link><description>Recent content in Strategy &amp; Guides on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 25 Sep 2026 15:05:00 +0800</lastBuildDate><atom:link href="https://gambonanzaguide.com/categories/strategy--guides/index.xml" rel="self" type="application/rss+xml"/><item><title>Gambonanza Endgame Tips - Closing Out Runs Without Throwing Them</title><link>https://gambonanzaguide.com/endgame-killer-tips/</link><pubDate>Fri, 25 Sep 2026 15:05:00 +0800</pubDate><guid>https://gambonanzaguide.com/endgame-killer-tips/</guid><description>&lt;p&gt;Winning the opening is not the hard part of Gambonanza. The hard part is the last few pieces, when the board is small, the Crumble counter is running, the Stalemate Counter is creeping toward its limit, and one wrong capture hands the game back. I have lost more runs in the final three pieces than in every boss fight combined. This guide is everything I do at the end of a match to actually finish it.&lt;/p&gt;</description></item><item><title>Gambonanza Achievements and Collection Guide - How Unlocks Work</title><link>https://gambonanzaguide.com/achievements/</link><pubDate>Fri, 25 Sep 2026 15:00:00 +0800</pubDate><guid>https://gambonanzaguide.com/achievements/</guid><description>&lt;h2 id="progress-in-gambonanza-explained"&gt;Progress in Gambonanza, Explained&lt;/h2&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;THE SHORT VERSION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gambonanza tracks your progress through a &lt;strong&gt;Collection&lt;/strong&gt; of roughly 200 entries, plus platform achievements. You do not unlock things with special tricks, you unlock them by playing and by clearing stage bosses.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;hr class="section-divider"&gt;
+
+&lt;h2 id="what-the-collection-tracks"&gt;What the Collection Tracks&lt;/h2&gt;
+&lt;div class="synergy-table" style="overflow-x:auto"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Category&lt;/th&gt;
+ &lt;th&gt;What filling it does&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Gambits&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Widens what appears in your shops&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Pieces&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Puts more shapes on the Piece Wheel at run start&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Tiles&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Adds more tile modifiers you can buy&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Enemy Modifiers&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;More variety in what you face&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Bosses&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Progress toward the full 8-boss roster&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Strains&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Additional run variants&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;Every category feeds the same loop: a fuller Collection means richer shops and more starting options, which makes later runs easier and more varied.&lt;/p&gt;</description></item><item><title>Gambonanza 1.4.0 Patch Breakdown: Enhanced AI, the Graveyard &amp; Every Change That Matters</title><link>https://gambonanzaguide.com/v140-patch-breakdown/</link><pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v140-patch-breakdown/</guid><description>&lt;div class="callout callout-verdict"&gt;
+v1.4.0 is a feature-forward update, not a balance nuke. The two headline systems are &lt;strong&gt;Enhanced AI Mode&lt;/strong&gt; (a toggle for players who want conventional chess instead of rogue chaos) and &lt;strong&gt;The Graveyard&lt;/strong&gt; (a PAWN-difficulty safety net that lets you buy back your last 5 lost pieces). Under the hood, Yin and Yang Gambits jumped to a 1/2 trigger, promote-into-PAWN is now real, and three Gambits got meaningful revamps. If you only change one habit after this patch, turn on Skip Animations in the new Extra settings tab.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/v140-change-map.svg" alt="v1.4.0 change map across four update categories" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;v1.4.0 ships Enhanced AI, the Graveyard, balance and QoL, and three Gambit revamps.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="what-landed-in-140"&gt;What Landed in 1.4.0&lt;/h2&gt;
+&lt;p&gt;This is every material change pulled straight from the official Steam news posts (1.4.0, plus hotfixes 1.4.0e and 1.4.0f), and what each one means for your next run.&lt;/p&gt;</description></item><item><title>Gambonanza v1.3.0 Patch Breakdown - All Balance Changes &amp; What They Mean for Your Builds</title><link>https://gambonanzaguide.com/v130-patch-breakdown/</link><pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v130-patch-breakdown/</guid><description>&lt;div class="callout callout-verdict"&gt;
+v1.3.0 is the most impactful update since launch. Templar&amp;rsquo;s Gambit drops from auto-pick to niche, Missigno and Graal open new build paths, and the Stalemate revamp changes how you pace every boss fight. &lt;strong&gt;6 Gambits were buffed to guaranteed triggers (1/1).&lt;/strong&gt; If you&amp;rsquo;re still playing v1.1.0 strats, you&amp;rsquo;re leaving wins on the table.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/v130-balance-comparison.svg" alt="v1.3.0 balance change comparison table" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;All Gambit changes at a glance. Green = buffed, Red = nerfed, Blue = reworked.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="what-changed-in-v130"&gt;What Changed in v1.3.0&lt;/h2&gt;
+&lt;p&gt;This is every material change and what it means for your next run.&lt;/p&gt;</description></item><item><title>Gambonanza 1.5.0 Patch Breakdown: UI Revamp, Steam Deck Verified &amp; Enemy Power Feedback</title><link>https://gambonanzaguide.com/v150-patch-breakdown/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v150-patch-breakdown/</guid><description>&lt;span class="phase-tag phase-mid"&gt;MID GAME&lt;/span&gt;
 
 
 &lt;div class="callout callout-verdict"&gt;
@@ -111,73 +183,32 @@ Enhanced AI Mode does exactly what it promises: your enemies start playing real 
 &lt;/figure&gt;
 
 &lt;h2 id="the-short-answer"&gt;The Short Answer&lt;/h2&gt;
-&lt;p&gt;Enhanced AI Mode is the headline feature of Gambonanza v1.4.0, and it finally answers a complaint that has existed since launch: enemy pieces sometimes play like they are trying to lose. Flip the toggle and the enemy stops making suicidal trades, stops blundering into forks, and stops walking onto crumbling tiles. It is a fundamentally more conventional chess experience.&lt;/p&gt;</description></item><item><title>Gambonanza 1.4.0 Patch Breakdown: Enhanced AI, the Graveyard &amp; Every Change That Matters</title><link>https://gambonanzaguide.com/v140-patch-breakdown/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v140-patch-breakdown/</guid><description>&lt;div class="callout callout-verdict"&gt;
-v1.4.0 is a feature-forward update, not a balance nuke. The two headline systems are &lt;strong&gt;Enhanced AI Mode&lt;/strong&gt; (a toggle for players who want conventional chess instead of rogue chaos) and &lt;strong&gt;The Graveyard&lt;/strong&gt; (a PAWN-difficulty safety net that lets you buy back your last 5 lost pieces). Under the hood, Yin and Yang Gambits jumped to a 1/2 trigger, promote-into-PAWN is now real, and three Gambits got meaningful revamps. If you only change one habit after this patch, turn on Skip Animations in the new Extra settings tab.
+&lt;p&gt;Enhanced AI Mode is the headline feature of Gambonanza v1.4.0, and it finally answers a complaint that has existed since launch: enemy pieces sometimes play like they are trying to lose. Flip the toggle and the enemy stops making suicidal trades, stops blundering into forks, and stops walking onto crumbling tiles. It is a fundamentally more conventional chess experience.&lt;/p&gt;</description></item><item><title>Gambonanza Crumble Mode Guide - The Timer That Shrinks the Board</title><link>https://gambonanzaguide.com/crumble-mode-guide/</link><pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/crumble-mode-guide/</guid><description>&lt;div class="callout callout-info"&gt;
+&lt;strong&gt;Crumble pacing changed in v1.4.0.&lt;/strong&gt; With Enhanced AI Mode on, the AI avoids crumbling tiles more carefully and Crumble triggers later, so you get a bit more room early. See the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/crumble-mode-14-changes/"&gt;Crumble Mode changes guide&lt;/a&gt;&lt;/strong&gt;.
 &lt;/div&gt;
 
-&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
- &lt;img src="https://gambonanzaguide.com/images/diagrams/v140-change-map.svg" alt="v1.4.0 change map across four update categories" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
- 
- &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;v1.4.0 ships Enhanced AI, the Graveyard, balance and QoL, and three Gambit revamps.&lt;/figcaption&gt;
- 
-&lt;/figure&gt;
-
-&lt;h2 id="what-landed-in-140"&gt;What Landed in 1.4.0&lt;/h2&gt;
-&lt;p&gt;This is every material change pulled straight from the official Steam news posts (1.4.0, plus hotfixes 1.4.0e and 1.4.0f), and what each one means for your next run.&lt;/p&gt;</description></item><item><title>Gambonanza v1.3.0 Patch Breakdown - All Balance Changes &amp; What They Mean for Your Builds</title><link>https://gambonanzaguide.com/v130-patch-breakdown/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v130-patch-breakdown/</guid><description>&lt;div class="callout callout-verdict"&gt;
-v1.3.0 is the most impactful update since launch. Templar&amp;rsquo;s Gambit drops from auto-pick to niche, Missigno and Graal open new build paths, and the Stalemate revamp changes how you pace every boss fight. &lt;strong&gt;6 Gambits were buffed to guaranteed triggers (1/1).&lt;/strong&gt; If you&amp;rsquo;re still playing v1.1.0 strats, you&amp;rsquo;re leaving wins on the table.
-&lt;/div&gt;
-
-&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
- &lt;img src="https://gambonanzaguide.com/images/diagrams/v130-balance-comparison.svg" alt="v1.3.0 balance change comparison table" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
- 
- &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;All Gambit changes at a glance. Green = buffed, Red = nerfed, Blue = reworked.&lt;/figcaption&gt;
- 
-&lt;/figure&gt;
-
-&lt;h2 id="what-changed-in-v130"&gt;What Changed in v1.3.0&lt;/h2&gt;
-&lt;p&gt;This is every material change and what it means for your next run.&lt;/p&gt;</description></item><item><title>Gambonanza Crumble Mode Guide v1.1.0 - 3/3 Timer, Board Decay &amp; All 5 Stages</title><link>https://gambonanzaguide.com/crumble-mode-guide/</link><pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/crumble-mode-guide/</guid><description>&lt;div class="callout callout-info"&gt;
-&lt;strong&gt;Crumble Mode pacing changed in v1.4.0.&lt;/strong&gt; Waiting against a Stasis enemy no longer increases the Crumble Mode counter, so you can safely stall on Stasis lanes. With Enhanced AI Mode on, the AI also avoids crumble tiles and Crumble Mode triggers later. See the &lt;strong&gt;&lt;a href="https://gambonanzaguide.com/crumble-mode-14-changes/"&gt;Crumble Mode changes guide&lt;/a&gt;&lt;/strong&gt;.
-&lt;/div&gt;
-
-&lt;p&gt;Crumble Mode is Gambonanza&amp;rsquo;s alternate game mode where the board physically degrades over time. Unlike standard play where the board stays intact, Crumble Mode runs on a 3/3 counter that forces aggressive play. If you don&amp;rsquo;t make a capture every 3 moves, the board starts collapsing from the edges.&lt;/p&gt;</description></item><item><title>Gambonanza Build Guide v1.1.0 - All Archetypes from Pawn Economy to Queen Supremacy</title><link>https://gambonanzaguide.com/build-guide/</link><pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/build-guide/</guid><description>&lt;p&gt;Not every build works in every run. The best Gambonanza players know how to read the shop and adapt. This guide covers the 5 major build archetypes in v1.1.0, when to build each one, and how to transition between them.&lt;/p&gt;
+&lt;p&gt;Gambonanza is a game with two clocks. One is the board itself: &lt;strong&gt;tiles fall away as a game runs&lt;/strong&gt;, taking any piece standing on them. The other is the &lt;strong&gt;Stalemate Counter&lt;/strong&gt;, which ends a game outright if neither side moves the position forward. Together they make sure no game lasts forever.&lt;/p&gt;</description></item><item><title>Gambonanza Build Guide - Core Directions and When to Pivot</title><link>https://gambonanzaguide.com/build-guide/</link><pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/build-guide/</guid><description>&lt;p&gt;Not every direction works in every run. Good Gambonanza play is reading the shop and adapting. This guide covers the main directions, when each one works, and when to switch.&lt;/p&gt;
 
 &lt;div class="callout callout-verdict"&gt;
-Don&amp;rsquo;t force a build. Read what the shop gives you and pivot. A flexible player with a B-tier build that fits their gambits will beat a rigid player forcing S-tier without the right cards.
-&lt;/div&gt;
-
-&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
- &lt;img src="https://gambonanzaguide.com/images/diagrams/build-comparison.svg" alt="Build archetype comparison table" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
- 
- &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;All 5 build archetypes ranked by win rate, difficulty, best board, and tier.&lt;/figcaption&gt;
- 
-&lt;/figure&gt;
-
-&lt;hr class="section-divider"&gt;
-&lt;h2 id="build-1-pawn-economy-loop-s-tier"&gt;Build 1: Pawn Economy Loop S-Tier&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Best for:&lt;/strong&gt; Consistent runs, learning the game, King difficulty grinding&lt;/p&gt;</description></item><item><title>Gambonanza Cheats &amp; Hidden Mechanics (v1.1.0)</title><link>https://gambonanzaguide.com/cheats-hidden-mechanics/</link><pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/cheats-hidden-mechanics/</guid><description>&lt;p&gt;Not everything in Gambonanza is explained in the tutorial. Through hundreds of community runs on Reddit, YouTube, and Steam discussions, players have discovered subtle mechanics, known bugs, and high-level strategies that the game never explicitly teaches. Here are the most impactful ones verified for v1.1.0.&lt;/p&gt;
-
-&lt;div class="callout callout-verdict"&gt;
-Every tip in this guide is backed by community testing on the Gambonanza subreddit, Steam forums, or video demonstrations. None of these are theoretical - they&amp;rsquo;ve been verified in actual runs.
+Do not force a build. Read what the shop and the boss preview give you, then commit. A flexible player with an average Gambit that fits their board beats a rigid player forcing a &amp;ldquo;best&amp;rdquo; Gambit they cannot trigger.
 &lt;/div&gt;
 
 &lt;hr class="section-divider"&gt;
-&lt;h2 id="hidden-queens-gambit---known-bug-not-working-as-listed"&gt;Hidden Queen&amp;rsquo;s Gambit - Known Bug (Not Working as Listed)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;What Reddit found:&lt;/strong&gt; The &amp;ldquo;Hidden Queen&amp;rsquo;s&amp;rdquo; gambit has a confirmed bug - it does not work as described. Multiple players tested it across 3+ separate games per run and confirmed the effect simply doesn&amp;rsquo;t trigger (&lt;a href="https://www.reddit.com/r/Gambonanza/comments/1tshzoh/hidden_queens_gambit_does_not_work/" target="_blank" rel="noopener noreferrer"&gt;Reddit source&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Gambonanza Spectral Piece &amp; Gold Tile Guide - How to Make Permanent Pieces</title><link>https://gambonanzaguide.com/spectral-piece-gold-tile-guide/</link><pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/spectral-piece-gold-tile-guide/</guid><description>&lt;p&gt;Spectral pieces (also called ghost or phantom pieces) are one of the most misunderstood mechanics in Gambonanza. New players often avoid them because they expire. But the community has discovered that spectral pieces, combined with gold tiles, create one of the most powerful strategies in the game.&lt;/p&gt;
+&lt;h2 id="direction-1-tempo"&gt;Direction 1: Tempo&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Best for:&lt;/strong&gt; Short, consistent games and any run where you want to end things before the counters matter.&lt;/p&gt;</description></item><item><title>Gambonanza Hidden Mechanics - Rules the Game Does Not Spell Out</title><link>https://gambonanzaguide.com/cheats-hidden-mechanics/</link><pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/cheats-hidden-mechanics/</guid><description>&lt;p&gt;Not everything in Gambonanza is explained in the tutorial. This page collects the interactions that are easy to miss, the ones that change how a run plays once you understand them.&lt;/p&gt;
 
 &lt;div class="callout callout-verdict"&gt;
-Put a spectral piece on a gold tile. It becomes permanent. This single interaction changes how you should value both gold tiles and spectral pieces. Confirmed by multiple Reddit users, YouTube creators, and the Gambonanza Wiki.
+Everything here is based on in-game behavior and cross-checked across multiple independent sources. Where a value can shift with a patch, it is described in a way that stays true when numbers change.
 &lt;/div&gt;
 
-&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
- &lt;img src="https://gambonanzaguide.com/images/diagrams/spectral-conversion.svg" alt="Spectral piece to gold tile conversion flow" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
- 
- &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;3-step process: get spectral piece, move to gold tile, permanent piece with all buffs retained.&lt;/figcaption&gt;
- 
-&lt;/figure&gt;
-
 &lt;hr class="section-divider"&gt;
-&lt;h2 id="what-are-spectral-pieces"&gt;What Are Spectral Pieces?&lt;/h2&gt;
-&lt;p&gt;Spectral pieces appear in several ways:&lt;/p&gt;</description></item><item><title>Which Gambonanza Build Is Best? Pick Your Archetype</title><link>https://gambonanzaguide.com/pick-right-build-archetype/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/pick-right-build-archetype/</guid><description>&lt;h1 id="pick-the-right-build-archetype-and-double-your-win-rate-3-playstyles-analyzed"&gt;Pick the Right Build Archetype and Double Your Win Rate (3 Playstyles Analyzed)&lt;/h1&gt;
+&lt;h2 id="stock-and-landing"&gt;Stock and Landing&lt;/h2&gt;
+&lt;p&gt;The Stock is your reserve of extra pieces. It is not a currency, and it is not a retry cost.&lt;/p&gt;</description></item><item><title>Gambonanza Gold Tile Guide - Getting Paid to Land</title><link>https://gambonanzaguide.com/gold-tile-guide/</link><pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/gold-tile-guide/</guid><description>&lt;h2 id="gold-tiles-explained"&gt;Gold Tiles, Explained&lt;/h2&gt;
+&lt;p&gt;Gold Tiles pay out when you land a piece on them. There is no spectral piece system and no ghost piece to convert, so treat this page as the real answer: &lt;strong&gt;Gold Tiles are a way to get paid for a landing you were going to make anyway.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;THE SHORT VERSION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Landing from Stock costs a full turn. A Gold Tile turns that turn into a payout. The skill is timing: land on gold when you needed to land, not just because the tile is shiny.&lt;/p&gt;</description></item><item><title>Which Gambonanza Build Is Best? Pick Your Archetype</title><link>https://gambonanzaguide.com/pick-right-build-archetype/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/pick-right-build-archetype/</guid><description>&lt;h1 id="pick-the-right-build-archetype-and-improve-your-runs-3-playstyles-analyzed"&gt;Pick the Right Build Archetype and Improve Your Runs (3 Playstyles Analyzed)&lt;/h1&gt;
 &lt;h2 id="the-quick-answer"&gt;The Quick Answer&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;There are 3 winning build archetypes in Gambonanza. Your win rate depends on picking the one that fits your natural playstyle.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="synergy-table" style="overflow-x:auto"&gt;
@@ -185,7 +216,6 @@ Put a spectral piece on a gold tile. It becomes permanent. This single interacti
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;Archetype&lt;/th&gt;
- &lt;th&gt;Win Rate&lt;/th&gt;
  &lt;th&gt;Difficulty&lt;/th&gt;
  &lt;th&gt;Best For&lt;/th&gt;
  &lt;/tr&gt;
@@ -193,87 +223,23 @@ Put a spectral piece on a gold tile. It becomes permanent. This single interacti
  &lt;tbody&gt;
  &lt;tr&gt;
  &lt;td&gt;Economy Engine&lt;/td&gt;
- &lt;td&gt;65%&lt;/td&gt;
  &lt;td&gt;Easy&lt;/td&gt;
  &lt;td&gt;Patience players&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;Control Lock&lt;/td&gt;
- &lt;td&gt;71%&lt;/td&gt;
  &lt;td&gt;Medium&lt;/td&gt;
  &lt;td&gt;Tactical players&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;Aggro Rush&lt;/td&gt;
- &lt;td&gt;52%&lt;/td&gt;
  &lt;td&gt;Hard&lt;/td&gt;
  &lt;td&gt;Aggressive players&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;My experience:&lt;/strong&gt; I spent a long time forcing Aggro Rush because I&amp;rsquo;m impatient. My results were stuck in a rut. When I switched to Control Lock, it jumped to 65% in 20 runs. Pick what suits you, not what sounds flashy.&lt;/p&gt;</description></item><item><title>Gambonanza Achievements Guide v1.1.0-All 22 Steam Achievements Unlock Guide</title><link>https://gambonanzaguide.com/achievements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/achievements/</guid><description>&lt;hr&gt;
-&lt;h2 id="achievement-hunters-guide-2222-strategy"&gt;Achievement Hunter&amp;rsquo;s Guide-22/22 Strategy&lt;/h2&gt;
-&lt;div class="synergy-table" style="overflow-x:auto"&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Tier&lt;/th&gt;
- &lt;th&gt;Count&lt;/th&gt;
- &lt;th&gt;Effort&lt;/th&gt;
- &lt;th&gt;Best Approach&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;&lt;span class="meta-badge meta-s"&gt;S&lt;/span&gt; Extreme&lt;/td&gt;
- &lt;td&gt;4&lt;/td&gt;
- &lt;td&gt;40+ hours&lt;/td&gt;
- &lt;td&gt;Dedicated grinds with specific builds&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;&lt;span class="meta-badge meta-a"&gt;A&lt;/span&gt; Very Hard&lt;/td&gt;
- &lt;td&gt;5&lt;/td&gt;
- &lt;td&gt;20-30 hours&lt;/td&gt;
- &lt;td&gt;Boss prep + stock farming&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;&lt;span class="meta-badge meta-b"&gt;B&lt;/span&gt; Hard&lt;/td&gt;
- &lt;td&gt;6&lt;/td&gt;
- &lt;td&gt;10-15 hours&lt;/td&gt;
- &lt;td&gt;Natural progression + focus&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;&lt;span class="meta-badge meta-c"&gt;C&lt;/span&gt; Medium&lt;/td&gt;
- &lt;td&gt;5&lt;/td&gt;
- &lt;td&gt;5-10 hours&lt;/td&gt;
- &lt;td&gt;Natural play, minor focus&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Easy&lt;/td&gt;
- &lt;td&gt;2&lt;/td&gt;
- &lt;td&gt;First run&lt;/td&gt;
- &lt;td&gt;Impossible to miss&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-
-&lt;hr class="section-divider"&gt;
-
-&lt;h2 id="s-tier-achievements-the-hardest-unlocks"&gt;S-Tier Achievements-The Hardest Unlocks&lt;/h2&gt;
-&lt;hr&gt;
-&lt;h3 id="king-killer-s"&gt;King Killer &lt;span class="meta-badge meta-s"&gt;S&lt;/span&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Defeat Tal the Cursed without losing a single piece&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Gambonanza Endgame Tips (v1.1.0)-Killer Strategies for Closing Out Games</title><link>https://gambonanzaguide.com/endgame-killer-tips/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/endgame-killer-tips/</guid><description>&lt;h2 id="the-endgame-is-not-just-grind"&gt;The Endgame Is Not Just Grind&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Most Gambonanza games end before the 6x6 board. But what separates good players from great ones is how they close out games when the board gets big. The &lt;a href="https://gambonanzaguide.com/complete-walkthrough/"&gt;Complete Walkthrough&lt;/a&gt; breaks this down in detail. The &lt;a href="https://gambonanzaguide.com/rook-bishop-guide/"&gt;Rook &amp;amp; Bishop Guide&lt;/a&gt; breaks this down in detail.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class="callout callout-verdict"&gt;
-&lt;p&gt;&lt;strong&gt;Verdict&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The biggest threat in the endgame isn&amp;rsquo;t the opponent&amp;rsquo;s piece density-it&amp;rsquo;s your own panic. 90% of comebacks don&amp;rsquo;t come from outplaying your opponent. They come from your opponent making more endgame mistakes than you. &lt;strong&gt;Difficulty Rating:&lt;/strong&gt; &lt;span class='meta-rating'&gt;A&lt;/span&gt;-knowing when to push and when to wait is the real skill.&lt;/p&gt;</description></item><item><title>Gambonanza Strategy Guide v1.1.0 - S-Tier Builds &amp; Pro Tactics (Win Rate Proven)</title><link>https://gambonanzaguide.com/strategy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/strategy/</guid><description>&lt;hr&gt;
-&lt;h2 id="strategy-guide-rated-builds--proven-tactics"&gt;Strategy Guide-Rated Builds &amp;amp; Proven Tactics&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;My experience:&lt;/strong&gt; I spent a long time forcing Aggro Rush because I&amp;rsquo;m impatient, and my results were stuck in a rut. Switching to Control Lock made runs feel far more consistent. Pick what suits you, not what sounds flashy.&lt;/p&gt;</description></item><item><title>Gambonanza Strategy Guide - S-Tier Builds &amp; Pro Tactics</title><link>https://gambonanzaguide.com/strategy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/strategy/</guid><description>&lt;h2 id="strategy-guide-rated-builds--proven-tactics"&gt;Strategy Guide-Rated Builds &amp;amp; Proven Tactics&lt;/h2&gt;
 &lt;div style="background:var(--dark-2);border:1px solid var(--rose);padding:16px;border-radius:3px;margin:16px 0"&gt;
  &lt;strong style="color:var(--rose);font-family:var(--font-display)"&gt;THE GAMBONANZA MINDSET&lt;/strong&gt;&lt;br&gt;
  &lt;span style="font-size:0.9rem;color:var(--cream-dark)"&gt;This is NOT chess. It's a &lt;strong&gt;deckbuilding roguelike&lt;/strong&gt; that pretends to be chess. If you approach it like a chess game, you lose. If you approach it like Slay the Spire with pieces, you win. This guide is built on that principle.&lt;/span&gt;
@@ -287,7 +253,7 @@ Put a spectral piece on a gold tile. It becomes permanent. This single interacti
 &lt;h3 id="build-1-knight-aggro-s"&gt;Build #1: Knight Aggro &lt;span class="meta-badge meta-s"&gt;S&lt;/span&gt;&lt;/h3&gt;
 
 &lt;div class="meta-rating"&gt;
- &lt;span class="meta-badge meta-s"&gt;S&lt;/span&gt;&lt;span class="meta-label"&gt;Highest win rate opening. Aggressive knight development into early checkmate threats.&lt;/span&gt;
+ &lt;span class="meta-badge meta-s"&gt;S&lt;/span&gt;&lt;span class="meta-label"&gt;Strongest opening. Aggressive knight development into early capture threats.&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;div class="synergy-table" style="overflow-x:auto"&gt;
@@ -317,8 +283,8 @@ Put a spectral piece on a gold tile. It becomes permanent. This single interacti
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;4&lt;/td&gt;
- &lt;td&gt;Backstab on exposed piece&lt;/td&gt;
- &lt;td&gt;Kill the defender, ignore protection&lt;/td&gt;
+ &lt;td&gt;Makibishi&amp;rsquo;s Gambit&lt;/td&gt;
+ &lt;td&gt;Captures drop trap tiles on the defender&amp;rsquo;s square&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;5&lt;/td&gt;
@@ -335,4 +301,4 @@ Put a spectral piece on a gold tile. It becomes permanent. This single interacti
  &lt;span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px"&gt;Strongest turns 1-8. Falls off if game goes past move 15.&lt;/span&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Best against:&lt;/strong&gt; Non-boss boards, Botezarro, Hikarul the Banished&lt;br&gt;
-&lt;strong&gt;Weak against:&lt;/strong&gt; Queen Gambit (she eats aggressive knights), Tal the Cursed&lt;/p&gt;</description></item></channel></rss>
+&lt;strong&gt;Weak against:&lt;/strong&gt; Queen-heavy boards (a queen eats aggressive knights), Tal the Cursed&lt;/p&gt;</description></item></channel></rss>

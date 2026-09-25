@@ -1,147 +1,96 @@
 ---
 categories: ["Gambits"]
-game_version: ">=v1.4.0"
-last_reviewed: 2026-08-18
-review_status: updated
 tags:
   - "Gambits"
   - "Meta & Builds"
-title: "Gambonanza Deterministic Gambits (v1.1.0)-The Best Reliable Gambits Ranked"
-description: "Gambonanza deterministic Gambits guide for patch v1.1.0. Reliable Gambits ranked by consistency and cost efficiency-no RNG dice rolls. Which chance-based Gambits to skip entirely. Updated for patch v1.1.0."
-------
-
-{{< callout type="warning" title="v1.3.0 Update Available" >}}
-**This guide is from v1.1.0.** Several Gambit probabilities changed in v1.3.0: Whip's, Chamberlain's, Dead or Alive's, Show Jumping's, Pendant's, and Miracle's all moved to guaranteed triggers (1/1). These were previously in the High Probability tier but are now fully deterministic. See the **[v1.3.0 Patch Breakdown](/v130-patch-breakdown/)** for the full list of changes.
-{{< /callout >}}
-
-{{< callout type="info" title="Updated for v1.4.0" >}}
-**v1.4.0 changed several Gambits this guide covers.** Yin's Gambit (1/3 to 1/2) and Yang's Gambit (1/3 to 1/2) are now more reliable. Rear Up's Gambit economy doubled (+$2 to +$4). Three Gambits were revamped: Clown's (promoting to a non-QUEEN now spawns a tile by piece: ROOK to Protective, KNIGHT to Trap, BISHOP to Blessing, KING to Golden, PAWN to Phantom), Enigma's (capturing on a tile switches its color), and AFK's (Stock-full pieces now land on the board instead of being lost). See the **[v1.4.0 Patch Breakdown](/v140-patch-breakdown/)** and the **[Clown/Enigma/AFK revamp guide](/clown-enigma-afk-revamp-guide/)**.
-{{< /callout >}}
-
-
-
-## Why Deterministic Gambits Win
-
-{{< callout type="verdict" >}}<strong> THE PROBLEM WITH RNG</strong>
-
-  "Gambit 80% are 1/3 chance."-actual player complaint. Gambonanza is full of Gambits that sound amazing until they whiff at the worst possible moment. This guide ranks Gambits by one metric: <strong>reliability</strong>.{{< /callout >}}
-
-{{< meta-rating grade="A" label="Core strategy reference for intermediate players. Combines well with other guides." >}}
-
-
-{{< section-divider >}}
-
-The math is simple: a guaranteed +10 stock is worth more than a 1/3 chance at +50 stock. Not because the expected value is lower (it often isn't)-but because in a roguelike, <strong>you plan around what you can count on</strong>. When that 1/3 Gambit fails, you're down a turn and a Gambit slot. When the deterministic one works, you execute your plan.
-
-{{< section-divider >}}
-
-## S-Tier: Always Works, Always Worth It
-
-<div class="synergy-table" style="overflow-x:auto">
-  <table>
-    <thead><tr><th>Gambit</th><th>Cost</th><th>Effect</th><th style="width:80px">Rating</th></tr></thead>
-    <tbody>
-      <tr><td><strong>Teleport</strong></td><td>40</td><td>Move any piece to any unoccupied square</td><td><span class="meta-badge meta-s">S</span></td></tr>
-      <tr><td><strong>Backstab</strong></td><td>30</td><td>Remove an adjacent enemy piece</td><td><span class="meta-badge meta-s">S</span></td></tr>
-      <tr><td><strong>Safe Haven</strong></td><td>10 min</td><td>Guaranteed % return on investment each shop visit</td><td><span class="meta-badge meta-s">S</span></td></tr>
-      <tr><td><strong>King's Shield</strong></td><td>50</td><td>King immune to capture for 1 turn</td><td><span class="meta-badge meta-s">S</span></td></tr>
-    </tbody>
-  </table>
-</div>
-
-{{< meta-rating grade="S" label="These four form the <strong>deterministic core</strong>. Every run should prioritize buying these before any RNG Gambit. They cost ~130 stock total and cover attack, defense, mobility, and economy-all without rolling a single die." >}}
-
-{{< section-divider >}}
-
-## A-Tier: High Probability, Low Variance
-
-<div class="synergy-table" style="overflow-x:auto">
-  <table>
-    <thead><tr><th>Gambit</th><th>Cost</th><th>Effect</th><th>Reliability</th><th style="width:80px">Rating</th></tr></thead>
-    <tbody>
-      <tr><td><strong>Double Down</strong></td><td>25</td><td>Double next stock earned from any source</td><td>100%</td><td><span class="meta-badge meta-a">A</span></td></tr>
-      <tr><td><strong>Steal Investment</strong></td><td>80</td><td>Take % of opponent's stock</td><td>100% (if opponent has stock)</td><td><span class="meta-badge meta-a">A</span></td></tr>
-      <tr><td><strong>Chain Capture</strong></td><td>70</td><td>Capture chain: take one piece, auto-capture adjacent</td><td>~85% (depends on board state)</td><td><span class="meta-badge meta-a">A</span></td></tr>
-      <tr><td><strong>Bishop's Diagonal</strong></td><td>20 min</td><td>Return rate tied to board control</td><td>~90% with center control</td><td><span class="meta-badge meta-a">A</span></td></tr>
-    </tbody>
-  </table>
-</div>
-
-{{< meta-rating grade="A" label="These have near-deterministic outcomes. Double Down is literally guaranteed returns. Steal Investment works as long as the opponent has stock. Bishop's Diagonal depends on you playing well-but that's a skill issue, not an RNG issue." >}}
-
-{{< section-divider >}}
-
-## B-Tier: Fun but Risky
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Gambit | Cost | Why It's Risky |
-|--------|------|----------------|
-| **Knight's Jump** | 30 | 60% double / 40% lose half-+EV but variance kills runs |
-| **Gambler's Gambit** | 20 | 20% 5x / 80% nothing-break-even EV, feels bad when it misses |
-| **Jackpot Gambit** | 60 | Only works before bosses, still has a chance component |
-| **Free Roll** | 20 | Reroll is RNG itself-you might get worse options |
-
-</div>
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Knight's Jump is the only B-Tier Gambit worth buying IF you have >100 stock. The variance matters less when you're rich. But if you're under 50 stock, skip it. A whiff at low stock ends your run.{{< /pro-tip >}}
-
-{{< section-divider >}}
-
-## C-Tier: Skip These
-
-{{< callout type="danger" >}}<strong> TRAP GAMBITS</strong>
-
-  These sound good on paper but rely on RNG in ways that make them unreliable. Skip unless you're memeing.{{< /callout >}}
-
-- **Roulette Gambit**-the name says everything. Pure RNG.
-- **Mystery Box**-unknown effect at unknown timing. You cannot plan around this.
-- **Chaos Gambit**-"random board effect" means random chance to help OR hurt you.
-- **Any Gambit that says "chance" or "random" in its description**-especially if it's the only effect.
-
-{{< section-divider >}}
-
-## The 80/20 Rule for Gambit Selection
-
-<div class="synergy-table" style="overflow-x:auto">
-  <table>
-    <thead><tr><th>Stock Level</th><th>Deterministic Ratio</th><th>RNG Ratio</th></tr></thead>
-    <tbody>
-      <tr><td>Under 50</td><td><strong>100%</strong></td><td>0%</td></tr>
-      <tr><td>50-100</td><td><strong>80%</strong></td><td>20% (A-Tier RNG only)</td></tr>
-      <tr><td>100-200</td><td><strong>70%</strong></td><td>30% (Knight's Jump allowed)</td></tr>
-      <tr><td>200+</td><td><strong>50%</strong></td><td>50% (you can afford to gamble)</td></tr>
-    </tbody>
-  </table>
-</div>
-
-{{< callout type="tip" >}}<strong> THE PRINCIPLE</strong>
-
-  Buy the deterministic S-Tier core first. Every time. Then fill from A-Tier. Only touch B-Tier or C-Tier when you have stock to burn. This single rule will increase your win rate more than any combo strategy.{{< /callout >}}
-
-{{< section-divider >}}
-
-## Deterministic Gambit Priority on a New Run
-
-1. **Shop 1:** Teleport (40)-always available, always buy
-2. **Shop 1-2:** Backstab (30)-cheapest reliable attack
-3. **Shop 2-3:** Safe Haven investment (10+)-start compounding early
-4. **Shop 3-4:** Double Down (25)-you should have ~50+ stock by now
-5. **Shop 4+:** King's Shield (50)-for boss prep
-
-After this core, buy A-Tier depending on your build. B-Tier only as filler.
-
-{{< section-divider >}}
-
+title: "Gambonanza Deterministic Gambits - The Most Reliable Gambits to Build Around"
+description: "Gambonanza has over 200 Gambits, and some trigger every time while others roll a dice. This guide ranks Gambits by reliability so you can plan a run around effects that actually fire."
+lastmod: "2026-09-25T15:00:00+08:00"
+version: "v1.5.0"
 ---
 
-*Ready to apply deterministic Gambits?-[All Gambits Guide](/gambits/)*<br>
-*Need the bigger economy picture?-[Stock Market & Shop Guide](/economy/)*
+## Why Reliability Beats Raw Power
 
----
+{{< callout type="verdict" >}}<strong>THE CORE IDEA</strong>
 
-*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+A Gambit that always works is worth more than a flashier one that misses half the time. In a run-based game you plan around what you can count on, so the most reliable Gambits are the ones that should anchor your build.{{< /callout >}}
 
+A lot of Gambonanza's 200+ Gambits trigger only some of the time. Banana Peel's Gambit fires roughly one game in ten. Silver Fork's Gambit needs a specific knight capture before it rolls its chance. That is not a reason to skip them forever, but it is a reason to treat them as upside, not as the plan.
 
+The Gambits that never roll a dice are the ones you can build a coherent run around. They do what the card says, every time the condition is met.
 
+{{< section-divider >}}
 
+## The Two Categories
+
+Every Gambit falls into one of two buckets:
+
+| Category | What it means | How to treat it |
+|----------|---------------|-----------------|
+| Deterministic | Fires whenever its condition is met, no roll | Anchor your build around these |
+| Chance-based | Has a probability attached (1/2, 1/3, 1/10) | Add as upside, never as the core |
+
+The mistake most players make is buying chance-based Gambits first because the payoff sounds huge. Then the roll misses, the Gambit slot is wasted, and the board is already under pressure.
+
+## Deterministic Gambits Worth Building Around
+
+These fire on a condition you control, with no dice roll involved.
+
+| Gambit | Rarity / Cost | Effect | Why it is reliable |
+|--------|---------------|--------|---------------------|
+| Thunder's Gambit | Legendary, $9 | Capturing with a pawn skips the enemy turn | Fires on any pawn capture you choose to make |
+| Chemist's Gambit | Common, $6 | Copies the first tile you trigger onto a random tile | Always fires once, on the tile you pick |
+| Falling Crown's Gambit | Epic, $10 | Waiting promotes one of your pawns | Fires whenever you take a safe wait |
+| Valkyrie's Gambit | Common, $7 | Landing a queen turns a spare pawn into a random piece | Fires on a queen landing you control |
+| Jump's Gambit | Rare, $8 | Your pieces can move over holes | Always active, no trigger needed |
+| Berserker's Gambit | Common, $6 | Capturing on your first turn grants money | Fires on the first-turn capture you plan |
+| Beth's Gambit | Rare, $7 | Capturing the last enemy with a queen grants money | Fires on the finishing capture |
+| Throne's Gambit | Common, $6 | On promotion, earn a king | Fires on any promotion |
+| Wrecking Ball's Gambit | Common, $6 | When a rook is captured, earn a king | Fires on the trade you decide to take |
+| Lemming's Gambit | Epic, $5 | Start each game with a free pawn | Fires at the start of every game |
+| Skydiver's Gambit | Legendary, $6 | Landing a pawn promotes it | Fires on any pawn you land |
+| CEO's Gambit | Legendary, $10 | Promotions are permanent | Always on |
+
+{{< meta-rating grade="A" label="Thunder's, Falling Crown's, Skydiver's, and Lemming's form one of the most consistent pawn engines in the game. None of them rolls a dice." >}}
+
+## Chance-Based Gambits: Upside Only
+
+These are not bad Gambits. They are bad Gambits to build your run around.
+
+| Gambit | Rarity / Cost | Roll | When it is worth a slot |
+|--------|---------------|------|--------------------------|
+| Banana Peel's Gambit | Common, $6 | 1/10 skip enemy turn | Late, when you already have a working core |
+| Silver Fork's Gambit | Rare, $7 | 1/2 skip if knight captures 2+ | Knight builds with a reliable capture setup |
+| Demon's Gambit | Rare, $8 | Skip when a piece is captured on a black tile | Sacrifice-heavy builds that plan the tile color |
+
+The skip-turn trio (Banana Peel's, Silver Fork's, Demon's) is the best-known example of stacked chance. None of the three is dependable alone. Stacked, they raise the odds that somewhere in a sequence the enemy loses one. That is a real plan, but it is a plan that needs the deterministic core underneath it first.
+
+{{< callout type="tip" >}}<strong>THE STACKING RULE</strong>
+
+If you want chance-based Gambits, stack several with the same goal. A single 1/10 is noise. Three different skip-turn Gambits together is a tempo engine.{{< /callout >}}
+
+{{< section-divider >}}
+
+## How to Spend Your Five Slots
+
+You can hold up to five Gambits at a time, so every slot is expensive.
+
+1. **Slot 1-2: Deterministic core.** One reliable economy or tempo Gambit that fits your pieces.
+2. **Slot 3-4: Synergy.** A second and third Gambit that multiply the first (for example Thunder's + Falling Crown's on pawns).
+3. **Slot 5: Flex.** Reroll this slot depending on what the run throws at you.
+
+If a Gambit stops matching your board, swap it out. A dead Gambit takes a slot that a live one could use.
+
+## Common Mistakes
+
+- **Buying the flashy 1/3 first.** It misses, and now you are two slots behind.
+- **Holding a Gambit that never fires.** If your board cannot trigger it, it is dead weight.
+- **Ignoring the trigger condition.** Chemist's Gambit is only as good as the first tile you trigger, so plan that tile.
+- **Stacking chance-based Gambits with no core.** Three dice rolls and no floor is not a build.
+
+## Related Guides
+
+- Full Gambit reference: [Gambits Guide](/gambits/)
+- Shop spending order: [Economy Guide](/economy/)
+- Pawn and promotion builds: [Pawn Economy Loop](/pawn-economy-loop/)
+- Which build to pick: [Pick Your Archetype](/pick-right-build-archetype/)

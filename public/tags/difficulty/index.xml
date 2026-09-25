@@ -13,20 +13,53 @@
 &lt;/ol&gt;
 
 &lt;div class="callout callout-verdict"&gt;
-&lt;p&gt;&lt;strong&gt;THE SHORT VERSION&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Gambonanza Difficulty Guide - How to Progress from Easy to King</title><link>https://gambonanzaguide.com/difficulty-guide/</link><pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/difficulty-guide/</guid><description>&lt;div class="callout callout-verdict"&gt;
-The jump between Normal and King difficulty is the largest skill gap in Gambonanza. Players report taking 25+ runs on King before their first clear. This guide maps the entire progression path with community-verified strategies.
+&lt;p&gt;&lt;strong&gt;THE SHORT VERSION&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Gambonanza Difficulty Guide - What Changes as You Climb</title><link>https://gambonanzaguide.com/difficulty-guide/</link><pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/difficulty-guide/</guid><description>&lt;div class="callout callout-verdict"&gt;
+You do not choose a difficulty on your first run. &lt;strong&gt;The difficulty tiers unlock only after you finish a full clear.&lt;/strong&gt; So the first run is about learning the board, and the climb starts after that.
 &lt;/div&gt;
 
-&lt;p&gt;Gambonanza has multiple difficulty tiers, each significantly harder than the last. Based on community runs, Reddit discussions, YouTube playthroughs, and the Gambonanza Wiki, here is the definitive progression guide.&lt;/p&gt;
+&lt;p&gt;Gambonanza gates its difficulty behind progress. Finish a run once, and the higher tiers open up in sequence. Each one stacks negative modifiers on top of the last.&lt;/p&gt;
 &lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
  &lt;img src="https://gambonanzaguide.com/images/diagrams/difficulty-ladder.svg" alt="Difficulty progression ladder" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
  
- &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;5 difficulty tiers from Easy to Mighty Kasparov with first-clear estimates and key mechanic changes.&lt;/figcaption&gt;
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;Difficulty tiers unlock after your first clear, each adding negative modifiers.&lt;/figcaption&gt;
  
 &lt;/figure&gt;
 
 &lt;hr class="section-divider"&gt;
-&lt;h2 id="difficulty-overview"&gt;Difficulty Overview&lt;/h2&gt;
-&lt;p&gt;Sources: &lt;a href="https://gambonanza.fandom.com/wiki/King_Difficulty_Guide" target="_blank" rel="noopener noreferrer"&gt;Gambonanza Wiki - King Difficulty Guide&lt;/a&gt;, Reddit community data, YouTube first-clear videos.&lt;/p&gt;</description></item><item><title>Unlocked King Difficulty and Die Every Run? 4 Hidden Mechanic Changes That Are Killing You</title><link>https://gambonanzaguide.com/king-difficulty-hidden-changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/king-difficulty-hidden-changes/</guid><description>&lt;h2 id="heading"&gt;'&lt;/h2&gt;
+&lt;h2 id="how-the-difficulty-system-works"&gt;How the Difficulty System Works&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Stage&lt;/th&gt;
+ &lt;th&gt;State&lt;/th&gt;
+ &lt;th&gt;What changes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;First runs&lt;/td&gt;
+ &lt;td&gt;Default tier&lt;/td&gt;
+ &lt;td&gt;Learn the board, Gambit triggers, and the boss preview&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;After first clear&lt;/td&gt;
+ &lt;td&gt;Tiers unlock&lt;/td&gt;
+ &lt;td&gt;Six tiers open in order, named after chess pieces starting with Rook and Knight&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Higher tiers&lt;/td&gt;
+ &lt;td&gt;Stacked modifiers&lt;/td&gt;
+ &lt;td&gt;Each tier adds negative modifiers that constrain your run&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Top tiers&lt;/td&gt;
+ &lt;td&gt;Hidden content&lt;/td&gt;
+ &lt;td&gt;An extra boss appears beyond the standard 8-boss roster&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr class="section-divider"&gt;
+&lt;h2 id="the-base-game-before-any-difficulty"&gt;The Base Game, Before Any Difficulty&lt;/h2&gt;
+&lt;p&gt;Before modifiers enter the picture, every run has the same shape:&lt;/p&gt;</description></item><item><title>Unlocked King Difficulty and Die Every Run? 4 Hidden Mechanic Changes That Are Killing You</title><link>https://gambonanzaguide.com/king-difficulty-hidden-changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/king-difficulty-hidden-changes/</guid><description>&lt;h2 id="heading"&gt;'&lt;/h2&gt;
 &lt;p&gt;You beat Queen difficulty. You unlock King. You play exactly the same way and die by Stage 2.&lt;/p&gt;
 &lt;p&gt;I have been there. The community has been there. And for weeks, the conversation was the same: &amp;ldquo;King is just harder, keep grinding.&amp;rdquo; But that is not the full story. King difficulty does not simply increase enemy stats. It changes the underlying rules of the game. The pricing model. The boss scaling formula. The board collapse timer. The AI targeting logic. All of it shifts in ways the game never explicitly tells you.&lt;/p&gt;</description></item></channel></rss>

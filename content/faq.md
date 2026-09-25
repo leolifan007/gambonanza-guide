@@ -2,275 +2,196 @@
 categories: ["Beginner"]
 tags:
   - "Strategy"
-title: "Gambonanza FAQ (v1.1.0)-Real Answers to the Most Common Questions"
-description: "Gambonanza FAQ for patch v1.1.0. Real answers to the questions that actually trip players up-boss mechanics, Gambit combos, economy priorities, and hidden rules. Updated for patch v1.1.0."
+title: "Gambonanza FAQ - Straight Answers to the Questions That Cost Runs"
+description: "Gambonanza FAQ. Real answers on how a run works, the board, Gambits, gold, the 8 bosses, and the mistakes that lose runs. No filler questions."
+lastmod: "2026-09-25T15:00:00+08:00"
+version: "v1.5.0"
 ---
 
-## The FAQ-What Players Actually Need to Know Check [Beginner Guide](/beginner/) for the full breakdown. The [Complete Walkthrough](/complete-walkthrough/) breaks this down in detail.
+## The FAQ - What Players Actually Need to Know
 
-{{< callout type="verdict" >}}<strong> THE VERDICT</strong>
+See the [Beginner Guide](/beginner/) for the full basics and the [Complete Walkthrough](/complete-walkthrough/) for a run from start to finish.
 
-  Most FAQ pages list obvious questions nobody asked. This one only includes stuff that REAL players get wrong-the kind of mistakes that cost runs. If you're stuck, the answer is probably here.{{< /callout >}}
+{{< callout type="verdict" >}}<strong>THE POINT OF THIS PAGE</strong>
 
+Only the questions that cost real runs. If you are stuck, the answer is probably here.{{< /callout >}}
 {{< section-divider >}}
 
-## Game Basics-The Stuff They Don't Tell You
+## Game Basics
 
 ### Is this actually chess?
 
-**No.** And the faster you accept that, the faster you'll stop losing. Gambonanza is a **deckbuilding roguelike** that uses chess pieces as cards. Playing it like chess = losing. Playing it like Balatro with knights = winning.
+**No.** Gambonanza uses chess pieces, but it is a single-player roguelike, not chess. There is no checkmate. You win a game by **capturing every enemy piece**, and you lose when all of yours are gone. Playing it like chess is the most common beginner mistake.
 
-{{< meta-rating grade="S" label="Most common mistake new players make-treating it like chess. Chess skill is a liability here." >}}
-
----
-
-### What board sizes exist and which should I use?
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Board | Size | Match Duration | Best For |
-|---|---|---|---|
-| **4x4 Blitz** | 16 squares | &lt;5 min | Learning mechanics |
-| **5x5 Standard** | 25 squares | 5-10 min | Normal runs |
-| **6x6 Tactical** | 36 squares | 15+ min | Advanced gambit play |
-
-</div>
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> 4x4 boards don't just teach you the game-they're also the best economy farms. A fast 4x4 win in under 3 minutes gives you the same stock reward as a 15-minute 6x6 grind. Speed runners farm 4x4 exclusively for stock.{{< /pro-tip >}}
+{{< meta-rating grade="S" label="The most common mistake new players make: treating it like chess. Tempo and Gambit setup matter more than positional play." >}}
 
 ---
 
-### How long does a full run take?
+### How big is the board?
+
+The board **starts at 5x5** with 3 pieces, drawn from your Collection via the Piece Wheel. There is no board-size menu. Instead, the board **grows by one row after each stage you clear**, so early games are cramped and later games have more room.
+
+{{< pro-tip >}}<strong>The board grows with the run</strong><br>
+  You do not pick 4x4 or 8x8. The board expands as you beat stage bosses, so your plans naturally get longer and safer later on.{{< /pro-tip >}}
+
+---
+
+### How long does a run take?
 
 <div class="split-col">
 <div class="col">
 
-<div class="phase-tag phase-early">NON-BOSS</div>
-<h4>5-15 minutes</h4>
-<p>Quick sessions for farming stock and learning Gambit interactions.</p>
+<div class="phase-tag phase-early">ONE GAME</div>
+<h4>a few minutes</h4>
+<p>A single game on the opening board resolves quickly.</p>
 
 </div>
 <div class="col">
 
-<div class="phase-tag phase-mid">BOSS RUN</div>
-<h4>15-30 minutes</h4>
-<p>Full boss attempts. Budget your time-longer fights need more Gambits.</p>
+<div class="phase-tag phase-mid">A FULL RUN</div>
+<h4>several hours</h4>
+<p>A run is 5 stages of 5 games, so full clears are a session, not a quick break.</p>
 
 </div>
-</div>
-
-<div style="margin: 12px 0">
-  {{< phase-tag "late" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px"><strong>2-4 hours</strong>-All bosses in sequence. Schedule a session.</span>
 </div>
 
 ---
 
 ### Is there multiplayer?
 
-Single-player only with boss AI. No multiplayer at launch-Gambonanza is designed as a solo roguelike experience. Developer Blukull has hinted at potential leaderboard features in future updates.
+**No.** Gambonanza is a single-player roguelike. There is no PvP, no ranked ladder, and no co-op. You face AI opponents and stage bosses.
 
 {{< section-divider >}}
 
-## Gambits-The Questions That Cost You Runs
+## Gambits
 
 ### Which Gambit should I buy first?
 
-{{< meta-rating grade="S" label="Teleport. Every single time. It solves every positioning problem, escapes checkmate, and enables combos. If Teleport is in your shop and you don't buy it, you've made a mistake." >}}
-
-**Why Teleport over everything else:**
-- Escapes any checkmate in 1 move
-- Repositions any piece to any unoccupied square
-- Triggers Gambit tile effects on the destination square
-- Enabled brutally effective attack formations
-
-Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brainstorm"-it's not situational, it's universally broken in every build.
+**Thunder's Gambit** (a pawn capture skips the enemy turn) is the safest default. It is a Legendary that fits almost any board and gives you tempo, which is the resource that wins games. More broadly, buy the Gambit your board can actually trigger every game, not the most expensive one on the shelf.
 
 ---
 
-### I bought a Legendary Gambit and lost. Why?
+### I bought an expensive Gambit and lost. Why?
 
-{{< callout type="danger" >}}<strong> THE RARITY TRAP</strong>
+{{< callout type="danger" >}}<strong>THE RARITY TRAP</strong>
 
-  <strong>Rarity-win rate.</strong> A Legendary (500 stock) that doesn't fit your build is worse than a Common (30 stock) that does. A well-placed Teleport (Common, 40 stock) beats any random Legendary that doesn't support your strategy. Buy what your deck needs, not what's expensive.{{< /callout >}}
-
-**The math:** A Common Gambit that synergizes with your build provides 2-3x value per turn. A Legendary that's anti-synergistic provides 0.5x value. Simple: synergy > price tag, always.
-
----
-
-### How many Gambits should I carry?
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Gambit Count | Effect | Verdict |
-|---|---|---|
-| &lt;15 | Running out of options mid-match |-Danger zone |
-| **18-22** | Optimal variety, consistent draws |-Sweet spot |
-| &gt;25 | Diluting best cards, inconsistent performance |-Overbloated |
-
-</div>
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> The number isn't the only factor-your Gambit "density" matters more. 18 Gambits where 14 are S/A-tier is better than 22 Gambits where 10 are C-tier filler. Cut the filler aggressively.{{< /pro-tip >}}
+  Rarity is not power. An expensive Gambit your board cannot trigger is worse than a cheap one you fire every game. Buy for fit.{{< /callout >}}
+A cheap Gambit that matches your pieces fires in every game. An expensive one that does not match your pieces sits unused. Fit beats price tag.
 
 ---
 
-### Are Boss Gambits permanent?
+### How many Gambits can I hold?
 
-**Yes**-once unlocked, they stay in your collection permanently across ALL runs. This is the main incentive for pushing past run-killing bosses. Every new boss unlocks a weapon you keep forever.
-
-**Priority order for boss Gambits:** The Mighty Kasparov's Counter > Queen's Gambit Counter > Botezarro's Shield > everything else.
+**Five.** That is the cap, and it is tight. Every slot should earn its place, so sell a Gambit the moment it stops matching your board or the next boss preview.
 
 {{< section-divider >}}
 
-## Economy-The #1 Reason Players Quit
+## Gold and the Shop
 
 ### I'm always broke. What am I doing wrong?
 
-{{< callout type="danger" >}}<strong> THE BROKE PLAYER PROFILE</strong>
+{{< callout type="danger" >}}<strong>THE BROKE PLAYER PROFILE</strong>
 
-  Exactly three things, in this order:{{< /callout >}}
+  Usually three things, in this order:{{< /callout >}}
 
-1. **You're buying Gambits you don't need**-impulse shopping is the #1 economy killer
-2. **You're not investing in Safe Haven**-the 10% guaranteed return is free money you're leaving on the table
-3. **You're gambling more than 10% of your stock**-Gambler's Gambit is not your friend when you're poor
+1. **Buying Gambits you cannot trigger.** Impulse shopping is the top economy mistake.
+2. **Spending down to zero.** With no buffer, one messy boss win leaves you limping.
+3. **Skipping Gold Tiles.** Every Gold Tile landing is gold you left on the board.
 
-Fix these in order. If you fix #1 but ignore #2, you'll plateau at 30-50 stock. If you fix #1 and #2 but ignore #3, you'll hit 80 stock then lose 60 of it on a bad gamble.
+Fix them in order and you stop bleeding gold.
 
 ---
 
-### Best way to farm stock?
+### How do I earn gold?
 
-{{< meta-rating grade="S" label="Safe Haven investment (10% guaranteed) + Double Down at 50+ stock. Boring but mathematically unbeatable." >}}
-
-Let's see the compound growth in action:
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Shop Visit | Investment | After Safe Haven | After Double Down |
-|---|---|---|---|
-| 1 | 100 stock | 110 | N/A |
-| 2 | - | 121 | N/A |
-| 3 | - | 133 | N/A |
-| 4 | - | 146 | N/A |
-| 5 | 146 stock (DD) |-| **292 stock** |
-
-</div>
-
-**100 stock-292 across five shop visits.** All you did was invest in Safe Haven and Double Down once. That's 192 free stock for clicking two buttons.
+By **winning games** (capturing every enemy piece), by **landing on Gold Tiles**, and through a handful of **Gold Gambits** such as Squirrel's, Bug Catcher's, Race Flag's, and Beth's. There is no investment table and no passive income.
 
 ---
 
 ### Should I ever skip the shop?
 
-**Only two situations:**
-1. You're saving **200+ stock** for a specific expensive Gambit
-2. The shop literally has nothing useful (happens ~15% of the time)
-
-Otherwise, always buy **at least 1 thing**. Even a cheap Common Gambit is better than walking out empty-handed, because every Gambit you own can be cycled into something better later.
+Only when the shop genuinely has nothing that answers your board or the boss preview. Otherwise buy at least one useful thing. And before every boss game, check the preview in the lower-left and buy an answer to its modifier if you can.
 
 {{< section-divider >}}
 
-## Bosses-What Nobody Tells You
+## Bosses
 
-### Which boss should I fight first?
+### How do bosses work?
 
-{{< meta-rating grade="S" label="<strong>Botezarro.</strong> Predictable pattern, rook-only movement, easy to learn. Beat it 2-3 times before even thinking about other bosses." >}}
+A run is **5 stages of 5 games**. The **5th game of each stage is a boss**. There are **8 real bosses**, and their order is randomized between runs, so you cannot memorize a fixed sequence. The shop previews the next boss and its modifier, so read it before you spend.
 
----
-
-### Do I really need boss-specific Gambits?
-
-<div class="split-col">
-<div class="col">
-
-**For Tal the Cursed & The Mighty Kasparov:**
-<span class="meta-badge meta-s">YES</span>
-<p>These two are borderline impossible without the correct counter-Gambits. Don't attempt without prepping.</p>
-
-</div>
-<div class="col">
-
-**For all other bosses:**
-<span class="meta-badge meta-b">OPTIONAL</span>
-<p>Not required, but they make the fight 2-3x easier. Worth grabbing if you see them in the shop.</p>
-
-</div>
-</div>
+The 8 bosses are Hikarul the Banished, Jawby Fisher, Botezarro, Judit Polgeisha, Kev Borclick, M3CH4GNU5 C4RL53N, Tal the Cursed, and Mighty Kasparov.
 
 ---
 
-### I died to the same boss 5+ times. Help?
+### Do I need boss-specific Gambits?
 
-{{< callout type="tip" >}}<strong> THE PATTERN PROBLEM</strong>
+For some, yes. Bosses like Tal the Cursed and Mighty Kasparov are much harder without the right answer, while others are manageable with a solid generic board. The preview tells you which modifier you are walking into, so prep for that one specifically.
 
-  You're probably repeating the same mistake. Watch the boss's <strong>opening pattern.</strong> Every boss has a predictable first <strong>3 moves</strong>. Memorize them-then counter them specifically.{{< /callout >}}
+---
 
-**The fix:** Next run, don't even try to win. Just watch the first 3 moves and restart. Do this 3-4 times. You'll spot the pattern immediately and know exactly how to counter it.
+### I keep dying to a boss. What now?
+
+{{< callout type="tip" >}}<strong>THE PATTERN PROBLEM</strong>
+
+  You are probably repeating the same mistake. Watch the boss's <strong>opening moves</strong> and its modifier before trying to win.{{< /callout >}}
+
+Next run, do not try to win, just observe the first few moves and the modifier, then restart. Do that a couple of times and the pattern becomes obvious.
 
 {{< section-divider >}}
 
-## Comparisons-For the Doubters
+## Comparisons
 
-### Gambonanza vs Balatro?
-
-Same DNA, different genre:
+### Gambonanza vs similar roguelikes?
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| | Balatro | Gambonanza |
-|---|---|---|
-| **Core** | Poker hands + Joker modifiers | Chess pieces + Gambit cards |
-| **Pacing** | Card draw RNG | Positional board complexity |
-| **Difficulty** | Steeper RNG variance | Steeper learning curve |
-| **Mastery** | Easier to start, hard to perfect | Hard to start, easier to master |
+| | Gambonanza |
+|---|---|
+| **Core** | Chess pieces plus Gambit cards on a growing board |
+| **Pacing** | Tempo-driven captures and a Stalemate Counter |
+| **Win condition** | Capture every enemy piece, no checkmate |
+| **Structure** | 5 stages of 5 games, a boss every 5th game |
 
 </div>
 
-If you like **Slay the Spire's** decision complexity or **Balatro's** "one more run" loop, you'll like Gambonanza. It takes the best of both and puts it on a chess board.
+If you like the decision density of a good roguelike and the "one more run" pull, this is built for that loop.
 
 ---
 
-### How many hours to "beat" the game?
+### How many hours to clear it?
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Milestone | Hours | Achievements |
-|---|---|---|
-| Beat all 8 bosses | 20-30 | ~60% complete |
-| 100% achievements | 40-50 | All achievements |
-| True mastery | 100+ | Mental-game doesn't track this |
+| Milestone | Rough time |
+|-----------|------------|
+| Beat all 8 bosses | a long solo session to a few sessions |
+| Collect most of the Collection | dozens of hours |
+| Full mastery | open-ended |
 
 </div>
 
 {{< section-divider >}}
 
-## Technical & Misc
+## Technical
 
 ### System requirements?
 
-{{< callout type="tip" >}}<strong> LIGHTWEIGHT</strong>
+{{< callout type="tip" >}}<strong>LIGHTWEIGHT</strong>
 
-  Any modern PC with integrated graphics runs it fine. ~500MB storage. No dedicated GPU needed.{{< /callout >}}
-
+  It runs on modest hardware with integrated graphics and does not need a dedicated GPU.{{< /callout >}}
 ---
 
-### Is the game still being updated?
+### Where can I play it?
 
-**Yes.** Launched May 1, v1.1.0. Developer Blukull has confirmed post-launch content updates-more Gambits, bosses, and possibly additional modes. The meta will shift.
+{{< callout type="verdict" >}}<strong>PC AND MOBILE</strong>
+
+  Gambonanza launched on May 1, 2026 for PC, iOS, and Android. On Windows it is around $14.99, with a lower price on mobile platforms.<br>
+  <a href="https://store.steampowered.com/app/3509230/" target="_blank" rel="noopener">Find it on Steam</a>{{< /callout >}}
 
 ---
-
-### Where do I buy it?
-
-{{< callout type="verdict" >}}<strong> STEAM EXCLUSIVE</strong>
-
-  <a href="https://store.steampowered.com/app/3182810/">Gambonanza on Steam</a>-No console or mobile versions announced. Price: ~$10.99.{{< /callout >}}
-
-{{< section-divider >}}
 
 ## Still Stuck?
-
-Bookmark this guide. We update weekly as the community discovers new strategies, boss patterns, and economy exploits.
 
 <div class="split-col">
 <div class="col">
@@ -279,27 +200,17 @@ Bookmark this guide. We update weekly as the community discovers new strategies,
 </div>
 <div class="col">
   <strong><a href="/gambits/">All Gambits Guide</a></strong><br>
-  <span style="color:var(--cream-dark);font-size:0.85rem">150+ Gambits ranked.</span>
+  <span style="color:var(--cream-dark);font-size:0.85rem">The full Gambit reference.</span>
 </div>
 </div>
 
 <div class="split-col">
 <div class="col">
   <strong><a href="/strategy/">Advanced Strategy</a></strong><br>
-  <span style="color:var(--cream-dark);font-size:0.85rem">Pro-level tactics.</span>
+  <span style="color:var(--cream-dark);font-size:0.85rem">Tactics that matter.</span>
 </div>
 <div class="col">
   <strong><a href="/bosses/">Boss Battle Guide</a></strong><br>
   <span style="color:var(--cream-dark);font-size:0.85rem">All 8 bosses analyzed.</span>
 </div>
 </div>
-
-
----
-
-*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
-
-
-
-
-

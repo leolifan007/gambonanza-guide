@@ -5,15 +5,15 @@ tags:
   - "Rooks"
   - "Bishops"
   - "Pieces & Cards"
-title: 'Gambonanza Rook & Bishop Guide v1.1.0-Mastering the Support Pieces'
-description: 'Gambonanza Rook and Bishop guide for patch v1.1.0. Rook suppression power, Bishop control tactics, Gambit combos, and advanced formations for these underrated pieces. Updated for patch v1.1.0.'
-lastUpdated: 'v1.1.0-05-14'
+title: 'Gambonanza Rook & Bishop Guide-Mastering the Support Pieces'
+description: 'Gambonanza Rook and Bishop guide. Rook suppression power, Bishop control tactics, Gambit combos, and advanced formations for these underrated pieces.'
+lastUpdated: '2026-09-25'
 version: 'v1.1.0'
 ---
 
 ## The Backbone, Not The Sidekick
 
-> Queen reaps the harvest. Rook and Bishop create the conditions for the harvest. But 80% of beginners treat Rook as an expensive Pawn and Bishop as a budget Rook-this is completely backward. The [Bosses Overview](/bosses/) breaks this down in detail. The [Strategy Guide](/strategy/) breaks this down in detail.
+> Queen reaps the harvest. Rook and Bishop create the conditions for the harvest. But most beginners treat Rook as an expensive Pawn and Bishop as a budget Rook-this is completely backward. The [Bosses Overview](/bosses/) breaks this down in detail. The [Strategy Guide](/strategy/) breaks this down in detail.
 
 {{< callout type="verdict" >}}<strong>Verdict</strong>
 
@@ -31,9 +31,9 @@ Rook moves "all the way in a straight line"-beginners see this as inflexible. Bu
 
 | Role | Best For | Recommended Gambit |
 |------|---------|-------------------|
-| Blockade | Controlling key lanes | Anchor, Grid Lock |
-| Offensive | King hunting | Charge |
-| Defensive | King protection | King Bind |
+| Blockade | Controlling key lanes | Dark Knight's, Protector's |
+| Offensive | King hunting | Wrecking Ball's |
+| Defensive | King protection | Templar's, Banner's |
 
 </div>
 
@@ -63,9 +63,9 @@ Two Rooks flanking the King creates a cross-blockade-nearly impossible to break 
 
 | Combo | Effect | Difficulty |
 |-------|--------|------------|
-| Rook + Charge | Teleport directly next to enemy King | <span class='meta-badge meta-s'>S</span> |
-| Rook + Anchor | Lock the best position permanently | <span class='meta-badge meta-a'>A</span> |
-| Rook + Teleport Swap | Swap with Pawn then rush forward | <span class='meta-badge meta-b'>B</span> |
+| Rook + Wrecking Ball's | A captured rook hands you a free king | <span class='meta-badge meta-s'>S</span> |
+| Rook + Dark Knight's | Rook captured, a Protective Tile appears | <span class='meta-badge meta-a'>A</span> |
+| Rook + Dungeon's | Landing a rook gives a free rook (once per game) | <span class='meta-badge meta-b'>B</span> |
 
 </div>
 
@@ -118,7 +118,7 @@ Bishop only controls same-color squares-this is its biggest weakness, but also i
 - Rook blocks cross-lanes-forces opponent to move diagonally
 - Bishop intercepts diagonals-executes the kill
 
-This is "Cross Blockade + Diagonal Intercept"-on a 5x5 board, this combo locks down 80% of all moveable squares.
+This is "Cross Blockade + Diagonal Intercept"-on a 5x5 board, this combo locks down a large share of the moveable squares.
 
 {{< pro-tip >}}<strong>What Advanced Players Know</strong><br>
   Double Rook + double opposite-color Bishops on a 6x6 board covers every possible movement path-cross & cross, both diagonals. Every square your opponent can reach is in your coverage. The community calls this the "Iron Cage."{{< /pro-tip >}}

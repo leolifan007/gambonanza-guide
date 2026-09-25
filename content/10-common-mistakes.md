@@ -28,22 +28,22 @@ categories: ["Beginner"]
 </div>
 
 
-<img src="/images/guides/mistake-boss-prepare.svg" alt="Boss Fight Stock Mistake: entering a boss with low stock leads to frequent losses, entering with 50+ stock wins far more often. Never enter a boss with less than 50 stock." />
+<img src="/images/guides/mistake-boss-prepare.svg" alt="Boss Fight Gold Mistake: entering a boss with low gold leads to frequent losses, entering with 50+ gold wins far more often. Never enter a boss with less than 50 gold." />
 
 ## Mistake #1: The One More Gambit Trap (Most Common)
 
-You have 45 stock. A boss fight is coming. One more Gambit roll... and you are broke.
+You have 45 gold. A boss fight is coming. One more shop roll... and you are broke.
 
-**The fix:** Never enter a boss fight with less than 50 stock. Boss retry costs 25. If you die with 45 stock, you get one retry. Die again? Run over. With 50+ stock, you have two retries. That is often the difference between a win and a restart. See our [Boss Guide](/boss-guide/) for stock benchmarks against each boss type.
+**The fix:** Never enter a boss fight with less than 50 gold. Keep enough reserve to buy a Gambit or two at the shop before the checkpoint instead of gambling your whole balance away. With a healthy reserve you can react to the boss preview instead of entering empty-handed. See our [Boss Guide](/boss-guide/) for gold benchmarks against each boss type.
 
-**Real numbers from my games:**
-- Enters boss with 50+ stock: wins most of the time
-- Enters boss with 25-49 stock: coin-flip at best
-- Enters boss with less than 25 stock: usually a loss
+**What I see in my own games:**
+- Enters boss with 50+ gold: comfortable, can adapt to the preview
+- Enters boss with 25-49 gold: tight, one mistake away from trouble
+- Enters boss with under 25 gold: very fragile
 
 ## Mistake #2: Playing Every Board the Same Way
 
-If you use the same build on 4x4, 6x6, and 8x8, you are losing free win percentage.
+If you use the same build on a 5x5 start and an 8x5 grown board, you are losing free win percentage.
 
 **The fix:** Our [Board Size Guide](/board-size-strategy/) breaks down exactly which builds dominate each board size.
 
@@ -51,9 +51,9 @@ If you use the same build on 4x4, 6x6, and 8x8, you are losing free win percenta
 
 | Board Size | Best Opening | Second Best |
 |------------|-------------|-------------|
-| 4x4 | Knight Rush (best) | Aggro Bishop (strong) |
-| 6x6 | Rook Control (best) | Mixed Build (strong) |
-| 8x8 | Economy Engine (best) | Queen Supremacy (strong) |
+| 5x5 (start) | Knight Rush (best) | Aggro Bishop (strong) |
+| 6x5 | Rook Control (best) | Mixed Build (strong) |
+| 7x5+ | Economy Engine (best) | Queen Supremacy (strong) |
 
 </div>
 
@@ -69,41 +69,41 @@ You save your roll. Then save again. Now it is turn 8 and you have no activated 
 
 ## Mistake #4: Ignoring Piece Positioning
 
-Players focus on Gambits and forget that piece position determines Gambit effectiveness. A Column Control Gambit is useless if your Rook is on the edge of the board.
+Players focus on Gambits and forget that piece position determines Gambit effectiveness. A Rook-keyed Gambit is far less useful if your Rook is stuck on the edge of the board.
 
 **The fix:** Think of piece position and Gambit selection as a pair:
-- Rook in center -> Pick Column Gambits
+- Rook in center -> Pick Rook-keyed Gambits
 - Knight exposed -> Pick Knight synergy Gambits
-- Back row crowded -> Pick defense Gambits
+- Back row crowded -> Pick defensive Gambits
 - Open space -> Pick mobility Gambits
 
 ## Mistake #5: Not Knowing When to Concede
 
 Some players fight every game to the death. Endless 25-turn games where they are clearly behind. This burns mental energy and teaches nothing.
 
-**The fix:** If by turn 12 you have less than 15 stock AND no activated Gambits, concede. You have lost the early game. The 15 minutes you save can go into a fresh run with lessons from this one.
+**The fix:** If by turn 12 you have less than 15 gold AND no activated Gambits, concede. You have lost the early game. The 15 minutes you save can go into a fresh run with lessons from this one.
 
 ## Mistake #6: Neglecting Economy Gambits
 
-Players love flashy Gambits (Copy, Infinite, Destruction) and ignore boring economy Gambits. Then they wonder why they have no stock by turn 10.
+Players love flashy Gambits (Copy, Infinite, Destruction) and ignore boring economy Gambits. Then they wonder why they have no gold by turn 10.
 
-**The fix:** Take at least ONE economy Gambit in your first 3 picks. The [Economy Guide](/economy/) ranks every Gambit by stock generation potential so you know which ones deliver.
+**The fix:** Take at least ONE economy Gambit in your first 3 picks. The [Economy Guide](/economy/) ranks every Gambit by gold generation potential so you know which ones deliver.
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Economy Gambit | Stock Per Turn (Turn 10+) | Why Skip? |
-|----------------|---------------------------|-----------|
-| Stockpiler | +8-12 | Only if you have Afk's Gambit |
-| Market Manipulation | +6-10 | Only if playing aggro |
-| Loot Collector | +5-8 | Never skip this one |
-| Afk's Gambit | +10-25 | Only with idle build |
-| Column Tax | +4-6 | Only with Rook Control |
+| Economy Gambit | What It Pays | Why Skip? |
+|----------------|-------------|-----------|
+| Squirrel's | $1 every time you gain a pawn | Almost never skip |
+| Bug Catcher's | +$2 on every pawn capture | Only if you build no pawns |
+| Berserker's | $1 on your first capture | Only if you never capture early |
+| Race Flag's | +$3 after a promotion | Only if you promote nothing |
+| Beth's | Extra gold for a Queen's final capture | Only in non-Queen builds |
 
 </div>
 
 ## Mistake #7: Misreading Boss Patterns
 
-Bosses have patterns. Trying to brute force through them wastes stock.
+Bosses have patterns. Trying to brute force through them wastes gold.
 
 **The fix:** Know each boss's weakness:
 
@@ -111,11 +111,11 @@ Bosses have patterns. Trying to brute force through them wastes stock.
 
 | Boss | Punishes | Weak Against |
 |------|----------|--------------|
-| Jester | Random moves | Control Lock build |
-| Tal the Cursed | Slow play | Aggro Knight rush |
-| Kev Borclick | Economy hoarding | Fast Gambit activation |
-| Judit Polgeisha | Center control | Side strategies |
-| Mighty Kasparov | Weak Gambits | 3+ activated synergy |
+| Botezarro | Ignoring mask tile colours | Careful tile-colour play |
+| Tàl the Cursed | Standing on Cursed Tiles | Aggro Knight rush that ends fights fast |
+| Kev Borclick | Slow tempo against STASIS | Fast captures before STASIS locks in |
+| Judit Polgeisha | Blind deployment (no enemy preview) | Recon-heavy staging, flexible openers |
+| Mighty Kasparov | Weak builds late in the run | 3+ activated synergies |
 
 </div>
 
@@ -124,15 +124,15 @@ Bosses have patterns. Trying to brute force through them wastes stock.
 A full Rook build. All economy, no attack. All defense, no push. If your build has only one axis, opponents with the right counter-build auto-win.
 
 **The fix:** Every build needs:
-1. An economy engine (how you make stock)
+1. An economy engine (how you make gold)
 2. A win condition (how you close the game)
 3. A backup plan (what you do when plan A fails)
 
-## Mistake #9: Not Using Evaluation Mode
+## Mistake #9: Rushing Your Turn
 
-The game gives you a chance to evaluate between turns. Most players skip straight to their next move.
+The game gives you a clear board state between turns. Most players skip straight to their next move without reading it.
 
-**The fix:** After every opponent turn, pause for 3 seconds and ask:
+**The fix:** After every enemy turn, pause for 3 seconds and ask:
 1. What is my opponent's plan?
 2. What Gambit are they setting up?
 3. Am I in danger next turn?

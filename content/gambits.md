@@ -24,9 +24,9 @@ These Gambits fundamentally change how you play. Build your run around them.
 
 <div class="s-tier-nav">
   <span class="nav-label">&#9889; Quick nav:</span>
-  <a href="#teleport" class="nav-anchor">&#9889; Teleport</a>
-  <a href="#ultimate-counter" class="nav-anchor">&#9889; Ultimate Counter</a>
-  <a href="#heal-board" class="nav-anchor">&#9889; Heal Board</a>
+  <a href="#jumps" class="nav-anchor">&#9889; Jump's Gambit</a>
+  <a href="#thrones" class="nav-anchor">&#9889; Throne's Gambit</a>
+  <a href="#resurrection" class="nav-anchor">&#9889; Resurrection Stone's Gambit</a>
 </div>
 
 see_also:
@@ -38,7 +38,7 @@ see_also:
     url: '/cards/'
 ---
 
-### <span id="teleport">Teleport</span>
+### <span id="jumps">Jump's Gambit</span>
 
 <div class="gambit-card gambit-s">
   <div class="gambit-card-header">
@@ -48,7 +48,7 @@ see_also:
       {{< phase-tag "mid" >}}
       {{< phase-tag "late" >}}
     </div>
-    <p class="gambit-summary">Instantly move any piece to any unoccupied square  the single most versatile Gambit in the game.</p>
+    <p class="gambit-summary">Rare, $8. Your pieces can hop over holes and empty squares - the single most versatile movement Gambit in the game.</p>
   </div>
   <div class="gambit-card-body">
     <div class="synergy-cards">
@@ -56,113 +56,116 @@ see_also:
         <div class="synergy-card-icon">&#9812;</div>
         <div class="synergy-card-content">
           <strong>Best with King</strong>
-          <span>Teleport king out of checkmate  free life</span>
+          <span>King leaps over a blocked rank to safety - a free escape route</span>
         </div>
       </div>
       <div class="synergy-card">
         <div class="synergy-card-icon">&#9813;</div>
         <div class="synergy-card-content">
           <strong>Best with Queen</strong>
-          <span>Queen appears anywhere on the board instantly</span>
+          <span>Queen ignores pawn walls and hole patterns that normally block her</span>
         </div>
       </div>
       <div class="synergy-card">
         <div class="synergy-card-icon">&#9814;</div>
         <div class="synergy-card-content">
           <strong>Best with Rook</strong>
-          <span>Teleport rook to 7th rank for instant mate threats</span>
+          <span>Rook keeps its full rail range even after Crumble punches holes in the board</span>
         </div>
       </div>
     </div>
     <div class="why-box">
       <strong class="why-label">Why it breaks the game:</strong>
-      Teleport can move a piece onto a Gambit Square AND trigger its effect in the same move. Teleporting a knight onto a "Free Gambit" tile gives you the tile bonus + the knight's move, effectively <em>doubling your turn value</em>. This interaction alone makes Teleport the most abusable Gambit in the game.
+      Jump's Gambit removes the one thing that normally limits your best pieces: blocked lines. A pawn wall, a hole left by Crumble, a friendly piece in the way - none of it stops you any more. On a board that has started to crumble, Jump's is the difference between a piece that is stranded and a piece that keeps working.
     </div>
   </div>
 </div>
 
 ---
 
-### <span id="ultimate-counter">The Ultimate Counter</span>
+### <span id="thrones">Throne's Gambit</span>
 
 <div class="gambit-card gambit-s">
   <div class="gambit-card-header">
     <div>
       <span class="meta-badge meta-s">S</span>
+      {{< phase-tag "early" >}}
+      {{< phase-tag "mid" >}}
       {{< phase-tag "late" >}}
     </div>
-    <p class="gambit-summary">1-turn god mode against ALL bosses. The single most important boss Gambit  save for Phase 3.</p>
+    <p class="gambit-summary">Common, $6. When you promote a pawn you also gain a King. Your board gets a second royal piece that the enemy must remove to end the game.</p>
   </div>
   <div class="gambit-card-body">
     <div class="synergy-cards">
       <div class="synergy-card">
         <div class="synergy-card-icon">&#9823;</div>
         <div class="synergy-card-content">
-          <strong>Best with Any piece</strong>
-          <span>Works universally  zero positioning requirements</span>
+          <strong>Best with Pawn builds</strong>
+          <span>Every promotion is now also a second body - pure value on a Pawn-heavy board</span>
+        </div>
+      </div>
+      <div class="synergy-card">
+        <div class="synergy-card-icon">&#9817;</div>
+        <div class="synergy-card-content">
+          <strong>Best with Squirrel's / Race Flag's</strong>
+          <span>Pawns that pay you on promotion now also hand you a King for free</span>
         </div>
       </div>
       <div class="synergy-card">
         <div class="synergy-card-icon">&#9812;</div>
         <div class="synergy-card-content">
-          <strong>Best with King</strong>
-          <span>Counteractive  push king forward safely for 1 turn</span>
-        </div>
-      </div>
-      <div class="synergy-card">
-        <div class="synergy-card-icon">&#9813;</div>
-        <div class="synergy-card-content">
-          <strong>Best with Queen</strong>
-          <span>Maximum offense during the invulnerability window</span>
+          <strong>Best with Wrecking Ball's</strong>
+          <span>Pair the two and nearly every promotion or Rook trade adds another King</span>
         </div>
       </div>
     </div>
     <div class="why-box">
       <strong class="why-label">Why it breaks the game:</strong>
-      The Ultimate Counter doesn't actually make you invulnerable  it makes your pieces "invisible" to boss targeting. The boss still takes their turn but wastes it moving aimlessly. Use this turn to reposition ALL your pieces aggressively, because the boss literally can't see them.
+      Remember the win condition: you lose only when all of your pieces are gone. A free King from every promotion makes your board much harder to wipe out, because one more piece has to be captured before the game can end. It is not flashy, it is simply more bodies, and more bodies win long games.
     </div>
   </div>
 </div>
 
 ---
 
-### <span id="heal-board">Heal Board</span>
+### <span id="resurrection">Resurrection Stone's Gambit</span>
 
 <div class="gambit-card gambit-s">
   <div class="gambit-card-header">
     <div>
       <span class="meta-badge meta-s">S</span>
+      {{< phase-tag "mid" >}}
       {{< phase-tag "late" >}}
     </div>
-    <p class="gambit-summary">Return all captured pieces to the board  the ultimate comeback mechanic.</p>
+    <p class="gambit-summary">$6. Phantom Tiles may now produce a permanent default piece instead of a temporary copy - a slow but steady way to rebuild a broken board.</p>
   </div>
   <div class="gambit-card-body">
     <div class="synergy-cards">
       <div class="synergy-card">
         <div class="synergy-card-icon">&#9816;</div>
         <div class="synergy-card-content">
-          <strong>Best with Sacrificed Knights</strong>
-          <span>Knights you traded away come back in flanking position</span>
+          <strong>Best with Phantom Tiles</strong>
+          <span>Every Phantom Tile becomes a possible permanent body instead of a fleeting one</span>
         </div>
       </div>
       <div class="synergy-card">
         <div class="synergy-card-icon">&#9817;</div>
         <div class="synergy-card-content">
-          <strong>Best with Sacrificed Pawns</strong>
-          <span>Pawns return ON the back rank  instant promotion setup</span>
+          <strong>Best with tile-heavy builds</strong>
+          <span>More Phantom Tiles on the board means more chances for a permanent piece</span>
         </div>
       </div>
       <div class="synergy-card">
         <div class="synergy-card-icon">&#9813;</div>
         <div class="synergy-card-content">
-          <strong>Best with Sacrificed Queen</strong>
-          <span>Queen comes back and threatens everything</span>
+          <strong>Best with Graal's Gambit</strong>
+          <span>Graal's keeps feeding tiles, Resurrection keeps converting them into bodies</span>
         </div>
       </div>
     </div>
     <div class="why-box">
       <strong class="why-label">Why it breaks the game:</strong>
-      Pieces returned by Heal Board are placed on YOUR choice of empty squares, not their original positions. Deliberately sacrifice pieces in bad positions early, then Heal Board them into perfect attacking formations. It's not a recovery tool  it's a <em>repositioning tool</em> disguised as healing.
+      In a long run, losing pieces is the real boss. Resurrection Stone's turns your existing tile engine into a quiet recovery mechanic - every Phantom Tile that converts is a piece you did not have to buy from the shop. It scales with the tile count you already built, so the payoff grows the longer the run goes.
     </div>
   </div>
 </div>
@@ -175,118 +178,118 @@ These define your build strategy. Prioritize them in every shop.
 
 ---
 
-### Backstab
+### Makibishi's Gambit
 
-{{< meta-rating grade="A" label="Capture a piece from behind, ignoring ALL protection. Essential attack tool." >}}
+{{< meta-rating grade="B" label="Drops a Trap on adjacent squares. Punishes the enemy for closing in on your pieces." >}}
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
-| **Knight** | Behind-target tiles | Knights can reach "behind" positions that other pieces can't |
-| **Bishop** | Diagonal flank tiles | Attacks from angles that are hard to calculate defensively |
-| **Rook** | Back rank tiles | Rook slides behind entire enemy formation |
+| **Knight** | Trap Tile clusters | A knight that walks away from a trap baits the enemy onto it |
+| **Bishop** | Choke-point tiles | Trap the diagonal the enemy must cross to reach your back line |
+| **Rook** | Lane tiles | Trap a lane and any piece that steps in loses its next turn |
 
 </div>
 
 <div style="margin: 12px 0">
   {{< phase-tag "mid" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Shines when positions develop and pieces cluster around defenders.</span>
+  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Shines when the enemy has to funnel through a small number of squares to reach your pieces.</span>
 </div>
 
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Backstab + King's Shield used on the SAME piece = invulnerable assassin. The piece is shielded from reprisal while Backstab gives it free kills. This combo works on literally every non-boss board after turn 6.{{< /pro-tip >}}
+{{< pro-tip >}}<strong>Pro tip:</strong> Makibishi's Gambit + Poacher's Gambit on the same piece = a self-defending bait. Poacher's drops a Trap Tile where your pawn dies, and Makibishi's keeps adjacency pressure on, so a piece the enemy thinks it can trade for suddenly cannot move the following turn.{{< /pro-tip >}}
 
 ---
 
-### Chain Capture
+### Silver Fork's Gambit
 
-{{< meta-rating grade="A" label="One capture triggers automatic second capture. Devastating in tight positions." >}}
+{{< meta-rating grade="A" label="Rare, $7. After a Knight moves, if it can capture 2 or more pieces, there is a 1/2 chance the enemy turn is skipped." >}}
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
-| **Queen** | Center tiles | Captures one piece, chain-captures the defender behind it |
-| **Knight (2+)** | Clustered tiles | Knights chain through packed positions efficiently |
-| **Rook** | Open files | Clears entire ranks in one turn |
+| **Knight** | Center tiles | A knight in the middle often forks two pieces at once |
+| **Knight (2+)** | Clustered tiles | Pack the enemy in and every knight move threatens a double |
+| **Rook** | Open files | Rooks clear the lanes your knights need to fork through |
 
 </div>
 
 <div style="margin: 12px 0">
   {{< phase-tag "early" >}} {{< phase-tag "mid" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Effective from turn 1 if pieces cluster. Diminishes on open boards.</span>
+  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Effective from turn 1 if pieces cluster. Diminishes on open boards where no knight can reach two targets at once.</span>
 </div>
 
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Chain Capture's trigger range is 2 squares, not adjacent. This means you can chain into diagonally "protected" pieces that the enemy thought were safe. Always check square 2 for chain potential before your capture.{{< /pro-tip >}}
+{{< pro-tip >}}<strong>Pro tip:</strong> Silver Fork's trigger checks all eight knight destinations, not just the one you land on. If any legal knight move from the new square would capture a second piece, the skip chance rolls. Move your knight to a square that keeps two capture lines open and you cash the coin flip for free.{{< /pro-tip >}}
 
 ---
 
-### King's Shield
+### Templar's Gambit
 
-{{< meta-rating grade="A" label="King becomes invulnerable for 2 turns. Keeps stock safe, prevents checkmate." >}}
+{{< meta-rating grade="A" label="Gaining a Rook also drops a random Protective Tile. A lasting way to shield your most important piece from a single capture." >}}
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
-| **King** | Any safe tile | The king is the centerpiece  protect your investment |
-| **Pawns near king** | Adjacent tiles | Pawn wall + King's Shield = fortress for 2 turns |
-| **Economy builds** | Any tile | Stock value is tied to king survival |
+| **Rook** | Protective Tile squares | You collect the Rook and a fresh Protective Tile in one buy |
+| **Queen** | Center tiles | Protects the piece the enemy most wants to trade for |
+| **Economy builds** | Any tile | Your income engine is often your most valuable single piece |
 
 </div>
 
 <div style="margin: 12px 0">
   {{< phase-tag "early" >}} {{< phase-tag "mid" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Safety net at all stages. Most forgiving Gambit for new players.</span>
+  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Safety net at all stages. A forgiving pick for new players who keep losing a key piece to an early trade.</span>
 </div>
 
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> King's Shield doesn't just protect the king  it prevents stock loss on king capture for 2 turns. This means you can aggressively double down your stock, pop King's Shield, and go ALL-IN on offense without worrying about losing your economy. Risk-free aggression.{{< /pro-tip >}}
+{{< pro-tip >}}<strong>Pro tip:</strong> A Protective Tile only saves the piece on the turn it moves in, so pair Templar's with a piece you advance every turn. Buy a Rook, land it on the fresh tile, then keep that Rook moving onto new Protective Tiles and it never stays exposed for the enemy turn.{{< /pro-tip >}}
 
 ---
 
-### Queen's Gambit Counter
+### War Horse's Gambit
 
-{{< meta-rating grade="A" label="Negates Queen boss's promotion ability. Turns a 4-star fight into a 2-star fight." >}}
+{{< meta-rating grade="A" label="Common, $6. When a pawn promotes into a Knight, that Knight is protected. A clean way to keep your promoted pieces alive." >}}
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
-| **Any piece** | Center control tiles | Deny center to limit queen's base damage |
-| **Pawn rushers** | Promotion squares | Blocks her promotion, enables YOUR promotion |
-| **Rook** | Open files | Free to pressure without fear of instant queen conversion |
+| **Pawn** | Promotion squares | Promote straight into a protected Knight instead of a fragile Queen |
+| **Knight** | Center tiles | A protected centre knight is very hard for the enemy to trade off |
+| **Rook** | Open files | Rooks cover the lane your new Knight needs to operate in |
 
 </div>
 
 <div style="margin: 12px 0">
   {{< phase-tag "mid" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Boss-specific. Only equip before Queen Gambit fight.</span>
+  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Best in any run where you expect to promote into Knights. Strong against bosses that punish your strongest piece.</span>
 </div>
 
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Queen's Gambit Counter also works against Mighty Kasparov promotions. If you're going Mighty Kasparov  Queen Gambit back-to-back, this one Gambit neutralizes both bosses' most dangerous mechanic.{{< /pro-tip >}}
+{{< pro-tip >}}<strong>Pro tip:</strong> Combine War Horse's with Skydiver's Gambit and every pawn you land can promote on arrival AND come in protected. On Hikarul the Banished, who cuts off your Stock, a protected knight that appears from a Landing is worth two ordinary pieces.{{< /pro-tip >}}
 
 ---
 
-### Through the Ranks
+### Catapult's Gambit
 
-{{< meta-rating grade="A" label="Rook/Queen moves through up to 5 squares, triggers Gambit effects at each." >}}
+{{< meta-rating grade="A" label="A Rook capture launches diagonally. Turns a trade into board-wide pressure." >}}
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Best Pieces | Best Tiles | Why It Works |
 |---|---|---|
-| **Rook** | Open files | Through 4 squares = 4 Gambit effects triggered in one move |
-| **Queen** | Diagonal files | Queen crosses more tiles, more effects |
-| **Pawn walls** | Board edges | Clears pawns while triggering bonuses |
+| **Rook** | Open files | Every Rook capture becomes an attack from an unexpected diagonal |
+| **Queen** | Center tiles | A Queen that also launches diagonally is almost impossible to fence in |
+| **Pawn walls** | Board edges | Use the pawns to set up the capture, then let the Rook launch |
 
 </div>
 
 <div style="margin: 12px 0">
   {{< phase-tag "late" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Needs open board. Build toward this  it's not an early-game tool.</span>
+  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Needs a board where the Rook can actually capture. Build toward this, it is not an early-game tool.</span>
 </div>
 
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Through the Ranks triggers the tile effect of EVERY tile it passes through, not just the Gambit effect. On a board with 3+ Gambit tiles in a straight line, this one move can generate enough value to win the entire match. Scout boards for Gambit tile alignment.{{< /pro-tip >}}
+{{< pro-tip >}}<strong>Pro tip:</strong> Catapult's launch still lands on a real square, so route your Rook so the diagonal capture ends on a Trap or Gold Tile. You get the kill, the board pressure, and the tile effect all from one move.{{< /pro-tip >}}
 
 {{< section-divider >}}
 
@@ -297,36 +300,36 @@ These are excellent in the right build. Don't force them into every deck.
 <div class="split-col">
 <div class="col">
 
-### Knight+Bishop Combo <span class="meta-badge meta-b">B</span>
+### Goddess's Gambit <span class="meta-badge meta-b">B</span>
 
-Move a piece using Knight AND Bishop range simultaneously. Insane coverage, slow to set up.
+Your Queen moves on Knight lines as well as her own. Wide reach, but you must keep the Queen alive to use it.
 
 <div style="margin: 8px 0">
   {{< phase-tag "mid" >}}
 </div>
 
-**Best Pieces:** Knights, queens<br>
-**Best Tiles:** Center, diagonal control tiles<br>
-**Weakness:** Requires both piece types alive on board
+**Best Pieces:** Queen<br>
+**Best Tiles:** Center tiles<br>
+**Weakness:** Only helps while your Queen is on the board
 
-<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">&#128161; PRO TIP: Use this on a pawn 1 square from promotion. It can promote to ANYTHING reachable by a knight+bishop  far more promotion options than normal.</div>
+<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">&#128161; PRO TIP: A knight-moving Queen can threaten squares no ordinary Queen can defend. Use that to fork pieces the enemy believes are safe from your royal piece.</div>
 
 </div>
 <div class="col">
 
-### Jackpot Gambit <span class="meta-badge meta-b">B</span>
+### CEO's Gambit <span class="meta-badge meta-b">B</span>
 
-Triple stock value + free Boss Gambit. Best used RIGHT before boss fights.
+Legendary, $10. Make a promotion permanent. Best used in long runs where you want your upgraded pieces to stay upgraded.
 
 <div style="margin: 8px 0">
   {{< phase-tag "late" >}}
 </div>
 
-**Best Pieces:** Any (economy Gambit)<br>
-**Best Tiles:** Safe haven tiles<br>
-**Weakness:** Useless on non-boss boards
+**Best Pieces:** Pawns you intend to promote<br>
+**Best Tiles:** Any<br>
+**Weakness:** Does nothing until you actually promote a piece
 
-<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">&#128161; PRO TIP: Jackpot Gambit's boss Gambit reward is NOT random  it always gives you the counter for the NEXT boss you fight. Sequence your boss order to control which counter you get.</div>
+<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">&#128161; PRO TIP: CEO's Gambit pairs with Medal's Gambit and War Horse's. Promote one pawn, keep the upgrade permanent, and protect the result - that one piece can carry the back half of a run.</div>
 
 </div>
 </div>
@@ -334,36 +337,36 @@ Triple stock value + free Boss Gambit. Best used RIGHT before boss fights.
 <div class="split-col">
 <div class="col">
 
-### Steal Investment <span class="meta-badge meta-b">B</span>
+### Beth's Gambit <span class="meta-badge meta-b">B</span>
 
-Take 50% of opponent's stock. Devastating in economy-focused runs.
+Rare, $7. Capturing the last enemy with your Queen pays extra money. A clean reward for finishing the job with your strongest piece.
 
 <div style="margin: 8px 0">
   {{< phase-tag "mid" >}}
 </div>
 
-**Best Pieces:** Economy builders<br>
-**Best Tiles:** Investment tiles<br>
-**Weakness:** Low-value against poor opponents
+**Best Pieces:** Queen<br>
+**Best Tiles:** Gold Tile<br>
+**Weakness:** Only pays on the final capture of the game
 
-<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">&#128161; PRO TIP: Steal Investment works on BOSS stock pools. Bosses accumulate stock from their wins too. Stealing from a rich boss = massive windfall.</div>
+<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">&#128161; PRO TIP: Beth's pays on the last capture, so route the killing blow through your Queen on purpose. If the board lets you, keep one enemy piece alive until your Queen can take it.</div>
 
 </div>
 <div class="col">
 
-### Double Down <span class="meta-badge meta-b">B</span>
+### Rear up's Gambit <span class="meta-badge meta-b">B</span>
 
-Double your current stock. Simple, reliable, always useful.
+A knight-flavoured Gambit that pays off while your Knights are on the board. Simple, reliable, always useful.
 
 <div style="margin: 8px 0">
   {{< phase-tag "early" >}} {{< phase-tag "mid" >}}
 </div>
 
-**Best Pieces:** Economy builds<br>
+**Best Pieces:** Knights<br>
 **Best Tiles:** Any<br>
-**Weakness:** Low base stock = low value
+**Weakness:** Does nothing if your Knights have been traded off
 
-<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">&#128161; PRO TIP: Never Double Down at less than 50 stock. The return is mathematically bad below 50. Wait until you hit 80+ stock  Double Down  immediately Steal Investment for maximum compound growth.</div>
+<div style="margin-top:8px;font-size:0.85rem;color:var(--gold)">&#128161; PRO TIP: Rear up's wants Knights alive and active. If you are running a Knight + Pawn wall, keep at least two Knights on the board at all times so the payoff never switches off. See the Knight and Pawn Meta guide.</div>
 
 </div>
 </div>
@@ -374,33 +377,33 @@ Double your current stock. Simple, reliable, always useful.
 
 These have their place but shouldn't be build priorities.
 
-### Undo Move <span class="meta-badge meta-c">C</span>
+### Makibishi's Gambit <span class="meta-badge meta-c">C</span>
 
-Reverse your last move. Decent safety net, but occupies a slot that could be an S-tier. **Only pick if your deck is 20+ cards and you have room.**
+Drops a Trap on adjacent squares. Punishing, but too position-dependent to build around. **Only pick it if your other picks already run Trap Tile synergy.**
 
 <div style="margin: 4px 0">
   {{< phase-tag "early" >}}
 </div>
 
-### Gravity Flip <span class="meta-badge meta-c">C</span>
+### Banana Peel's Gambit <span class="meta-badge meta-c">C</span>
 
-Invert movement directions for 1 turn. High skill ceiling but affects both players. **Fun but inconsistent  you'll lose more runs than you'll win with this.**
-
-<div style="margin: 4px 0">
-  {{< phase-tag "mid" >}}
-</div>
-
-### Surround <span class="meta-badge meta-c">C</span>
-
-Capture if enemy is surrounded on 2+ sides. Too position-dependent to be reliable. **OK in swarm builds, dead in open positions.**
+Common, $6. A 1 in 10 chance each turn to skip the enemy turn. Fun, but you cannot plan around a coin flip. **Take it as a cheap dice roll in an extra slot, not as a plan.**
 
 <div style="margin: 4px 0">
   {{< phase-tag "mid" >}}
 </div>
 
-### Pierce Through <span class="meta-badge meta-c">C</span>
+### Lemming's Gambit <span class="meta-badge meta-c">C</span>
 
-Capture and continue through. Good with bishops, weak with everything else. **Upgrade to B-tier if you're running a bishop-heavy deck.**
+Epic, $5. Start the game with one extra pawn. A body is a body, but a lone pawn rarely changes a run. **Fine value if you run pawn-payoff Gambits like Squirrel's.**
+
+<div style="margin: 4px 0">
+  {{< phase-tag "mid" >}}
+</div>
+
+### Squirrel's Gambit <span class="meta-badge meta-c">C</span>
+
+Common, $6. Every pawn you gain pays $1. Small, steady income that only matters in pawn-heavy builds. **Upgrade to A-tier the moment you commit to a pawn engine.**
 
 <div style="margin: 4px 0">
   {{< phase-tag "early" >}}
@@ -414,28 +417,28 @@ Capture and continue through. Good with bishops, weak with everything else. **Up
 
 | Tier | Gambit | Category | Best Phase | Must-Have? |
 |---|---|---|---|---|
-| **S** | Teleport | Movement | All | Yes  every build |
-| **S** | The Ultimate Counter | Boss | Late | Yes  final boss |
-| **S** | Heal Board | Defense | Late | Yes  long runs |
-| **A** | Backstab | Attack | Mid | Yes  aggressive |
-| **A** | Chain Capture | Attack | Early-Mid | Yes  tight boards |
-| **A** | King's Shield | Defense | All | Yes  safety |
-| **A** | Queen's Gambit Counter | Boss | Mid | Yes  specific boss |
-| **A** | Through the Ranks | Movement | Late | Build-dependent |
-| **B** | Knight+Bishop Combo | Movement | Mid | Build-dependent |
-| **B** | Jackpot Gambit | Economy | Late | Boss prep |
-| **B** | Steal Investment | Economy | Mid | Economy builds |
-| **B** | Double Down | Economy | All | Economy builds |
-| **B** | Sacrifice for Strength | Defense | Mid-Late | Comeback builds |
-| **B** | King's Counter | Boss | Late | Specific boss (required) |
-| **B** | Bishop's Blind | Boss | Mid | Specific boss |
-| **B** | Knight's Parry | Boss | Mid | Specific boss |
-| **B** | Rook's Wall | Boss | Mid | Specific boss |
-| **C** | Undo Move | Defense | Early | Filler pick |
-| **C** | Gravity Flip | Movement | Mid | Meme build |
-| **C** | Surround | Attack | Mid | Swarm build |
-| **C** | Pierce Through | Attack | Mid | Bishop build |
-| **C** | Gambler's Strike | Attack | Late | High-risk only |
+| **S** | Jump's Gambit | Movement | All | Yes, every build |
+| **S** | Throne's Gambit | Pieces | All | Yes, long runs |
+| **S** | Resurrection Stone's Gambit | Tiles | Mid-Late | Yes, tile builds |
+| **B** | Makibishi's Gambit | Tiles | Mid | No, position-dependent |
+| **A** | Silver Fork's Gambit | Attack | Early-Mid | Yes, Knight builds |
+| **A** | Templar's Gambit | Defense | All | Yes, Rook builds |
+| **A** | War Horse's Gambit | Pieces | Mid | Yes, promotion builds |
+| **A** | Catapult's Gambit | Movement | Late | Build-dependent |
+| **B** | Goddess's Gambit | Movement | Mid | Build-dependent |
+| **B** | CEO's Gambit | Pieces | Late | Promotion builds |
+| **B** | Beth's Gambit | Economy | Mid | Queen finishes |
+| **B** | Rear up's Gambit | Combat | All | Knight builds |
+| **B** | Squirrel's Gambit | Economy | Early-Mid | Pawn builds |
+| **B** | Falling Crown's Gambit | Pieces | Mid | Pawn promotion builds |
+| **B** | Spy's Gambit | Tiles | Mid | Trap-heavy builds |
+| **B** | Poacher's Gambit | Tiles | Mid | Pawn builds |
+| **B** | Wrecking Ball's Gambit | Pieces | Mid | Rook builds |
+| **C** | Makibishi's Gambit | Tiles | Mid | Trap synergy only |
+| **C** | Banana Peel's Gambit | Disruption | Mid | Fun but inconsistent |
+| **C** | Lemming's Gambit | Pieces | Early | Extra pawn only |
+| **C** | Squirrel's Gambit | Economy | Early | Pawn-payoff builds only |
+| **C** | Chrysalis's Gambit | Pieces | Mid | Situational only |
 
 </div>
 
@@ -445,13 +448,13 @@ Capture and continue through. Good with bishops, weak with everything else. **Up
 
 For your first 10 runs, prioritize these Gambits in this exact order:
 
-1. **Teleport** <span class="meta-badge meta-s">S</span>  buy it the moment you see it
-2. **Backstab** <span class="meta-badge meta-a">A</span>  2nd shop visit, every time
-3. **King's Shield** <span class="meta-badge meta-a">A</span>  protects your stock investment
-4. **Double Down** <span class="meta-badge meta-b">B</span>  economy amplifier
-5. **Knight+Bishop Combo** <span class="meta-badge meta-b">B</span>  flexible 5th pick
+1. **Berserker's Gambit** <span class="meta-badge meta-a">A</span> - cheap, and it pays on the capture you were making anyway
+2. **Bug Catcher's Gambit** <span class="meta-badge meta-a">A</span> - $4, and every pawn capture pays you $2
+3. **Squirrel's Gambit** <span class="meta-badge meta-a">A</span> - every pawn you gain pays you $1
+4. **Race Flag's Gambit** <span class="meta-badge meta-b">B</span> - promotion pays $3
+5. **Jump's Gambit** <span class="meta-badge meta-s">S</span> - flexible fifth pick that unsticks any board
 
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> The shop's Gambit rotation is NOT random. Every 5th shop visit guarantees an S or A-tier Gambit. Time your economy spikes (Double Down, Jackpot) to hit the shop on multiples of 5 visits, and you'll walk into free top-tier picks every time.{{< /pro-tip >}}
+{{< pro-tip >}}<strong>Pro tip:</strong> The boss preview sits in the bottom-left of every shop and shows the next boss mechanic before you spend. Buy your Gambits around the boss you can actually see, not around a generic tier list. A B-tier counter for the boss in front of you beats an S-tier pick that does nothing against it.{{< /pro-tip >}}
 
 ---
 

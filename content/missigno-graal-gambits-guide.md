@@ -14,7 +14,7 @@ date: "2026-07-13"
 Missigno's Gambit and Graal's Gambit fill completely different roles. Missigno's is a **lategame hail-mary** -- a pivot tool when your build stalls. Graal's is a **consistent bless engine** -- steady value across every stage. One is chaos, one is control. Choose accordingly.
 {{< /callout >}}
 
-## Missigno's Gambit: The Chaos Gambit
+## Missigno's Gambit: The Reroll Gambit
 
 **How it works:** Sell this Gambit from your inventory to turn ALL your pieces into random pieces.
 

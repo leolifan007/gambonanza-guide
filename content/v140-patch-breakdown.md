@@ -6,9 +6,9 @@ tags:
 title: "Gambonanza 1.4.0 Patch Breakdown: Enhanced AI, the Graveyard & Every Change That Matters"
 description: "Complete breakdown of Gambonanza v1.4.0. Enhanced AI Mode, the Graveyard system, promote into PAWN, Yin and Yang buffed to 1/2, Clown, Enigma and AFK revamped, plus QoL settings. Updated for patch v1.4.0."
 game_version: ">=v1.4.0"
-last_reviewed: "2026-08-18"
+last_reviewed: "2026-09-25"
 review_status: "current"
-date: "2026-08-18"
+date: "2026-09-25"
 hidden: false
 ---
 

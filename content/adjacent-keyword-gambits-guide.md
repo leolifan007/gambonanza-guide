@@ -5,9 +5,9 @@ tags:
 title: "ADJACENT Keyword Guide - All 11 Gambits Using Gambonanza's New Keyword (v1.2+)"
 description: "Gambonanza v1.2.0 introduced the ADJACENT keyword for 11 Gambits. Complete guide to how adjacency works and which Gambits use it. Updated for v1.3.0."
 game_version: ">=v1.2.0"
-last_reviewed: "2026-07-13"
+last_reviewed: "2026-09-25"
 review_status: "current"
-date: "2026-07-13"
+date: "2026-09-25"
 ---
 
 {{< callout type="verdict" title="What ADJACENT Means" >}}

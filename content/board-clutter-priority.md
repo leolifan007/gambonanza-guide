@@ -12,10 +12,9 @@ lastUpdated: 'v1.1.0-06-18'
 version: 'v1.1.0'
 draft: false
 hidden: false
----e
 ---
 
-Your board is full, a new Gambit piece just spawned, and you have 3 seconds to decide what to sell. From my own runs across every stage, I found that indecision costs more stock than bad decisions. Players who freeze and overthink lose 2 to 3 turns of tempo. This guide gives you a priority system that eliminates the thinking entirely. The [Piece Sacrifice Guide](/piece-sacrifice-guide/) covers this in depth. The [Economy Guide](/economy/) covers this in depth.
+Your board is full, a new Gambit piece just spawned, and you have 3 seconds to decide what to sell. From my own runs across every stage, I found that indecision costs more gold than bad decisions. Players who freeze and overthink lose 2 to 3 turns of tempo. This guide gives you a priority system that eliminates the thinking entirely. The [Piece Sacrifice Guide](/piece-sacrifice-guide/) covers this in depth. The [Economy Guide](/economy/) covers this in depth.
 
 {{< callout type="verdict" >}}**THE QUICK FIX**
 
@@ -30,16 +29,16 @@ Board clutter is not about what to keep. It is about what to cut first. Work fro
 Economy generators are pieces that directly produce stock every turn or every other turn. Gambit trigger cores are the specific pieces your entire Gambit chain depends on. If these pieces go, your whole economy collapses.
 
 **Examples:**
-- A Queen that is generating +3 stock per turn from a Queen's Supremacy Gambit
-- A Rook sitting on a Gold Rush tile that doubles its output
-- The single Knight that anchors your 3-piece Knight's Gambit chain
+- A Queen that is generating gold per turn from a Queen-keyed Gambit
+- A Rook sitting on a Gold Tile that adds to its gold value
+- The single Knight that anchors your Knight-keyed Gambit chain
 - Any piece that is currently powering an active, income-producing Gambit
 
 ### The Test
 
-Ask one question: "If I sell this piece, do I lose 5 or more stock per turn?" If the answer is yes, it is S-tier. Do not touch it.
+Ask one question: "If I sell this piece, do I lose 5 or more gold per turn?" If the answer is yes, it is S-tier. Do not touch it.
 
-{{< pro-tip >}}**Only 10h+ players know:** Not all Queens are S-tier. A Queen that has not activated any Gambit yet is actually A-tier at best. The designation is based on current Gambit output, not piece type. From my own runs, selling an inactive Queen to make space for an active Bishop Gambit was almost always the right call.{{< /pro-tip >}}
+{{< pro-tip >}}**Pro tip:** Not all Queens are S-tier. A Queen that has not activated any Gambit yet is actually A-tier at best. The designation is based on current Gambit output, not piece type. From my own runs, selling an inactive Queen to make space for an active Bishop Gambit was almost always the right call.{{< /pro-tip >}}
 
 {{< section-divider >}}
 
@@ -50,8 +49,8 @@ Ask one question: "If I sell this piece, do I lose 5 or more stock per turn?" If
 Board control pieces are the ones that prevent the boss from activating dangerous abilities. Synergy hubs are pieces that connect multiple Gambit lines together. These are valuable but not irreplaceable.
 
 **Examples:**
-- A Bishop positioned to block a column lock from Tal the Cursed
-- A Knight that connects two separate Gambit chains into one larger chain
+- A Bishop positioned to control a key diagonal against Tàl the Cursed
+- A Knight that connects two separate Gambit lines into one larger chain
 - A Pawn wall that is holding your backline together
 - Any piece that is currently the "bridge" between your left-side and right-side Gambits
 
@@ -80,7 +79,7 @@ B-tier pieces are the middle ground. They are doing something useful right now, 
 
 **Examples:**
 - A Pawn that is part of a basic chain but not the anchor piece
-- A Knight that is generating 1 stock per turn (not great, but not zero)
+- A Knight that is generating a little gold per turn (not great, but not zero)
 - Any piece that is filling a slot until you find its better version
 - Pieces from your early-game build that have not been upgraded yet
 
@@ -90,7 +89,7 @@ Ask: "Is there a strictly better version of this piece available in the shop rig
 
 {{< callout type="tip" >}}**Temporary Hold Trap**
 
-I found the biggest mistake players make with B-tier pieces is keeping them too long. A B-tier piece that sits on your board for more than 4 stages is actually costing you opportunity. You are blocking a slot that could hold an S-tier or A-tier piece. I set a personal rule: if a B-tier piece has been on my board for 3 full stages without being upgraded, it gets sold even if no replacement is ready. The empty slot is worth more than the B-tier production.{{< /callout >}}
+I found the biggest mistake players make with B-tier pieces is keeping them too long. A B-tier piece that sits on your board for more than 4 stages is actually costing you opportunity. You are blocking a slot that could hold an S-tier or A-tier piece. I set a personal rule: if a B-tier piece has been on my board for 3 full fights without being upgraded, it gets sold even if no replacement is ready. The empty slot is worth more than the B-tier production.{{< /callout >}}
 
 {{< section-divider >}}
 
@@ -104,11 +103,11 @@ C-tier pieces are the board clutter that silently kills your run. These are piec
 - A Pawn that is standing alone with no adjacent chain pieces
 - A Knight that was part of a broken chain and was never reassigned
 - Any piece on the edge of the board that has not moved in 5+ turns
-- Pieces that were placed during Stage 1 and have never been part of any Gambit
+- Pieces that were placed during the opening and have never been part of any Gambit
 
 ### The Test
 
-Ask: "Does this piece connect to an active Gambit or generate any stock?" If the answer is no, it is C-tier. Sell it immediately. Do not wait for a replacement. Do not keep it "just in case." The empty slot is already more valuable than the piece.
+Ask: "Does this piece connect to an active Gambit or generate any gold?" If the answer is no, it is C-tier. Sell it immediately. Do not wait for a replacement. Do not keep it "just in case." The empty slot is already more valuable than the piece.
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -117,7 +116,7 @@ Ask: "Does this piece connect to an active Gambit or generate any stock?" If the
 | Orphan piece | No adjacent chain pieces | Sell immediately |
 | Dead chain remnant | Chain broke 3+ turns ago | Sell immediately |
 | Edge loiterer | Has not moved in 5+ turns | Sell immediately |
-| Stage 1 relic | Placed in opening, never upgraded | Sell immediately |
+| Stage 1 leftover | Placed in opening, never upgraded | Sell immediately |
 
 </div>
 
@@ -128,10 +127,10 @@ Ask: "Does this piece connect to an active Gambit or generate any stock?" If the
 When a new Gambit piece spawns and your board is full, you do not have time to run the full priority system for every piece. I developed a 3-second decision rule that handles almost every board clutter situation:
 
 1. **Second 1: Scan for C-tier.** Look at your board and identify any piece with no Gambit link. If you see one, sell it. Decision done.
-2. **Second 2: Check B-tier.** If no C-tier pieces exist, look for the lowest-value B-tier piece. Is it doing less than 2 stock per turn? Sell it. Decision done.
+2. **Second 2: Check B-tier.** If no C-tier pieces exist, look for the lowest-value B-tier piece. Is it doing less than 2 gold per turn? Sell it. Decision done.
 3. **Second 3: Compare A-tier to the new piece.** If you are down to A-tier pieces only, ask: "Is the new piece a direct upgrade?" If yes, sell the A-tier piece. If no, do not sell anything and find space elsewhere.
 
-From my own runs, this 3-second rule cut my decision time sharply while maintaining the same sell quality. The faster decision alone saved me stock because I was not missing spawn windows.
+From my own runs, this 3-second rule cut my decision time sharply while maintaining the same sell quality. The faster decision alone saved me gold because I was not missing spawn windows.
 
 {{< callout type="danger" >}}**DANGER: The Hoarder Trap**
 
@@ -150,4 +149,4 @@ I developed this priority system through my own testing, but the community has s
 - <a href="https://reddit.com/r/gambonanza" target="_blank">r/Gambonanza Clutter Megathread</a>: Community-tested priority tiers with alternative ranking proposals and edge-case discussions.
 - <a href="https://gambonanza.com/community/strategy" target="_blank">Gambonanza Community Hub - Strategy Section</a>: Full archive of board management guides with video examples of the 3-second rule in action.
 
-For the tactical side of piece removal, see the <a href="/piece-sacrifice-guide/">Piece Sacrifice Guide</a>, which covers when to voluntarily lose a piece for positional advantage. For the economic angle, the <a href="/economy/">Economy Guide</a> explains how each piece's stock generation feeds into your overall run. The <a href="/complete-walkthrough/">Complete Walkthrough</a> includes board management benchmarks for every stage of the game.
+For the tactical side of piece removal, see the <a href="/piece-sacrifice-guide/">Piece Sacrifice Guide</a>, which covers when to voluntarily lose a piece for positional advantage. For the economic angle, the <a href="/economy/">Economy Guide</a> explains how each piece's gold generation feeds into your overall run. The <a href="/complete-walkthrough/">Complete Walkthrough</a> includes board management benchmarks for every stage of the game.

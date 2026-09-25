@@ -1,87 +1,87 @@
 ---
-categories: ["Difficulty & Progression"]
+title: "Gambonanza Complete Walkthrough - Every Stage From First Board to Final Boss"
+description: "A full Gambonanza run broken down stage by stage: how the 5x5 opening works, when the board grows, how to spend in the shop, and how to prepare for each boss checkpoint."
+categories: ["Beginner"]
 tags:
   - "Walkthrough"
-title: 'Gambonanza Complete Walkthrough (v1.1.0)-Step-by-Step Run Guide'
-description: 'Full Gambonanza walkthrough for patch v1.5.x. Step-by-step run guide from seed selection to the final boss. Covers opening economy, mid-game transition, every boss checkpoint, and endgame strategy.'
-lastUpdated: 'v1.1.0-05-14'
-version: 'v1.1.0'
+  - "Beginner"
+  - "Strategy"
+lastmod: "2026-09-25T15:00:00+08:00"
+version: "v1.5.0"
 ---
 
-## This Is Not a Quick Primer-It's Your Campaign Map
+{{< callout type="verdict" >}}<strong>THE SHAPE OF A RUN</strong>
 
-> Gambonanza blends chess with roguelike progression in a way that's incredibly satisfying-but the learning curve hits hard. This guide won't drill you on micro-tactics. It tells you **what to do and when to do it**.
+A Gambonanza run is 5 stages of 5 games each, so 25 games total. The 5th game of every stage is a boss checkpoint. You start on a 5x5 board with 3 pieces, and the board grows by a row after each stage you clear. This walkthrough follows that structure from start to finish.{{< /callout >}}
 
-{{< callout type="verdict" >}}<strong>Verdict</strong>
+{{< meta-rating grade="A" label="Start here if you want the whole run mapped out. Pair it with the Boss Guide for the fight-by-fight detail." >}}
 
-  Beginners make exactly two critical mistakes: over-expanding in the opening, and failing to transition in the mid-game. Fix those two things, and reaching the final boss is just a matter of reps. If you need a shortcut, the [Beginner Guide](/beginner/) covers the 5 rules that carry you through your first 5 runs. Each boss checkpoint demands a different approach - check the [Boss Guide](/bosses/) for the full modifier breakdown.
-  <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span>-steep at first, but every run teaches you something.{{< /callout >}}
-
-## Phase 1: Opening (3x3-4x4)
+## Phase 1: Stage 1-2, Opening on the 5x5 Board
 
 ### Goal
-Build your economy foundation and fill Gambit slots.
+
+Build a working economy and a coherent Gambit direction before the first boss arrives.
+
+### What the opening actually looks like
+
+- The board starts at **5x5** with **3 pieces** drawn from your unlocked Collection
+- You get a **staging phase** before each game: see the enemy layout, then place your pieces
+- You earn money by **winning games** (capturing every enemy piece), plus Gold Tiles and specific Gambits
 
 ### Action Checklist
-- [ ] Use recommended seeds: 1238513920 or 44488822
-- [ ] Prioritize economy Gambits (Pawn Gambit, Gold Rush)
-- [ ] Keep your King near center with at least 2 defensive pieces
-- [ ] Do not expose your Queen early
 
-{{< callout type="tip" >}}<strong>Golden Opening Formula</strong>
+- [ ] Pick your opening Gambit direction: pawn-tempo, tile-scaling, or economy
+- [ ] Buy the tool that lets your army survive a bad trade before buying raw power
+- [ ] Take one reliable economy Gambit early (Bug Catcher's, Squirrel's, Race Flag's)
+- [ ] Check the boss preview in the shop before you spend
 
-  <strong>Turns 1?:</strong> Expansion x2 + Gambit x1
+{{< callout type="tip" >}}<strong>First Gambit rule</strong>
 
-  <strong>Turns 4?:</strong> Economy x2 + Defense x1
-
-  Follow this ratio and you will almost never lose the opening phase.{{< /callout >}}
-
-![Mid-game board layout showing piece positioning strategy](/images/screenshots/ss_3.jpg)
-*Mid-game-pay attention to piece positioning and board control*
+  Thunder's Gambit (Legendary, $9) is the safest first pick when pawns are active: a pawn capture skips the enemy turn. If you cannot trigger your Gambits, they do nothing, so buy the one your board can actually use.{{< /callout >}}
 
 ### What to Avoid
-- **Over-recruiting**: Having more pieces than you can upgrade stalls your economy
-- **Skipping Gambits**: Playing Gambit-light in the opening sets you up for a painful boss phase
-- **King in the open**: One aggressive push and you're dead before turn 8
 
-## Phase 2: Mid-Game (4x4-5x5)
+- **Stacking Gambits that pull in different directions.** Pawn-tempo and tile-scaling rarely develop together in the first two stages.
+- **Spending every coin on power.** Captured pieces are gone for the run, so recovery matters as much as strength.
+- **Ignoring the staging phase.** Free information about the enemy layout is the point.
+
+## Phase 2: Stage 2-3, Mid-Run and Your First Bosses
 
 ### Goal
-Transition into a combat-ready configuration and prepare for your first boss.
 
-### Decision Tree
+Turn your Gambit direction into a consistent engine, then answer the boss modifier the shop previews.
+
+### Reading the boss preview
+
+The shop shows the next boss in the lower-left corner. Read it before spending anything.
 
 ```
-Read the boss preview in the shop
- Boss disables Stock (Hikarul)? - Deploy key pieces NOW, stop saving
- Boss eats Stock on capture (Jawby)? - Move value onto the board
- Boss shuffles your setup (M3CH4GNU5)? - Use simple, flexible formations
- No boss shown yet? - Keep expanding but manage pace
-
-Already have 8+ pieces on board?
- Yes-Start clearing low-tier pieces, keep high-value ones
- No-Keep expanding but manage pace
+Boss disables Stock (Hikarul)?        -> Land your key pieces NOW
+Boss destroys Stock on capture (Jawby) -> Move value onto the board
+Boss shuffles your setup (M3CH4GNU5)?  -> Use simple, flexible formations
+No boss shown yet?                     -> Keep building, manage pace
 ```
 
 ### Common Pitfalls
-- <span class='phase-tag'>Mid</span> **Over-expansion**: 10+ pieces on a 4x4 board with no gold to upgrade them-the #1 death sentence
-- **Ignoring Gambits**: If you haven't filled your Gambit slots by mid-game, you will not survive the first boss at 5x5
-- **Holding onto pawns**: Low-tier pieces are dead weight past 4x4. Sell them without sentiment.
 
-## Phase 3: Boss Fights (5x5)
+- **Thin board, few captures.** Crumble pressure builds when your board is too passive, so keep enough pieces active to keep generating captures.
+- **Dead Gambit slots.** If a Gambit stops matching your board, sell it. You can hold up to five, and a dead one wastes a slot.
+- **Over-buying before a boss.** Spend on the modifier's answer, not on generic power.
+
+## Phase 3: Boss Checkpoints
 
 ### One-Liner Counters Per Boss
 
-See the <a href='/boss-strategy-guide'>full Boss Strategy Guide</a> for in-depth breakdowns. Quick reference:
+See the <a href='/bosses/'>full Boss Guide</a> for in-depth breakdowns. Quick reference:
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Boss | One-Liner Counter |
 |------|-------------------|
-| Hikarul the Banished | Deploy everything before the fight, Stock is dead |
+| Hikarul the Banished | Land everything before the fight, your Stock is dead |
 | Botezarro | Check the mask color every turn before capturing |
 | Jawby Fisher | Empty your Stock, keep Phantom bait |
-| Judit Polgeisha | Flexible attackers, check threats on reveal |
+| Judit Polgeisha | Flexible attackers, check threats after the reveal |
 | Kev Borclick | Clear other threats, burn STASIS with safe waits |
 | M3CH4GNU5 C4RL53N | Simple formations, no fixed-square plans |
 | Tal the Cursed | Keep queens and rooks off cursed tiles |
@@ -89,46 +89,42 @@ See the <a href='/boss-strategy-guide'>full Boss Strategy Guide</a> for in-depth
 
 </div>
 
-{{< pro-tip >}}<strong>Boss Fight Mentality</strong><br>
-  If you lose to the same boss 3 times in a row, stop bashing your head against it. Check: is your Gambit configuration correct for this fight? Are your relics the right type? Swapping one Gambit often does more than swapping ten pieces.{{< /pro-tip >}}
+{{< pro-tip >}}<strong>Boss fight mentality</strong><br>
+  If you lose to the same boss repeatedly, the problem is usually your setup, not your moves. Swapping one Gambit to answer the modifier often does more than swapping ten pieces.{{< /pro-tip >}}
 
-## Phase 4: Endgame (6x6+)
+## Phase 4: Late Stages and the Endgame
+
+### The board keeps growing
+
+Every stage you clear adds a row to the board. By the late stages you have real space, which means longer threats, bigger traps, and nastier mistakes.
 
 ### Transition Checklist
-Sell all economy relics-Equip full combat relics-Open King hunting windows
 
-### Win Condition Checkpoints
-Before entering 6x6, confirm:
+- Confirm your Gambit direction is still live (no dead slots)
+- Keep a recovery route open (a Blessed tile, a spare piece, or recovery money)
+- Watch the Stalemate Counter: if it reaches 3/3, the game ends even if you still have pieces
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Condition | Requirement |
 |-----------|-------------|
-| Gambit slots | At least 2, ideally 3 |
-| Combat relics |-4 |
-| King position | Not exposed, has defensive cover |
-| Core pieces | Queen + Rook x2 + Bishop x2 |
+| Gambit slots | Filled with live, on-plan Gambits |
+| Recovery | At least one way to replace a lost key piece |
+| Board space | Enough active pieces to keep captures flowing |
+| Core pieces | A strong attacker plus support you can protect |
 
 </div>
 
-If you can't meet these, lower your expectations and pursue a King-snipe comeback instead of a direct fight.
+If you cannot meet these, play for survival and value rather than a fast finish.
 
 ## 5 Mistakes Beginners Must Avoid
 
-1. **"More pieces = better"**-Quality over quantity, always
-2. **"I'll save my Gambit for later"**-Gambits are for using, not hoarding
-3. **"I'll skip the relic shop"**-First thing at every new board size: check the relic shop
-4. **"Pawn promotion is always good"**-Losing Pawn Gambit chain synergy can hurt more than it helps
-5. **"King exposed = panic"**-If you can shore up defense within 3 turns, you're fine
+1. **"More pieces = better"** - quality and protection matter more than headcount
+2. **"I'll save my Gambit for later"** - if it is not helping your board, it is a wasted slot
+3. **"I'll skip the shop check"** - the boss preview is free information, always read it
+4. **"Pawn promotion is always good"** - a promotion that breaks your board state can cost more than it gives
+5. **"Losing a piece is fine"** - captured pieces are gone for the run, so every trade should have a purpose
 
 {{< callout type="tip" >}}<strong>Sources & Updates</strong>
 
-  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}
-
-<div class='ad-slot ad-slot--after-content'>
-  <div class='ad-label'>Advertisement</div>
-  <div class='ad-placeholder'>Google AdSense</div>
-</div>
-
-
-
+  These strategies come from my own runs. Gambonanza changes with patches, so always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}

@@ -5,9 +5,9 @@ tags:
 title: "Gambonanza v1.3.0 Patch Breakdown - All Balance Changes & What They Mean for Your Builds"
 description: "Complete breakdown of Gambonanza v1.3.0. Templar nerfed to 1/3, two new Gambits, Stalemate revamp, Bunker rework, and 6 Gambits buffed. Updated for patch v1.3.0."
 game_version: ">=v1.3.0"
-last_reviewed: "2026-07-13"
+last_reviewed: "2026-09-25"
 review_status: "current"
-date: "2026-07-13"
+date: "2026-09-25"
 ---
 
 {{< callout type="verdict" title="Patch Summary" >}}
@@ -43,7 +43,7 @@ If you have old builds referencing either, the closest replacement is Bubble Shi
 This is the single most impactful change in v1.3.0. Templar was an auto-pick in every run. Now it fires roughly one in three turns. The strategy implications:
 
 - **Don't build around Templar anymore.** It's a nice bonus, not a core strategy.
-- **Swap to Whip or Pendant** for consistent economy generation.
+- **Swap to Whip's, Chamberlain's or Pendant's** for consistent generation.
 - Templar still has value in BISHOP-heavy builds where you're making multiple pieces per turn -- the odds stack.
 
 ### 6 Gambits Buffed to 1/1 (Guaranteed)
@@ -91,11 +91,11 @@ Previously, Stalemate could carry over between stages and trigger unexpectedly. 
 
 - **Knight Rush** -- Show Jumping is now guaranteed. Whip always triggers. Dead or Alive always pays. See our [Knight & Pawn Meta Guide](/knight-pawn-meta-guide/).
 - **Protect Economy** -- Bunker's global +$1 makes PROTECT loops viable in every stage. See [Pawn Economy Loop](/pawn-economy-loop/).
-- **Blessed Tile Strats** -- Graal's Gambit + existing Blessed Tile Gambits make tile-based builds more consistent. Read our [Spectral Piece Guide](/spectral-piece-gold-tile-guide/).
+- **Blessed Tile Strats** -- Graal's Gambit + existing Blessed Tile Gambits make tile-based builds more consistent. Read our [Gold Tile Guide](/gold-tile-guide/).
 
 ### Builds Weakened
 
-- **Templar-dependent builds** -- If your strategy relied on Templar's guaranteed trigger, you need to pivot. Swap to the buffed 1/1 Gambits above.
+- **Templar-dependent builds** -- If your strategy relied on Templar's guaranteed trigger, you need to pivot. Swap in the buffed 1/1 Gambits above.
 - **Lich builds** -- Lich was nerfed in v1.2.0 and hasn't recovered. Skip it unless you have specific synergy pieces.
 
 ## Community Resources

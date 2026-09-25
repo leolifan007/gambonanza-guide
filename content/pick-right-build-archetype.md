@@ -4,7 +4,7 @@ tags:
   - "Meta & Builds"
   - "Strategy"
 title: "Which Gambonanza Build Is Best? Pick Your Archetype"
-description: "Not all playstyles are equal. After 200 hours, I found the build that matches your personality determines your success. Aggro, Control, or Economy -- which one are you? Detailed analysis with win rate data."
+description: "Not all playstyles are equal. After many runs, I found the build that matches your personality determines your success. Aggro, Control, or Economy -- which one are you? A playstyle breakdown with practical guidance."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
@@ -12,7 +12,7 @@ categories: ["Strategy & Guides"]
 ---
 
 
-# Pick the Right Build Archetype and Double Your Win Rate (3 Playstyles Analyzed)
+# Pick the Right Build Archetype and Improve Your Runs (3 Playstyles Analyzed)
 
 ## The Quick Answer
 
@@ -20,40 +20,40 @@ categories: ["Strategy & Guides"]
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Archetype | Win Rate | Difficulty | Best For |
-|-----------|----------|------------|----------|
-| Economy Engine | 65% | Easy | Patience players |
-| Control Lock | 71% | Medium | Tactical players |
-| Aggro Rush | 52% | Hard | Aggressive players |
+| Archetype | Difficulty | Best For |
+|-----------|------------|----------|
+| Economy Engine | Easy | Patience players |
+| Control Lock | Medium | Tactical players |
+| Aggro Rush | Hard | Aggressive players |
 
 </div>
 
-**My experience:** I spent a long time forcing Aggro Rush because I'm impatient. My results were stuck in a rut. When I switched to Control Lock, it jumped to 65% in 20 runs. Pick what suits you, not what sounds flashy.
+**My experience:** I spent a long time forcing Aggro Rush because I'm impatient, and my results were stuck in a rut. Switching to Control Lock made runs feel far more consistent. Pick what suits you, not what sounds flashy.
 
 ---
 
 ## Archetype 1: Economy Engine (Consistent)
 
-**Core strategy:** Invest in economy early, snowball into massive stock by mid-game, out-spend every boss.
+**Core strategy:** Invest in economy early, snowball into a large gold reserve by mid-game, and out-spend every boss.
 
 **Best pieces:** Pawns > Bishops > Knights
-**Must-have Gambits:** Safe Haven, Stock Market Gambit, Compound Interest
-**First 3 turns:** Buy Safe Haven. Save stock. Skip expensive Gambits.
+**Must-have Gambits:** Squirrel's Gambit, Bug Catcher's Gambit, Berserker's Gambit
+**First 3 turns:** Buy a cheap Common Gambit that pays on captures. Save money. Skip expensive Gambits.
 
 **Turn-by-turn:**
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Turn | Action | Stock Target |
+| Turn | Action | Gold Target |
 |------|--------|--------------|
-| 1-3 | Buy Safe Haven, save aggressively | 20+ |
-| 4-6 | Invest in 2nd economy relic | 45+ |
+| 1-3 | Buy a cheap capture-payoff Gambit, save aggressively | 20+ |
+| 4-6 | Invest in a 2nd economy Gambit | 45+ |
 | 7-9 | Start buying core Gambits | 60+ |
 | 10+ | Out-spend every boss | 80+ |
 
 </div>
 
-**Why it works:** By turn 10, you have 2-3x the spending power of any other archetype. You can afford retries, rare Gambits, and board resets. The game rewards delayed gratification.
+**Why it works:** By the mid-game you have more spending power than any other archetype. You can afford rerolls, rare Gambits, and capacity upgrades. The game rewards delayed gratification.
 
 **Who it's for:** Patient players. If you can resist buying shiny Gambits for 5 turns, this is your archetype.
 
@@ -64,7 +64,7 @@ categories: ["Strategy & Guides"]
 **Core strategy:** Lock down 60%+ of the board with Bishops and Rooks. Control the center. Starve the enemy.
 
 **Best pieces:** Bishops > Rooks > Knights
-**Must-have Gambits:** Bishop's Domain, Rook Wall, King's Shield
+**Must-have Gambits:** Excalibur's Gambit, Templar's Gambit, Catapult's Gambit
 **First 3 turns:** Deploy Bishops to diagonals. Deploy Rook to center rank.
 
 **Turn-by-turn:**
@@ -76,7 +76,7 @@ categories: ["Strategy & Guides"]
 | 1-3 | Deploy Bishops on diagonals | 30% locked |
 | 4-6 | Add Rook to center rank | 50% locked |
 | 7-9 | Deploy second Rook or Knight | 65% locked |
-| 10+ | Trap enemy King | 80%+ locked |
+| 10+ | Capture all enemy pieces | 80%+ locked |
 
 </div>
 
@@ -84,7 +84,7 @@ categories: ["Strategy & Guides"]
 
 **Who it's for:** Tactical players who enjoy positioning and tempo. If you like chess, you'll love this archetype.
 
-**My experience:** This is the archetype that took me from 38% to 71%. I didn't need to learn new mechanics -- I just needed to focus on board control instead of fancy combos.
+**My experience:** This is the archetype that finally made my runs consistent. I didn't need to learn new mechanics, I just needed to focus on board control instead of fancy combos.
 
 ---
 
@@ -93,7 +93,7 @@ categories: ["Strategy & Guides"]
 **Core strategy:** Buy aggressive Gambits immediately. End fights fast. Win or die quickly.
 
 **Best pieces:** Knights > Queens > Rooks
-**Must-have Gambits:** Knight Fork, Queen's Gambit, Rook Rush
+**Must-have Gambits:** Silver Fork's Gambit, Thunder's Gambit, Catapult's Gambit
 **First 3 turns:** Buy the most expensive Gambit available. Attack immediately.
 
 **Turn-by-turn:**
@@ -109,9 +109,9 @@ categories: ["Strategy & Guides"]
 
 </div>
 
-**Why it works on small boards:** On 4x4 and 5x5 boards, the enemy doesn't have room to dodge. A fast rush can win before the boss's scaling mechanics kick in.
+**Why it works on early boards:** On the starting 5x5 board, the enemy doesn't have room to dodge. A fast rush can win before the boss's scaling mechanics kick in.
 
-**Why it fails on large boards:** On 6x6 and 7x7, the enemy has too much space. Your rush fizzles, and you're left with no economy and no fallback.
+**Why it fails on grown boards:** Once boss stages add rows (6x5, 7x5, 8x5 and beyond), the enemy has too much space. Your rush fizzles, and you're left with no economy and no fallback.
 
 **Who it's for:** Experienced players who know exactly what they're doing. Not recommended for beginners despite the appeal.
 
@@ -133,16 +133,16 @@ categories: ["Strategy & Guides"]
 
 ---
 
-## Archetype Win Rates by Board Size
+## Archetype Fit by Board Size
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Board Size | Economy Engine | Control Lock | Aggro Rush |
 |------------|---------------|--------------|------------|
-| 4x4 | 58% | 62% | 60% |
-| 5x5 | 62% | 68% | 55% |
-| 6x6 | 68% | 72% | 48% |
-| 7x7 | 72% | 74% | 42% |
+| 5x5 (start) | Strong | Strong | Strong |
+| 6x5 | Strong | Best | Playable |
+| 7x5 | Strong | Best | Weak |
+| 8x5+ | Best | Best | Weak |
 
 </div>
 
@@ -154,24 +154,24 @@ Aggro Rush is only competitive on small boards. For larger boards, Control Lock 
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Archetype | Win Rate | Best Board | Skill Floor |
-|-----------|----------|------------|-------------|
-| Economy Engine | 65% | 6x6, 7x7 | Low |
-| Control Lock | 71% | All sizes | Medium |
-| Aggro Rush | 52% | 4x4, 5x5 | High |
+| Archetype | Best Board | Skill Floor |
+|-----------|------------|-------------|
+| Economy Engine | 7x5, 8x5+ | Low |
+| Control Lock | All sizes | Medium |
+| Aggro Rush | 5x5 | High |
 
 </div>
 
-**My recommendation:** Start with Economy Engine. When you're comfortable, switch to Control Lock. Never touch Aggro Rush until you've won 20+ runs.
+**My recommendation:** Start with Economy Engine. When you're comfortable, switch to Control Lock. Never touch Aggro Rush until you have several full clears behind you.
 
 ---
 
 ## Community Verification
 
-Archetype win rates are based on my personal 200-hour gameplay log and cross-referenced with community data from the Gambonanza Strategy Discord. The track record for Control Lock has been independently verified by several top 50 players.
+These observations are based on my own runs and cross-referenced with community discussion on the Gambonanza subreddit. Control Lock has been the most consistently reported archetype among experienced players.
 
 **Related guides:**
-- [Economy & Stock Guide](/economy/) -- Economy Engine deep dive
+- [Economy & Gold Guide](/economy/) -- Economy Engine deep dive
 - [Boss Strategy Guide](/boss-strategy-guide/) -- Boss-specific archetype picks
 - [Gambit Chain Recovery Guide](/gambit-chain-recovery/) -- Fallback chains for any archetype
 - [Strategy Guide](/strategy/) -- Advanced tactical concepts

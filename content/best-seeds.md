@@ -1,127 +1,75 @@
 ---
-categories: ["Economy"]
+categories: ["Beginner"]
 tags:
-  - "Seeds"
-title: "Gambonanza Best Seeds (v1.1.0) - Top 15 S/A/B Seeds for Guaranteed Wins | Patch-Ready"
-description: "The best Gambonanza seeds for patch v1.1.0. Top 15 seeds ranked S/A/B for economy builds, speed runs, boss fights, and ranked mode. Includes how to use seeds and what makes a good seed. Updated for patch v1.1.0."
-lastUpdated: 'v1.1.0-05-19'
-version: 'v1.1.0'
+  - "Beginner"
+  - "Pieces"
+title: "Gambonanza Opening Guide - How the Piece Wheel and Collection Shape Your Start"
+description: "Gambonanza has no seed codes. Your starting pieces come from the Piece Wheel, drawn from your unlocked Collection. Here is how to read that system and set up a strong opening."
+lastmod: "2026-09-25T15:00:00+08:00"
+version: "v1.5.0"
 ---
 
-## Best Seeds-Ranked for Every Playstyle
+## How a Run Actually Starts
 
-> Your seed determines your opening Gambit pool, relic offerings, and shop rotation. I've tested over 200 seeds across multiple patches and these are the ones that consistently deliver wins. The [Recommended Seeds Collection](/recommended-seeds/) breaks this down in detail. The [Beginner Guide](/beginner/) breaks this down in detail.
+> A run begins on a **5x5 board with 3 pieces**. Those pieces come from the **Piece Wheel**, a set of three reels of chess pieces that you stop with a button. The pool it draws from is whatever your Collection has unlocked, so what you see at the start is a direct result of your progress, not a typed-in code.
 
-{{< callout type="verdict" >}}<strong>Quick Pick</strong>
+{{< callout type="verdict" >}}<strong>THE HONEST ANSWER</strong>
 
-  Don't want to read? Use seed <strong>1238513920</strong>-it's the strongest all-rounder I've found. Double Gambit slot opener + economy relic in the first shop. Works for every build type. <strong>Rating:</strong> <span class='meta-badge meta-s'>S</span>{{< /callout >}}
+There is no seed code system in Gambonanza. If you are looking for a list of numbers to type in for a perfect start, that does not exist in this game. What you can control is your Collection, your mulligan habit, and your first purchases.{{< /callout >}}
 
-## What Makes a Good Seed?
+This page covers what actually determines your opening, and the [Beginner Guide](/beginner/) covers the rest of the first-run basics.
 
-A good seed gives you three things:
+## The Piece Wheel, Explained
 
-1. **Strong opening Gambit pool**-At least 2 A-tier Gambits available in your first 3 picks
-2. **Early economy relic**-A shop relic that boosts stock earnings before the first boss
-3. **Synergy potential**-Gambits that chain well together (e.g., King Bind + Castle Rush)
+Before a run proper begins, the Piece Wheel gives you your starting pieces.
 
-{{< pro-tip >}}<strong>How Seeds Work</strong><br>
-  Seeds are deterministic-the same seed always produces the same opening pool. But your choices after that still matter. A great seed with bad decisions still loses. The seed gives you the tools; you still need to use them.{{< /pro-tip >}}
+1. Three reels spin with chess pieces on them
+2. You press stop
+3. The pieces you land become your starting three
 
-## Top 15 Seeds-Complete Rankings
+Because the reels draw from your unlocked Collection, the two levers you have are:
 
-### S-Tier Seeds (Must-Use)
+- **Unlock more pieces** by playing. A wider Collection means more options on every reel.
+- **Stop deliberately.** If your opening pieces do not fit a plan, restarting the run is free and fast.
 
-<div class="synergy-table" style="overflow-x:auto">
+{{< pro-tip >}}<strong>Restart is a tool, not a failure</strong><br>
+  Early runs are short. If your three starting pieces are all pawns and you wanted to practice a queen build, restarting costs you almost nothing. Treat the first spin as a filter, not a sentence.{{< /pro-tip >}}
 
-| Seed | Opening Gambits | First Shop Relic | Best Build | Why It's S-Tier |
-|------|----------------|-----------------|------------|-----------------|
-| **1238513920** | Double Gambit slot + Checkmate Engine | Economy Relic (Stock+20%) | All-round | Works for literally every playstyle |
-| **48827315** | King Bind + Castle Rush | Gambit Refresh | Tal the Cursed | Two S-tier Gambits in opening pool |
-| **782993044** | Mighty Kasparov + Stock Boost | Double Safe Haven | Fast Farm | Economy snowball from turn 1 |
-| **729384710** | Royal Gambit + Phantom Leap | Relic Reroll | Queen Rush | Most consistent Queen build opener |
+## What Makes a Good Opening
 
-</div>
-
-### A-Tier Seeds (Strong)
+A strong opening gives you two things: a piece that can generate captures immediately, and a direction you can commit to before the first boss.
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Seed | Opening Gambits | First Shop Relic | Best Build | Notes |
-|------|----------------|-----------------|------------|-------|
-| **55512345** | High Pawn spawn + Pawn Rush | Pawn Promotion | Pawn Rush | Pawn-heavy, great for learning |
-| **918273645** | High-variance Gambit pool | Risk Multiplier | Lucky Gambler | Can snowball or crash-exciting |
-| **44488822** | Double Gambit + Rook Boost | Stable Returns | Ranked | Diamond-Master ranked seed |
-| **11733900** | Economy burst early | Stock Doubler | Economy | Platinum-Diamond ranked seed |
-| **628493015** | Knight's Tour + Phase Shift | Phase Relic | Knight Build | Best Knight-focused seed I've found |
+| Opening shape | Why it works | Watch out for |
+|---------------|--------------|---------------|
+| A queen plus pawns | Queen mobility plus pawn promotion routes | Protecting the queen early |
+| Knights plus pawns | Fork threats on a small board | Knights that cannot reach a target yet |
+| Rooks plus pawns | Long-range control once a file opens | Slow starts on a cramped board |
+| All pawns | Cheap, fast to promote with the right Gambit | Thin board, low capture rate early |
 
 </div>
 
-### B-Tier Seeds (Situationally Good)
+If your spin gives you a shape you do not like, you can still steer it with your first Gambit picks and shop buys.
 
-<div class="synergy-table" style="overflow-x:auto">
+## Your First Decisions Matter More Than the Spin
 
-| Seed | Opening Gambits | Best For | Notes |
-|------|----------------|----------|-------|
-| **999111333** | Strong relic pool | Beginner-friendly | Gold-Platinum ranked, very safe |
-| **314159265** | Mixed Gambit pool | Experimenting | Fun seed for trying new builds |
-| **271828182** | Late-game scaling Gambits | Long runs | Weak early, strong after boss 4 |
-| **867530900** | Boss-specific Gambits | Boss practice | Great for learning boss patterns |
-| **112358132** | Fibonacci-scaling economy | Economy runs | Stock grows exponentially if you don't spend early |
+The starting pieces set a direction, but the run is decided by what you buy.
 
-</div>
+- **Match your first Gambit to your pieces.** Thunder's Gambit ($9) is the safest default when pawns are active, because a pawn capture skips the enemy turn.
+- **Check the boss preview** in the shop before spending, since the next modifier changes what is worth buying.
+- **Buy survival before power.** Captured pieces are gone for the run.
 
-## Best Seeds by Category
+## Common Myths About Openings
 
-###  Best Seed for Beginners
-**Seed: 1238513920**-The double Gambit slot opener means you get more choices right away, and the economy relic means you won't run out of stock before bosses. I recommend this for your first 10 runs while learning the game.
+- **"There is a best seed code."** No. The Piece Wheel draws from your Collection, and there is no code input.
+- **"Ranked mode has different seeds."** Gambonanza is a single-player roguelike. There is no ranked ladder or PvP mode.
+- **"Relics carry your run."** There is no relic system. Your run is Gambits, tiles, pieces, and money.
+- **"The same start always plays the same."** The opening pool depends on your Collection and your choices, not a fixed number.
 
-###-Best Seed for Speed Runs
-**Seed: 782993044**-The Fast Farm economy burst lets you hit boss-power levels 2-3 rounds earlier than normal. My fastest clear with this seed: 18 minutes.
+## Related Guides
 
-###  Best Seed for Boss Fights
-**Seed: 48827315**-King Bind trivializes 4 of the 8 bosses. Castle Rush handles the other 4. This seed is specifically designed to counter boss mechanics.
-
-###  Best Seed for Ranked Mode
-**Seed: 44488822**-Stable double Gambit + Rook boost gives consistent performance in ranked. Your opponent's seed doesn't affect yours, so use this with confidence.
-
-## How to Enter a Seed
-
-1. From the **main menu**, select **New Run**
-2. Click the **Seed** input field (below difficulty selection)
-3. Type your seed number (digits only-no letters)
-4. Press **Enter** to confirm
-5. Start your run-the opening pool will match the seed
-
-{{< callout type="tip" >}}<strong>Tip</strong>
-
-  You can add spaces when typing seeds (e.g., `1238 513 920`) to avoid typos. The game ignores spaces.{{< /callout >}}
-
-## Seeds FAQ
-
-**Do seeds affect difficulty?**
-No. Seeds determine your opening pool and shop rotation, not boss strength. An S-tier seed doesn't make bosses weaker-it gives you better tools.
-
-**Do seeds work in ranked mode?**
-Yes. Your seed affects your opening pool but not your opponent's. Ranked matchmaking is unaffected.
-
-**What happens if I don't enter a seed?**
-The game generates a random seed. Most random seeds are B-tier or lower, which is why specific seeds are valuable.
-
-**Can I share seeds?**
-Yes! Seeds are deterministic, so any seed that works for you will work identically for others.
-
-## Changelog
-
-- **v1.1** (v1.1.0-05-19): Expanded from 5 seeds to 15, added category rankings, expanded FAQ
-- **v1.0** (v1.1.0-05-11): Initial release with 5 community-verified seeds
-
-{{< callout type="tip" >}}<strong>Sources & Updates</strong>
-
-  I've tested these seeds across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}
-
-<div class='ad-slot ad-slot--after-content'>
-  <div class='ad-label'>Advertisement</div>
-  <div class='ad-placeholder'>Google AdSense</div>
-</div>
-
-
+- [Beginner Guide](/beginner/) - First-run basics and a first-clear plan
+- [Early Board Money Guide](/early-board-economy/) - How to build money on the opening board
+- [Gambits Guide](/gambits/) - Full Gambit reference
+- [Boss Guide](/bosses/) - All 8 bosses and their modifiers

@@ -23,14 +23,14 @@ categories: ["Economy"]
 
 | Piece/Gambit | Stock Generated | Turn |
 |--------------|-----------------|------|
-| Pawn Parade (Gambit) | +1 per Pawn move | Always |
-| Smart Investment (Gambit) | +2 per piece bought | 1-3 |
-| 3 Pawns moving | +3 total | Every turn |
-| Compound Interest (Gambit) | +5% of held stock | End of turn |
+| Squirrel's Gambit | +$1 per Pawn gained | Always |
+| Berserker's Gambit | +$1 on your first capture | Turn 1 |
+| Bug Catcher's Gambit | +$2 per Pawn capture | Always |
+| Race Flag's Gambit | +$3 per promotion | On promote |
 
 </div>
 
-**Turn 5 target: 80+ stock from Pawns alone.** Combined with the right Gambit picks, the [Full Gambits List](/gambits/) ranks Pawn Parade alongside the best economy options so you know which to prioritize.
+**Turn 5 target: a working Pawn income engine.** Combined with the right Gambit picks, the [Full Gambits List](/gambits/) ranks Squirrel's and Bug Catcher's among the best economy options so you know which to prioritize.
 
 ---
 
@@ -38,18 +38,18 @@ categories: ["Economy"]
 
 ### The Core Idea
 
-Pawns can generate stock every turn if you have the right Gambit. The loop works like this:
+Pawns pay for themselves when you build around the moment they enter and leave the board. The loop works like this:
 
-1. Deploy Pawns with protection (Rook or Bishop)
-2. Move Pawns to safe squares (generate stock)
-3. Pawns return to original squares (continue loop)
-4. Repeat every turn = infinite stock generation
+1. Buy cheap Pawns and keep a steady stream of them entering the board
+2. Use Squirrel's Gambit so every Pawn you gain pays you $1
+3. Use Bug Catcher's Gambit so every capture a Pawn makes pays you $2
+4. Capture with Pawns, then promote the survivors for Race Flag's $3
 
-### Required Gambit: Pawn Parade
+### Core Gambit: Squirrel's Gambit
 
-**Pawn Parade:** +1 stock per Pawn move
+**Squirrel's Gambit (Common, $6):** Every Pawn you gain pays you $1
 
-This is the core Gambit. Without it, Pawns don't generate stock.
+This is the engine. Pawns are the cheapest pieces in the shop, and every one you buy or earn turns into money.
 
 ---
 
@@ -75,26 +75,25 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 ### Step 2: Loop Pawns (Turn 4-7)
 
 **Each turn:**
-1. Move Pawn A to safe square (+1 stock)
-2. Move Pawn B to safe square (+1 stock)
-3. Move Pawn C to safe square (+1 stock)
-4. Total: +3 stock per turn from Pawn Parade
+1. Keep at least three Pawns active so captures are always available
+2. Capture with a Pawn where safe (+$2 from Bug Catcher's)
+3. Redeploy or rebuy a Pawn so Squirrel's keeps paying (+$1)
+4. Promote a spare Pawn when the board allows (+$3 from Race Flag's)
 
-### Step 3: Scale with Compound Interest (Turn 4+)
+### Step 3: Scale with Beth's and Berserker's (Turn 4+)
 
-**Add Compound Interest Gambit:** +5% of held stock per turn
+**Add Beth's Gambit (Rare, $7):** capturing the last enemy with your Queen pays extra money.
+**Add Berserker's Gambit (Common, $6):** your first capture of the game pays $1.
 
-**Stock growth with both Gambits:**
+**Income sources working together:**
 <div class="synergy-table" style="overflow-x:auto">
 
-| Turn | Stock | Interest | Total |
-|------|-------|----------|-------|
-| 4 | 15 | +0 | 15 |
-| 5 | 25 | +1 | 26 |
-| 6 | 38 | +1 | 39 |
-| 7 | 54 | +2 | 56 |
-| 8 | 72 | +3 | 75 |
-| 9 | 90 | +4 | 94 |
+| Source | Pays | Trigger |
+|--------|------|---------|
+| Squirrel's Gambit | $1 | Every Pawn you gain |
+| Bug Catcher's Gambit | $2 | Every Pawn capture |
+| Race Flag's Gambit | $3 | Every promotion |
+| Beth's Gambit | Bonus | Last enemy captured by your Queen |
 
 </div>
 
@@ -108,9 +107,9 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 
 | Option | Cost | When to Buy |
 |--------|------|-------------|
-| Queen | 60 | Turn 8+ when you have 100+ stock |
-| 2 Rooks | 80 | Turn 9+ for endgame control |
-| Gambit Recycler | 40 | Turn 7+ to reuse economy Gambits |
+| Queen | High | Once your Pawn income is steady |
+| 2 Rooks | High | Mid-game, for lane control |
+| Max Piece on Board upgrade | Rising | When games end with Stock still full |
 
 </div>
 
@@ -123,9 +122,9 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 
 | Priority | Gambit | Why |
 |----------|--------|-----|
-| 1 | Pawn Parade | Core - generates stock |
-| 2 | Compound Interest | Multiplies stock |
-| 3 | King's Shield OR Smart Investment | Survival or economy |
+| 1 | Squirrel's Gambit | Core - every Pawn gained pays out |
+| 2 | Bug Catcher's Gambit | $2 on every Pawn capture |
+| 3 | Race Flag's Gambit OR War Horse's Gambit | Pay on promotion, or protect the promoted piece |
 
 </div>
 
@@ -138,10 +137,10 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 | 1 | 2 Pawns |
 | 2 | 2 more Pawns |
 | 3 | 1 Rook (protects Pawns) |
-| 4-7 | Loop Pawns, generate stock |
+| 4-7 | Capture with Pawns, keep Pawns entering the board |
 | 8+ | Buy Queen/Rooks |
 
 </div>
 
-**Reliability:** High
+**Reliability:** High when Pawns keep entering the board when Pawns keep entering the board
 

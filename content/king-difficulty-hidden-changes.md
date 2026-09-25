@@ -32,23 +32,23 @@ The most insidious change in King difficulty is invisible at first. The shop int
 
 | Metric | Queen Difficulty | King Difficulty |
 |--------|----------------|-----------------|
-| Basic Gambit cost | 3-5 stock | 4-7 stock (up to 40% higher) |
-| Rare Gambit cost | 6-8 stock | 9-12 stock |
-| Gambit reset cost | 3 stock | 6 stock (exactly double) |
-| Shop refresh cost | 1 stock | 2 stock |
-| Economy gambit ROI break-even | Turn 3-4 | Turn 6-8 |
+| Basic Gambit cost | Standard | Noticeably higher |
+| Rare Gambit cost | Standard | Higher |
+| Gambit reset cost | Standard | Doubled |
+| Shop refresh cost | $2 reroll | Still $2, but your stock is tighter |
+| Economy gambit ROI break-even | Fast | Much slower |
 
 </div>
 
 **The symptom:** "I am doing everything right. My economy gambits are active. I am hitting my income thresholds. But I am always 5-10 stock short of what I need."
 
-**Why it happens:** On Queen, a 3-stock investment returns to break-even in 3 turns. On King, that same gambit costs 4 stock, which means 4 turns to break even. That one-turn delay cascades through your entire run. By Stage 3, the gap has compounded into a 15-stock deficit. You are not playing worse. The system is charging you more for the same items.
+**Why it happens:**  On Queen, an economy buy returns to break-even quickly. On King the same item costs more, so break-even slips one or two turns later. That delay compounds through the run. You are not playing worse. The system is charging you more for the same items.
 
 **3-step adaptation:**
 
 1. **Delay gambit purchases by 1-2 turns.** On Queen, you buy economic gambits on sight. On King, save an extra 2-3 stock before your first shop visit so you can afford the markup without tanking your reserve.
 2. **Avoid unnecessary gambit resets.** Resetting a gambit costs 6 stock on King versus 3 on Queen. That is a huge efficiency loss. Commit to gambits and only reset in emergencies.
-3. **Prioritize permanent income sources.** Gold tiles and spectral piece conversion become dramatically more valuable on King because they bypass the inflated shop pricing entirely. Invest in board-based economy over shop-based economy.
+3. **Prioritize board-based income.** Gold tiles and pawn-based payouts keep money flowing without depending on the shop, which matters more at higher tiers where every purchase is tighter. Invest in board-based economy over shop-based economy.
 
 For the full economic breakdown, see the [Economy Guide](/economy/).
 
@@ -64,17 +64,17 @@ You know the boss phase timings from Queen. You know exactly when each phase tra
 
 | Metric | Queen Difficulty | King Difficulty |
 |--------|----------------|-----------------|
-| Stage 1 boss HP | 100% (baseline) | 160-180% |
-| Stage 2 boss HP | 100% (baseline) | 170-190% |
-| Phase transition threshold | 50% HP remaining | 65-70% HP remaining |
-| Burn phase window (before transition) | 4-5 turns | 2-3 turns |
-| Heal phase per-boss-slot | 1 heal | 2 heals |
+| Stage 1 boss toughness | Baseline | Much higher |
+| Stage 2 boss toughness | Baseline | Higher still |
+| Phase transition timing | Later | Earlier, leaving less burn window |
+| Burn phase window (before transition) | Comfortable | Tight |
+| Heal phase per-boss-slot | One recovery | Twice per slot |
 
 </div>
 
 **The symptom:** "I opened with my strongest combo. I hit the boss for what should have been lethal damage. The boss transitioned anyway and healed back to near full. I had nothing left for phase 2."
 
-**Why it happens:** Two scaling changes compound here. First, boss HP is 60-80% higher on King. Second, the phase transition threshold moves from 50% HP to 65-70% HP. That means bosses transition earlier, leaving you less time to execute your burst. Your Queen-calibrated damage output that would oneshot a phase now barely scratches the King boss before it shifts.
+**Why it happens:** Two scaling changes compound here. First, bosses are simply tougher on King. Second, they shift phase earlier, leaving you less time to execute your burst. The damage output that used to close a phase now barely scratches the King boss before it moves on.
 
 **3-step adaptation:**
 
@@ -111,7 +111,7 @@ The crumble mechanic already punishes slow play on Queen. On King, it punishes h
 **3-step adaptation:**
 
 1. **Front-load your economy.** On Queen, you can afford to build gradually over 12 turns. On King, you need your primary income engine running by Turn 6-7. If you do not have 8+ SPT by Turn 8, your run is already behind the crumble curve.
-2. **Keep your pieces mobile.** Pieces stuck in the collapse zone on King are lost for good because the crumble moves too fast for repositioning. Prioritize Teleport and mobility gambits higher than you would on Queen.
+2. **Keep your pieces mobile.** Pieces stuck in the collapse zone on King are lost for good because the crumble moves too fast for repositioning. Prioritize Jump's Gambit and other mobility tools higher than you would on Queen.
 3. **Plan for a 20-turn run, not a 30-turn run.** Every decision should be measured against a compressed timeline. Skip long-ROI gambits that pay back in 8+ turns. They will not reach maturity before the crumble takes your board.
 
 For more on crumble mechanics, see the [Crumble Mode Guide](/crumble-mode-guide/).
@@ -127,7 +127,7 @@ This is the change nobody talks about. On Queen, the AI attacks somewhat randoml
 | Metric | Queen Difficulty | King Difficulty |
 |--------|----------------|-----------------|
 | AI target selection | Weighted random | Priority-based |
-| Gambit piece targeting | 15-20% of attacks | 60-70% of attacks |
+| Gambit piece targeting | Occasional | The AI's main focus |
 | Target priority 1 | Highest-value piece | Gambit activation piece |
 | Target priority 2 | Nearest piece | Economy gambit carrier |
 | Target priority 3 | Random defender | Highest-threat attacker |

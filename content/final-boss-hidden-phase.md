@@ -80,4 +80,4 @@ A Phantom piece that eats a boss capture costs you nothing and gives the boss no
 - Full boss roster and modifiers: [Boss Battle Guide](/bosses/)
 - Boss preparation checklist: [Boss Strategy Guide](/boss-strategy-guide/)
 - Recovering after a boss: [Post-Boss Economy Restart](/post-boss-economy-restart/)
-- Defensive tiles and how they work: [Spectral Piece and Gold Tile Guide](/spectral-piece-gold-tile-guide/)
+- Defensive tiles and how they work: [Tile Control Guide](/tile-control-guide/)

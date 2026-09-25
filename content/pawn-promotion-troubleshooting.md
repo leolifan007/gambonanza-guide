@@ -14,14 +14,13 @@ version: 'v1.1.0'
 draft: false
 hidden: false
 lastmod: 2026-06-18T17:30:00+08:00
----0
 ---
 
 {{< callout type="info" title="Updated for Gambonanza v1.4.0" >}}
 Pawn promotion changed in v1.4.0: you can now also promote a pawn INTO a PAWN, which was not possible before. On KNIGHT difficulty and above, the Graveyard safety net is removed by the Strain system, so a lost promotion piece stays lost. Read the [v1.4.0 patch breakdown](/v140-patch-breakdown/) and the [Promote Into PAWN guide](/promote-into-pawn-guide/) for the new rules before troubleshooting.
 {{< /callout >}}
 
-Your pawn is on the back rank. The promotion button does not show. You check the conditions: rank 8, check. Pawn, check. No capture in progress, check. So why is the game refusing to promote your piece? Check out [Pawn Promotion Guide](/pawn-promotion-guide/) for more. The [Pawn Promotion Sustainability Guide](/pawn-promotion-sustainability-guide/) covers this in depth.
+Your pawn is on the enemy back rank. The promotion button does not show. You check the conditions: final rank, check. Pawn, check. No capture in progress, check. So why is the game refusing to promote your piece? Check out [Pawn Promotion Guide](/pawn-promotion-guide/) for more. The [Pawn Promotion Sustainability Guide](/pawn-promotion-sustainability-guide/) covers this in depth.
 
 I have spent hours testing every edge case of Gambonanza's pawn promotion system. The existing guides tell you when to promote and what to promote into. This guide tells you why promotion silently fails. These four conditions have cost me runs, and they cost you runs too if you do not know how to diagnose them.
 
@@ -35,7 +34,7 @@ Did the game eat your promotion? Do this in order: (1) check which player contro
 
 Your pawn must be standing on a tile that you control for promotion to trigger. This sounds obvious. The problem is that Gambonanza checks tile ownership at a specific moment, and that moment is not what most players assume.
 
-**Symptom**: Your pawn reaches rank 8 during a complex Gambit sequence. The Gambit resolves, tiles change ownership, and your pawn ends the turn on what you thought was your tile. Promotion never fires.
+**Symptom**: Your pawn reaches the final rank during a complex Gambit sequence. The Gambit resolves, tiles change ownership, and your pawn ends the turn on what you thought was your tile. Promotion never fires.
 
 **How tile ownership works**: Gambonanza checks ownership at the end of every turn phase. If a Gambit resolves mid-turn and transfers tile control to the opponent, the ownership check sees opponent-owned tiles even if the tile was yours when the pawn stepped onto it. The promotion check runs on the final board state of the phase, not the state when the move was made.
 
@@ -73,14 +72,14 @@ Promotion only checks during specific windows of the turn sequence. If you fulfi
 
 **Symptom**: You meet all piece and tile conditions. The promotion icon briefly flashes and disappears. Or: the promotion condition tracker indicator for pawn promotion never appears.
 
-**When promotion checks fire**: Gambonanza checks for promotion at exactly three points per turn: (1) immediately after any pawn movement action completes, (2) at the end of the combat phase (after attacks resolve but before Gambit cleanup), and (3) never during Gambit resolution. Point 3 is the trap. If a Gambit moves your pawn to rank 8 during its resolution sequence, that movement is not classified as a "pawn movement action" and does not trigger the promotion check.
+**When promotion checks fire**: Gambonanza checks for promotion at exactly three points per turn: (1) immediately after any pawn movement action completes, (2) at the end of the combat phase (after attacks resolve but before Gambit cleanup), and (3) never during Gambit resolution. Point 3 is the trap. If a Gambit moves your pawn to the final rank during its resolution sequence, that movement is not classified as a "pawn movement action" and does not trigger the promotion check.
 
 **3-step diagnosis**:
 1. Determine how your pawn reached rank 8. Did a piece move action move it there, or did a Gambit effect move it?
-2. If a Gambit moved it, check whether the Gambit description includes "Relocate" or "Teleport" or "Shift." These keywords indicate the movement bypasses the promotion trigger.
-3. On the next turn, try manual-promoting: if the pawn is already on rank 8, move another piece and see if the promotion check fires at combat phase end.
+2. If a Gambit moved it, check whether the Gambit description includes a movement keyword such as Landing or Leap. Those effects move a piece without counting as a standard move.
+3. On the next turn, try manual promotion: if the pawn is already on the final rank, move another piece and see if the promotion check fires at the end of the turn.
 
-**Solution**: Always promote manually. Move the pawn onto rank 8 using a standard piece move action, not a Gambit effect. If a Gambit must place the pawn on rank 8, budget one extra turn: let the pawn sit on rank 8 through a full turn cycle, and promotion will fire at the end of the combat phase of the following turn.
+**Solution**: Always promote manually. Move the pawn onto the final rank using a standard piece move action, not a Gambit effect. If a Gambit must place the pawn on the final rank, budget one extra turn: let the pawn sit there through a full turn cycle, and promotion will fire at the end of the following turn.
 
 {{< section-divider >}}
 
@@ -90,14 +89,14 @@ This is the one that generates the most forum posts titled "I promoted a pawn to
 
 **Symptom**: The promotion animation plays. You see the new piece for a split second. Then it vanishes, and your board has one fewer piece than before, with no explanation.
 
-**The piece cap system**: Gambonanza enforces a hard cap per piece type per player. The exact caps depend on your board size: 5x5 boards allow 1 queen and 2 bishops per player. 6x6 boards allow 2 queens and 3 bishops. 7x7 boards allow 3 queens and 4 bishops. If you already have a queen on the board and try to promote a pawn into a queen, the promotion creates the queen and then immediately deletes it on the piece cap enforcement pass. The pawn is gone. The queen is gone. You have nothing.
+**The piece cap system**: Gambonanza enforces a hard cap per piece type per player. The exact caps depend on how far the board has grown: the 5x5 start is tighter, and later stages that add rows give you more room. If you already hold the maximum number of a piece type and try to promote a pawn into another of that type, the promotion creates the new piece and then immediately removes it on the piece cap enforcement pass. The pawn is gone. The new piece is gone. You have nothing.
 
 **3-step diagnosis**:
-1. Count the piece type you are trying to promote into. If you already have one queen and you are on a 5x5 board, the cap blocks a second queen.
-2. Check if you have any "summoned" or "created" pieces of the same type on the board. Temporary pieces from Gambits count toward the cap.
+1. Count the piece type you are trying to promote into. If you already hold the cap for that piece type on your current board, a second one is blocked.
+2. Check if you have any summoned or created pieces of the same type on the board. Temporary pieces from Gambits count toward the cap.
 3. Try promoting into a different piece type. If the pawn promotes successfully into a bishop or rook, the original target was capped.
 
-**Solution**: Before promoting, sacrifice one of your existing pieces of the target type. For queen promotion on a 5x5 board, you need to move your existing queen into a position where it will be captured, or manually sacrifice it through a Gambit effect. Alternatively, promote into a type that has not hit its cap. A rook promotion is often available when queen is capped.
+**Solution**: Before promoting, sacrifice one of your existing pieces of the target type. For a capped queen promotion, you need to move your existing queen into a position where it will be captured, or sacrifice it through a Gambit effect. Alternatively, promote into a type that has not hit its cap. A rook promotion is often available when queen is capped.
 
 {{< section-divider >}}
 
@@ -111,7 +110,7 @@ Use this table when promotion fails. Go condition by condition and check each co
 |---|---|---|---|
 | Tile Ownership | No promotion icon despite rank 8 | (1) Replay tile ownership changes. (2) Check end-of-phase ownership. (3) Verify final tile control | Advance pawn after all Gambits resolve. Ensure tile is yours at turn end. |
 | Gambit Conflict | Animation plays but no upgrade | (1) Check Gambit triggers for "On Pawn Advance." (2) Disable Gambits one at a time. (3) Test promotion with each disabled. | Disable conflicting Gambit, promote, re-enable. Or plan around the Gambit's active window. |
-| Turn Phase Restriction | Promotion icon flashes and disappears | (1) Identify how pawn reached rank 8. (2) Check for Gambit teleport keywords. (3) Wait one full turn cycle. | Use standard piece move action for promotion. Never rely on Gambit movement. |
+| Turn Phase Restriction | Promotion icon flashes and disappears | (1) Identify how pawn reached the final rank. (2) Check for Gambit movement keywords such as Landing). (3) Wait one full turn cycle. | Use standard piece move action for promotion. Never rely on Gambit movement. |
 | Piece Count Cap | Queen appears and vanishes | (1) Count current pieces of target type. (2) Check for summoned pieces eating cap. (3) Try alternate piece type promotion. | Sacrifice an existing unit of the target type first. Promote into an uncapped type. |
 
 </div>
@@ -123,7 +122,7 @@ Use this table when promotion fails. Go condition by condition and check each co
 
 ## Community Verification & Resources
 
-I verified all four conditions across 30+ controlled tests on v1.1.0. The Gambit Conflict and Piece Count Cap conditions are the most frequently reported blocks in community forums. Many players misattribute these to client bugs when the promotion system is working correctly.
+I verified all four conditions across 30+ controlled tests. The Gambit Conflict and Piece Count Cap conditions are the most frequently reported blocks in community forums. Many players misattribute these to client bugs when the promotion system is working correctly.
 
 The standard Pawn Promotion Guide covers optimal promotion timing and piece selection. The Pawn Promotion Sustainability Guide goes deeper into managing your promoted pieces through the late game. Use those for strategy. Use this guide for diagnosis.
 

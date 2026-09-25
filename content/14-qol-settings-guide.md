@@ -6,9 +6,9 @@ tags:
 title: "Gambonanza 1.4 Quality-of-Life Settings: Skip Animations, Algebraic Notation & Unlock All"
 description: "A practical guide to every v1.4.0 quality-of-life setting in Gambonanza. Flip these first: Skip Animations, algebraic notation toggle, Unlock All, and more. Updated for patch v1.4.0."
 game_version: ">=v1.4.0"
-last_reviewed: "2026-08-18"
+last_reviewed: "2026-09-25"
 review_status: "current"
-date: "2026-08-18"
+date: "2026-09-25"
 hidden: false
 ---
 
@@ -63,7 +63,7 @@ Using Unlock All does not break your existing saves or erase progression. It sim
 
 ## Erase Save Data: Use With Extreme Care
 
-This one is self-explanatory but it warrants a direct warning. **Erase Save Data wipes every run, achievement, unlock, and setting change you have ever made.** The confirmation prompt is minimal. There is no undo. Do not touch this unless you are 100% certain you want a completely clean slate.
+This one is self-explanatory but it warrants a direct warning. **Erase Save Data wipes every run, achievement, unlock, and setting change you have ever made.** The confirmation prompt is minimal. There is no undo. Do not touch this unless you are absolutely certain you want a completely clean slate.
 
 The intended use case is players who want to replay the discovery experience from scratch or hand the game to someone else on the same machine. That is it.
 

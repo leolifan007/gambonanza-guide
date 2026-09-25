@@ -43,7 +43,7 @@ v1.2.0 buffed &amp;ldquo;several KNIGHT + PAWN synergies.&amp;rdquo; Combined wi
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;The 3 Knight techniques that changed my game:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Best Knight Strategy - Win More Games with the Knight Rush Build</title><link>https://gambonanzaguide.com/knight-rush-opener/</link><pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/knight-rush-opener/</guid><description>&lt;h1 id="best-knight-strategy---win-more-games-with-the-knight-rush-build"&gt;Best Knight Strategy - Win More Games with the Knight Rush Build&lt;/h1&gt;
 &lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The Knight Rush build wins 62% of games on small boards (4x4, 5x5). Here&amp;rsquo;s exactly how to use it:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Knight Rush build is one of the most consistent openers on the 5x5 starting board. Here is exactly how to use it:&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="synergy-table" style="overflow-x:auto"&gt;
 &lt;table&gt;
  &lt;thead&gt;
@@ -55,22 +55,22 @@ v1.2.0 buffed &amp;ldquo;several KNIGHT + PAWN synergies.&amp;rdquo; Combined wi
  &lt;/thead&gt;
  &lt;tbody&gt;
  &lt;tr&gt;
- &lt;td&gt;4x4&lt;/td&gt;
+ &lt;td&gt;5x5 (start)&lt;/td&gt;
  &lt;td&gt;Strong&lt;/td&gt;
  &lt;td&gt;-&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
- &lt;td&gt;5x5&lt;/td&gt;
+ &lt;td&gt;6x5&lt;/td&gt;
  &lt;td&gt;Viable&lt;/td&gt;
  &lt;td&gt;Bishop Control&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
- &lt;td&gt;6x6&lt;/td&gt;
+ &lt;td&gt;7x5&lt;/td&gt;
  &lt;td&gt;Too slow&lt;/td&gt;
  &lt;td&gt;Pawn Economy&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
- &lt;td&gt;7x7+&lt;/td&gt;
+ &lt;td&gt;8x5+&lt;/td&gt;
  &lt;td&gt;Don&amp;rsquo;t&lt;/td&gt;
  &lt;td&gt;Farm Loop&lt;/td&gt;
  &lt;/tr&gt;
@@ -86,4 +86,4 @@ v1.2.0 buffed &amp;ldquo;several KNIGHT + PAWN synergies.&amp;rdquo; Combined wi
 &lt;hr&gt;
 &lt;h2 id="how-to-win-with-knight-rush-step-by-step"&gt;How to Win with Knight Rush (Step by Step)&lt;/h2&gt;
 &lt;h3 id="step-1-check-board-size"&gt;Step 1: Check Board Size&lt;/h3&gt;
-&lt;p&gt;Knight Rush only works on 4x4 and 5x5 boards. If you see 6x6 or larger, skip this build and use Pawn Economy instead.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Knight Rush only works on the 5x5 starting board. Once boss stages grow the board to 6x5 or larger, skip this build and use Pawn Economy instead.&lt;/p&gt;</description></item></channel></rss>

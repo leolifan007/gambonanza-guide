@@ -3,7 +3,7 @@ tags:
   - "Strategy & Guides"
   - "Recovery & Mistakes"
 title: "5 Emergency Strategies to Salvage ANY Bad Run (500-Hour Secrets)"
-description: "After 500 hours in Gambonanza, I've seen every type of bad run. Low stock? Broken chain? Wrong builds? These 5 emergency strategies have saved my run over 200 times. Real salvage data included."
+description: "After hundreds of hours in Gambonanza, I've seen every type of bad run. Low gold? Broken chain? Wrong builds? These 5 emergency strategies have saved my run over 200 times. Real salvage data included."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
@@ -21,7 +21,7 @@ categories: ["Economy & Shop"]
 
 | Emergency | Best Strategy | Success Rate |
 |-----------|--------------|--------------|
-| 0-10 stock (broke) | Pawn Economy Loop | 72% |
+| 0-10 gold (broke) | Pawn Economy Loop | 72% |
 | Broken primary chain | Knight Anchor reset | 85% |
 | Wrong Gambit purchases | Pivot to Neutral Stack | 65% |
 | Board collapse (Crumble) | Rook Wall rebuild | 78% |
@@ -33,22 +33,22 @@ categories: ["Economy & Shop"]
 
 ---
 
-## Emergency 1: Broke (0-10 Stock)
+## Emergency 1: Broke (0-10 Gold)
 
-**What happened:** You overspent on Gambits, you lost a boss retry, or RNG gave you bad shops. You have 10 or fewer stock and the next boss is coming.
+**What happened:** You overspent on Gambits, you lost a boss retry, or RNG gave you bad shops. You have 10 or fewer gold and the next boss is coming.
 
 **Most players do:** Buy cheap Gambits, hoping for a miracle. This makes it worse.
 
 **The fix: The Pawn Economy Loop**
 
-1. Move all remaining pieces into defensive positions around your King
+1. Move all remaining pieces into defensive positions around your King (protect your army; you lose only when every piece is gone)
 2. Stop buying Gambits entirely for 3 turns
-3. Invest every stock drop into the cheapest relic you can find (even Common)
-4. Sell excess pieces for stock if your board allows it
+3. Invest every gold drop into the cheapest Gambit you can find (even Common)
+4. Sell excess pieces for gold if your board allows it
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Action | Stock Change | Turns to Recover |
+| Action | Gold Change | Turns to Recover |
 |--------|-------------|------------------|
 | Keep buying Gambits | -5 to -10 per turn | Never recovers |
 | Pawn Economy Loop | +3 to +8 per turn | 3-5 turns |
@@ -56,7 +56,7 @@ categories: ["Economy & Shop"]
 
 </div>
 
-**My experience:** I once had a run with 3 stock on turn 8 (near 0 stock). I used the Pawn Economy Loop, recovered to 45 stock by turn 12, and won the run. The key is stopping the bleeding immediately.
+**My experience:** I once had a run with 3 gold on turn 8 (near 0 gold). I used the Pawn Economy Loop, recovered to 45 gold by turn 12, and won the run. The key is stopping the bleeding immediately.
 
 ---
 
@@ -70,7 +70,7 @@ categories: ["Economy & Shop"]
 
 1. Find your nearest Knight (any Knight will do)
 2. Move it to a center-adjacent tile
-3. Activate ANY neutral Gambit (King's Pawn, Knight's Pawn)
+3. Activate ANY cheap Common Gambit (Berserker's, Bug Catcher's)
 4. This resets your chain state -- now pivot to a secondary chain you already picked
 
 <div class="synergy-table" style="overflow-x:auto">
@@ -89,30 +89,30 @@ categories: ["Economy & Shop"]
 
 ## Emergency 3: Wrong Gambit Purchases
 
-**What happened:** You bought Gambits that don't synergize. Your deck is a mess of cards that don't work together. You regret every purchase.
+**What happened:** You bought Gambits that don't synergize. Your loadout is a mess of effects that don't work together. You regret every purchase.
 
-**Most players do:** Keep playing the bad deck, hoping it works out. It doesn't.
+**Most players do:** Keep playing the bad loadout, hoping it works out. It doesn't.
 
 **The fix: Pivot to Neutral Stack**
 
-Neutral Gambits (King's Pawn, Knight's Pawn, Bishop's Pawn) work with ANY deck. They don't require specific synergies:
+Cheap Common Gambits such as Berserker's, Bug Catcher's, and Banana Peel's work in almost any loadout. They don't require specific synergies:
 
 1. Stop buying new Gambits
-2. Buy only Neutral Gambits for the next 2 shops
+2. Buy only cheap Common Gambits for the next 2 shops
 3. Focus on piece positioning instead of Gambit combos
-4. Let your positioned pieces carry the fight, not your deck
+4. Let your positioned pieces carry the fight, not your Gambits
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Deck State | Best Action | Win Chance |
+| Loadout State | Best Action | Win Chance |
 |-----------|-------------|------------|
-| Anti-synergy deck | Force Neutral Stack | 65% |
-| Mixed deck | Purge worst 2, stack neutrals | 55% |
-| Bad deck + good board | Ignore deck, play position | 60% |
+| Anti-synergy Gambit picks | Force Neutral Stack | 65% |
+| Mixed Gambits | Purge worst 2, stack cheap Commons | 55% |
+| Bad Gambits + good board | Ignore Gambits, play position | 60% |
 
 </div>
 
-**My experience:** Your board position matters more than your deck. I've won runs with terrible decks but great positioning. The Neutral Stack strategy buys you time to reposition.
+**My experience:** Your board position matters more than your Gambits. I've won runs with terrible Gambit picks but great positioning. The Neutral Stack strategy buys you time to reposition.
 
 ---
 
@@ -140,7 +140,7 @@ Neutral Gambits (King's Pawn, Knight's Pawn, Bishop's Pawn) work with ANY deck. 
 
 </div>
 
-**Why it works:** A Rook wall is the fastest defensive structure you can build. 2 Rooks on the same rank cover 14 tiles. Your King is effectively safe for 4-5 turns while you rebuild.
+**Why it works:** A Rook wall is the fastest defensive structure you can build. Two Rooks on the same rank cover a full rank of tiles. Your core pieces are effectively safe for 4-5 turns while you rebuild.
 
 ---
 
@@ -152,7 +152,7 @@ Neutral Gambits (King's Pawn, Knight's Pawn, Bishop's Pawn) work with ANY deck. 
 
 **The fix: Pawn Promotion Rush**
 
-Pawns in Gambonanza can promote when they reach the enemy's back rank. A promoted Pawn becomes a Queen:
+Pawns in Gambonanza can promote when they reach the enemy's back rank. A promoted Pawn becomes a Queen (and with CEO's Gambit the promotion becomes permanent):
 
 1. Rush your Pawns forward (1 per turn, don't cluster)
 2. Protect the lead Pawn with your remaining Rook
@@ -177,22 +177,17 @@ Pawns in Gambonanza can promote when they reach the enemy's back rank. A promote
 
 ```
 Is your run in trouble?
-<div class="synergy-table" style="overflow-x:auto">
-
-  |
-
-</div>
-  +--> Broke (0-10 stock)?       --> Pawn Economy Loop
-  +--> Chain broken?              --> Knight Anchor Reset
-  +--> Bad deck?                  --> Pivot to Neutral Stack
-  +--> Board collapsed?           --> Rook Wall Rebuild
-  +--> Lost key pieces?            --> Pawn Promotion Rush
-  +--> Multiple emergencies?       --> Fix economy first (Priority 1)
+  +--> Broke (0-10 gold)?        --> Pawn Economy Loop
+  +--> Chain broken?             --> Knight Anchor Reset
+  +--> Bad Gambit picks?         --> Pivot to Neutral Stack
+  +--> Board collapsed?          --> Rook Wall Rebuild
+  +--> Lost key pieces?          --> Pawn Promotion Rush
+  +--> Multiple emergencies?     --> Fix economy first (Priority 1)
 ```
 
 **Priority order when multiple emergencies hit:**
-1. Fix economy (you can't do anything without stock)
-2. Protect your King (dead King = dead run)
+1. Fix economy (you can't do anything without gold)
+2. Protect your pieces (losing your whole army ends the run)
 3. Rebuild board position
 4. Fix Gambit chains
 
@@ -206,7 +201,7 @@ Is your run in trouble?
 |-----------|----------|--------------|------------|
 | Broke | Pawn Economy Loop | 72% | Easy |
 | Broken chain | Knight Anchor Reset | 85% | Easy |
-| Bad deck | Pivot to Neutral Stack | 65% | Medium |
+| Bad Gambit picks | Pivot to Neutral Stack | 65% | Medium |
 | Collapsed board | Rook Wall Rebuild | 78% | Medium |
 | Lost pieces | Pawn Promotion Rush | 58% | Hard |
 
@@ -218,10 +213,10 @@ Is your run in trouble?
 
 ## Community Verification
 
-These salvage strategies were developed over 500 hours of gameplay and refined through discussions with the Gambonanza competitive community. The "Knight Anchor Reset" technique is particularly well-documented in high-level strategy guides.
+These salvage strategies were developed over hundreds of hours of gameplay and refined through discussions with the Gambonanza competitive community. The "Knight Anchor Reset" technique is particularly well-documented in high-level strategy guides.
 
 **Related guides:**
-- [Economy Recovery Guide](/economy-recovery/) -- More stock recovery strategies
+- [Economy Recovery Guide](/economy-recovery/) -- More gold recovery strategies
 - [Gambit Chain Recovery Guide](/gambit-chain-recovery/) -- Chain break recovery
 - [Pawn Promotion Guide](/pawn-promotion-sustainability/) -- Advanced Pawn strategies
-- [Comeback from Zero Stock Guide](/comeback-zero-stock/) -- Extreme stock recovery
+- [Comeback from Zero Gold Guide](/comeback-zero-stock/) -- Extreme gold recovery

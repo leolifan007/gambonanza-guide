@@ -3,154 +3,108 @@ categories: ["Strategy & Guides"]
 tags:
   - "Achievements"
   - "Collection"
-title: "Gambonanza Achievements Guide v1.1.0-All 22 Steam Achievements Unlock Guide"
-description: "Complete Gambonanza achievement guide for patch v1.1.0. All 22 Steam achievements with difficulty ratings, exact unlock strategies, and Pro Tips for the hardest ones. Updated for patch v1.1.0."
-------
+title: "Gambonanza Achievements and Collection Guide - How Unlocks Work"
+description: "How progress works in Gambonanza. What the Collection tracks, how to unlock more pieces and Gambits, and the play habits that fill it fastest."
+lastmod: "2026-09-25T15:00:00+08:00"
+version: "v1.5.0"
+---
 
-## Achievement Hunter's Guide-22/22 Strategy
+## Progress in Gambonanza, Explained
+
+{{< callout type="verdict" >}}<strong>THE SHORT VERSION</strong>
+
+Gambonanza tracks your progress through a **Collection** of roughly 200 entries, plus platform achievements. You do not unlock things with special tricks, you unlock them by playing and by clearing stage bosses.{{< /callout >}}
+
+{{< section-divider >}}
+
+## What the Collection Tracks
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Tier | Count | Effort | Best Approach |
-|---|---|---|---|
-| <span class="meta-badge meta-s">S</span> Extreme | 4 | 40+ hours | Dedicated grinds with specific builds |
-| <span class="meta-badge meta-a">A</span> Very Hard | 5 | 20-30 hours | Boss prep + stock farming |
-| <span class="meta-badge meta-b">B</span> Hard | 6 | 10-15 hours | Natural progression + focus |
-| <span class="meta-badge meta-c">C</span> Medium | 5 | 5-10 hours | Natural play, minor focus |
-| Easy | 2 | First run | Impossible to miss |
+| Category | What filling it does |
+|----------|----------------------|
+| **Gambits** | Widens what appears in your shops |
+| **Pieces** | Puts more shapes on the Piece Wheel at run start |
+| **Tiles** | Adds more tile modifiers you can buy |
+| **Enemy Modifiers** | More variety in what you face |
+| **Bosses** | Progress toward the full 8-boss roster |
+| **Strains** | Additional run variants |
+
+</div>
+
+Every category feeds the same loop: a fuller Collection means richer shops and more starting options, which makes later runs easier and more varied.
+
+{{< pro-tip >}}<strong>Progress is the point</strong><br>
+  If a run is going badly, remember it still filled your Collection. A cheap short run that adds an entry is not a wasted run.{{< /pro-tip >}}
+
+{{< section-divider >}}
+
+## How to Unlock the Most, Fastest
+
+<div class="synergy-table" style="overflow-x:auto">
+
+| Habit | Why it fills the Collection faster |
+|-------|------------------------------------|
+| **Clear stage bosses** | Boss clears are the biggest single unlock gates |
+| **Play varied runs** | Different pieces and Gambits surface different entries |
+| **Buy the new thing once** | A Gambit or tile you have never taken may be the entry you are missing |
+| **Try the Strains** | Strain variants gate their own entries |
+
+</div>
+
+Reaching the **8 real bosses** and clearing a full run are the two milestones that move the needle most.
+
+---
+
+## Achievements: What to Expect
+
+Platform achievements in Gambonanza are tied to natural milestones rather than secret tricks. The patterns that show up again and again are:
+
+<div class="synergy-table" style="overflow-x:auto">
+
+| Achievement shape | How it usually unlocks |
+|-------------------|------------------------|
+| **First-step milestones** | Finish your first run, trigger your first Gambit, promote your first pawn |
+| **Boss milestones** | Defeat each of the 8 bosses, and clear a full run |
+| **Collection milestones** | Unlock a large share of the Collection |
+| **Challenge milestones** | Win without losing a piece, or win with an unusual board |
 
 </div>
 
 {{< section-divider >}}
 
-## S-Tier Achievements-The Hardest Unlocks
+## Habits That Unlock Everything Eventually
 
----
+<div class="split-col">
+<div class="col">
 
-### King Killer <span class="meta-badge meta-s">S</span>
+### Play for tempo, not for style
 
-> *Defeat Tal the Cursed without losing a single piece*
-
-**Why it's S-tier:** Tal the Cursed' entire mechanic is piece removal. Not losing ANY piece while fighting the boss designed to remove pieces is brutally hard.
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Strategy | Required Gambits | Why |
-|---|---|---|
-| Full defense build | King's Shield, King's Counter, Heal Board, Undo Move | Survive long enough to win slowly |
-| Long-range attack | Teleport, Through the Ranks, Chain Capture | Attack from outside his teleport range |
-| Bodyguard exploit | King's Counter + any knight | Park knight next to king-boss can't touch it |
+Games that end fast still fill the Collection. You do not need a flashy build to unlock entries.
 
 </div>
+<div class="col">
 
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> This achievement doesn't count pawn captures. Only major pieces matter. Sacrifice pawns freely to bait the boss's teleport Gambit onto pawns instead of knights/rooks. He'll waste 3+ teleports on pawns that "don't count"-then you clean up with your intact major pieces.{{< /pro-tip >}}
+### Read the boss preview every shop
 
----
-
-### Mighty Kasparov Slayer <span class="meta-badge meta-s">S</span>
-
-> *Defeat The Mighty Kasparov (final boss)*
-
-**Why it's S-tier:** Three phases, all piece types, requires full toolkit. See [Boss Battle Guide](/bosses/) for the complete strategy.
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Phase 2 boss rotation is FIXED: Rook-Bishop-Knight-Queen-King-Pawn-Castle. Pre-load your counter Gambits 1 turn before each rotation. You'll block 80% of Phase 2 damage automatically.{{< /pro-tip >}}
-
----
-
-### Full Arsenal <span class="meta-badge meta-s">S</span>
-
-> *Unlock all 6 promoted piece types*
-
-**Why it's S-tier:** Requires promoting pawns to every piece type on different runs. Pawn-Knight and Pawn-Queen are easy. Pawn-King is rare and situation-dependent.
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Promotion choice depends on which piece types have already been captured. If you've lost both bishops, the game will OFFER bishop promotion more often. If you need a specific promotion, deliberately sacrifice that piece type early in the match-the game will offer it as a promotion option.{{< /pro-tip >}}
-
----
-
-### Combo Chain <span class="meta-badge meta-s">S</span>
-
-> *Activate 3 Gambits in a single move*
-
-**Trick:** Through the Ranks + Gambit tiles. One rook charging through a line of 3+ Gambit tiles triggers a Gambit effect on EACH tile. Combine with Chain Capture for guaranteed 3+ activations.
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> You don't need 3 different Gambit types-you need 3 Gambit ACTIVATIONS. Through the Ranks across 3 Gambit tiles counts as 3. This is the easiest path.{{< /pro-tip >}}
-
-{{< section-divider >}}
-
-## A-Tier Achievements
-
-### Gambit God <span class="meta-badge meta-a">A</span>
-*Trigger 50 Gambits in one match.* Play on 6x6 boards, stall intentionally, move every piece every turn. Long game = more triggers.
-
-### No Loss Streak <span class="meta-badge meta-a">A</span>
-*Win 5 matches in a row.* Stick to 4x4 boards with Knight Aggro opener. Lower variance, faster wins, less chance of random boss encounters.
-
-### Double Down (Achievement) <span class="meta-badge meta-a">A</span>
-*Win a 10x stock return.* Invest 20 stock in Gambler's Gambit 5 times. One will hit. Statistically, 5 attempts at 20% each = ~67% success rate.
-
-### Millionaire <span class="meta-badge meta-a">A</span>
-*Reach 1,000 total stock earned.* Cumulative across all runs-just play the game. Economy builds and Safe Haven compounding accelerate it.
-
-### Boss Collector <span class="meta-badge meta-a">A</span>
-*Defeat all 8 bosses.* Beat them in order: Rook-Bishop-Knight-Queen-Pawn-Castle-King-Mighty Kasparov. See [Boss Guide](/bosses/).
-
-{{< section-divider >}}
-
-## B-Tier Achievements
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Achievement | Quick Strat |
-|---|---|
-| **Gambit Master** (20 Gambits in 1 run) | Visit shop every time. Buy cheapest Gambits. |
-| **Rook Victory** (Rook-only Gambits) | Build around Through the Ranks + rook Gambits |
-| **Queen Takeover** (Queen Gambit last 3 moves) | Save 3 queen Gambit cards for endgame |
-| **Epic Gambit** (Use 1 Legendary) | Save 300+ stock, buy a Legendary, use it |
-| **Bishop Victory** (Bishop diagonal Gambits) | Bishop-heavy deck on 6x6 board |
-| **King's Gambit** (King in center at win) | Win with king on d4/e4-aggressive king play |
+Prepping for the modifier in front of you is the single habit that turns losses into clears, and clears are what unlock the most.
 
 </div>
+</div>
+
+3. **Do not fear a lost run.** Every run adds data and Collection entries.
+4. **Try new pieces on purpose.** A piece you never field is an entry you never unlock.
 
 {{< section-divider >}}
 
-## C-Tier Achievements
+## A Realistic Path
 
-These unlock naturally through gameplay. No special strategy needed:
-
-- **Stock Market Pro**-earned in ~5-8 runs with economy build
-- **First Boss Kill**-beat Botezarro with standard opener
-- **Queen Takeover**-slightly harder, focus queen endgame
-
-{{< section-divider >}}
-
-## Easy Achievements (Impossible to Miss)
-
-- **First Gambit**-Make any first move
-- **Rule Breaker**-Your first Gambit activation (every move is one)
-- **Survival**-Complete your first run (win or lose)
-- **First Promotion**-Promote any pawn (will happen naturally by run 3-4)
-
-{{< section-divider >}}
-
-## Optimal Achievement Path (22/22 in ~50 hours)
-
-1. **Runs 1-20:** Natural play-earn all Easy + C-tier + most B-tier
-2. **Runs 21-30:** Focus on specific B-tier achievements (Rook Victory, Bishop Victory)
-3. **Runs 31-40:** Economy achievements (Double Down, Millionaire)
-4. **Runs 41-50:** Boss achievements (Boss Collector-King Killer-Mighty Kasparov Slayer)
-5. **Post-game:** Full Arsenal grind, clean up any remaining
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Several achievements (King Killer, Mighty Kasparov Slayer) share the same prerequisite Gambits. Farm the pre-boss economy together-get Jackpot Gambit + relevant boss counters in the same shop run. One good economy setup can unlock 2-3 achievements in a single session.{{< /pro-tip >}}
+1. **First runs:** learn the board, the Gambit triggers, and the boss preview. Unlock the obvious first-step milestones.
+2. **Mid runs:** start clearing stage bosses consistently. Each boss clear opens the next stage and new entries.
+3. **Deep runs:** push to the 8th boss and a full clear. This is where the big Collection gates and challenge milestones fall.
+4. **Long tail:** chase the remaining Collection entries and challenge runs.
 
 ---
 
-*Got your achievements? Now optimize your build-[Strategy Guide](/strategy/)*<br>
-*Which Gambits are worth the achievement grind?-[All Gambits Guide](/gambits/)*
-
-
----
-
-*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
-
-
-
+*Aiming for clears? -*[Boss Battle Guide](/bosses/)*<br>
+*Tuning your board? -*[Gambit Chaining Guide](/combo-chain-guide/)*

@@ -18,13 +18,13 @@ Pair her with 1 Gambit. Win.{{< /callout >}}
 
 {{< section-divider >}}
 
-## When to Deploy-3-Board Cheat Sheet
+## When to Deploy - 3-Board Cheat Sheet
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Board | Deploy on Turn | Why |
 |-------|-----------------|-----|
-| 4x4 | 2-3 | Overkill, but Teleport combo ends game in 2 turns |
+| 4x4 | 2-3 | Overkill, but a Goddess's combo can end the game in 2 turns |
 | 5x5 | 2-4 | Sweet spot-deploy early, stack Gambits |
 | 6x6+ | 3-5 | Clear a lane first, then Queen takes over |
 
@@ -36,22 +36,22 @@ Pair her with 1 Gambit. Win.{{< /callout >}}
 
 ## The Only 3 Combos You Need
 
-###-Teleport + Queen <span class="meta-badge meta-s">S</span>
+### Goddess's Gambit + Queen <span class="meta-badge meta-s">S</span>
 
-<img src="/images/guides/queen-teleport-combo.svg" alt="Queen Teleport Combo: Deploy-Teleport-Flee-Checkmate in 4 turns" style="width:100%;max-width:800px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/queen-teleport-combo.svg" alt="Queen Goddess's Gambit Combo: Deploy-Surprise-Move-Capture in 4 turns" style="width:100%;max-width:800px;border-radius:8px;" loading="lazy">
 
 **Stock cost:** High | **Upside:** Dominant if un-countered
 
 ---
 
-###-Double Move + Queen <span class="meta-badge meta-s">S</span>
+### Silver Fork's Gambit + Queen <span class="meta-badge meta-s">S</span>
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Move | Action | Result |
 |------|--------|--------|
-| 1 | Position Queen to threaten 2 pieces | Opponent must respond |
-| 2 | Capture the higher-value piece | Insurmountable advantage by turn 5 |
+| 1 | Position a Knight to threaten 2 pieces | Silver Fork's rolls the turn skip, opponent must respond |
+| 2 | Capture the higher-value piece with the Queen | Insurmountable advantage by turn 5 |
 
 </div>
 
@@ -59,11 +59,11 @@ Pair her with 1 Gambit. Win.{{< /callout >}}
 
 ---
 
-###-Heal Board + Queen <span class="meta-badge meta-a">A</span>
+### War Horse's Gambit + Queen <span class="meta-badge meta-a">A</span>
 
-Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat.
+Protect the pieces that guard your Queen's diagonals. Crumble removes tiles and shrinks your Queen's reach, so keep bodies on the squares she needs.
 
-**Stock cost:** Medium | **Mandatory vs:** M3CH4GNU5 C4RL53N, Mighty Kasparov
+**Stock cost:** Low | **Mandatory vs:** M3CH4GNU5 C4RL53N, Mighty Kasparov
 
 {{< section-divider >}}
 
@@ -79,7 +79,7 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 
 </div>
 
-> **Fork Frenzy tip:** Check opponent's Gambits first. If they have Freeze or Swap, don't fork-your Queen becomes the trap.
+> **Fork Frenzy tip:** Check the enemy position first. If a piece near your fork is protected by a Protective Tile, don't fork. Your Queen becomes the trapped piece instead.
 
 {{< section-divider >}}
 
@@ -89,9 +89,9 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 <table>
 <thead><tr><th>If...</th><th>Then...</th></tr></thead>
 <tbody>
-<tr><td>I have Teleport in my deck</td><td>Deploy Queen turn 2-3-Teleport to back rank-checkmate</td></tr>
-<tr><td>I have Double Move but no Teleport</td><td>Deploy Queen-Double Move-threaten 2 pieces-capture</td></tr>
-<tr><td>I'm vs M3CH4GNU5 C4RL53N / Mighty Kasparov</td><td>Add Heal Board to deck-restore Crumble-d tiles</td></tr>
+<tr><td>I have Goddess's Gambit in my deck</td><td>Deploy Queen turn 2-3, then surprise-capture on a Knight line</td></tr>
+<tr><td>I have Silver Fork's but no Goddess's</td><td>Deploy Queen, set up a Knight fork, capture on the skip</td></tr>
+<tr><td>I'm vs M3CH4GNU5 C4RL53N / Mighty Kasparov</td><td>Keep bodies on your Queen's lines so Crumble cannot shrink her reach</td></tr>
 <tr><td>I have no Queen-synergy Gambits</td><td>Wait. Naked Queen = waste of stock.</td></tr>
 <tr><td>Opponent has active Knight/Bishop</td><td>Position Queen where she can't be forked before deploying</td></tr>
 </tbody>
@@ -108,7 +108,7 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 |------------|---------------|
 | Deploy without Gambits | Expensive target, does nothing |
 | Play like chess (develop slowly) | Gambonanza rewards early aggression |
-| Ignore Crumble | One collapsed tile = Queen's diagonal cut in half |
+| Ignore Crumble | One collapsed tile can cut a Queen's diagonal in half |
 | Trade Queen for 1 piece | Only trade if you get 2+ pieces or checkmate |
 | Half-commit | Either build around Queen or don't deploy her at all |
 
@@ -122,7 +122,7 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 
 | Boss | Strategy | Rating |
 |------|----------|--------|
-| M3CH4GNU5 C4RL53N | Queen + Heal Board. Avoid back rank. | B |
+| M3CH4GNU5 C4RL53N | Queen + protective bodies. Avoid the edges. | B |
 | Tal the Cursed | Queen is your main attacker. KOS can't punish aggression. | S |
 | Kev Borclick | Fast combos only. Don't overcommit. | A |
 | Judit Polgeisha | Mirror match-whoever deploys Queen first + better Gambits wins | A |

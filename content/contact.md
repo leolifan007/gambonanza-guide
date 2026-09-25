@@ -1,6 +1,6 @@
 ---
 title: "Contact & About This Guide"
-description: "Learn about Gambonanza Guide-the most complete community-driven strategy resource for Gambonanza. Find out how to contact us, submit feedback, or report issues."
+description: "Learn about Gambonanza Guide, the most complete community-driven strategy resource for Gambonanza. Find out how to contact us, submit feedback, or report issues."
 ---
 
 ## About This Guide
@@ -9,11 +9,11 @@ description: "Learn about Gambonanza Guide-the most complete community-driven st
 
   To provide the most complete, accurate, and actionable Gambonanza strategy resource on the internet-built by players, for players.{{< /callout >}}
 
-Gambonanza Guide was created by a team of dedicated Gambonanza players who fell in love with the game's depth and wanted to share what we learned. What started as a personal collection of notes and strategies quickly grew into something bigger-a community resource that now serves thousands of players every month.
+Gambonanza Guide was created by a team of dedicated Gambonanza players who fell in love with the game's depth and wanted to share what we learned. What started as a personal collection of notes and strategies quickly grew into something bigger, a community resource that now serves thousands of players every month.
 
 We believe that great games deserve great guides. Gambonanza is a deceptively complex game: easy to pick up, hard to master. The difference between a new player struggling in their first few runs and a seasoned veteran consistently clearing all eight bosses often comes down to knowledge. That's where we come in.
 
-Our team brings together players from diverse gaming backgrounds-strategy game veterans, deckbuilding roguelike enthusiasts, chess hobbyists, and competitive gamers-who collectively have invested hundreds of hours analyzing every mechanic, testing every Gambit, and mapping every boss pattern.
+Our team brings together players from diverse gaming backgrounds: strategy game veterans, roguelike enthusiasts, chess hobbyists, and competitive gamers, who collectively have invested hundreds of hours analyzing every mechanic, testing every Gambit, and mapping every boss pattern.
 
 {{< section-divider >}}
 
@@ -26,7 +26,7 @@ Gambonanza Guide is organized into several comprehensive sections, each designed
 
 ###  Guides & Walkthroughs
 
-- **[150+ Gambits Database](/gambits/)**-Complete breakdown of every Gambit in the game, ranked from S-tier to F-tier with detailed analysis of synergies, counters, and optimal usage scenarios
+- **[Gambits Database](/gambits/)**-Complete breakdown of every Gambit in the game, ranked from S-tier to F-tier with detailed analysis of synergies, counters, and optimal usage scenarios
 - **[8 Boss Battle Guides](/bosses/)**-Step-by-step strategies for every boss, including pattern analysis, recommended Gambit loadouts, and phase-by-phase walkthroughs
 - **[Beginner's Guide](/beginner/)**-Everything a new player needs to know, from basic mechanics to your first successful boss kill
 - **[Advanced Strategy Guide](/strategy/)**-Deep dives into economy optimization, build archetypes, and high-level tactics for experienced players
@@ -36,7 +36,7 @@ Gambonanza Guide is organized into several comprehensive sections, each designed
 
 ###  Tools & References
 
-- **[Economy Guide](/economy/)**-Master the casino economy system, including Safe Haven strategy, Gambler's Gambit risk analysis, and optimal stock management across shop visits
+- **[Economy Guide](/economy/)**-Master the run economy, including gold management, the between-run shop, and optimal spending across boss checkpoints
 - **[Tier List](/gambonanza-tier-list/)**-Complete Gambit tier list with explanations for every rating, updated regularly as the meta evolves
 - **[Achievements Guide](/achievements/)**-Comprehensive achievement walkthrough covering every milestone, hidden achievement, and completion strategy
 - **[Card System Guide](/cards/)**-Deep analysis of Gambit cards, their rarities, and how the card economy flows into your runs
@@ -129,7 +129,7 @@ The best way to support us is to:
 - **Share the guide** with other Gambonanza players
 - **Contribute** by reporting errors or suggesting improvements
 - **Engage** in GitHub Discussions to help build the community
-- **Support via affiliate links**-if you're buying Gambonanza on Steam, use our affiliate link to help fund the site
+- **Support via affiliate links**: if you're buying Gambonanza on Steam, use our affiliate link to help fund the site
 
 ### Can I contribute as a writer?
 
@@ -141,19 +141,19 @@ Absolutely! We welcome community contributors. Open a discussion on GitHub intro
 
 {{< callout type="danger" >}}<strong> IMPORTANT DISCLAIMER</strong>
 
-  Gambonanza Guide is a <strong>fan-made, unofficial resource</strong> created by players for players. This website is <strong>not affiliated with, endorsed by, or connected to</strong> Blukull, the developer and publisher of Gambonanza.
+  Gambonanza Guide is a <strong>fan-made, unofficial resource</strong> created by players for players. This website is <strong>not affiliated with, endorsed by, or connected to</strong> Blukulélé, the developer and publisher of Gambonanza.
   
 
 
-  <strong>Trademark Notice:</strong> "Gambonanza" and all associated game content, including but not limited to game screenshots, artwork, character designs, sound effects, music, and game mechanics, are the intellectual property of Blukull. All game-related materials used on this site are used for informational and educational purposes under fair use principles.
+  <strong>Trademark Notice:</strong> "Gambonanza" and all associated game content, including but not limited to game screenshots, artwork, character designs, sound effects, music, and game mechanics, are the intellectual property of Blukulélé. All game-related materials used on this site are used for informational and educational purposes under fair use principles.
   
 
 
-  <strong>Copyright Notice:</strong> All game screenshots, visual assets, and game excerpts displayed on Gambonanza Guide are copyrighted by Blukull. These materials are used for the purpose of commentary, criticism, and strategy explanation. They are not used for commercial gain beyond standard advertising revenue necessary to maintain the site.
+  <strong>Copyright Notice:</strong> All game screenshots, visual assets, and game excerpts displayed on Gambonanza Guide are copyrighted by Blukulélé. These materials are used for the purpose of commentary, criticism, and strategy explanation. They are not used for commercial gain beyond standard advertising revenue necessary to maintain the site.
   
 
 
-  <strong>Unofficial Status:</strong> This is a non-commercial, fan-operated strategy resource. No official partnership, sponsorship, or relationship exists between this website and Blukull or any of its affiliates, partners, or subsidiaries.
+  <strong>Unofficial Status:</strong> This is a non-commercial, fan-operated strategy resource. No official partnership, sponsorship, or relationship exists between this website and Blukulélé or any of its affiliates, partners, or subsidiaries.
   
 
 
@@ -182,7 +182,7 @@ Ready to reach out? We're here and we read everything. Whether it's a quick ques
 
 {{< section-divider >}}
 
-*Gambonanza Guide-Built by players, for players. Updated regularly with community-sourced strategies and insights.*
+*Gambonanza Guide, built by players, for players. Updated regularly with community-sourced strategies and insights.*
 
 
 ---

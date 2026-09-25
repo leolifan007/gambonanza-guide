@@ -1,92 +1,96 @@
 ---
 tags:
   - "Strategy & Guides"
-  - "Strategy"
-title: "3 Simple Habits That Turned My Win Rate Around"
-description: "After a lot of Gambonanza runs, I fixed 3 habits and my win rate improved dramatically. Stop overbuying, fix your economy, and learn when to hold. Real player experience with consistent results."
-date: "2026-06-05"
+  - "Beginner"
+title: "3 Simple Habits That Turned My Results Around in Gambonanza"
+description: "Three habits that fixed my losing streaks in Gambonanza: buy survival before power, use your reserve deliberately, and read the boss preview before every shop. Practical, no fluff."
 lastmod: "2026-06-05T21:30:00+08:00"
-version: "1.1.0"
+version: "1.5.0"
 categories: ["Beginner"]
 ---
 
-
-# 3 Simple Habits That Turned My Win Rate Around
+# 3 Simple Habits That Turned My Results Around
 
 ## The Short Version
 
-**I played a lot of Gambonanza and lost far more than I won. Then I fixed 3 things. My results turned around almost immediately.**
+I lost a lot of runs before these three habits clicked. None of them is a trick or a secret combo. They are just the things I kept doing wrong, fixed.
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Habit | Before | After |
-|-------|-----------------|----------------|
-| Economy | I bought Gambits first shop | Safe Haven first, always |
-| Piece management | Moved whatever piece was closest | Always kept 1 Knight in reserve |
-| Gambit timing | Triggered everything immediately | Held Gambits when the timing was bad |
+|-------|--------|-------|
+| Shop spending | Bought the flashiest Gambit first | Buy survival and economy, then power |
+| Reserve use | Held pieces for no reason, or dumped them all | Deploy with a specific job in mind |
+| Boss prep | Walked in blind, spent before reading | Read the boss preview, then buy the answer |
 
 </div>
 
-**The 3 habits that did it:**
-1. Never spend below 50 stock before a boss
-2. Keep exactly 1 Knight in reserve near center (always)
-3. Hold every 3rd Gambit activation for a bigger combo
+**The 3 habits:**
+1. Buy the tool that keeps your army alive before the tool that makes it stronger
+2. Use your reserve (Stock) with intent, not out of habit
+3. Read the boss preview in the shop before you spend a single coin
 
 ---
 
-## Habit 1: The 50-Stock Rule
+## Habit 1: Buy Survival Before Power
 
-**My mistake:** I used to enter boss fights with 20-30 stock, thinking "I'll beat it first try." I died. I couldn't retry. Run over.
+**My mistake:** I treated the shop like a toy store. The rarest Gambit, the flashiest piece, the biggest upgrade. Then I entered the next board with a powerful army that had no way to recover from a bad trade.
 
-**The fix:** I literally taped a sticky note to my monitor that said "50." Before every boss, I check my stock. If I can't reach 50+ stock before the boss, I skip that shop and save. This single rule made a big difference to my results.
+**The fix:** Before I buy anything that makes me stronger, I ask whether my current army can survive one bad exchange. If the answer is no, the first purchase is recovery, not power.
 
-**Why it works:** Boss retry costs 25 stock. If you can't afford 2 attempts, you're gambling your entire run on one try. The boss might have a pattern you've never seen. One attempt is never enough.
+**Why it works:** In Gambonanza, captured pieces are gone for the rest of the run. There are no free replacements. A powerful piece you cannot protect is just a piece you are about to lose. Blessed tiles can return a captured piece to your Stock, and Protective tiles can save a key piece for one turn. Those are the buys that keep a run alive.
 
-**Pro tip from experience:** If you have 35 stock and there's a shop before the boss, resist the urge to buy that "amazing" Rare Gambit. Buy nothing. Enter with 35 + whatever the shop table gives. You'll miss the first attempt, learn the pattern, retry, and win.
+**What this looks like in practice:**
+- If I have one strong attacker and no backline, I buy a piece or a defensive tile before a second Gambit
+- If my queen would die to a single trade, I fix that before upgrading damage
+- If my board is thin, an extra deploy slot or a spare piece beats a fancy effect
 
 ---
 
-## Habit 2: Keep 1 Knight in Reserve (The Single Best Positioning Habit)
+## Habit 2: Use Your Reserve With Intent
 
-**My mistake:** I used every piece aggressively. My board was always empty by mid-game. When a Gambit chain broke, I had nothing to reconnect with.
+**My mistake:** Two opposite errors. Sometimes I hoarded every reserve piece waiting for the perfect moment that never came, and my board crumbled because it had too few active pieces. Other times I dumped everything onto the board at once and had nothing left for the next board.
 
-**The fix:** I never move my last Knight. I keep exactly one Knight within 2 squares of the center, uncommitted, at all times. This Knight is my emergency connector.
+**The fix:** Every piece I land (deploy from Stock, which costs a turn) now has a specific job. A knight waits for a fork square to open. A rook waits for a file to clear. If I cannot say what the piece is for, it stays in reserve.
 
-**Why it works:** Knights are the only piece that can reach any tile in 2-3 moves. When your Gambit chain breaks (and it will -- bosses love breaking chains), a single Knight can reconnect from almost anywhere on the board.
+**Why it works:** A piece in reserve costs nothing per turn, but it also is not capturing. Crumble pressure builds when the board is too passive. The reserve is for targeted waiting, not for hesitation.
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Situation | Without Reserve Knight | With Reserve Knight |
-|-----------|----------------------|---------------------|
-| Chain breaks early | Run is crippled | Reconnect in 1 move |
-| Crumble collapses your zone | Lose 2 turns repositioning | Knight jumps out in 1 move |
-| Boss spawns in your backline | Can't respond | Knight reaches it in 2 moves |
+| Situation | Without a clear plan | With a deliberate reserve |
+|-----------|---------------------|---------------------------|
+| A fork square opens | Nothing is ready to take it | Land the knight straight into the fork |
+| Board is crumbling | Thin board, few captures | Land a piece to keep tempo up |
+| A boss disables your Stock | Half your value is stranded | Key pieces were already on the board |
 
 </div>
 
-**Pro tip from experience:** On 5x5 boards, keep your reserve Knight on C3 or E3. On 6x6, use D4 or E4. These center-adjacent tiles give you maximum reach with minimum exposure.
+**Pro tip from experience:** Before a boss that restricts your Stock, like Hikarul the Banished, land the pieces you actually need first. Against Hikarul, anything left in reserve is dead weight.
 
 ---
 
-## Habit 3: Hold Every 3rd Gambit (Build Bigger Combos)
+## Habit 3: Read the Boss Preview Before You Spend
 
-**My mistake:** I activated every Gambit the moment it was ready. My board was a chaotic mess of simultaneous effects, half of them wasted.
+**My mistake:** I spent my coin on generically strong upgrades, then walked into a boss whose modifier punished exactly that.
 
-**The fix:** I now deliberately hold approximately 1 in 3 Gambit activations. If a Gambit's effect would be marginally useful (hitting an empty tile, buffing an already-safe piece), I skip it and let it stack.
+**The fix:** The shop shows the next boss in the lower-left corner. I read it before I buy anything. Every time.
 
-**Why it works:** Held Gambits don't expire. When you stack 2-3 held activations, you can chain them together for a combo that's 3x more powerful than separate uses. The game rewards burst timing over constant trickle.
+**Why it works:** Bosses do not just add pieces. Each one changes a rule. If the next boss is Kev Borclick, who applies STASIS to his own pieces, then attacks that need those pieces cleared are blocked. Buying more attack power does not help. If the next boss is Jawby Fisher, who destroys a random Stock piece on every capture, then Stock value is a liability, not an asset.
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Playstyle | Average Combo Damage | Survivability |
-|-----------|---------------------|---------------|
-| Trigger everything | 12 per turn | Low (waste) |
-| Hold 1 in 3 | 22 per burst | Medium |
-| Hold strategically | 35+ per burst | High |
+| Boss | What to buy |
+|------|-------------|
+| Hikarul the Banished | Board space, active pieces |
+| Jawby Fisher | Move value out of Stock, keep Phantom bait |
+| Tal the Cursed | Backup attackers, safe routes off cursed tiles |
+| Kev Borclick | Safe waiting turns, Trap and Protective tiles |
+| Judit Polgeisha | Flexible attackers, Protective Tile |
+| Mighty Kasparov | Piece protection, a backup attacker |
 
 </div>
 
-**Pro tip from experience:** The easiest way to start: only hold Gambits that target empty tiles or safe pieces. If a Gambit would hit a threatened tile, activate it. If it hits an empty tile, hold it. This one filter rule already improves your burst significantly.
+**Pro tip from experience:** If the preview is not obvious, the safe buy is flexible value: a queen, board space, or recovery money. Those help against almost every modifier.
 
 ---
 
@@ -94,23 +98,19 @@ categories: ["Beginner"]
 
 <div class="synergy-table" style="overflow-x:auto">
 
-| Habit | Win Rate Impact | Time to Master |
-|-------|-----------------|----------------|
-| 50-Stock Rule | Big impact | 1 run |
-| Knight Reserve | Solid gain | A few runs |
-| Gambit Hold | Solid gain | Several runs |
-| **Combined** | **Turned my results around** | **Over time** |
+| Habit | What it fixes |
+|-------|---------------|
+| Survival before power | Runs that die to one bad trade |
+| Intentional reserve use | Thin boards and stranded value |
+| Reading the boss preview | Losing to a modifier you never answered |
 
 </div>
 
 ---
 
-## Community Verification
+## Related Guides
 
-These habits come from my own gameplay data across 200+ hours. Similar strategies are discussed in the Gambonanza Steam Community -- search for "economy discipline" and "Knight reserve" threads.
-
-**Related guides:**
-- [Economy & Stock Guide](/economy/) -- Deep dive on stock management
-- [All Gambits Guide](/gambits/) -- Complete Gambit reference
-- [Gambit Chain Recovery Guide](/gambit-chain-recovery/) -- Fix broken chains with Knight reserve
-- [Tips & Tricks](/tips/) -- 25 more pro tips from experienced players
+- [Economy Guide](/economy/) - Deep dive on coin and shop management
+- [Gambits Guide](/gambits/) - Complete Gambit reference
+- [Boss Guide](/bosses/) - All 8 bosses and their modifiers
+- [Tips & Tricks](/tips/) - More habits worth building

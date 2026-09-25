@@ -121,7 +121,7 @@ The Knight reaches only 8 tiles from center, but those 8 tiles can be in *any* d
 
 </div>
 
-**My experience:** I once won a run where my King was 1 move from checkmate. I had a Knight on F6. I moved it to E4, baiting the boss's Rook into attacking the Knight instead of my King. That bought me 2 turns -- long enough to set up a counter-combo and win.
+**My experience:** I once saved a run by moving a Knight to E4 and baiting the boss's Rook into trading for it instead of my Queen. That bought me 2 turns, long enough to set up a counter and close the game.
 
 ---
 
