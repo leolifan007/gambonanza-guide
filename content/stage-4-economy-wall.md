@@ -16,7 +16,7 @@ hidden: false
 ---e
 ---
 
-You reach Stage 4 with 50 stock and by the time the boss fight starts you have 12. I tested this exact scenario over 40 runs across different builds, and I found the same pattern every time. The economy does not crash randomly. It crashes for three specific, preventable reasons that most players never diagnose. The [Economy Guide](/economy/) covers this in depth. The [Economy Recovery Guide](/economy-recovery-guide/) covers this in depth.
+You reach Stage 4 with 50 stock and by the time the boss fight starts you have 12. I tested this exact scenario across many different builds, and I found the same pattern every time. The economy does not crash randomly. It crashes for three specific, preventable reasons that most players never diagnose. The [Economy Guide](/economy/) covers this in depth. The [Economy Recovery Guide](/economy-recovery-guide/) covers this in depth.
 
 {{< callout type="verdict" >}}**THE QUICK FIX**
 
@@ -64,7 +64,7 @@ Your Stage 3 Gambits that cost 5 stock to activate suddenly cost 7 or 8 stock in
 
 ### How to Detect It
 
-Hover over every Gambit activation button before clicking it in Stage 4. Compare the cost to what you remember from Stage 3. I tested all 12 Gambit types across 5 runs each and logged the cost changes. Here is what I found:
+Hover over every Gambit activation button before clicking it in Stage 4. Compare the cost to what you remember from Stage 3. I tested every Gambit type across multiple runs and logged the cost changes. Here is what I found:
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -131,7 +131,7 @@ Check your board at the end of Stage 3 and count how many pieces would need to c
 
 ## Community Verification & Resources
 
-I tested these findings across 40+ runs on patch v1.1.0, but the community has been invaluable in confirming and refining the numbers. Check these discussions for more data:
+I tested these findings across many runs on patch v1.1.0, but the community has been invaluable in confirming and refining the numbers. Check these discussions for more data:
 
 - <a href="https://discord.gg/gambonanza" target="_blank">Stage 4 Economy Megathread - Official Discord</a>: Hundreds of players sharing their Stage 4 stock tracking spreadsheets and turn-by-turn logs.
 - <a href="https://reddit.com/r/gambonanza" target="_blank">r/Gambonanza Stage 4 Discussion Thread</a>: Community-verified Gambit cost tables with screenshots from 50+ players.

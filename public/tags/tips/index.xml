@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tips on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/tips/</link><description>Recent content in Tips on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 05 Jun 2026 21:30:00 +0800</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/tips/index.xml" rel="self" type="application/rss+xml"/><item><title>Master the Knight: The Most Underrated Piece in Gambonanza (Pro Tips)</title><link>https://gambonanzaguide.com/master-the-knight-guide/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/master-the-knight-guide/</guid><description>&lt;h1 id="master-the-knight-the-most-underrated-piece-in-gambonanza-pro-tips"&gt;Master the Knight: The Most Underrated Piece in Gambonanza (Pro Tips)&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tips on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/tips/</link><description>Recent content in Tips on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/tips/index.xml" rel="self" type="application/rss+xml"/><item><title>Gambonanza Controller &amp; Gamepad Guide: Strains, Gambit Collection &amp; Deck Navigation</title><link>https://gambonanzaguide.com/controller-gamepad-guide/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/controller-gamepad-guide/</guid><description>&lt;span class="phase-tag phase-early"&gt;EARLY GAME&lt;/span&gt;
+
+
+&lt;div class="callout callout-verdict"&gt;
+Gambonanza has full controller support, and the 1.5.3 hotfix fixed the two menu flows that were roughest on a gamepad: the &lt;strong&gt;Strains menu&lt;/strong&gt; and the &lt;strong&gt;Gambit collection tab&lt;/strong&gt;. If you play on Steam Deck or with a controller, these fixes are the difference between a smooth run and a fight with the UI. The control scheme itself is simple once you know where everything lives.
+&lt;/div&gt;
+
+
+&lt;div class="callout callout-tip"&gt;
+A smooth Strains menu is only useful if you open it. Read your modifiers once per run and adjust your build before the first turn, because the menu lists exactly what higher tiers change.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/controller-nav-map.svg" alt="Map of controller-navigated menus in Gambonanza" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;The main menus you navigate with a controller: Settings, Strains, Gambit collection, and the in-run HUD.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="why-controller-support-matters-here"&gt;Why Controller Support Matters Here&lt;/h2&gt;
+&lt;p&gt;Gambonanza is a menu-heavy game. A run involves the board, the Gambit sidebar, the Shop, the Graveyard, the Strains menu, and the Gambit collection. Each is a distinct interface. When controller navigation works, the game feels native on a handheld. When it does not, you feel every menu.&lt;/p&gt;</description></item><item><title>Gambonanza on Steam Deck: Best Settings for Text, Cursor &amp; Controller</title><link>https://gambonanzaguide.com/steam-deck-settings-guide/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/steam-deck-settings-guide/</guid><description>&lt;span class="phase-tag phase-mid"&gt;MID GAME&lt;/span&gt;
+
+
+&lt;div class="callout callout-verdict"&gt;
+Gambonanza is officially Steam Deck Verified as of v1.5.0, and the 1.5.x line fixed the two things that hurt handheld play most: text readability and an invisible-cursor bug on some Linux setups. Set aside two minutes before your first run. Turn on the readability improvements, confirm there is no letterboxing, and use the updated Strains menu navigation. That is the whole checklist.
+&lt;/div&gt;
+
+
+&lt;div class="callout callout-tip"&gt;
+Do not start a serious climb on default settings. Confirm full-screen display, turn on skip animations, and test the Strains menu before your first real game on the Deck.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/steamdeck-settings-flow.svg" alt="Steam Deck setup flow across display, controls and in-game settings" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;Work through display and controls first, then tune in-game Extras for readability.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="why-the-deck-needs-its-own-setup-guide"&gt;Why the Deck Needs Its Own Setup Guide&lt;/h2&gt;
+&lt;p&gt;Gambonanza is a busy game. A small chess board, a dense Gambit sidebar, and a compact HUD are all fighting for space. On desktop you have monitor real estate to spare. On the Steam Deck you have a seven-inch screen and a controller. That is exactly why the 1.5.0 UI revamp targeted the Deck, and why Verified status matters: Valve&amp;rsquo;s criteria include legibility, default input, and stability on the handheld.&lt;/p&gt;</description></item><item><title>Gambonanza UI &amp; Text Readability After 1.5: Read the Board Faster</title><link>https://gambonanzaguide.com/ui-text-readability-guide/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/ui-text-readability-guide/</guid><description>&lt;span class="phase-tag phase-mid"&gt;MID GAME&lt;/span&gt;
+
+
+&lt;div class="callout callout-verdict"&gt;
+The v1.5.0 UI revamp makes text easier to read, with the biggest impact on Steam Deck. Combined with the algebraic notation toggle and the 1.5.3 hover-info fix, the board and its tooltips are now legible on small screens. Readability is not cosmetic in a game this dense. Clearer text means faster decisions and fewer mistakes.
+&lt;/div&gt;
+
+
+&lt;div class="callout callout-tip"&gt;
+Use the clearer text to identify the board state first, then check the Gambits that apply. Readability is a workflow: scan the board, then the sidebar, in that order.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/ui-readability-compare.svg" alt="UI readability before and after v1.5" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;Before 1.5 text was harder to scan on handhelds. After 1.5 the revamp sharpens it.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="why-readability-is-a-real-advantage"&gt;Why Readability Is a Real Advantage&lt;/h2&gt;
+&lt;p&gt;Gambonanza throws a lot at you at once. A small board, a Gambit sidebar, a Shop, and a HUD all compete for attention. Every time you have to squint or re-read a tooltip, you lose tempo. In a turn-based roguelike, tempo is everything: the player who reads the board faster makes more moves in the same amount of thinking time, and makes fewer misreads.&lt;/p&gt;</description></item><item><title>Master the Knight: The Most Underrated Piece in Gambonanza (Pro Tips)</title><link>https://gambonanzaguide.com/master-the-knight-guide/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/master-the-knight-guide/</guid><description>&lt;h1 id="master-the-knight-the-most-underrated-piece-in-gambonanza-pro-tips"&gt;Master the Knight: The Most Underrated Piece in Gambonanza (Pro Tips)&lt;/h1&gt;
 &lt;h2 id="the-tldr"&gt;The TL;DR&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;The Knight is the single most flexible piece in Gambonanza. Here&amp;rsquo;s why most players underuse it &amp;ndash; and how to make it your run&amp;rsquo;s backbone.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="synergy-table" style="overflow-x:auto"&gt;
@@ -159,7 +219,7 @@
 &lt;h2 id="the-3-phase-economy-strategy"&gt;The 3-Phase Economy Strategy&lt;/h2&gt;
 &lt;div class="split-col"&gt;
 &lt;div class="col"&gt;
-&lt;h3 id="phase-1-survival-hahahugoshortcode36s8hbhb"&gt;Phase 1: Survival 
+&lt;h3 id="phase-1-survival-hahahugoshortcode18s8hbhb"&gt;Phase 1: Survival 
 &lt;span class="phase-tag phase-early"&gt;EARLY GAME&lt;/span&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Stock split:&lt;/strong&gt; 80% Safe Haven / 20% Knight&amp;rsquo;s Jump&lt;/p&gt;</description></item><item><title>Gambonanza Endgame Tips (v1.1.0)-Killer Strategies for Closing Out Games</title><link>https://gambonanzaguide.com/endgame-killer-tips/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/endgame-killer-tips/</guid><description>&lt;h2 id="the-endgame-is-not-just-grind"&gt;The Endgame Is Not Just Grind&lt;/h2&gt;

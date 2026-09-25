@@ -40,7 +40,7 @@ Don't force a build. Read what the shop gives you and pivot. A flexible player w
 - Turns 6-10: Income snowballs. Buy better pieces
 - Turns 10+: Convert income into board dominance
 
-**Win rate:** 70%+ in community testing. Source: [Pawn Economy Loop Guide](/pawn-economy-loop/)
+**Win rate:** One of the strongest builds in community testing. Source: [Pawn Economy Loop Guide](/pawn-economy-loop/)
 
 **GSC context:** "gambonanza strategy" and "gambonanza build" combine for 207 impressions in the last 90 days, confirming significant search demand for build guidance.
 
@@ -167,11 +167,11 @@ See our **[Knight & Pawn Meta Guide](/knight-pawn-meta-guide/)** and **[v1.3.0 P
 
 | Build | Win Rate (v1.3) | Skill Floor | Best Board | Worst Board |
 |-------|----------|------------|------------|-------------|
-| Pawn Economy | 70%+ | Low | Any | None |
-| Queen Supremacy | 58-65% | High | 7x7 | 5x5 |
-| Knight Aggro | 55-65% (buffed v1.3) | Medium | 5x5 | 8x8 |
-| Rook Control | 48-55% | High | 6x6-7x7 | 5x5 |
-| Gambit Chain | 35-60% | Very High | 7x7 | 5x5 |
+| Pawn Economy | Top tier | Low | Any | None |
+| Queen Supremacy | Strong | High | 7x7 | 5x5 |
+| Knight Aggro | Strong (buffed v1.3) | Medium | 5x5 | 8x8 |
+| Rook Control | Solid | High | 6x6-7x7 | 5x5 |
+| Gambit Chain | High risk, high reward | Very High | 7x7 | 5x5 |
 
 {{% section-divider %}}
 

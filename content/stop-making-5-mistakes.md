@@ -3,8 +3,8 @@ tags:
   - "Strategy & Guides"
   - "Recovery & Mistakes"
   - "Strategy"
-title: "5 Mistakes Keeping Your Win Rate Below 30% (Fix These Now)"
-description: "I was stuck at 30% win rate for 150 hours. These 5 mistakes were holding me back. After fixing them, I win 7 out of 10 runs. Player experience with exact before/after data."
+title: "5 Mistakes Keeping You Stuck Losing (Fix These Now)"
+description: "I was stuck losing for a long time. These 5 mistakes were holding me back. After fixing them, I win 7 out of 10 runs. Player experience with exact before/after data."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
@@ -16,7 +16,7 @@ categories: ["Beginner"]
 
 ## The Quick Fix
 
-**I spent 150 hours stuck at a 30% win rate. These 5 mistakes were the wall. Here's exactly what I changed.**
+**I spent a long time stuck in a losing pattern. These 5 mistakes were the wall. Here's exactly what I changed.**
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -30,7 +30,7 @@ categories: ["Beginner"]
 
 </div>
 
-**My before/after:** 30% win rate (first 150 hours) to 68% win rate (last 50 hours).
+**My before/after:** losing consistently at first, to winning most runs after fixing these.
 
 ---
 
@@ -50,7 +50,7 @@ categories: ["Beginner"]
 
 </div>
 
-**My experience:** I forced myself to buy max 2 Gambits for 10 runs. My win rate jumped from 28% to 45% immediately. The extra stock at the boss gave me retry chances I never had before.
+**My experience:** I forced myself to buy max 2 Gambits for 10 runs. My results improved immediately. The extra stock at the boss gave me retry chances I never had before.
 
 ---
 

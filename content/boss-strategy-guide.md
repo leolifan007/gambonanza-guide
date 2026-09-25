@@ -1,124 +1,101 @@
 ---
-categories: ["Boss Battles"]
+categories: ["Boss Guides"]
 tags:
   - "Bosses"
   - "Strategy"
-title: 'Gambonanza Boss Strategy Guide v1.1.0-How to Beat Every Boss'
-description: 'Step-by-step Gambonanza boss strategies for patch v1.1.0. Phase-by-phase breakdowns, counter Gambits, and loadout recommendations for Jester, King of Spades, Blitzking, Queen of Hearts, and Grand Master. Updated for patch v1.1.0.'
-lastUpdated: 'v1.1.0-05-14'
-version: 'v1.1.0'
+  - "Difficulty"
+title: "Gambonanza Boss Strategy Guide - How to Prepare for Every Fight"
+description: "How to beat Gambonanza bosses with the right preparation. Boss modifiers, shop decisions, universal tactics, and the five things to check before every checkpoint."
+lastmod: "2026-09-25T16:00:00+08:00"
+version: "v1.5.0"
 ---
 
-## Bosses Are Not the Whole Game-But You Must Win Them
+## Bosses Are Not the Whole Game - But You Must Win Them
 
-> Every Gambonanza boss tests a different fundamental skill. There is no skipping-all 5 must be defeated to progress. Learn their patterns, and they become predictable puzzles rather than walls. The [Boss Battle Guide](/bosses/) breaks this down in detail. The [King of Spades - Boss Breakdown](/king-of-spades-guide/) breaks this down in detail.
+A Gambonanza run is about 25 games with 5 boss checkpoints, one every 5th game. Lose a boss and the run ends, no matter how strong your build looked three games ago.
 
-{{< callout type="verdict" >}}<strong>Verdict</strong>
+This guide is about preparation. For the full breakdown of every boss and its modifier, see the [Boss Battle Guide](/bosses/).
 
-  5 bosses, 5 different flavors of pain. Grand Master (lategame) and King of Spades (midgame) are the true tests. The first 3 are gatekeepers-learn the mechanic once and they become free wins. <strong>Difficulty Rating:</strong> <span class='meta-rating'>S</span> for GM, <span class='meta-rating'>A</span> for KoS, <span class='meta-rating'>C</span> for Jester.{{< /callout >}}
+{{< callout type="verdict" >}}<strong>THE SHORT VERSION</strong>
+
+The shop before a boss is your last chance to fix the weakness that boss will punish. Read the boss preview in the lower-left of the shop, then buy the answer - not the strongest generic upgrade.{{< /callout >}}
+
+{{< section-divider >}}
+
+## Run Structure
+
+| Run point | What it means |
+|-----------|---------------|
+| Games 1-4 | Build money, pieces, Gambits, and board space |
+| Game 5 | Boss checkpoint |
+| Between bosses | Rebuild losses and prepare for the next modifier |
+| Full clear | Roughly 25 games and 5 boss fights |
+
+Boss order is not fixed between runs. The timing is reliable (every 5th game), but which boss you face is not. That is why preparation beats memorization.
 
 ## Boss Reference Table
 
-<div class="synergy-table" style="overflow-x:auto">
-
-| Boss | Board Size | Core Mechanic | Difficulty | Recommended Gambit |
-|------|-----------|--------------|------------|-------------------|
-| The Jester | 4x4 | Random piece swap | <span class='meta-badge meta-c'>C</span> | Anchor |
-| King of Spades | 5x5 | Teleport swap | <span class='meta-badge meta-s'>S</span> | King Bind |
-| Blitzking | 5x5 | Speed acceleration | <span class='meta-badge meta-a'>A</span> | Grid Lock |
-| Queen of Hearts | 6x6 | Board reversal | <span class='meta-badge meta-a'>A</span> | Mirror |
-| Grand Master | 6x6+ | Full-board pressure | <span class='meta-badge meta-s'>S</span> | King Bind + Anchor |
-
-</div>
-
-![Boss fight screenshot-piece positioning and Gambit selection](/images/screenshots/ss_1.jpg)
-*Jesper boss fight-note the Gambit slots and board layout*
-
-## 1. The Jester (4x4)
-
-### Mechanic
-Every 4 turns, randomly swaps the position of one of your pieces with one of the opponent's.
-
-### Strategy
-- Jester is weak on the 4x4 board-punish him early
-- **Don't over-expand**: stick to a 3 offensive + 2 defensive piece ratio
-- **Anchor Gambit** significantly reduces swap damage
-- Rush the kill on 4x4-do not let a second swap trigger
-
-{{< pro-tip >}}<strong>Jester Secret</strong><br>
-  Jester's first swap always happens on Turn 4. This is 100% predictable. Move your high-value pieces to safe positions on Turn 3, then go all-in after the swap. Free win.{{< /pro-tip >}}
-
-## 2. King of Spades (5x5)
-
-See the <a href='/king-of-spades-guide'>dedicated King of Spades guide</a> for full breakdown. Summary:
-
-- <span class='meta-badge meta-s'>Core</span> Teleport swap every 3 turns
-- <span class='meta-badge meta-s'>Game Changer</span> **King Bind** Gambit negates Teleport entirely
-- Best builds: Solid Control or Speed Push
-
-## 3. Blitzking (5x5)
-
-### Mechanic
-Every 2 turns triggers "Acceleration"-remaining turn count shrinks, opponent pieces move faster.
-
-### Strategy
-- The only challenge is tempo-don't get defensive paralysis
-- **Grid Lock** Gambit slows down the acceleration effect
-- Pre-deploy defensive formation, minimize wasted piece movement
-
-{{< callout type="danger" >}}<strong>Warning</strong>
-
-  The most dangerous window is the 2 turns after Acceleration triggers. Do NOT attack during this window. Shore up defenses, wait for the speed penalty to expire, then counter.{{< /callout >}}
-
-## 4. Queen of Hearts (6x6)
-
-### Mechanic
-Every 5 turns triggers "Reversal"-the board mirrors horizontally and vertically.
-
-### Strategy
-- Do NOT use asymmetrical formations-reversal will scatter your pieces
-- **Mirror Gambit** turns the reversal into your advantage
-- Pawns on the board edges often become key pieces after reversal
-
-<span class='phase-tag'>Late</span> Queen of Hearts is a classic mid-to-late boss. Pure burst damage players struggle here.
-
-## 5. Grand Master (6x6+)
-
-### Mechanic
-Full-board pressure: can place a level-5 piece anywhere on the board every turn, plus 2 Gambit activations.
-
-### Strategy
-- This is a true "full-board" fight-no defensive blind spots allowed
-- **King Bind + Anchor** double Gambit is the standard loadout
-- 3 winning routes:
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Route | Strategy | Difficulty |
-|-------|----------|------------|
-| Economy crush | Relic stacking + late burst | <span class='meta-badge meta-a'>A</span> |
-| Rush down | Full offense at 5x5 stage | <span class='meta-badge meta-s'>S</span> |
-| King snipe | Wait for expose window and execute | <span class='meta-badge meta-b'>B</span> |
-
-</div>
-
-{{< pro-tip >}}<strong>Grand Master Ultimate Trick</strong><br>
-  GM's AI has a fixed pattern on the 6x6 board: it always attacks your weakest column first. Bait this by placing a seemingly isolated Rook in that column. GM charges in-your Queen + Bishop crossfire picks it off instantly.{{< /pro-tip >}}
+| Boss | Modifier | First response |
+|------|----------|----------------|
+| Hikarul the Banished | You cannot use Stock during the fight | Deploy key pieces before the fight, buy board space |
+| Botezarro | Capturing on the mask-matched color crumbles the tile | Check the color every turn before capturing |
+| Jawby Fisher | Boss captures destroy a random Stock piece | Move value onto the board, keep Phantom bait |
+| Judit Polgeisha | You cannot see the enemy formation during setup | Bring flexible attackers, check threats on reveal |
+| Kev Borclick | Applies STASIS to 2 of its own pieces | Clear other threats, create safe waiting turns |
+| M3CH4GNU5 C4RL53N | Shuffles and hides your pieces during setup | Use simple formations and flexible pieces |
+| Tal the Cursed | Places cursed tiles that downgrade pieces to pawns | Keep queens and rooks off cursed squares |
+| Mighty Kasparov | Boss captures make you skip your next turn | Protect key pieces, trade only when clearly ahead |
 
 ## Universal Boss Tips
 
-- Every boss mechanic has a fixed trigger rhythm-learn the rhythm and you're already halfway there
-- Gambit selection matters more than piece quality in boss fights
-- If you're losing streak, check your Gambit config before your piece composition
+### Rule 1: Read the Preview Before You Spend
 
-{{< callout type="tip" >}}<strong>Sources & Updates</strong>
+The shop shows the next boss. Skipping that line is the single most common reason players lose a boss they could have beaten.
 
-  I've tested these strategies across multiple runs of my own. Gambonanza may change with patches-always double-check in-game. <a href='https://steamcommunity.com/app/3509230/discussions/' target='_blank' rel='noopener'>Join the discussion on Steam</a>.{{< /callout >}}
+### Rule 2: Enter With a Real Reserve of Money
 
-<div class='ad-slot ad-slot--after-content'>
-  <div class='ad-label'>Advertisement</div>
-  <div class='ad-placeholder'>Google AdSense</div>
-</div>
+You may win the boss and still need to rebuild. Keep enough coin to replace losses, not just enough to buy one shiny upgrade.
 
+### Rule 3: Never Enter With Only One Plan
 
+One queen can die, get blocked, or become unsafe. Bring flexible pieces and at least one backup attacker.
 
+### Rule 4: Treat the First Attempt as Recon
+
+Your first fight against an unfamiliar boss is information gathering. Watch the modifier in action, note what it targets, and adjust your build for the next run.
+
+## Buying for the Boss, Not for Power
+
+The shop before a boss is a repair shop, not a greed shop. Ask one question: what does the next boss punish, and can my current board survive it?
+
+| Boss problem | Tools to buy |
+|--------------|--------------|
+| Stock disabled | Board upgrades, active queens, Thunder's Gambit |
+| Reserve destroyed | Phantom Tile, Blessed Tile, money Gambits, board upgrades |
+| Hidden enemy formation | Queen builds, Phantom Tile, Protective Tile |
+| Your pieces shuffled | Multiple queens, simple formations, board upgrades |
+| Stasis / forced waits | Trap Tile, Protective Tile, Jumps Gambit |
+| Cursed tiles | Jumps Gambit, backup attackers, extra money |
+| Crumble pressure | Jumps Gambit, Phantom Tile, Thunder's Gambit |
+
+## Pre-Boss Checklist
+
+Run this before every boss fight. If any answer is no, fix it first.
+
+| Question | If no |
+|----------|-------|
+| Do I understand what this boss punishes? | Read the modifier again |
+| Can I win if Stock is disabled? | Deploy key pieces or buy board space |
+| Can I survive if my reserve is destroyed? | Move value onto the board or save rebuild money |
+| Do I have at least one flexible attacker? | Buy or deploy a queen, rook, bishop, or knight |
+| Do I have a backup if my queen dies? | Add Stock, money, Phantom, Blessed, or another attacker |
+| Can I handle STASIS or elite pieces? | Prepare safe waits and delayed capture routes |
+| Can I avoid cursed or crumbling tiles? | Move key pieces before committing |
+| Am I rushing my first capture? | Stop and check long-range threats |
+
+## Next Steps
+
+- Full boss-by-boss breakdown: [Boss Battle Guide](/bosses/)
+- Economy and shop timing: [Economy Guide](/economy/)
+- Build archetypes for boss fights: [Build Guide](/build-guide/)
+- Recovering after a rough boss win: [Post-Boss Economy Restart](/post-boss-economy-restart/)

@@ -3,7 +3,7 @@ categories: ["Difficulty & Progression"]
 tags:
   - "Walkthrough"
 title: 'Gambonanza Complete Walkthrough (v1.1.0)-Step-by-Step Run Guide'
-description: 'Full Gambonanza walkthrough for patch v1.1.0. Step-by-step run guide from seed selection to Grandmaster. Covers opening economy, mid-game transition, every boss fight, and endgame strategy. Updated for patch v1.1.0.'
+description: 'Full Gambonanza walkthrough for patch v1.5.x. Step-by-step run guide from seed selection to the final boss. Covers opening economy, mid-game transition, every boss checkpoint, and endgame strategy.'
 lastUpdated: 'v1.1.0-05-14'
 version: 'v1.1.0'
 ---
@@ -14,7 +14,7 @@ version: 'v1.1.0'
 
 {{< callout type="verdict" >}}<strong>Verdict</strong>
 
-  Beginners make exactly two critical mistakes: over-expanding in the opening, and failing to transition in the mid-game. Fix those two things, and reaching Grand Master is just a matter of reps. If you need a shortcut, the [Beginner Guide](/beginner/) covers the 5 rules that carry you through your first 5 runs. Each boss phase demands a different approach - check the [Boss Guide](/boss-guide/) for phase-by-phase tactics.
+  Beginners make exactly two critical mistakes: over-expanding in the opening, and failing to transition in the mid-game. Fix those two things, and reaching the final boss is just a matter of reps. If you need a shortcut, the [Beginner Guide](/beginner/) covers the 5 rules that carry you through your first 5 runs. Each boss checkpoint demands a different approach - check the [Boss Guide](/bosses/) for the full modifier breakdown.
   <strong>Difficulty Rating:</strong> <span class='meta-rating'>A</span>-steep at first, but every run teaches you something.{{< /callout >}}
 
 ## Phase 1: Opening (3x3-4x4)
@@ -52,9 +52,11 @@ Transition into a combat-ready configuration and prepare for your first boss.
 ### Decision Tree
 
 ```
-First boss is Jester?
- Yes-Keep expanding, rush kill on 4x4 board
- No-Switch to defensive formation, fill Gambit slots
+Read the boss preview in the shop
+ Boss disables Stock (Hikarul)? - Deploy key pieces NOW, stop saving
+ Boss eats Stock on capture (Jawby)? - Move value onto the board
+ Boss shuffles your setup (M3CH4GNU5)? - Use simple, flexible formations
+ No boss shown yet? - Keep expanding but manage pace
 
 Already have 8+ pieces on board?
  Yes-Start clearing low-tier pieces, keep high-value ones
@@ -76,11 +78,14 @@ See the <a href='/boss-strategy-guide'>full Boss Strategy Guide</a> for in-depth
 
 | Boss | One-Liner Counter |
 |------|-------------------|
-| Jester | Predictable rhythm-defend then punish |
-| King of Spades | Without King Bind, drop offensive formation entirely |
-| Blitzking | Grid Lock is your lifeline |
-| Queen of Hearts | Mirror formation, exploit the reversal |
-| Grand Master | Dual Gambit setup + trap strategy |
+| Hikarul the Banished | Deploy everything before the fight, Stock is dead |
+| Botezarro | Check the mask color every turn before capturing |
+| Jawby Fisher | Empty your Stock, keep Phantom bait |
+| Judit Polgeisha | Flexible attackers, check threats on reveal |
+| Kev Borclick | Clear other threats, burn STASIS with safe waits |
+| M3CH4GNU5 C4RL53N | Simple formations, no fixed-square plans |
+| Tal the Cursed | Keep queens and rooks off cursed tiles |
+| Mighty Kasparov | Protect your carry, trade only when clearly ahead |
 
 </div>
 

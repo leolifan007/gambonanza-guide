@@ -27,7 +27,7 @@ version: 'v1.1.0'
 | Seed | Highlights | Best For | Rating |
 |------|-----------|----------|--------|
 | 1238513920 | Double Gambit opener + economy relic | All-round | <span class='meta-badge meta-s'>S</span> |
-| 48827315 | Strong Gambit pool (includes King Bind) | King of Spades specialist | <span class='meta-badge meta-a'>A</span> |
+| 48827315 | Strong Gambit pool (includes King Bind) | Tal the Cursed specialist | <span class='meta-badge meta-a'>A</span> |
 | 782993044 | Early economy burst | Fast Farm | <span class='meta-badge meta-a'>A</span> |
 | 55512345 | High Pawn spawn rate | Pawn Rush | <span class='meta-badge meta-b'>B</span> |
 | 918273645 | High-risk high-reward Gambit pool | Lucky Gambler | <span class='meta-badge meta-b'>B</span> |

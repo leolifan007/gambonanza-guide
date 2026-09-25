@@ -31,7 +31,7 @@ categories: ["Pieces & Cards"]
 **The golden rule:** The smaller the board, the more aggressive you need to play. On 4x4, a passive opening loses you the game by turn 5. On 8x8, being too aggressive leaves you broke by turn 10.
 
 
-<img src="/images/guides/board-size-comparison.svg" alt="Board Size Strategy Comparison: 4x4 aggressive Knight Rush 62% win rate 8-12 turns, 6x6 balanced Rook Control 65% win rate 12-18 turns, 8x8 economy Queen Supremacy 72% win rate 18-30 turns" />
+<img src="/images/guides/board-size-comparison.svg" alt="Board Size Strategy Comparison: 4x4 aggressive Knight Rush wins fast in 8-12 turns, 6x6 balanced Rook Control wins in 12-18 turns, 8x8 economy Queen Supremacy wins in 18-30 turns" />
 
 ## 4x4 Board: Speed Chess
 
@@ -43,15 +43,15 @@ categories: ["Pieces & Cards"]
 
 ### Best Builds
 
-If you want the fastest 4x4 win rate, our [Knight Rush Opener](/knight-rush-opener/) delivers the 62-68% finish you need in an average of 10 turns.
+If you want the fastest 4x4 win rate, our [Knight Rush Opener](/knight-rush-opener/) delivers the aggressive finish you need in around 10 turns.
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Build | Win Rate | Why It Works |
 |-------|----------|--------------|
-| Knight Rush | 62-68% | Knights dominate close-quarters combat |
-| Aggro Bishop | 59-63% | Diagonal control covers most of the board |
-| Fast Farm Economy | 55-60% | Quick stock then overpower opponent |
+| Knight Rush | Top tier | Knights dominate close-quarters combat |
+| Aggro Bishop | Strong | Diagonal control covers most of the board |
+| Fast Farm Economy | Solid | Quick stock then overpower opponent |
 
 </div>
 
@@ -64,7 +64,7 @@ If you want the fastest 4x4 win rate, our [Knight Rush Opener](/knight-rush-open
 
 ### Positional Strategy
 - Every square is important
-- Center control is everything (4 center squares cover 25% of the board)
+- Center control is everything (the 4 center squares dominate the middle of the board)
 - Knights at d4/e4/d5/e5 have maximum coverage
 - Bishops from the center reach every corner in 1 move
 
@@ -81,9 +81,9 @@ If you want the fastest 4x4 win rate, our [Knight Rush Opener](/knight-rush-open
 
 | Build | Win Rate | Why It Works |
 |-------|----------|--------------|
-| Rook Control | 65% | Column control covers 1/6 of the board |
-| Mixed Builds | 60-65% | Flexibility is key at this size |
-| Deterministic Gambits | 63% | Predictable outcomes matter more |
+| Rook Control | Top tier | Column control covers a large share of the board |
+| Mixed Builds | Strong | Flexibility is key at this size |
+| Deterministic Gambits | Strong | Predictable outcomes matter more |
 
 </div>
 
@@ -122,9 +122,9 @@ The 8x8 board rewards long-term planning. The [Queen Supremacy Guide](/queen-sup
 
 | Build | Win Rate | Why It Works |
 |-------|----------|--------------|
-| Queen Supremacy | 68% | Queen's mobility covers huge spaces |
-| Infinite Loop | 70% | Time to set up complex Gambit rotations |
-| Economy Engine | 72% | Long game favors stock accumulation |
+| Queen Supremacy | Strong | Queen's mobility covers huge spaces |
+| Infinite Loop | Top tier | Time to set up complex Gambit rotations |
+| Economy Engine | Top tier | Long game favors stock accumulation |
 
 </div>
 

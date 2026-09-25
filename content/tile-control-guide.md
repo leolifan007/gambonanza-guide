@@ -84,7 +84,7 @@ Deploy to edge Gambit tiles "?farm stock "?Earthquake/Board Shrink to collapse c
 
 </div>
 
-> **Best vs Jester:** Jester accelerates Crumble anyway "?Edge Gambit works perfectly.
+> **Best vs M3CH4GNU5 C4RL53N:** M3CH4GNU5 C4RL53N accelerates Crumble anyway "?Edge Gambit works perfectly.
 
 {{< section-divider >}}
 

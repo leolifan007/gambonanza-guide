@@ -3,7 +3,7 @@ tags:
   - "Gambits"
   - "Meta & Builds"
 title: "Enigmas Gambit - The Hidden S-Tier Gambit Most Players Miss (Complete Guide)"
-description: "Enigmas Gambit is secretly S-Tier in Gambonanza v1.1.0. How it works, the 3 builds that abuse it, relic synergies, and why it has a 72% win rate when paired correctly."
+description: "Enigmas Gambit is secretly S-Tier in Gambonanza v1.1.0. How it works, the 3 builds that abuse it, relic synergies, and why it is one of the strongest picks when paired correctly."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
@@ -52,7 +52,7 @@ Here is why it is actually S-Tier:
 
 {{< callout type="verdict" >}}<strong>The Truth</strong>
 
-  Enigmas Gambit has a 72% win rate when paired with Column Gambits or Economy Gambits. The only reason it has a reputation as B-Tier is because 80% of players use it with the WRONG Gambits. If you trigger it with a weak Gambit, you just doubled your weakness.{{< /callout >}}
+  Enigmas Gambit is at its best when paired with Column Gambits or Economy Gambits. The only reason it has a reputation as B-Tier is because 80% of players use it with the WRONG Gambits. If you trigger it with a weak Gambit, you just doubled your weakness.{{< /callout >}}
 
 ## The 3 Best Enigmas Builds
 
@@ -72,7 +72,7 @@ Pair Enigmas with a strong economy Gambit. Every copy doubles your stock generat
 4. By turn 10, you have 60+ stock while opponent has 20
 5. Use stock advantage to buy premium Gambits and win
 
-**Win rate:** 68% on 6x6 boards
+**Reliability:** High on 6x6 boards
 
 ### Build 2: The Control Loop (Intermediate)
 
@@ -89,7 +89,7 @@ Pair Enigmas with a suppression Gambit. Your opponent can never escape the contr
 3. Opponent is locked in a 2x suppression zone
 4. Slowly grind them out while building economy
 
-**Win rate:** 71% on 5x5-6x6 boards. For the full board control philosophy beyond Gambits, the [Board Clutter Priority Guide](/board-clutter-priority/) covers positioning fundamentals.
+**Reliability:** High on 5x5-6x6 boards. For the full board control philosophy beyond Gambits, the [Board Clutter Priority Guide](/board-clutter-priority/) covers positioning fundamentals.
 
 ### Build 3: The Infinite Loop (Advanced)
 
@@ -105,7 +105,7 @@ Create a 3-Gambit rotation where each Gambit feeds into the next.
 2. Activate Gambit B -> Enigmas copies B next cycle
 3. Activate Gambit C (filler) -> Enigmas copies your strongest from the A/B cycle
 
-**Win rate:** 78% on 8x8 (long games favor this build)
+**Reliability:** Very high on 8x8 (long games favor this build)
 
 ## What NOT to Pair With Enigmas
 

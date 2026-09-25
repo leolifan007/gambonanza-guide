@@ -35,7 +35,7 @@ Here's what actually matters-no filler, no "understand the basics," just the stu
 
 </div>
 
-**You win by checkmating OR completing the round's objective.** You earn stock between rounds. You spend stock on new Gambits and upgrades in casino shops. You die to bosses until you learn their patterns. Rinse, repeat, git gud. The [Complete Walkthrough](/complete-walkthrough/) maps every phase from opening to Grandmaster with exact turn-by-turn decisions.
+**You win by checkmating OR completing the round's objective.** You earn stock between rounds. You spend stock on new Gambits and upgrades in casino shops. You die to bosses until you learn their patterns. Rinse, repeat, git gud. The [Complete Walkthrough](/complete-walkthrough/) maps every phase from opening to Mighty Kasparov with exact turn-by-turn decisions.
 
 **That's it.** Everything else is noise until you've cleared 5+ runs. The [Economy Guide](/economy/) breaks down every stock strategy if you want to optimize early.
 

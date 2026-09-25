@@ -4,7 +4,7 @@ tags:
   - "Pieces & Cards"
   - "Tips"
 title: "Master the Knight: The Most Underrated Piece in Gambonanza (Pro Tips)"
-description: "The Knight is Gambonanza's most versatile piece. Most players ignore it. After 300 hours, I can show you exactly how a single Knight can carry your entire run. Movement patterns, Gambit combos, and positioning secrets."
+description: "The Knight is Gambonanza's most versatile piece. Most players ignore it. After a lot of runs, I can show you exactly how a single Knight can carry your entire run. Movement patterns, Gambit combos, and positioning secrets."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
@@ -37,7 +37,7 @@ categories: ["Pieces & Cards"]
 
 ## Why the Knight is Underrated
 
-I spent my first 100 hours treating Knights as "weak Bishops." They have fewer attack lines, their L-move feels awkward, and they don't control open diagonals.
+I spent my first stretch of runs treating Knights as "weak Bishops." They have fewer attack lines, their L-move feels awkward, and they don't control open diagonals.
 
 **I was wrong.**
 

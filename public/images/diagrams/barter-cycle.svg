@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="380" viewBox="0 0 700 380">
+<rect width="700" height="380" fill="#1A0F1A" rx="12"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker></defs>
+<text x="350.0" y="34" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Barter's Gambit Reset Cycle</text>
+<rect x="50" y="70" width="170" height="110" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<rect x="50" y="70" width="170" height="24" rx="8" fill="#D4A84A" opacity="0.18"/>
+<text x="135.0" y="87" fill="#D4A84A" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Barter Active</text>
+<text x="135.0" y="112" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Sell a BISHOP</text>
+<text x="135.0" y="130" fill="#E8D5C0" font-size="12.5" text-anchor="middle">grants a random</text>
+<text x="135.0" y="148" fill="#E8D5C0" font-size="12.5" text-anchor="middle">piece (5 uses)</text>
+<rect x="265" y="70" width="170" height="110" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="265" y="70" width="170" height="24" rx="8" fill="#4A9B9B" opacity="0.18"/>
+<text x="350.0" y="87" fill="#4A9B9B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Reward</text>
+<text x="350.0" y="112" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Extra piece</text>
+<text x="350.0" y="130" fill="#E8D5C0" font-size="12.5" text-anchor="middle">enters the Stock</text>
+<text x="350.0" y="148" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Counts down</text>
+<rect x="480" y="70" width="170" height="110" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<rect x="480" y="70" width="170" height="24" rx="8" fill="#D4A84A" opacity="0.18"/>
+<text x="565.0" y="87" fill="#D4A84A" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Enter the Shop</text>
+<text x="565.0" y="112" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Uses reset to 5</text>
+<text x="565.0" y="130" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Fresh cycle</text>
+<text x="565.0" y="148" fill="#E8D5C0" font-size="12.5" text-anchor="middle">common path</text>
+<rect x="265" y="240" width="170" height="110" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="265" y="240" width="170" height="24" rx="8" fill="#4A9B9B" opacity="0.18"/>
+<text x="350.0" y="257" fill="#4A9B9B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Graveyard (1.5.1)</text>
+<text x="350.0" y="282" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Trade also resets</text>
+<text x="350.0" y="300" fill="#E8D5C0" font-size="12.5" text-anchor="middle">after a Graveyard</text>
+<text x="350.0" y="318" fill="#E8D5C0" font-size="12.5" text-anchor="middle">New in 1.5.1</text>
+<line x1="220" y1="125" x2="265" y2="125" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="435" y1="125" x2="480" y2="125" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="565" y1="180" x2="565" y2="220" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="565" y1="220" x2="435" y2="295" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+</svg>

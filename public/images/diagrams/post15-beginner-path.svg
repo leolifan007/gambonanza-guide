@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="300" viewBox="0 0 700 300">
+<rect width="700" height="300" fill="#1A0F1A" rx="12"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker></defs>
+<text x="350.0" y="34" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">New Player Path After 1.5</text>
+<rect x="60" y="110" width="130" height="110" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="125" y="150" fill="#4A9B9B" font-family="'VT323',monospace" font-size="26" text-anchor="middle">1</text>
+<text x="125" y="185" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Start on PAWN</text>
+<line x1="190" y1="165" x2="210" y2="165" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="210" y="110" width="130" height="110" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="275" y="150" fill="#D4A84A" font-family="'VT323',monospace" font-size="26" text-anchor="middle">2</text>
+<text x="275" y="185" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Tune Settings</text>
+<line x1="340" y1="165" x2="360" y2="165" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="360" y="110" width="130" height="110" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="425" y="150" fill="#4A9B9B" font-family="'VT323',monospace" font-size="26" text-anchor="middle">3</text>
+<text x="425" y="185" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Learn Powers</text>
+<line x1="490" y1="165" x2="510" y2="165" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="510" y="110" width="130" height="110" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="575" y="150" fill="#D4A84A" font-family="'VT323',monospace" font-size="26" text-anchor="middle">4</text>
+<text x="575" y="185" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Climb Strains</text>
+</svg>

@@ -34,13 +34,13 @@ Gambits are the core engine. Every piece move triggers a Gambit effect-Gambits c
 ---
 
 ###  Boss Battle Guide
-*8 bosses  Universal tactics  Per-boss strategies*
+*8 bosses  Real modifiers  Per-boss preparation*
 
-Bosses in Gambonanza follow patterns-predictable, learnable patterns. Here are the universal rules (Rule 1: Scout First) and individual breakdowns for all 8 bosses with exact Gambit counters.
+Every boss in Gambonanza changes a rule, not just the piece count. Here is the verified roster of all 8 bosses with their real in-game modifiers, plus the universal prep that carries you through any checkpoint.
 
 <div style="margin-top:8px;color:var(--cream-dark)">
-?Rook Rook (Easy) -Bishop Blocker (Medium) -Knightmare (Medium)
-&nbsp;&nbsp;<span class="meta-badge meta-s">S</span> The Grandmaster (Very Hard)
+Hikarul the Banished - Jawby Fisher - Tal the Cursed
+&nbsp;&nbsp;<span class="meta-badge meta-s">S</span> Mighty Kasparov (Final Boss)
 </div>
 
 **[Read the Boss Guide "(/bosses/)**
@@ -57,9 +57,9 @@ Stock is your retry currency. Every run costs 25 stock at the boss. Most players
 ---
 
 ###  Achievement Guide
-*22 achievements  Difficulty ratings  Unlock strategies*
+*Steam achievements  Difficulty ratings  Unlock strategies*
 
-Achievements span from "Win your first run" to extreme challenges like beating The Grandmaster on a 4x4 board with no Pawns. Each achievement is rated S/A/B for difficulty and includes the fastest known unlock strategy.
+Achievements span from "Win your first run" to the hardest challenges in the game. Each one is rated for difficulty with the fastest known unlock route.
 
 **[View Achievements "(/achievements/)**
 
@@ -86,16 +86,16 @@ Advanced strategy covers the stuff you don't figure out on your own: how to reco
 ###  Best Seeds & Starting Builds
 *Top 15 seeds  Ranked by build type  Beginner-safe picks*
 
-Your seed determines your opening Gambit pool, relic offerings, and shop rotation. I've tested over 200 seeds and ranked the top 15 for every playstyle-economy, speed runs, boss fights, and ranked mode.
+Your seed determines your opening Gambit pool, relic offerings, and shop rotation. Ranked for every playstyle-economy, speed runs, boss fights, and first clears.
 
 **[Read the Best Seeds Guide "(/best-seeds/)**
 
 ---
 
 ###  Tips & Tricks
-*25 pro tips  100+ hours of experience  The rules that changed how I play*
+*Pro tips  Core habits  The rules that change how you play*
 
-The single most important tip: always keep 50+ stock before boss fights. Boss retry costs 25, die twice and your run is over. Plus 24 more insights I wish I knew on day one.
+The single most important tip: keep a real coin buffer before boss fights so you can recover after a messy win. Plus the insights that matter most on day one.
 
 **[Read Tips & Tricks "(/tips/)**
 
@@ -129,8 +129,8 @@ No filler, no obvious questions. Every entry in this FAQ is drawn from community
 **1. Chess skill is a liability**
 Stop thinking like a chess player. Gambonanza rewards deck synergy, not positional excellence.
 
-**2. Enter every boss with 50+ stock**
-Boss retry costs 25. Broke before a boss = no second chance. Never spend all your stock right before a boss fight.
+**2. Read the boss preview before you spend**
+The shop shows the next boss. Buy the tool that answers its modifier, not the strongest generic upgrade.
 
 **3. A deck of 15 B-tier cards beats 10 S-tier + 5 filler**
 Filler kills consistency. Trim aggressively. Every card in your deck should earn its slot.
@@ -141,8 +141,8 @@ Filler kills consistency. Trim aggressively. Every card in your deck should earn
 **4. Scout first, strike second**
 Your first attempt at any new boss is recon-not a real attempt. Watch patterns before committing a strategy.
 
-**5. Undiscovered Queen cards exist**
-I've spotted at least 2 Queen cards in my recent runs that the community hasn't fully documented yet. The meta is incomplete-stay tuned.
+**5. Boss order is random, preparation is not**
+Which of the 8 bosses you face varies between runs. What does not vary is that preparation beats memorization.
 
 </div>
 </div>

@@ -17,7 +17,7 @@ The jump between Normal and King difficulty is the largest skill gap in Gambonan
 
 Gambonanza has multiple difficulty tiers, each significantly harder than the last. Based on community runs, Reddit discussions, YouTube playthroughs, and the Gambonanza Wiki, here is the definitive progression guide.
 
-{{< diagram src="difficulty-ladder.svg" alt="Difficulty progression ladder" caption="5 difficulty tiers from Easy to Grandmaster with first-clear estimates and key mechanic changes." >}}
+{{< diagram src="difficulty-ladder.svg" alt="Difficulty progression ladder" caption="5 difficulty tiers from Easy to Mighty Kasparov with first-clear estimates and key mechanic changes." >}}
 
 {{% section-divider %}}
 
@@ -28,9 +28,9 @@ Sources: [Gambonanza Wiki - King Difficulty Guide](https://gambonanza.fandom.com
 | Difficulty | AI Level | Key Changes | Average First Clear |
 |-----------|----------|-------------|-------------------|
 | Tutorial | Passive | Tutorial hand-holding | Immediate |
-| Easy | Reactive | Standard chess AI | 3-5 runs |
-| Normal | Reactive+ | Limited gambit expiration | 10-15 runs |
-| Queen | Aggressive | Gambits expire after 5 rounds | 25-40 runs |
+| Easy | Reactive | Standard chess AI | A few runs |
+| Normal | Reactive+ | Limited gambit expiration | Several runs |
+| Queen | Aggressive | Gambits expire after 5 rounds | Many runs |
 | King | Clinical | Full gambit expiration, multi-phase bosses, spectral piece decay | 25+ runs (reported) |
 
 {{% section-divider %}}
@@ -69,7 +69,7 @@ Sources: [Gambonanza Wiki - King Difficulty Guide](https://gambonanza.fandom.com
 
 **Source:** [Beginner's Guide v1.1.0](/beginner/) on gambonanzaguide.com covers the exact setup that produces first wins in this difficulty range.
 
-**Graduation check:** You win 5/10 runs. Clear first boss consistently.
+**Graduation check:** You win most of your runs and clear the first boss consistently.
 
 {{% section-divider %}}
 
@@ -85,7 +85,7 @@ Sources: [Gambonanza Wiki - King Difficulty Guide](https://gambonanza.fandom.com
 
 **Key strategies:**
 
-1. **Economic Loop is now mandatory** - You need consistent income to replace expired gambits. The Pawn Economy Loop (5+ stock per turn, 70% win rate) is the recommended build.
+1. **Economic Loop is now mandatory** - You need consistent income to replace expired gambits. The Pawn Economy Loop (5+ stock per turn) is the recommended build.
 
 2. **Don't over-rely on any single gambit** - Everything expires. Build flexible strategies.
 
@@ -103,7 +103,7 @@ The first King difficulty clear was a community milestone, with the player posti
 
 **What changes from Queen:**
 - Full gambit expiration - everything except Teleport has a timer
-- Multi-phase boss fights with "distinct phase transitions" - especially the Grandmaster final boss ([GameBrief](https://www.gamebrief.net/blog/gambonanza-boss-guide-all-stages))
+- Multi-phase boss fights with "distinct phase transitions" - especially the Mighty Kasparov final boss ([GameBrief](https://www.gamebrief.net/blog/gambonanza-boss-guide-all-stages))
 - Spectral piece decay is severe - without Gold tile conversion, you lose board presence constantly
 - Every stock matters - a single mis-spend can end the run
 
@@ -113,10 +113,10 @@ According to the [Gambonanza Wiki King Difficulty Guide](https://gambonanza.fand
 
 1. **Prioritize permanent upgrades** - Gold tile + spectral piece conversion is the single most important mechanic to master
 2. **Gambit expiration tracking** - Know exactly when each gambit expires and have replacements ready
-3. **Boss phase awareness** - Each phase transition in the Grandmaster fight has specific vulnerabilities
+3. **Boss phase awareness** - Each phase transition in the Mighty Kasparov fight has specific vulnerabilities
 4. **Stock management** - Never drop below 15 stock on King unless you're in an emergency
 
-**The True Final Boss:** Some players report a "True Final Boss" on King difficulty Stage 6, which adds an additional phase beyond the standard Grandmaster fight ([YouTube](https://www.youtube.com/watch?v=1fZ-1jrnhQg)).
+**The True Final Boss:** Some players report a "True Final Boss" on King difficulty Stage 6, which adds an additional phase beyond the standard Mighty Kasparov fight ([YouTube](https://www.youtube.com/watch?v=1fZ-1jrnhQg)).
 
 {{% section-divider %}}
 
@@ -128,7 +128,7 @@ According to the [Gambonanza Wiki King Difficulty Guide](https://gambonanza.fand
 - Play conservatively
 
 ### For Queen:
-- Pawn Economy Loop (70% win rate)
+- Pawn Economy Loop (one of the strongest builds)
 - Teleport + Heal Board as safety net
 - Don't skip the first boss - practice phase transitions
 
@@ -144,7 +144,7 @@ According to the [Gambonanza Wiki King Difficulty Guide](https://gambonanza.fand
 
 Before moving up a difficulty:
 
-- [ ] Can you clear the current difficulty with at least 50% win rate?
+- [ ] Can you clear the current difficulty consistently?
 - [ ] Do you understand gold tile mechanics?
 - [ ] Can you track gambit expiration timers?
 - [ ] Do you know each boss's phase transition pattern?

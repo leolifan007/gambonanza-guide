@@ -118,7 +118,7 @@ Think of Teleport as the spiritual equivalent of Balatro's "Blueprint" or "Brain
 
 **Yes**-once unlocked, they stay in your collection permanently across ALL runs. This is the main incentive for pushing past run-killing bosses. Every new boss unlocks a weapon you keep forever.
 
-**Priority order for boss Gambits:** The Grandmaster's Counter > Queen's Gambit Counter > Rook Rook's Shield > everything else.
+**Priority order for boss Gambits:** The Mighty Kasparov's Counter > Queen's Gambit Counter > Botezarro's Shield > everything else.
 
 {{< section-divider >}}
 
@@ -174,7 +174,7 @@ Otherwise, always buy **at least 1 thing**. Even a cheap Common Gambit is better
 
 ### Which boss should I fight first?
 
-{{< meta-rating grade="S" label="<strong>Rook Rook.</strong> Predictable pattern, rook-only movement, easy to learn. Beat it 2-3 times before even thinking about other bosses." >}}
+{{< meta-rating grade="S" label="<strong>Botezarro.</strong> Predictable pattern, rook-only movement, easy to learn. Beat it 2-3 times before even thinking about other bosses." >}}
 
 ---
 
@@ -183,7 +183,7 @@ Otherwise, always buy **at least 1 thing**. Even a cheap Common Gambit is better
 <div class="split-col">
 <div class="col">
 
-**For King of Spades & The Grandmaster:**
+**For Tal the Cursed & The Mighty Kasparov:**
 <span class="meta-badge meta-s">YES</span>
 <p>These two are borderline impossible without the correct counter-Gambits. Don't attempt without prepping.</p>
 

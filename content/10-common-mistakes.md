@@ -15,20 +15,20 @@ categories: ["Beginner"]
 
 ## Quick Fix
 
-**I have watched 200+ Gambonanza games and analyzed every loss. These 10 mistakes account for 85% of failures. Fix these and your win rate jumps 30%.**
+**I have watched a lot of Gambonanza games and analyzed my losses. These 10 mistakes cost runs again and again. Fix them and your results improve fast.**
 
 <div class="synergy-table" style="overflow-x:auto">
 
 | Mistake | Frequency | Fix Difficulty | Win Rate Impact |
 |---------|-----------|----------------|-----------------|
-| Overspending | 9/10 players | Easy | -25% |
-| Wrong positioning | 8/10 players | Medium | -20% |
-| Ignoring board size | 7/10 players | Easy | -15% |
+| Overspending | Most players | Easy | High cost |
+| Wrong positioning | Very common | Medium | Medium cost |
+| Ignoring board size | Common | Easy | Medium cost |
 
 </div>
 
 
-<img src="/images/guides/mistake-boss-prepare.svg" alt="Boss Fight Stock Mistake: Low stock (45) entering boss = 31% win rate, High stock (50+) = 72% win rate. Never enter boss with less than 50 stock." />
+<img src="/images/guides/mistake-boss-prepare.svg" alt="Boss Fight Stock Mistake: entering a boss with low stock leads to frequent losses, entering with 50+ stock wins far more often. Never enter a boss with less than 50 stock." />
 
 ## Mistake #1: The One More Gambit Trap (Most Common)
 
@@ -37,9 +37,9 @@ You have 45 stock. A boss fight is coming. One more Gambit roll... and you are b
 **The fix:** Never enter a boss fight with less than 50 stock. Boss retry costs 25. If you die with 45 stock, you get one retry. Die again? Run over. With 50+ stock, you have two retries. That is often the difference between a win and a restart. See our [Boss Guide](/boss-guide/) for stock benchmarks against each boss type.
 
 **Real numbers from my games:**
-- Enters boss with 50+ stock: 72% win rate
-- Enters boss with 25-49 stock: 48% win rate
-- Enters boss with less than 25 stock: 31% win rate
+- Enters boss with 50+ stock: wins most of the time
+- Enters boss with 25-49 stock: coin-flip at best
+- Enters boss with less than 25 stock: usually a loss
 
 ## Mistake #2: Playing Every Board the Same Way
 
@@ -51,13 +51,13 @@ If you use the same build on 4x4, 6x6, and 8x8, you are losing free win percenta
 
 | Board Size | Best Opening | Second Best |
 |------------|-------------|-------------|
-| 4x4 | Knight Rush (62%) | Aggro Bishop (59%) |
-| 6x6 | Rook Control (65%) | Mixed Build (62%) |
-| 8x8 | Economy Engine (72%) | Queen Supremacy (68%) |
+| 4x4 | Knight Rush (best) | Aggro Bishop (strong) |
+| 6x6 | Rook Control (best) | Mixed Build (strong) |
+| 8x8 | Economy Engine (best) | Queen Supremacy (strong) |
 
 </div>
 
-One player I coached was stuck at a 40% win rate. The only change he made was adapting his build to the board size. His win rate went to 62% in two weeks.
+One player I coached was losing most of his runs. The only change he made was adapting his build to the board size. His results turned around within two weeks.
 
 ## Mistake #3: Hoarding Gambit Rolls
 
@@ -112,10 +112,10 @@ Bosses have patterns. Trying to brute force through them wastes stock.
 | Boss | Punishes | Weak Against |
 |------|----------|--------------|
 | Jester | Random moves | Control Lock build |
-| King of Spades | Slow play | Aggro Knight rush |
-| Blitzking | Economy hoarding | Fast Gambit activation |
-| Queen of Hearts | Center control | Side strategies |
-| Grand Master | Weak Gambits | 3+ activated synergy |
+| Tal the Cursed | Slow play | Aggro Knight rush |
+| Kev Borclick | Economy hoarding | Fast Gambit activation |
+| Judit Polgeisha | Center control | Side strategies |
+| Mighty Kasparov | Weak Gambits | 3+ activated synergy |
 
 </div>
 
@@ -138,16 +138,16 @@ The game gives you a chance to evaluate between turns. Most players skip straigh
 3. Am I in danger next turn?
 4. What is my best move, not my fastest move?
 
-This 3-second habit alone improved my win rate by 15%.
+This 3-second habit alone noticeably improved my results.
 
 ## Mistake #10: Tilt Playing
 
 You lost a run. You are frustrated. You queue up immediately. Now you are playing angry, making worse decisions, and losing again.
 
-**The fix:** After every loss, wait 2 minutes before the next run. Stand up. Drink water. Think about ONE thing you will do differently. The [3 Simple Habits Guide](/3-simple-habits-win-rate/) covers the full mental framework that turned a 40% winrate player into consistent winners.
+**The fix:** After every loss, wait 2 minutes before the next run. Stand up. Drink water. Think about ONE thing you will do differently. The [3 Simple Habits Guide](/3-simple-habits-win-rate/) covers the full mental framework that helped me become a consistent winner.
 
 **My rule:** I keep a small note file. Every time I lose, I write one sentence about why. After 10 losses, I look at the pattern. Usually it is one mistake I keep making (for me, it was Mistake #1 - overspending before bosses). Once I identified it, I fixed it, and my win rate jumped.
 
 {{< callout type="verdict" >}}<strong>The Bottom Line</strong>
 
-  You don't need to be a chess grandmaster to win at Gambonanza. Fix these 10 mistakes and you will beat 80% of players. The real game is decision-making, not chess skill. If you can make better choices than your opponent, you win.{{< /callout >}}
+  You don't need to be a chess grandmaster to win at Gambonanza. Fix these 10 mistakes and you will beat most players. The real game is decision-making, not chess skill. If you can make better choices than your opponent, you win.{{< /callout >}}

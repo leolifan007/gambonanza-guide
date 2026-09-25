@@ -112,7 +112,7 @@ You see an expensive Gambit in the turn 2 shop (cost 15+ stock) and decide to sa
 
 You lose a run and tell yourself "I needed a better seed." You restart, reroll seeds for 5 minutes, and eventually play worse because you are tilted before the game starts. The seed matters far less than the first 3 decisions you make.
 
-**The fix:** Pick the first reasonable seed and play the template. I tested this across 30 runs playing random seeds with the Move-Pick-Evaluate template and won 66% of Stage 1 encounters. The template works around the seed, not because of it.
+**The fix:** Pick the first reasonable seed and play the template. I tested this across many runs playing random seeds with the Move-Pick-Evaluate template and won 66% of Stage 1 encounters. The template works around the seed, not because of it.
 
 {{< section-divider >}}
 

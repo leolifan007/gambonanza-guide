@@ -91,7 +91,7 @@ Gambits that fall into "never pick unless forced":
 
 ## Build Archetypes - What Works in v1.1.0
 
-### S-Tier: Economic Loop (70% win rate)
+### S-Tier: Economic Loop
 
 The dominant strategy. Take Economic Gambits, convert pawns to gold generators, stack on Gold tiles, scale income every turn.
 

@@ -3,8 +3,8 @@ tags:
   - "Pieces & Cards"
   - "Rooks"
   - "Meta & Builds"
-title: "Best Rook Build - Turn Rook Control Into 65% Wins (Full Build Guide)"
-description: "The Rook Gambit build has 65% win rate on 6x6. Full guide with piece setup, gambit loadout, board positioning, and how to transition when the Rook falls."
+title: "Best Rook Build - Turn Rook Control Into Consistent Wins (Full Build Guide)"
+description: "The Rook Gambit build is one of the most consistent on 6x6. Full guide with piece setup, gambit loadout, board positioning, and how to transition when the Rook falls."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
@@ -12,7 +12,7 @@ categories: ["Pieces & Cards"]
 ---
 
 
-# Best Rook Build - Turn Rook Control Into 65% Wins
+# Best Rook Build - Turn Rook Control Into Consistent Wins
 
 ## Quick Fix
 
@@ -31,7 +31,7 @@ categories: ["Pieces & Cards"]
 **Core principle:** The Rook is not a frontline fighter. It is a suppression engine. If you place the Rook to directly attack the opponent, you are using it wrong. The Rook's job is to control columns, not to capture pieces.
 
 
-<img src="/images/guides/rook-column-control.svg" alt="Rook Column Control Strategy: Position Rook on column 2/3, suppress opponent with column zone, profit from Column Gambits for 65% win rate" />
+<img src="/images/guides/rook-column-control.svg" alt="Rook Column Control Strategy: Position Rook on column 2/3, suppress opponent with column zone, profit from Column Gambits for consistent results" />
 
 ## Why the Rook Build Works
 
@@ -93,8 +93,8 @@ The Rook build works when you:
 ## When NOT to Use the Rook Build
 
 - **8x8 boards** - Too much space. Rook column control is too diluted. Check [Board Size Strategy](/board-size-strategy/) for 8x8-specific builds.
-- **Against King of Spades** - This boss punishes slow control builds. The [King of Spades Guide](/king-of-spades-guide/) has the exact turn-by-turn counter-strategy.
-- **Early Blitzking draw** - Blitzking can outpace your economy before the build comes online.
+- **Against Tal the Cursed** - This boss punishes slow control builds. The [Tal the Cursed Guide](/king-of-spades-guide/) has the exact turn-by-turn counter-strategy.
+- **Early Kev Borclick draw** - Kev Borclick can outpace your economy before the build comes online.
 
 ## Final Tips
 

@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/economy/</link><description>Recent content in Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/economy/index.xml" rel="self" type="application/rss+xml"/><item><title>The Graveyard in Gambonanza 1.4: Recovering Lost Pieces &amp; Buyback Cost Math</title><link>https://gambonanzaguide.com/graveyard-system-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/graveyard-system-guide/</guid><description>&lt;p&gt;The Graveyard is a new piece-recovery system introduced in Gambonanza v1.4.0. It holds your last 5 lost pieces during a run, and lets you spend money to bring them back. Each piece you recover raises the cost of every remaining piece in the Graveyard, so the system punishes greedy recovery attempts while still giving you a genuine second chance. This guide covers exactly how the system works, how the cost escalation math plays out in practice, which pieces are worth buying back, and the design logic behind why it only appears on PAWN difficulty.&lt;/p&gt;</description></item><item><title>Yin &amp; Yang Buffed to 1/2 in Gambonanza 1.4: Builds to Abuse</title><link>https://gambonanzaguide.com/yin-yang-rearup-buffs-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/yin-yang-rearup-buffs-guide/</guid><description>&lt;p&gt;The short version: Gambonanza 1.4.0 quietly turned three Gambits into real picks. Yin&amp;rsquo;s Gambit and Yang&amp;rsquo;s Gambit both moved from a 1/3 trigger to a 1/2 trigger, so they now fire almost 50 percent more often. Rear Up&amp;rsquo;s Gambit went from +$2 to +$4 on promotion, which doubles the economy you get every time you promote a piece.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/economy/</link><description>Recent content in Economy on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/economy/index.xml" rel="self" type="application/rss+xml"/><item><title>Barter's Gambit Guide: Shop Reset Cycles &amp; Graveyard Interaction (v1.5.1)</title><link>https://gambonanzaguide.com/barter-gambit-guide/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/barter-gambit-guide/</guid><description>&lt;span class="phase-tag phase-early"&gt;EARLY GAME&lt;/span&gt;
+
+
+&lt;div class="callout callout-verdict"&gt;
+Barter&amp;rsquo;s Gambit lets you sell a BISHOP and get another random piece in return, up to a limited number of times, resetting when you enter the Shop. The 1.5.1 hotfix adds a second reset: the trade also resets after a Graveyard. That makes Barter one of the more forgiving economy Gambits in the game, because two different systems now refresh your uses.
+&lt;/div&gt;
+
+
+&lt;div class="callout callout-tip"&gt;
+Barter&amp;rsquo;s reward is random, so the only thing you control is what you spend. If the Bishop anchors a diagonal your defense depends on, keep it and skip the trade.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/barter-cycle.svg" alt="Barter&amp;#39;s Gambit reset cycle through reward, shop and graveyard" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;Barter counts down as you trade, then resets on entering the Shop or after a Graveyard.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="what-barters-gambit-does"&gt;What Barter&amp;rsquo;s Gambit Does&lt;/h2&gt;
+&lt;p&gt;Barter&amp;rsquo;s Gambit is a trade engine. Selling a BISHOP grants you another random piece. The Gambit has a limited number of uses per cycle, and that cycle resets when you enter the Shop. The design intent is straightforward: turn a piece you do not need into a roll at a piece you might.&lt;/p&gt;</description></item><item><title>Stalemate Resets the Graveyard in Gambonanza 1.5.1: What Changed and Why It Matters</title><link>https://gambonanzaguide.com/graveyard-stalemate-reset-guide/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/graveyard-stalemate-reset-guide/</guid><description>&lt;span class="phase-tag phase-mid"&gt;MID GAME&lt;/span&gt;
+
+
+&lt;div class="callout callout-verdict"&gt;
+As of 1.5.1, a Stalemate resets the Graveyard. Before, your list of lost pieces survived a Stalemate; now it is cleared. If you play PAWN difficulty and lean on recovery, this means your buyback list reflects only recent losses, not your whole run. Plan recoveries around Stalemate events instead of assuming old losses stay available.
+&lt;/div&gt;
+
+
+&lt;div class="callout callout-tip"&gt;
+As of 1.5.1 a Stalemate clears the Graveyard, so the window to buy back a key piece runs from the loss to the next Stalemate. Buy what matters before that window closes.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/graveyard-stalemate-reset.svg" alt="Graveyard behavior before and after the 1.5.1 Stalemate reset" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;Before 1.5.1 the Graveyard persisted through a Stalemate. After 1.5.1 it resets.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="the-graveyard-in-one-paragraph"&gt;The Graveyard, in One Paragraph&lt;/h2&gt;
+&lt;p&gt;The Graveyard is a PAWN-difficulty system introduced in v1.4.0. It holds the last five chess pieces you lost during a run, and you can spend money to buy them back. Each recovered piece raises the cost of the remaining ones, so recovery is a declining-value purchase rather than a flat fee. From KNIGHT upward, the Strain system removes the Graveyard entirely, because higher tiers are meant to make losses stick.&lt;/p&gt;</description></item><item><title>The Graveyard in Gambonanza 1.4: Recovering Lost Pieces &amp; Buyback Cost Math</title><link>https://gambonanzaguide.com/graveyard-system-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/graveyard-system-guide/</guid><description>&lt;p&gt;The Graveyard is a new piece-recovery system introduced in Gambonanza v1.4.0. It holds your last 5 lost pieces during a run, and lets you spend money to bring them back. Each piece you recover raises the cost of every remaining piece in the Graveyard, so the system punishes greedy recovery attempts while still giving you a genuine second chance. This guide covers exactly how the system works, how the cost escalation math plays out in practice, which pieces are worth buying back, and the design logic behind why it only appears on PAWN difficulty.&lt;/p&gt;</description></item><item><title>Yin &amp; Yang Buffed to 1/2 in Gambonanza 1.4: Builds to Abuse</title><link>https://gambonanzaguide.com/yin-yang-rearup-buffs-guide/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/yin-yang-rearup-buffs-guide/</guid><description>&lt;p&gt;The short version: Gambonanza 1.4.0 quietly turned three Gambits into real picks. Yin&amp;rsquo;s Gambit and Yang&amp;rsquo;s Gambit both moved from a 1/3 trigger to a 1/2 trigger, so they now fire almost 50 percent more often. Rear Up&amp;rsquo;s Gambit went from +$2 to +$4 on promotion, which doubles the economy you get every time you promote a piece.&lt;/p&gt;
 
 &lt;div class="callout callout-verdict"&gt;
 Run Yin and Yang together for steady triggers. Run Rear Up in any promotion build. Both are cheap, both scale with run length.
@@ -50,7 +90,7 @@ Run Yin and Yang together for steady triggers. Run Rear Up in any promotion buil
 &lt;p&gt;The key point: &lt;strong&gt;Yin and Yang are triggers&lt;/strong&gt;. &lt;strong&gt;Rear Up is economy&lt;/strong&gt;. They solve different problems, which is why they pair cleanly.&lt;/p&gt;</description></item><item><title>Beat the Boss, Lost the Economy - How to Restart Stock Generation After Every Boss Fight</title><link>https://gambonanzaguide.com/post-boss-economy-restart/</link><pubDate>Thu, 18 Jun 2026 17:30:00 +0800</pubDate><guid>https://gambonanzaguide.com/post-boss-economy-restart/</guid><description>&lt;h2 id="0"&gt;0&lt;/h2&gt;
 &lt;p&gt;You beat the boss. Your economy loop is gone. Your gambit setup is scrambled. Now what? Check out &lt;a href="https://gambonanzaguide.com/economy/"&gt;Economy &amp;amp; Shop Guide&lt;/a&gt; for more. The &lt;a href="https://gambonanzaguide.com/economy-recovery-guide/"&gt;Economy Recovery Guide&lt;/a&gt; covers this in depth.&lt;/p&gt;
 &lt;p&gt;I have lost count of how many times I cleared a boss with 40+ stock, only to find myself at 8 stock five turns later with nothing but a lonely pawn and a useless Gambit slot. The boss fight is not the real test. The first 15 turns after the boss fight are where runs die.&lt;/p&gt;</description></item><item><title>Stage 4 Economy Wall - 3 Reasons Your Stock Dies Before the Boss (and How to Fix Each)</title><link>https://gambonanzaguide.com/stage-4-economy-wall/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/stage-4-economy-wall/</guid><description>&lt;h2 id="e"&gt;e&lt;/h2&gt;
-&lt;p&gt;You reach Stage 4 with 50 stock and by the time the boss fight starts you have 12. I tested this exact scenario over 40 runs across different builds, and I found the same pattern every time. The economy does not crash randomly. It crashes for three specific, preventable reasons that most players never diagnose. The &lt;a href="https://gambonanzaguide.com/economy/"&gt;Economy Guide&lt;/a&gt; covers this in depth. The &lt;a href="https://gambonanzaguide.com/economy-recovery-guide/"&gt;Economy Recovery Guide&lt;/a&gt; covers this in depth.&lt;/p&gt;
+&lt;p&gt;You reach Stage 4 with 50 stock and by the time the boss fight starts you have 12. I tested this exact scenario across many different builds, and I found the same pattern every time. The economy does not crash randomly. It crashes for three specific, preventable reasons that most players never diagnose. The &lt;a href="https://gambonanzaguide.com/economy/"&gt;Economy Guide&lt;/a&gt; covers this in depth. The &lt;a href="https://gambonanzaguide.com/economy-recovery-guide/"&gt;Economy Recovery Guide&lt;/a&gt; covers this in depth.&lt;/p&gt;
 
 &lt;div class="callout callout-verdict"&gt;
 &lt;p&gt;&lt;strong&gt;THE QUICK FIX&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Gambonanza Build Guide v1.1.0 - All Archetypes from Pawn Economy to Queen Supremacy</title><link>https://gambonanzaguide.com/build-guide/</link><pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/build-guide/</guid><description>&lt;p&gt;Not every build works in every run. The best Gambonanza players know how to read the shop and adapt. This guide covers the 5 major build archetypes in v1.1.0, when to build each one, and how to transition between them.&lt;/p&gt;
@@ -68,7 +108,7 @@ Don&amp;rsquo;t force a build. Read what the shop gives you and pivot. A flexibl
 
 &lt;hr class="section-divider"&gt;
 &lt;h2 id="build-1-pawn-economy-loop-s-tier"&gt;Build 1: Pawn Economy Loop S-Tier&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Best for:&lt;/strong&gt; Consistent runs, learning the game, King difficulty grinding&lt;/p&gt;</description></item><item><title>5+ Stock Per Turn: The Pawn Economy Loop (70% Win Rate)</title><link>https://gambonanzaguide.com/pawn-economy-loop/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/pawn-economy-loop/</guid><description>&lt;h1 id="best-economy-strategy---generate-5-stock-per-turn-from-pawns"&gt;Best Economy Strategy - Generate 5+ Stock Per Turn from Pawns&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Best for:&lt;/strong&gt; Consistent runs, learning the game, King difficulty grinding&lt;/p&gt;</description></item><item><title>5+ Stock Per Turn: The Pawn Economy Loop</title><link>https://gambonanzaguide.com/pawn-economy-loop/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/pawn-economy-loop/</guid><description>&lt;h1 id="best-economy-strategy---generate-5-stock-per-turn-from-pawns"&gt;Best Economy Strategy - Generate 5+ Stock Per Turn from Pawns&lt;/h1&gt;
 &lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;The Pawn Economy Loop generates 5+ stock per turn. Here&amp;rsquo;s the setup:&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="synergy-table" style="overflow-x:auto"&gt;
@@ -150,7 +190,7 @@ Don&amp;rsquo;t force a build. Read what the shop gives you and pivot. A flexibl
 &lt;ul&gt;
 &lt;li&gt;Pawn moves with &lt;a href="https://gambonanzaguide.com/pawn-economy-loop/"&gt;Pawn Parade&lt;/a&gt; Gambit: +1 stock per move - see full loop setup for 5+ stock/turn&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Second Wind&amp;rdquo; Gambit: +20 stock when below 10&lt;/li&gt;
-&lt;li&gt;Selling Pieces: 50% of original cost&lt;/li&gt;
+&lt;li&gt;Selling Pieces: a fraction of original cost&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="step-1-stop-spending-immediately"&gt;Step 1: Stop Spending (Immediately)&lt;/h2&gt;
@@ -296,7 +336,7 @@ Don&amp;rsquo;t force a build. Read what the shop gives you and pivot. A flexibl
 &lt;h2 id="the-3-phase-economy-strategy"&gt;The 3-Phase Economy Strategy&lt;/h2&gt;
 &lt;div class="split-col"&gt;
 &lt;div class="col"&gt;
-&lt;h3 id="phase-1-survival-hahahugoshortcode36s8hbhb"&gt;Phase 1: Survival 
+&lt;h3 id="phase-1-survival-hahahugoshortcode18s8hbhb"&gt;Phase 1: Survival 
 &lt;span class="phase-tag phase-early"&gt;EARLY GAME&lt;/span&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Stock split:&lt;/strong&gt; 80% Safe Haven / 20% Knight&amp;rsquo;s Jump&lt;/p&gt;</description></item><item><title>Gambonanza Rook &amp; Bishop Guide v1.1.0-Mastering the Support Pieces</title><link>https://gambonanzaguide.com/rook-bishop-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/rook-bishop-guide/</guid><description>&lt;h2 id="the-backbone-not-the-sidekick"&gt;The Backbone, Not The Sidekick&lt;/h2&gt;

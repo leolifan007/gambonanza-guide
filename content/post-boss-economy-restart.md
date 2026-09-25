@@ -30,7 +30,7 @@ The moment the boss screen fades, pause. Count your surviving pieces. Count your
 
 ## Stage 1 to 2 Recovery: The 5-Turn Sprint
 
-This is the gentlest transition in the game, but it is also the one where bad habits form. The board resets to a fresh 5x5 grid after the King of Spades falls. You keep most of your pieces, and boss damage is minimal.
+This is the gentlest transition in the game, but it is also the one where bad habits form. The board resets to a fresh 5x5 grid after the Tal the Cursed falls. You keep most of your pieces, and boss damage is minimal.
 
 **Recovery timeline**: 5 to 8 turns back to full economy.
 
@@ -46,7 +46,7 @@ This is the gentlest transition in the game, but it is also the one where bad ha
 
 ## Stage 2 to 3 Recovery: The First Real Test
 
-By Stage 2, you have learned enough Gambits that losing them hurts. The Blitzking transition hits harder than the King of Spades: the board expands to 6x6, and Blitzking's speed drain may have depleted your stock before the fight even ended.
+By Stage 2, you have learned enough Gambits that losing them hurts. The Kev Borclick transition hits harder than the Tal the Cursed: the board expands to 6x6, and Kev Borclick's speed drain may have depleted your stock before the fight even ended.
 
 **Recovery timeline**: 8 to 12 turns.
 
@@ -56,7 +56,7 @@ By Stage 2, you have learned enough Gambits that losing them hurts. The Blitzkin
 
 **Gambit Churn principle**: If you have only 2 Gambit slots after the fight, buy an economic Gambit before any attack Gambit. This is the single most common mistake I see at this transition. An attack Gambit deals damage but does not fix your stock problem. An economic Gambit fixes your stock problem and lets you afford the attack Gambit later.
 
-{{< callout type="danger" >}}**DANGER: Blitzking's after-effect lingers for 3 turns.** The speed drain debuff does not expire immediately when the boss dies. You lose -1 stock per turn for 3 turns post-boss. Factor this into your recovery math. If you have 12 stock after the fight, you actually have 9 stock spendable because 3 is already committed to the drain.{{< /callout >}}
+{{< callout type="danger" >}}**DANGER: Kev Borclick's after-effect lingers for 3 turns.** The speed drain debuff does not expire immediately when the boss dies. You lose -1 stock per turn for 3 turns post-boss. Factor this into your recovery math. If you have 12 stock after the fight, you actually have 9 stock spendable because 3 is already committed to the drain.{{< /callout >}}
 
 {{< section-divider >}}
 

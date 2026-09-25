@@ -60,7 +60,7 @@ The most sought-after unlocks are the 6 hidden gambits. According to the [Gambon
 ### Hidden Gambit 6
 - **Unlock condition:** The one hidden gambit with no description at all
 - **Community theory:** The most mysterious unlock. Some speculate it's related to the "True Final Boss" on King difficulty Stage 6
-- **Source:** YouTube footage shows King difficulty transitions to additional stages beyond the standard Grandmaster fight ([source](https://www.youtube.com/watch?v=1fZ-1jrnhQg))
+- **Source:** YouTube footage shows King difficulty transitions to additional stages beyond the standard Mighty Kasparov fight ([source](https://www.youtube.com/watch?v=1fZ-1jrnhQg))
 
 {{< callout type="pro-tip" title="Pro Tip for Unlocking" >}}
 The 6th hidden gambit is likely the hardest to unlock. Focus on completing King difficulty runs first - the True Final Boss may be the trigger.

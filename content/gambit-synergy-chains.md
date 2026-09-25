@@ -3,7 +3,7 @@ tags:
   - "Gambits"
   - "Combos & Synergy"
 title: "Best Gambit Combinations - 5 Synergy Chains That Win Games"
-description: "Not all Gambits work together. These 5 proven combinations have 52-70% win rates. Stop wasting Gambit slots on anti-synergies."
+description: "Not all Gambits work together. These 5 proven combinations are the most consistent in the game. Stop wasting Gambit slots on anti-synergies."
 date: "2026-05-30"
 lastmod: "2026-05-30T14:23:00+08:00"
 version: "1.1.0"
@@ -24,7 +24,7 @@ categories: ["Gambits & Combos"]
 | Economy Engine | Compound Interest | Stock Market, Pawn Parade | +18% |
 | Aggro Rush | First Blood | Knight's Tour, Quick Strike | +12% |
 | Control Lock | Bishop's Domain | Rook Wall, King's Shield | +15% |
-| Endgame Master | Pawn Storm | Promotion Power, Final Stand | +21% |
+| Endgame Master | Mighty Kasparov | Promotion Power, Final Stand | +21% |
 | Boss Killer | Crit Chain | Precision, Gambit Recycler | +24% |
 
 </div>
@@ -44,7 +44,7 @@ Your Core Gambit defines your entire strategy. Pick based on what you want to ac
 | More stock | Compound Interest | Economy Engine |
 | Fast wins | First Blood | Aggro Rush |
 | Board control | Bishop's Domain | Control Lock |
-| Endgame power | Pawn Storm | Promotion Build |
+| Endgame power | Mighty Kasparov | Promotion Build |
 | Boss kills | Crit Chain | Boss Killer |
 
 </div>
@@ -62,7 +62,7 @@ Support Gambits should make your Core stronger, not weaker.
 
 ## The 5 Best Gambit Combinations
 
-### 1. Economy Engine (Win Rate: 68%)
+### 1. Economy Engine (Consistent)
 
 **Best for:** Players who want to out-buy their opponent
 
@@ -77,7 +77,7 @@ Support Gambits should make your Core stronger, not weaker.
 
 ---
 
-### 2. Aggro Rush (Win Rate: 52%)
+### 2. Aggro Rush (High Risk)
 
 **Best for:** Players who want fast wins on small boards
 
@@ -88,11 +88,11 @@ Support Gambits should make your Core stronger, not weaker.
 - Knight's Tour: Knight mobility boost
 - Quick Strike: Faster Gambit cooldown
 
-**Result:** Win by turn 5-6 or pivot to different strategy. The [Knight Rush Opener](/knight-rush-opener/) executes this strategy with a 62% win rate on 4x4 boards.
+**Result:** Win by turn 5-6 or pivot to different strategy. The [Knight Rush Opener](/knight-rush-opener/) executes this strategy reliably on 4x4 boards.
 
 ---
 
-### 3. Control Lock (Win Rate: 61%)
+### 3. Control Lock (Reliable)
 
 **Best for:** Players who want to lock down the board
 
@@ -107,14 +107,14 @@ Support Gambits should make your Core stronger, not weaker.
 
 ---
 
-### 4. Promotion Build (Win Rate: 70%)
+### 4. Promotion Build (Consistent)
 
 **Best for:** Large boards (6x6+)
 
-**Gambits:** Pawn Storm + Promotion Power + Final Stand
+**Gambits:** Mighty Kasparov + Promotion Power + Final Stand
 
 **How it works:**
-- Pawn Storm: Spawn extra Pawns
+- Mighty Kasparov: Spawn extra Pawns
 - Promotion Power: Buffed promoted pieces
 - Final Stand: Bonuses when low on pieces
 
@@ -122,7 +122,7 @@ Support Gambits should make your Core stronger, not weaker.
 
 ---
 
-### 5. Boss Killer (Win Rate: 74% vs Bosses)
+### 5. Boss Killer (Strong vs Bosses)
 
 **Best for:** Boss fights only
 

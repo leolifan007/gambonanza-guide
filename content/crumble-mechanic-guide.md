@@ -21,7 +21,7 @@ version: 'v1.1.0'
 
 Edges collapse first. Center survives to the end. Control the center and Crumble becomes your weapon.{{< /callout >}}
 
-{{< meta-rating grade="A" label="Understanding Crumble = +30% win rate on 5x5+ boards." >}}
+{{< meta-rating grade="A" label="Understanding Crumble is a major edge on 5x5+ boards." >}}
 
 {{< section-divider >}}
 
@@ -200,27 +200,27 @@ This is the most common Crumble mistake. Players learn the patterns on 5x5, then
 
 ## Using Crumble Against Specific Bosses
 
-### Jester
-- Jester relies on board space for his trick plays and unpredictable pushes.
-- Use Crumble to **shrink the board aggressively**. On a small board, Jester's tricks are predictable.
-- **Don't** use Heal Board against Jester. You're giving him more tiles to trick on.
+### M3CH4GNU5 C4RL53N
+- M3CH4GNU5 C4RL53N relies on board space for his trick plays and unpredictable pushes.
+- Use Crumble to **shrink the board aggressively**. On a small board, M3CH4GNU5 C4RL53N's tricks are predictable.
+- **Don't** use Heal Board against M3CH4GNU5 C4RL53N. You're giving him more tiles to trick on.
 
-### King of Spades
+### Tal the Cursed
 - KOS dominates on edge lanes. He likes to push along files.
 - Crumble removes his edge options. **Collapse the edges = cut off his attack routes.**
 - He's much weaker on a 4x4 center. Force him there by turn 8.
 
-### Blitzking
-- Blitzking wins by tempo. Crumble is actually **good for him** on a small board-he has fewer tiles to react to.
-- DON'T rush the Crumble against Blitzking. Keep the board big for as long as possible.
+### Kev Borclick
+- Kev Borclick wins by tempo. Crumble is actually **good for him** on a small board-he has fewer tiles to react to.
+- DON'T rush the Crumble against Kev Borclick. Keep the board big for as long as possible.
 - If he's the one collapsing tiles, he's doing you a favor-let him.
 
-### Grandmaster
-- Grandmaster is strongest when the board is full-his position-based strategy needs space to calculate.
+### Mighty Kasparov
+- Mighty Kasparov is strongest when the board is full-his position-based strategy needs space to calculate.
 - Crumble is your best weapon against him. **Aggressively collapse edges** from turn 5 onward.
-- Forcing a 4x4 endgame with Grandmaster = you have a massive advantage. His positional calculation doesn't matter when there are only 16 tiles.
+- Forcing a 4x4 endgame with Mighty Kasparov = you have a massive advantage. His positional calculation doesn't matter when there are only 16 tiles.
 
-### Queen of Hearts
+### Judit Polgeisha
 - Mirror match. Whoever uses Crumble better wins.
 - Close combat-deploy Queen on turn 3-4 and use Crumble to funnel the fight to her.
 

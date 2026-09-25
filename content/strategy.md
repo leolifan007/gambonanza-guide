@@ -43,8 +43,8 @@ Three proven openers. Pick one per run and commit.
   <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Strongest turns 1-8. Falls off if game goes past move 15.</span>
 </div>
 
-**Best against:** Non-boss boards, Rook Rook, Bishop Bluku<br>
-**Weak against:** Queen Gambit (she eats aggressive knights), King of Spades
+**Best against:** Non-boss boards, Botezarro, Hikarul the Banished<br>
+**Weak against:** Queen Gambit (she eats aggressive knights), Tal the Cursed
 
 {{< pro-tip >}}<strong>Only 10h+ players know:</strong> On 4x4 boards, Knight Aggro can win in 4 moves against the AI. Open d4 knight-e4 knight-Backstab on f-pawn-checkmate. The AI literally cannot respond in time on boards smaller than 6x6. This is your speedrun opener.{{< /pro-tip >}}
 

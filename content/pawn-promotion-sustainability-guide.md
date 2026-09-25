@@ -103,7 +103,7 @@ Promotion in Gambonanza works differently than standard chess. It's not just abo
 |--------|----------------------|---------------------|------|
 | Teleport |-|-| Universal |
 | Backstab |-|-| Works on any piece capture |
-| Pawn Storm |-|-| Stops when last pawn promotes |
+| Mighty Kasparov |-|-| Stops when last pawn promotes |
 | Safe Haven (pawns) |-|-| Check the Gambit text |
 | Double Down |-|-| Economy independent of piece type |
 | King's Shield |-|-| Protects king, not pawns |

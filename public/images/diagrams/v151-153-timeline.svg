@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="720" height="300" viewBox="0 0 720 300">
+<rect width="720" height="300" fill="#1A0F1A" rx="12"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker></defs>
+<text x="360.0" y="34" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">1.5.1 to 1.5.3 Timeline</text>
+<line x1="50" y1="150" x2="670" y2="150" stroke="#D4A84A" stroke-width="3"/>
+<circle cx="140" cy="150" r="9" fill="#D4A84A"/>
+<text x="140" y="120" fill="#4A9B9B" font-family="'VT323',monospace" font-size="18" text-anchor="middle">1.5.1</text>
+<text x="140" y="100" fill="#E8D5C0" font-size="12.5" text-anchor="middle">9/4</text>
+<text x="140" y="190" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Stalemate resets</text>
+<text x="140" y="208" fill="#E8D5C0" font-size="12.5" text-anchor="middle">the Graveyard</text>
+<circle cx="360" cy="150" r="9" fill="#D4A84A"/>
+<text x="360" y="120" fill="#4A9B9B" font-family="'VT323',monospace" font-size="18" text-anchor="middle">1.5.2b</text>
+<text x="360" y="100" fill="#E8D5C0" font-size="12.5" text-anchor="middle">9/11</text>
+<text x="360" y="190" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Linux cursor</text>
+<text x="360" y="208" fill="#E8D5C0" font-size="12.5" text-anchor="middle">visibility fix</text>
+<circle cx="580" cy="150" r="9" fill="#D4A84A"/>
+<text x="580" y="120" fill="#4A9B9B" font-family="'VT323',monospace" font-size="18" text-anchor="middle">1.5.3</text>
+<text x="580" y="100" fill="#E8D5C0" font-size="12.5" text-anchor="middle">9/17</text>
+<text x="580" y="190" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Hover info fix +</text>
+<text x="580" y="208" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Strains navigation</text>
+</svg>

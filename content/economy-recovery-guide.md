@@ -39,8 +39,8 @@ Some bosses have passive economy drain that isn\u2019t immediately obvious:
 
 | Boss | Drain Type | Detection | Counter |
 |------|-----------|-----------|---------|
-| King of Spades | Column-lock drain: -1 stock per locked column per turn | Columns flash red before locking | Break locks with Bishop sacrifice |
-| Blitzking | Speed drain: -1 stock every 8 turns if no Gambit activated | Timer icon appears below stock counter | Activate ANY Gambit to reset timer |
+| Tal the Cursed | Column-lock drain: -1 stock per locked column per turn | Columns flash red before locking | Break locks with Bishop sacrifice |
+| Kev Borclick | Speed drain: -1 stock every 8 turns if no Gambit activated | Timer icon appears below stock counter | Activate ANY Gambit to reset timer |
 | Queen | Shuffle drain: -2 stock each time she shuffles the board |\u201cBoard Shuffle\u201d warning appears | Cluster pieces loosely \u2014 1 per zone minimum |
 | Crumble | Not a boss. But collapsing tiles destroy Gambits in progress \u2192 indirect drain | Board edges pulse orange | Shift all chains to center tiles |
 

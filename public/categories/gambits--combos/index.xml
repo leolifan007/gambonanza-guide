@@ -61,7 +61,7 @@ v1.1.0 is the Economy meta. Three S-tier Gambits dominate every run, while the r
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;Endgame Master&lt;/td&gt;
- &lt;td&gt;Pawn Storm&lt;/td&gt;
+ &lt;td&gt;Mighty Kasparov&lt;/td&gt;
  &lt;td&gt;Promotion Power, Final Stand&lt;/td&gt;
  &lt;td&gt;+21%&lt;/td&gt;
  &lt;/tr&gt;
@@ -96,7 +96,7 @@ v1.1.0 is the Economy meta. Three S-tier Gambits dominate every run, while the r
 
 
 &lt;div class="meta-rating"&gt;
- &lt;span class="meta-badge meta-s"&gt;S&lt;/span&gt;&lt;span class="meta-label"&gt;Win rate on 6x6 jumped 45% &amp;amp;quot;?72% after I learned chains.&lt;/span&gt;
+ &lt;span class="meta-badge meta-s"&gt;S&lt;/span&gt;&lt;span class="meta-label"&gt;My win rate on 6x6 jumped once I learned to chain Gambits.&lt;/span&gt;
 &lt;/div&gt;
 
 
@@ -114,24 +114,24 @@ v1.1.0 is the Economy meta. Three S-tier Gambits dominate every run, while the r
  &lt;/thead&gt;
  &lt;tbody&gt;
  &lt;tr&gt;
- &lt;td&gt;Setup &amp;ldquo;?Execute&lt;/td&gt;
+ &lt;td&gt;Setup -&amp;gt; Execute&lt;/td&gt;
  &lt;td&gt;Gambit A preps, Gambit B hits&lt;/td&gt;
- &lt;td&gt;Early Check &amp;ldquo;?Knight Fork&lt;/td&gt;
+ &lt;td&gt;Early Check -&amp;gt; Knight Fork&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
- &lt;td&gt;Amplify &amp;ldquo;?Amplify&lt;/td&gt;
+ &lt;td&gt;Amplify -&amp;gt; Amplify&lt;/td&gt;
  &lt;td&gt;Each Gambit boosts the next&lt;/td&gt;
- &lt;td&gt;Double Move &amp;ldquo;?Teleport &amp;ldquo;?Capture&lt;/td&gt;
+ &lt;td&gt;Double Move -&amp;gt; Teleport -&amp;gt; Capture&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
- &lt;td&gt;Deny &amp;ldquo;?Punish&lt;/td&gt;
+ &lt;td&gt;Deny -&amp;gt; Punish&lt;/td&gt;
  &lt;td&gt;Remove opponent options, then strike&lt;/td&gt;
- &lt;td&gt;Freeze &amp;ldquo;?Board Shrink &amp;ldquo;?Mate&lt;/td&gt;
+ &lt;td&gt;Freeze -&amp;gt; Board Shrink -&amp;gt; Mate&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;Loop&lt;/td&gt;
  &lt;td&gt;Gambit feeds back into itself&lt;/td&gt;
- &lt;td&gt;Heal &amp;ldquo;?Gambit Tile &amp;ldquo;?Free Gambit &amp;ldquo;?Heal&lt;/td&gt;
+ &lt;td&gt;Heal -&amp;gt; Gambit Tile -&amp;gt; Free Gambit -&amp;gt; Heal&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
@@ -141,6 +141,7 @@ v1.1.0 is the Economy meta. Three S-tier Gambits dominate every run, while the r
 
 &lt;h2 id="the-5-best-chains"&gt;The 5 Best Chains&lt;/h2&gt;
 &lt;h3 id="checkmate-express-s"&gt;Checkmate Express &lt;span class="meta-badge meta-s"&gt;S&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;lt;img src=&amp;quot;/images/guides/checkmate-express.svg&amp;rdquo; alt=&amp;ldquo;Checkmate Express: Early Check &amp;ldquo;?Teleport Queen &amp;ldquo;?Double Move &amp;ldquo;?Checkmate&amp;rdquo; style=&amp;ldquo;width:100%;max-width:780px;border-radius:8px;&amp;rdquo; loading=&amp;ldquo;lazy&amp;rdquo;&amp;gt;&lt;/p&gt;</description></item><item><title>Your Combo Loop Backfired? How to Spot Self-Destructive Gambit Cycles Before They Wipe Your Run</title><link>https://gambonanzaguide.com/self-destructive-loop-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/self-destructive-loop-guide/</guid><description>&lt;h2 id="heading"&gt;'&lt;/h2&gt;
+&lt;img src="https://gambonanzaguide.com/images/guides/checkmate-express.svg" alt="Checkmate Express: Early Check -&gt; Teleport Queen -&gt; Double Move -&gt; Checkmate" style="width:100%;max-width:780px;border-radius:8px;" loading="lazy"&gt;
+&lt;p&gt;&lt;strong&gt;Cost:&lt;/strong&gt; High (3 Gambits) | &lt;strong&gt;Best for:&lt;/strong&gt; Late game, exposed King | &lt;strong&gt;Win rate:&lt;/strong&gt; Devastating when it lands&lt;/p&gt;</description></item><item><title>Your Combo Loop Backfired? How to Spot Self-Destructive Gambit Cycles Before They Wipe Your Run</title><link>https://gambonanzaguide.com/self-destructive-loop-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/self-destructive-loop-guide/</guid><description>&lt;h2 id="heading"&gt;'&lt;/h2&gt;
 &lt;p&gt;You built the infinite loop. Endless value. Unlimited economy. Everything was working. Then your stock hit zero in three turns.&lt;/p&gt;
 &lt;p&gt;I see this pattern in community run logs every week. A player discovers a gambit loop that produces infinite triggers. They think they have won. But the loop has a hidden cost structure that drains their economy faster than it generates. By the time they notice, the board is full of worthless summons, their stock is empty, and the AI is one move away from checkmate.&lt;/p&gt;</description></item></channel></rss>

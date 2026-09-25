@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="340" viewBox="0 0 700 340">
+<rect width="700" height="340" fill="#1A0F1A" rx="12"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker></defs>
+<text x="350.0" y="34" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Stalemate Resets the Graveyard</text>
+<rect x="60" y="80" width="240" height="170" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="60" y="80" width="240" height="24" rx="8" fill="#4A9B9B" opacity="0.18"/>
+<text x="180.0" y="97" fill="#4A9B9B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Before 1.5.1</text>
+<text x="180.0" y="122" fill="#E8D5C0" font-size="12.5" text-anchor="middle">A Stalemate did not</text>
+<text x="180.0" y="140" fill="#E8D5C0" font-size="12.5" text-anchor="middle">clear the Graveyard</text>
+<text x="180.0" y="158" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Lost pieces stayed</text>
+<text x="180.0" y="176" fill="#E8D5C0" font-size="12.5" text-anchor="middle">as a running list</text>
+<rect x="400" y="80" width="240" height="170" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<rect x="400" y="80" width="240" height="24" rx="8" fill="#D4A84A" opacity="0.18"/>
+<text x="520.0" y="97" fill="#D4A84A" font-family="'VT323',monospace" font-size="15" text-anchor="middle">After 1.5.1</text>
+<text x="520.0" y="122" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Stalemate now resets</text>
+<text x="520.0" y="140" fill="#E8D5C0" font-size="12.5" text-anchor="middle">the Graveyard</text>
+<text x="520.0" y="158" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Clean slate each</text>
+<text x="520.0" y="176" fill="#E8D5C0" font-size="12.5" text-anchor="middle">stalemate event</text>
+<line x1="300" y1="165" x2="400" y2="165" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+</svg>

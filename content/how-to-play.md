@@ -133,14 +133,14 @@ You spend it on:
 
 | Boss # | Name | Difficulty | Key Mechanic |
 |--------|------|-----------|--------------|
-| 1 | Rook Rook | Easy | Back-rank attacks |
-| 2 | Bishop Blocker | Medium | Diagonal lockdown |
-| 3 | Knightmare | Medium | L-shaped combos |
+| 1 | Botezarro | Easy | Back-rank attacks |
+| 2 | Hikarul the Banished | Medium | Diagonal lockdown |
+| 3 | Jawby Fisher | Medium | L-shaped combos |
 | 4 | The Twins | Medium-Hard | Dual-piece coordination |
-| 5 | Pawn Storm | Hard | Swarm mechanics |
+| 5 | Mighty Kasparov | Hard | Swarm mechanics |
 | 6 | Queen's Gambit | Hard | Multi-directional assault |
 | 7 | King's Endgame | Very Hard | Escalating power |
-| 8 | The Grandmaster | Very Hard | All mechanics combined |
+| 8 | The Mighty Kasparov | Very Hard | All mechanics combined |
 
 </div>
 

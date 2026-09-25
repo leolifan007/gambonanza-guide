@@ -59,7 +59,7 @@ Economy runs have a hidden breakpoint at round 5. If you cross 80 stock by turn 
 Your first attempt at any new boss is reconnaissance, not a real try. Watch their patterns. Note which tiles they target. Then die, adjust, and come back with a plan. "Scout first, strike second" is the golden rule.
 
 {{< callout type="verdict" >}}
-**Scouting Protocol**: First attempt = 100% observation, 0% winning. Count the boss's attack pattern cycle length. Note which Gambits it counters. Write it down if you have to. One scouted boss is worth 10 blind attempts.
+**Scouting Protocol**: First attempt = pure observation, no winning expected. Count the boss's attack pattern cycle length. Note which Gambits it counters. Write it down if you have to. One scouted boss is worth 10 blind attempts.
 {{< /callout >}}
 
 ### 7. Don't Chase S-Tier Cards
@@ -72,7 +72,7 @@ Sometimes the best move is to NOT trigger a Gambit. If your Gambit effect would 
 
 ### 9. King Bind is Broken Against Bosses
 
-King Bind freezes a boss's most dangerous piece for 2 turns. Against bosses that rely on a single powerful piece (Rook Rook, Knightmare), this alone can win the fight. Always pick King Bind if it's offered.
+King Bind freezes a boss's most dangerous piece for 2 turns. Against bosses that rely on a single powerful piece (Botezarro, Jawby Fisher), this alone can win the fight. Always pick King Bind if it's offered.
 
 ### 10. Castle Rush as a Panic Button
 
@@ -126,24 +126,24 @@ I've encountered at least 2 Queen cards in recent runs that the community hasn't
 
 ## Boss-Specific Tips (19-22)
 
-### 19. Rook Rook-Stay Off the Back Rank
+### 19. Botezarro-Stay Off the Back Rank
 
-Rook Rook targets the back rank relentlessly. If you keep your pieces off the back two rows, his attack pattern becomes predictable and easy to counter.
+Botezarro targets the back rank relentlessly. If you keep your pieces off the back two rows, his attack pattern becomes predictable and easy to counter.
 
-### 20. Bishop Blocker-Go Horizontal
+### 20. Hikarul the Banished-Go Horizontal
 
-Bishop Blocker's diagonal attacks look scary but his horizontal coverage is weak. Position your pieces on different rows and his Gambits can't chain.
+Hikarul the Banished's diagonal attacks look scary but his horizontal coverage is weak. Position your pieces on different rows and his Gambits can't chain.
 
-### 21. Knightmare-Control the Center Squares
+### 21. Jawby Fisher-Control the Center Squares
 
-Knightmare's L-shaped attacks are devastating but predictable. If you control the center 4 squares, you can predict where he'll strike next and position accordingly.
+Jawby Fisher's L-shaped attacks are devastating but predictable. If you control the center 4 squares, you can predict where he'll strike next and position accordingly.
 
-### 22. The Grandmaster-Bring King Bind
+### 22. The Mighty Kasparov-Bring King Bind
 
-The Grandmaster is the hardest boss in the game. King Bind is essentially mandatory-freezing his Queen for 2 turns is the only reliable way to create an opening. Without King Bind, your win rate drops below 10%.
+The Mighty Kasparov is the hardest boss in the game. King Bind is essentially mandatory-freezing his Queen for 2 turns is the only reliable way to create an opening. Without strong piece protection, you will lose most attempts.
 
 {{< callout type="danger" >}}
-**Grandmaster Minimum Requirements**: King Bind (non-negotiable), King Teleport (panic button), at least 100 stock for 4 retries. If you don't have all three, skip the fight and farm more before attempting.
+**Mighty Kasparov Minimum Requirements**: King Bind (non-negotiable), King Teleport (panic button), at least 100 stock for 4 retries. If you don't have all three, skip the fight and farm more before attempting.
 {{< /callout >}}
 
 {{< section-divider >}}

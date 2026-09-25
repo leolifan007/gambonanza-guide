@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Patch Updates on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/patch-updates/</link><description>Recent content in Patch Updates on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/patch-updates/index.xml" rel="self" type="application/rss+xml"/><item><title>Gambonanza 1.4.0 Patch Breakdown: Enhanced AI, the Graveyard &amp; Every Change That Matters</title><link>https://gambonanzaguide.com/v140-patch-breakdown/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v140-patch-breakdown/</guid><description>&lt;div class="callout callout-verdict"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Patch Updates on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/patch-updates/</link><description>Recent content in Patch Updates on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/patch-updates/index.xml" rel="self" type="application/rss+xml"/><item><title>Gambonanza 1.5.0 Patch Breakdown: UI Revamp, Steam Deck Verified &amp; Enemy Power Feedback</title><link>https://gambonanzaguide.com/v150-patch-breakdown/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v150-patch-breakdown/</guid><description>&lt;span class="phase-tag phase-mid"&gt;MID GAME&lt;/span&gt;
+
+
+&lt;div class="callout callout-verdict"&gt;
+v1.5.0 is a polish and accessibility update, not a balance shakeup. The three things that matter: a &lt;strong&gt;UI and text revamp&lt;/strong&gt; that makes the board far easier to read (mainly for Steam Deck), &lt;strong&gt;new feedback when an enemy power is about to trigger&lt;/strong&gt; so you can react in time, and &lt;strong&gt;several achievement bug fixes&lt;/strong&gt;. The headline is that Gambonanza is now &lt;strong&gt;officially Steam Deck Verified&lt;/strong&gt;. No Gambit numbers changed, so your builds carry over untouched.
+&lt;/div&gt;
+
+
+&lt;div class="callout callout-tip"&gt;
+Update your client, then open Settings and confirm the Extra toggles are present. If they are missing, you are not on 1.5.x yet. The enemy power warning only appears on the current build.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/v150-change-map.svg" alt="v1.5.0 change map across UI, enemy powers, achievements and Steam Deck" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;v1.5.0 ships four strands of change: UI, enemy power feedback, achievement fixes, and Steam Deck verification.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="what-landed-in-150"&gt;What Landed in 1.5.0&lt;/h2&gt;
+&lt;p&gt;This is every material change pulled straight from the official 1.5.0 Steam news post, plus the hotfixes that followed it (1.5.1, 1.5.2b, 1.5.3). If you only read one section, read the verdict above: nothing here changes your Gambit math, so your existing tier lists and build notes are still valid.&lt;/p&gt;</description></item><item><title>Gambonanza 1.5.1 to 1.5.3 Patch Notes Explained: Stalemate Resets the Graveyard</title><link>https://gambonanzaguide.com/v151-153-hotfix-breakdown/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v151-153-hotfix-breakdown/</guid><description>&lt;span class="phase-tag phase-mid"&gt;MID GAME&lt;/span&gt;
+
+
+&lt;div class="callout callout-verdict"&gt;
+The 1.5.x hotfix line is small but it changes three real things. &lt;strong&gt;Stalemate now resets the Graveyard&lt;/strong&gt; (1.5.1). &lt;strong&gt;Barter&amp;rsquo;s Gambit now resets on the shop after a Graveyard&lt;/strong&gt; (1.5.1). &lt;strong&gt;Key of Life&amp;rsquo;s Gambit now resets after a Stalemate&lt;/strong&gt; (1.5.1). The rest are presentation and platform fixes, but the &amp;ldquo;Enemy Modifiers&amp;rdquo; tab is now simply called &amp;ldquo;Enemies&amp;rdquo;, which is worth knowing when you hunt for it.
+&lt;/div&gt;
+
+
+&lt;div class="callout callout-tip"&gt;
+Three reset rules changed in a single hotfix. Read Barter, Key of Life, and the Graveyard as one system, not three isolated notes, because they interact inside the same run.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/v151-153-timeline.svg" alt="Timeline of the 1.5.1 to 1.5.3 hotfixes" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;The hotfix line runs from 1.5.1 on September 4 to 1.5.3 on September 17.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h2 id="why-a-hotfix-line-deserves-its-own-guide"&gt;Why a Hotfix Line Deserves Its Own Guide&lt;/h2&gt;
+&lt;p&gt;Major patches get the attention, but hotfixes are where the developer quietly rebalances the rules that bite you in a run. The 1.5.1 hotfix alone touches three Gambit and system reset rules. If you play Gambit-heavy builds that lean on repeatable triggers, these are not cosmetic notes. They change how many times per run you can expect a trigger to fire.&lt;/p&gt;</description></item><item><title>Gambonanza 1.4.0 Patch Breakdown: Enhanced AI, the Graveyard &amp; Every Change That Matters</title><link>https://gambonanzaguide.com/v140-patch-breakdown/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/v140-patch-breakdown/</guid><description>&lt;div class="callout callout-verdict"&gt;
 v1.4.0 is a feature-forward update, not a balance nuke. The two headline systems are &lt;strong&gt;Enhanced AI Mode&lt;/strong&gt; (a toggle for players who want conventional chess instead of rogue chaos) and &lt;strong&gt;The Graveyard&lt;/strong&gt; (a PAWN-difficulty safety net that lets you buy back your last 5 lost pieces). Under the hood, Yin and Yang Gambits jumped to a 1/2 trigger, promote-into-PAWN is now real, and three Gambits got meaningful revamps. If you only change one habit after this patch, turn on Skip Animations in the new Extra settings tab.
 &lt;/div&gt;
 

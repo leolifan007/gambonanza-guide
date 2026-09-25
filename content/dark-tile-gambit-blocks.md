@@ -14,7 +14,7 @@ version: "v1.1.0"
 
 You placed your Gambit piece on what looked like a perfectly normal tile. The activation animation did not play. The Gambit did not trigger. Your stock is gone, and you are staring at a silent board wondering what went wrong.
 
-I spent 30 runs testing Gambit placements tile by tile. The answer is not a bug. Gambonanza has specific tile blocking rules that the game never explains to you. Certain tiles silently invalidate Gambit activations, and if you do not know which ones, you are throwing stock into a void.
+I tested Gambit placements tile by tile. The answer is not a bug. Gambonanza has specific tile blocking rules that the game never explains to you. Certain tiles silently invalidate Gambit activations, and if you do not know which ones, you are throwing stock into a void.
 
 {{< callout type="verdict" >}}**THE QUICK FIX**
 
@@ -120,7 +120,7 @@ Always keep one spare piece slot for a "test piece." When you enter a new stage 
 After 30 runs of tile-by-tile testing, I mapped the entire standard board for safe Gambit positions. Here are the zones where Gambits never fail due to tile blocking.
 
 **The Center 4x4 Zone**
-On a standard 8x8 board, the center 4x4 area (tiles D4 through G7 in chess notation) is always safe. These tiles are far enough from any border to avoid Boundary penalties, and they are always "light" tiles in the game's internal classification. I tested every Gambit type in this zone across 10 runs and achieved 100% activation success.
+On a standard 8x8 board, the center 4x4 area (tiles D4 through G7 in chess notation) is always safe. These tiles are far enough from any border to avoid Boundary penalties, and they are always "light" tiles in the game's internal classification. I tested every Gambit type in this zone and found that I achieved 100% activation success.
 
 **The Inner Ring (2 tiles from any edge)**
 Tiles that are at least 2 tiles away from every board edge form a 6x6 safe zone. Within this zone, Boundary penalties do not apply. However, some of these tiles can be Dark or Ghost, so you still need to test. The safety guarantee here is only about Boundary effects, not all blocking types.

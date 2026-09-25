@@ -40,7 +40,7 @@ Pair her with 1 Gambit. Win.{{< /callout >}}
 
 <img src="/images/guides/queen-teleport-combo.svg" alt="Queen Teleport Combo: Deploy-Teleport-Flee-Checkmate in 4 turns" style="width:100%;max-width:800px;border-radius:8px;" loading="lazy">
 
-**Stock cost:** High | **Win rate:** ~90% if un-countered
+**Stock cost:** High | **Upside:** Dominant if un-countered
 
 ---
 
@@ -63,7 +63,7 @@ Pair her with 1 Gambit. Win.{{< /callout >}}
 
 Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat.
 
-**Stock cost:** Medium | **Mandatory vs:** Jester, Grand Master
+**Stock cost:** Medium | **Mandatory vs:** M3CH4GNU5 C4RL53N, Mighty Kasparov
 
 {{< section-divider >}}
 
@@ -91,7 +91,7 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 <tbody>
 <tr><td>I have Teleport in my deck</td><td>Deploy Queen turn 2-3-Teleport to back rank-checkmate</td></tr>
 <tr><td>I have Double Move but no Teleport</td><td>Deploy Queen-Double Move-threaten 2 pieces-capture</td></tr>
-<tr><td>I'm vs Jester / Grand Master</td><td>Add Heal Board to deck-restore Crumble-d tiles</td></tr>
+<tr><td>I'm vs M3CH4GNU5 C4RL53N / Mighty Kasparov</td><td>Add Heal Board to deck-restore Crumble-d tiles</td></tr>
 <tr><td>I have no Queen-synergy Gambits</td><td>Wait. Naked Queen = waste of stock.</td></tr>
 <tr><td>Opponent has active Knight/Bishop</td><td>Position Queen where she can't be forked before deploying</td></tr>
 </tbody>
@@ -122,11 +122,11 @@ Crumble destroys a tile-Queen loses a diagonal-**Heal Board restores it**-repeat
 
 | Boss | Strategy | Rating |
 |------|----------|--------|
-| Jester | Queen + Heal Board. Avoid back rank. | B |
-| King of Spades | Queen is your main attacker. KOS can't punish aggression. | S |
-| Blitzking | Fast combos only. Don't overcommit. | A |
-| Queen of Hearts | Mirror match-whoever deploys Queen first + better Gambits wins | A |
-| Grand Master | Queen + Rook battery mandatory for file control | S |
+| M3CH4GNU5 C4RL53N | Queen + Heal Board. Avoid back rank. | B |
+| Tal the Cursed | Queen is your main attacker. KOS can't punish aggression. | S |
+| Kev Borclick | Fast combos only. Don't overcommit. | A |
+| Judit Polgeisha | Mirror match-whoever deploys Queen first + better Gambits wins | A |
+| Mighty Kasparov | Queen + Rook battery mandatory for file control | S |
 
 </div>
 

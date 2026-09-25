@@ -75,7 +75,7 @@ Most players have a <strong>signature mistake</strong>-a type of error they repe
 
 {{< callout type="danger" >}}<strong>FIND YOUR PATTERN</strong>
 
-  Next time you lose, write down why in three words. "Overextended again." "Saved Gambit useless." After 5 losses you'll see your pattern. Fix that one thing and your win rate jumps 20%.{{< /callout >}}
+  Next time you lose, write down why in three words. "Overextended again." "Saved Gambit useless." After 5 losses you'll see your pattern. Fix that one thing and your results improve noticeably.{{< /callout >}}
 
 {{< section-divider >}}
 

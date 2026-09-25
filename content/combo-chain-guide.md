@@ -14,7 +14,7 @@ version: 'v1.1.0'
 
 Chain them. Win.{{< /callout >}}
 
-{{< meta-rating grade="S" label="Win rate on 6x6 jumped 45% &quot;?72% after I learned chains." >}}
+{{< meta-rating grade="S" label="My win rate on 6x6 jumped once I learned to chain Gambits." >}}
 
 {{< section-divider >}}
 
@@ -24,10 +24,10 @@ Chain them. Win.{{< /callout >}}
 
 | Type | What Happens | Example |
 |------|---------------|---------|
-| Setup "?Execute | Gambit A preps, Gambit B hits | Early Check "?Knight Fork |
-| Amplify "?Amplify | Each Gambit boosts the next | Double Move "?Teleport "?Capture |
-| Deny "?Punish | Remove opponent options, then strike | Freeze "?Board Shrink "?Mate |
-| Loop | Gambit feeds back into itself | Heal "?Gambit Tile "?Free Gambit "?Heal |
+| Setup -> Execute | Gambit A preps, Gambit B hits | Early Check -> Knight Fork |
+| Amplify -> Amplify | Each Gambit boosts the next | Double Move -> Teleport -> Capture |
+| Deny -> Punish | Remove opponent options, then strike | Freeze -> Board Shrink -> Mate |
+| Loop | Gambit feeds back into itself | Heal -> Gambit Tile -> Free Gambit -> Heal |
 
 </div>
 
@@ -37,15 +37,15 @@ Chain them. Win.{{< /callout >}}
 
 ###  Checkmate Express <span class="meta-badge meta-s">S</span>
 
-<img src="/images/guides/checkmate-express.svg" alt="Checkmate Express: Early Check "?Teleport Queen "?Double Move "?Checkmate" style="width:100%;max-width:780px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/checkmate-express.svg" alt="Checkmate Express: Early Check -> Teleport Queen -> Double Move -> Checkmate" style="width:100%;max-width:780px;border-radius:8px;" loading="lazy">
 
-**Cost:** High (3 Gambits) | **Best for:** Late game, exposed King | **Win rate:** ~90%
+**Cost:** High (3 Gambits) | **Best for:** Late game, exposed King | **Win rate:** Devastating when it lands
 
 ---
 
 ###  Farm Loop <span class="meta-badge meta-s">S</span>
 
-<img src="/images/guides/heal-board-loop.svg" alt="Farm Loop: Collapse "?Heal "?Restore + Gambit "?Trigger "?Repeat" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
+<img src="/images/guides/heal-board-loop.svg" alt="Farm Loop: Collapse -> Heal -> Restore + Gambit -> Trigger -> Repeat" style="width:100%;max-width:480px;border-radius:8px;" loading="lazy">
 
 **Cost:** Medium (only Heal Board) | **Best for:** Economy farming on 5x5+ | **Stock per loop:** +8-12
 
@@ -53,19 +53,19 @@ Chain them. Win.{{< /callout >}}
 
 ###  Denial Cascade <span class="meta-badge meta-a">A</span>
 
-Freeze key piece "?Board Shrink around it "?attack freely. **Result:** Opponent loses 2 turns.
+Freeze key piece -> Board Shrink around it -> attack freely. **Result:** Opponent loses 2 turns.
 
 ---
 
 ###  Fork Factory <span class="meta-badge meta-a">A</span>
 
-Knight Boost "?Teleport Knight to fork "?Double Move "?capture 2. **Result:** +2 material in 1 turn.
+Knight Boost -> Teleport Knight to fork -> Double Move -> capture 2. **Result:** +2 material in 1 turn.
 
 ---
 
 ###  Crumble Trap <span class="meta-badge meta-b">B</span>
 
-Lure piece to edge "?Earthquake "?attack isolated piece. **Result:** Free capture.
+Lure piece to edge -> Earthquake -> attack isolated piece. **Result:** Free capture.
 
 {{< section-divider >}}
 
@@ -83,7 +83,7 @@ Lure piece to edge "?Earthquake "?attack isolated piece. **Result:** Free captur
 
 </div>
 
-> **Rule:** 70% chain now > 100% chain that never happens. Pull the trigger.
+> **Rule:** A good chain now beats a perfect chain that never happens. Pull the trigger.
 
 {{< section-divider >}}
 
@@ -115,13 +115,13 @@ Lure piece to edge "?Earthquake "?attack isolated piece. **Result:** Free captur
 
 <div class="synergy-table" style="overflow-x:auto">
 
-|  Mistake | ?Fix |
+| Mistake | Fix |
 |------------|---------|
-|  Forcing chains that aren't there | ?Play a single Gambit instead |
-|  Ignoring Farm Loop | ?Heal Board = free stock for chains |
-|  Telegraphing (hesitating after setup) | ?Execute in consecutive turns |
-|  Chaining vs Grand Master | GM has counter-chains. Single Gambits safer. |
-|  Not checking opponent's Gambits | ?Freeze/Swap = your chain backfires |
+| Forcing chains that aren't there | Play a single Gambit instead |
+| Ignoring Farm Loop | Heal Board = free stock for chains |
+| Telegraphing (hesitating after setup) | Execute in consecutive turns |
+|  Chaining vs Mighty Kasparov | He has counter-chains. Single Gambits safer. |
+| Not checking opponent's Gambits | Freeze/Swap = your chain backfires |
 
 </div>
 

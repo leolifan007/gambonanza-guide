@@ -4,8 +4,8 @@ tags:
   - "Pawns"
   - "Combos & Synergy"
   - "Strategy"
-title: "5+ Stock Per Turn: The Pawn Economy Loop (70% Win Rate)"
-description: "The Pawn Economy Loop generates 5+ stock per turn. This guide shows the exact setup, piece protection, and the build with 70% win rate."
+title: "5+ Stock Per Turn: The Pawn Economy Loop"
+description: "The Pawn Economy Loop generates 5+ stock per turn. This guide shows the exact setup, piece protection, and how to run the build consistently."
 date: "2026-06-05"
 lastmod: "2026-06-05T21:30:00+08:00"
 version: "1.1.0"
@@ -143,5 +143,5 @@ The Rook protects 3 Pawns. Each Pawn has a safe square to move to.
 
 </div>
 
-**Win rate:** 70%
+**Reliability:** High
 

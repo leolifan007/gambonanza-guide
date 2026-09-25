@@ -45,7 +45,7 @@ As of v1.1.0, Hidden Queen's gambit is fully bugged. Do not build around it. Che
 
 **Community backing:** Confirmed by the Gambonanza subreddit discussion on piece mechanics ([r/Gambonanza](https://www.reddit.com/r/Gambonanza/)).
 
-{{< diagram src="economic-loop.svg" alt="Economic gambit income loop" caption="Economic Gambits create a self-sustaining income loop. 70%+ win rate in community testing." >}}
+{{< diagram src="economic-loop.svg" alt="Economic gambit income loop" caption="Economic Gambits create a self-sustaining income loop. One of the strongest setups in community testing." >}}
 
 {{% section-divider %}}
 
@@ -62,7 +62,7 @@ As of v1.1.0, Hidden Queen's gambit is fully bugged. Do not build around it. Che
 4. Use the income to buy more Gambits/pieces
 5. Repeat
 
-The Pawn Economy Loop guide on our site shows this setup achieving 70% win rate with 5+ stock per turn generation.
+The Pawn Economy Loop guide on our site shows this setup reliably generating 5+ stock per turn.
 
 {{% section-divider %}}
 
@@ -101,7 +101,7 @@ The Pawn Economy Loop guide on our site shows this setup achieving 70% win rate 
 **What the community reports:** The jump to King difficulty isn't just about AI aggression. Key changes include:
 
 1. **Gambits expire after 5 rounds** - a change the subreddit calls run-defining ([source](https://www.reddit.com/r/Gambonanza/comments/1tjrmdl/gambonanza_too_easy/))
-2. **Bosses gain new phases** - The Grandmaster boss (Stage 5) has "multi-phase fight [with] distinct phase transitions" ([GameBrief](https://www.gamebrief.net/blog/gambonanza-boss-guide-all-stages))
+2. **Bosses have distinct mechanics** - Each of the 8 bosses changes a rule, from disabling your Stock to cursing tiles to making you skip turns
 3. **Spectral pieces become essential** - Without permanent piece strategies, you'll lose board presence over time
 
 Players report taking 25+ runs to beat King difficulty for the first time ([Reddit](https://www.reddit.com/r/Gambonanza/comments/1tg3kmf/finally_beat_king_difficulty_after_25_runs/)).

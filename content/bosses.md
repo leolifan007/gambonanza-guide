@@ -4,418 +4,204 @@ tags:
   - "Bosses"
   - "Difficulty"
   - "Meta & Builds"
-title: "Gambonanza Bosses-All 8 Bosses Ranked by Difficulty (v1.1.0)"
-description: "Every Gambonanza boss ranked from easiest to hardest. Quick-reference stats, phase mechanics, and which Gambits counter each boss. Updated for patch v1.1.0."
-------
+title: "Gambonanza Bosses - All 8 Bosses and Their Modifiers Explained"
+description: "All 8 Gambonanza bosses with their real in-game modifiers. Learn what each boss does, which builds survive it, and how to shop before the fight. Verified against patch 1.5.x."
+lastmod: "2026-09-25T16:00:00+08:00"
+version: "v1.5.0"
+---
 
-## Universal Boss Tactics
+## How Bosses Work in Gambonanza
 
-> **Skip this section and you WILL die more than necessary.** These 4 rules apply to EVERY boss. Master them once, apply them everywhere.
+A full run is roughly 25 games split into five stages. After every 4 normal games, the 5th is a boss checkpoint. That gives you 5 boss fights per run.
 
-<div class="split-col">
-<div class="col">
+Two things matter more than anything else:
 
-###  Rule 1: Scout First, Strike Second
+1. **Boss order is not fixed.** Which of the 8 bosses you face, and in what order, varies between runs. You might get Kev Borclick and Tal the Cursed in the same run, or neither.
+2. **The shop before each fight shows you the next boss.** It sits in the lower-left corner of the shop UI. Read it before you spend. You are not buying generically good upgrades, you are buying against a specific mechanic.
 
-Your first move against any new boss should be a **throwaway**-move a piece you can afford to lose, watch what Gambit the boss triggers, and ONLY then commit your real strategy. Bosses have predictable opening patterns. If you don't know them, you're gambling.
+{{< callout type="verdict" >}}<strong>THE SHORT VERSION</strong>
 
-</div>
-<div class="col">
-
-### ###  Rule 2: Enter With 50+ Stock Reserve
-
-Boss retry costs 25 stock. Going in broke = no second chance. Keep a minimum 50 stock buffer. If you're under, farm 1-2 easy non-boss rounds to rebuild. **DO NOT** spend all stock on upgrades right before a boss.
-
-</div>
-</div>
-
-<div class="split-col">
-<div class="col">
-
-###  Rule 3: Boss Gambits Are Not Optional
-
-For King of Spades and The Grandmaster, boss-specific counters (King's Counter, The Ultimate Counter) are essentially **required**. For all other bosses, they make the fight 2-3x easier. Prioritize unlocking them in the shop before attempting.
-
-</div>
-<div class="col">
-
-###  Rule 4: Learn the Pattern in 3 Runs
-
-**Your first attempt is recon.** Don't expect to win. Watch the boss's Gambit rotation, learn their board preferences, identify which squares they avoid. By run 3, you should see the pattern. Then execute.
-
-</div>
-</div>
+Bosses do not just have more pieces. Each one changes a rule. If you shop blind, you lose to a rule you never answered.{{< /callout >}}
 
 {{< section-divider >}}
 
-## Boss 1: Rook Rook
+## The 8 Bosses
 
-<div class="boss-header boss-rook">
-  <h3>Rook Rook</h3>
-  <p class="boss-sub"><strong>Piece:</strong> Rook &nbsp;|&nbsp; <strong>Difficulty:</strong>  Easy &nbsp;|&nbsp; <span class="meta-badge meta-b">B</span> Threat Level</p>
-</div>
+### 1. Hikarul the Banished
 
-### The Fight
+**Subtitle:** Specter of the Lost Game
+**Modifier:** You cannot use your Stock during the fight.
 
-Rook Rook can move up to **4 squares** along ranks and files, triggering Gambits each step. It's a horizontal/vertical bulldozer-predictable but relentless. It always opens by charging a rook down the a or h file.
+**What it changes:** Your reserve is dead weight. Everything you need must already be on the board before the fight starts.
 
-{{< meta-rating grade="B" label="Easy to read, punishing if ignored. New player's first real test." >}}
+**How to play it:**
+- Deploy important pieces before the fight. Do not save a queen in Stock "just in case."
+- Board upgrades (more active squares) are worth more here than usual.
+- Thunder's Gambit stays strong because pawn captures still generate tempo without Stock.
 
-<div class="synergy-table" style="overflow-x:auto">
-
-| Best Pieces | Best Tiles | Why It Works |
-|---|---|---|
-| **Bishop** | Diagonal control tiles | Rooks can't reach diagonals-bishops nullify 50% of their board |
-| **Knight** | Center squares | Knights threaten from angles rooks can't respond to |
-| **Queen (promoted)** | Any back-rank tile | Out-ranges the rook with rook+bishop hybrid movement |
-
-</div>
-
-<div style="margin: 12px 0">
-  {{< phase-tag "early" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem">Rook Rook is slow to develop. Rush knights and bishops aggressively. If you control diagonals by turn 3, the fight is already won.</span>
-</div>
-
-###  Exact Gambit Counters
-
-- **Pierce Through**-Break their defensive rank formation
-- **Knight+Bishop Combo**-Flank from angles the rook literally cannot reach
-- **Through the Ranks**-Counter their rank control with your own
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Rook Rook's AI can't handle a pawn sitting on the same file as its rook. Park a pawn in front of their rook and it will spend 3+ turns trying to figure out how to remove it-giving you free tempo to develop everything else.{{< /pro-tip >}}
-
-{{< section-divider >}}
-
-## Boss 2: Bishop Bluku
-
-<div class="boss-header boss-bishop">
-  <h3>Bishop Bluku</h3>
-  <p class="boss-sub"><strong>Piece:</strong> Bishop &nbsp;|&nbsp; <strong>Difficulty:</strong> ?Medium &nbsp;|&nbsp; <span class="meta-badge meta-b">B</span> Threat Level</p>
-</div>
-
-### The Fight
-
-Bishop Bluku controls both diagonals simultaneously and can **swap squares** with any piece on the same diagonal. Creates crossfire positions that look deceptively open but are actually kill zones.
-
-{{< meta-rating grade="B" label="Low damage, brutal board control. Punishes greedy openings." >}}
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Best Pieces | Best Tiles | Why It Works |
-|---|---|---|
-| **Knight** | Any non-diagonal tile | Knights hit squares bishops can NEVER reach |
-| **Pawn wall (4+)** | Blocked diagonal tiles | Pawn chains are bishop-proof-they physically block all diagonals |
-| **Rook** | Rank/file tiles | Covers what the bishop abandons when repositioning |
-
-</div>
-
-<div style="margin: 12px 0">
-  {{< phase-tag "early" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem">Build pawn chains immediately. Every pawn you play blocks one diagonal. By turn 4, you want AT LEAST 3 pawns forming an interlocking wall.</span>
-</div>
-
-###  Exact Gambit Counters
-
-- **Bishop's Blind**-Removes bishop line-of-sight for 3 turns (boss-specific, essential)
-- **Surround**-Trap pieces in blocked positions
-- **Knight's Parry**-Blocks the swap mechanic
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Bishop Bluku will ALWAYS prioritize swapping pieces on the same color square. Leave a "bait pawn" on the same color diagonal as their bishop-they'll waste their swap on it 85% of the time instead of going for your knights.{{< /pro-tip >}}
-
-{{< section-divider >}}
-
-## Boss 3: Knightmare
-
-<div class="boss-header boss-knight">
-  <h3>Knightmare</h3>
-  <p class="boss-sub"><strong>Piece:</strong> Knight &nbsp;|&nbsp; <strong>Difficulty:</strong> ?Medium &nbsp;|&nbsp; <span class="meta-badge meta-a">A</span> Threat Level</p>
-</div>
-
-### The Fight
-
-Knightmare moves in **triple L-shapes**-one knight move triggers three simultaneous L-jumps to different squares, creating unavoidable fork positions. Every turn threatens 2-3 of your pieces simultaneously.
-
-{{< meta-rating grade="A" label="Unpredictable and fork-happy. The most frustrating boss at 3-star difficulty." >}}
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Best Pieces | Best Tiles | Why It Works |
-|---|---|---|
-| **Teleport Gambit** | Any tile | Instant repositioning is the ONLY way to escape a triple fork |
-| **Pawns (2-space spread)** | Spaced out tiles | Knights can't fork pieces that are 3+ squares apart |
-| **Queen** | Center tiles | Ranged attacks threaten knight from safety |
-
-</div>
-
-<div style="margin: 12px 0">
-  {{< phase-tag "mid" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem">Survive the fork phase without losing a major piece, and Knightmare runs out of steam. Its late game is surprisingly weak.</span>
-</div>
-
-###  Exact Gambit Counters
-
-- **Knight's Parry**-Counter-attacks any knight special movement (boss-specific)
-- **Undo Move**-Recover from a fork that caught you
-- **King's Shield**-Protect king from surprise forks
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Knightmare's AI has a fatal flaw-it will NEVER jump a knight to a square adjacent to your queen, even if that square gives checkmate. Park your queen in the center and watch Knightmare short-circuit, wasting turns on suboptimal forks.{{< /pro-tip >}}
-
-{{< section-divider >}}
-
-## Boss 4: Queen Gambit
-
-<div class="boss-header boss-queen">
-  <h3>Queen Gambit</h3>
-  <p class="boss-sub"><strong>Piece:</strong> Queen &nbsp;|&nbsp; <strong>Difficulty:</strong>  Hard &nbsp;|&nbsp; <span class="meta-badge meta-a">A</span> Threat Level</p>
-</div>
-
-### The Fight
-
-Queen Gambit has rook + bishop movement, +50% attack in the center, and an instant promotion ability-she can turn ANY pawn into a queen in one turn. DO NOT let pawns survive on her side of the board.
-
-{{< meta-rating grade="A" label="Lethal in open positions. Must deny center and kill pawns on sight." >}}
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Best Pieces | Best Tiles | Why It Works |
-|---|---|---|
-| **Knights (2+)** | Flank squares | Knights are the only pieces that safely approach a queen |
-| **Queen (your own)** | Back rank | Trade queens immediately-even trade is winning |
-| **Rook battery** | Same file, stacked | Penetrate while queen is distracted |
-
-</div>
-
-<div style="margin: 12px 0">
-  {{< phase-tag "late" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem">Burns bright early, weakens late. Stall, trade pieces, and go for the war of attrition. She has no comeback mechanic after losing her queen.</span>
-</div>
-
-###  Exact Gambit Counters
-
-- **Queen's Gambit Counter**-Negates promotion ability (ESSENTIAL, boss-specific)
-- **Teleport**-Escape queen range instantly
-- **Backstab**-Attack from behind her vision
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Queen Gambit's promotion ability has a 4-turn cooldown. Count them. On turns 1, 5, 9, 13... she has it. On other turns, rush pawns freely. Track this cooldown and you control the tempo.{{< /pro-tip >}}
-
-{{< section-divider >}}
-
-## Boss 5: King of Spades
-
-<div class="boss-header boss-king">
-  <h3>King of Spades</h3>
-  <p class="boss-sub"><strong>Piece:</strong> King &nbsp;|&nbsp; <strong>Difficulty:</strong> ?Very Hard &nbsp;|&nbsp; <span class="meta-badge meta-s">S</span> Threat Level</p>
-</div>
-
-### The Fight
-
-The hardest regular boss. King of Spades teleports your pieces **off the board** with every adjacent move. He's mobile, disruptive, and at 50% HP enters Phase 2 with trap placement. This fight is NOT about checkmate-it's about surviving his piece removal.
-
-{{< meta-rating grade="S" label="Absolute menace. Without King's Counter, win rate drops below 10%." >}}
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Best Pieces | Best Tiles | Why It Works |
-|---|---|---|
-| **Bishops (long range)** | Corner squares | Attack from outside his teleport radius |
-| **Rooks** | Edge files | Stay on board edges-he favors center approaches |
-| **Everything NOT adjacent to him** | 3+ square distance | His teleport range is adjacent only |
-
-</div>
-
-<div style="margin: 12px 0">
-  {{< phase-tag "late" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem">Pure attrition. You don't rush King of Spades. You slowly drain his Gambits while preserving your pieces. Long range + patience = win.</span>
-</div>
-
-###  Exact Gambit Counters
-
-- **King's Counter**-Blocks teleport for 3 turns (**REQUIRED-do not attempt without it**)
-- **Heal Board**-Return removed pieces in Phase 2
-- **King's Shield**-Protect key pieces during teleport cooldowns
-- **Gravity Flip**-Invert movement to confuse his Phase 2 pattern
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> King of Spades will NEVER teleport a piece that's adjacent to your own king. Park a sacrificial knight next to your king and it becomes your permanent bodyguard-the boss physically can't touch it. Abuse this to keep 1 piece alive through the entire fight.{{< /pro-tip >}}
-
-{{< section-divider >}}
-
-## Boss 6: Pawn Storm
-
-<div class="boss-header boss-pawn">
-  <h3>Pawn Storm</h3>
-  <p class="boss-sub"><strong>Piece:</strong> Pawns (16) &nbsp;|&nbsp; <strong>Difficulty:</strong>  Easy &nbsp;|&nbsp; <span class="meta-badge meta-c">C</span> Threat Level</p>
-</div>
-
-### The Fight
-
-Not a boss-a **swarm**. 16 pawns advancing in formation, promoting if they reach the back rank. The trap: trying to capture them all. You can't. Focus-fire the advance pawns and let the rest clog each other.
-
-{{< meta-rating grade="C" label="Numbers over quality. Easy if you understand focus fire." >}}
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Best Pieces | Best Tiles | Why It Works |
-|---|---|---|
-| **Bishops** | Diagonal blockade tiles | Mows down advancing pawns in a line |
-| **Rooks** | Back rank | Prevents promotion-the only real danger |
-| **Anything ranged** | Chokepoint tiles | Force pawns into 1-square-wide corridors |
-
-</div>
-
-<div style="margin: 12px 0">
-  {{< phase-tag "early" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem">Aggression wins here. The longer you wait, the closer pawns get to promotion. Kill the front 2-3 pawns in the first 4 turns, then clean up the rest at your pace.</span>
-</div>
-
-###  Exact Gambit Counters
-
-- **Chain Capture**-Take out 2-3 pawns in one move chain
-- **Surround**-Trap advancing pawn groups
-- **Backstab**-Attack from behind their formation
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Pawn Storm's AI pathfinding is terrible. If you create a diagonal "wall" using just 2 bishops, the entire pawn formation will try to path around it for 3+ turns, buying you infinite time. Two bishops diagonally adjacent = the entire swarm is neutralized.{{< /pro-tip >}}
-
-{{< section-divider >}}
-
-## Boss 7: Castle Master
-
-<div class="boss-header boss-castle">
-  <h3> Castle Master</h3>
-  <p class="boss-sub"><strong>Piece:</strong> Castling &nbsp;|&nbsp; <strong>Difficulty:</strong> ?Medium-Hard &nbsp;|&nbsp; <span class="meta-badge meta-a">A</span> Threat Level</p>
-</div>
-
-### The Fight
-
-Castle Master can castle **both kingside AND queenside simultaneously**, creating an impenetrable fortress. Once castled, their king is nearly unkillable-you have to squeeze them positionally instead of going for a direct checkmate.
-
-{{< meta-rating grade="A" label="Unstoppable once castled. Key is preventing castling altogether." >}}
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Best Pieces | Best Tiles | Why It Works |
-|---|---|---|
-| **Knights** | Center tiles | Jump over castle walls to attack king directly |
-| **Rook+Queen combo** | Open files | Pressure the rook-side before castling completes |
-| **Pawn rushers** | Flank tiles | Pawn storm the king side before they castle |
-
-</div>
-
-<div style="margin: 12px 0">
-  {{< phase-tag "early" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem">This fight is won or lost in the first 5 moves. Prevent castling, and Castle Master is a mediocre opponent. Let them castle, and you're in for 20+ turns of grinding.</span>
-</div>
-
-###  Exact Gambit Counters
-
-- **Rook's Wall**-Block castling setup entirely (boss-specific)
-- **Pierce Through**-Attack through castle walls
-- **Through the Ranks**-Long-range file pressure
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Castle Master's castling is triggered by moving the king. If you check their king on turn 2 (even a meaningless check that's easily blocked), the castling Gambit is permanently disabled for the entire fight-they physically can't castle after being checked. Rush check on turn 2 with a knight = this boss becomes a 2-star fight.{{< /pro-tip >}}
-
-{{< section-divider >}}
-
-## Boss 8: The Grandmaster (Final Boss)
-
-<div class="boss-header boss-grandmaster">
-  <h3> The Grandmaster</h3>
-  <p class="boss-sub"><strong>Piece:</strong> All Pieces &nbsp;|&nbsp; <strong>Difficulty:</strong> ?Extreme &nbsp;|&nbsp; <span class="meta-badge meta-s">S+</span> Threat Level</p>
-</div>
-
-### The Fight
-
-Uses ALL piece types, ALL abilities, and gets progressively harder with each HP lost. Three distinct phases, each requiring a different strategy. The ultimate test of everything in this guide.
-
-{{< meta-rating grade="S" label="Endgame boss. Requires minimum 8 Boss Gambits and 200+ stock." >}}
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Phase | HP Range | Behavior | Counter |
-|---|---|---|---|
-| **Phase 1-Classic** | 100-66% | Standard chess opening, predictable patterns | Play normally, conserve Boss Gambits |
-| **Phase 2-Boss Mode** | 66-33% | Triggers boss-specific Gambits from ALL 7 previous bosses | Use individual boss counters as they appear |
-| **Phase 3-Perfect Play** | 33-0% | Maximum aggression, near-perfect moves | **The Ultimate Counter**-saves all your pieces for 1 turn |
-
-</div>
-
-<div style="margin: 12px 0">
-  {{< phase-tag "late" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem">The only boss where you need to manage resources across 3 distinct fights. Phase 1 and 2 are about conservation. Phase 3 is about speed.</span>
-</div>
-
-### Pre-Fight Checklist
-
-<div class="split-col">
-<div class="col">
-
-?**Required before attempting:**
-- 8+ Boss Gambits unlocked
-- 200+ stock reserve
-- King's Counter equipped
-- Queen's Gambit Counter equipped
-- At least 2 Teleport Gambits
-- Heal Board Gambit in deck
-
-</div>
-<div class="col">
-
-?**Do NOT attempt if:**
-- Less than 100 stock
-- Missing King's Counter
-- Haven't practiced Phase 3 separately
-- Only 1 healing Gambit
-- This is your first time seeing the boss
-
-</div>
-</div>
-
-###  Exact Gambit Counters
-
-- **The Ultimate Counter**-1-turn god mode, saves ALL pieces. Save for Phase 3, use on turn 2 of Phase 3 specifically.
-- **Jackpot Gambit**-Farm before the fight for free Boss Gambits
-- **Heal Board**-Essential Phase 2 recovery tool
-
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Phase 2's boss pattern rotation is FIXED: Rook-Bishop-Knight-Queen-King-Pawn-Castle, always in that order. If you have the corresponding boss counter Gambit active for the exact turns they switch, you block 80% of Phase 2 damage. Memorize the rotation, pre-load counters 1 turn early.{{< /pro-tip >}}
-
-{{< section-divider >}}
-
-## Boss Difficulty Ranking (Community Consensus)
-
-<div class="synergy-table" style="overflow-x:auto">
-
-| Rank | Boss | Win Rate* | Key Factor |
-|---|---|---|---|
-| 1 | **The Grandmaster** | ~5% | Three phases, requires full toolkit |
-| 2 | **King of Spades** | ~15% | Teleport ability is devastating |
-| 3 | **Castle Master** | ~30% | Extremely hard if you don't rush-check |
-| 4 | **Queen Gambit** | ~35% | Center control + instant promotion |
-| 5 | **Knightmare** | ~45% | Triple fork is hard to read |
-| 6 | **Bishop Bluku** | ~55% | Diagonal control punishes slow play |
-| 7 | **Rook Rook** | ~70% | Predictable, once you learn the pattern |
-| 8 | **Pawn Storm** | ~80% | Swarm is weak to focus fire |
-
-</div>
-
-*Community-estimated win rates. With this guide: all rates approximately 2x higher.
+**Common mistake:** Entering with half your value on the bench. Against Hikarul, bench value is zero value.
 
 ---
 
-*Want boss-specific Gambit details?-[All Gambits Guide](/gambits/)*<br>
-*Need to rebuild your economy for the boss?-[Stock Market & Shop Guide](/economy/)*
+### 2. Botezarro
 
-###  Individual Boss Guides
+**Subtitle:** Hollow Imitator
+**Modifier:** Capturing on a tile that matches the mask's color makes that tile crumble.
 
-- **Blitzking Boss Breakdown**-[Full Guide](/blitzking-boss-guide/)
-- **King of Spades Guide**-[Full Guide](/king-of-spades-guide/)
-- **Queen Supremacy Guide**-[Full Guide](/queen-supremacy-guide/)
-- **Rook & Bishop Guide**-[Full Guide](/rook-bishop-guide/)
-- **All 5 Bosses Quick Reference**-[Strategy Guide](/boss-strategy-guide/)
-- **Complete Walkthrough**-[Full Run Guide](/complete-walkthrough/)
+**What it changes:** Half your captures become self-destructive. The dangerous color alternates turn to turn.
+
+**How to play it:**
+- Check the mask color every turn before you commit a capture.
+- A trade that costs you the capturing piece is often a losing trade, even if the capture looked free.
+- Keep capture routes that do not require landing on the contested color.
+
+**Common mistake:** Autopiloting a good capture and losing your best piece to the tile, not the fight.
 
 ---
 
-*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+### 3. Jawby Fisher
 
+**Subtitle:** Mind Devourer
+**Modifier:** When the boss captures one of your pieces, it destroys a random piece in your Stock.
 
+**What it changes:** Every loss compounds. A bad trade does not just cost you the piece on the board.
 
+**How to play it:**
+- Move value out of Stock and onto the board. Empty Stock has nothing for Jawby to eat.
+- Phantom Tile bait absorbs captures without risking real Stock value.
+- Blessed and Protective tiles reduce how often the punishment chain starts.
+- Keep rebuild money. You will need to replace what gets eaten.
 
+**Common mistake:** Keeping your only queen in Stock while the boss eats through it.
+
+---
+
+### 4. Judit Polgeisha
+
+**Subtitle:** Queen of Illusions
+**Modifier:** You cannot see the opponent's formation during the formation phase.
+
+**What it changes:** Setup becomes guesswork. You cannot pre-position against a known threat.
+
+**How to play it:**
+- Bring flexible attackers (queen, rook) over rigid single-line plans.
+- After the reveal, check long-range threats immediately. Do not assume your setup is safe.
+- Protective Tile gives your key piece one safer turn while you read the board.
+
+**Common mistake:** Committing to a formation that only works if the opponent lines up the way you assumed.
+
+---
+
+### 5. Kev Borclick
+
+**Subtitle:** Clock of Fate
+**Modifier:** The boss selects 2 of its own pieces each turn and applies STASIS to them. STASIS pieces cannot be captured until enough waiting turns remove the state.
+
+**What it changes:** Two of the boss's pieces become untouchable anchors. Routes through them are blocked.
+
+**How to play it:**
+- Clear normal threats first. Do not waste attacks on pieces that cannot be captured yet.
+- Create safe waiting turns. You need tempo to burn off STASIS.
+- Trap Tile and Protective Tile help you stall without losing material.
+- Gambits that generate multiple capture angles matter more here, because Borclick STASISes whichever piece anchors your cleanest line.
+
+**Common mistake:** Repeatedly attacking a STASIS piece and burning your own tempo for nothing.
+
+---
+
+### 6. M3CH4GNU5 C4RL53N
+
+**Subtitle:** NaNeinf Computor
+**Modifier:** Shuffles your pieces and makes them unreadable during the formation phase.
+
+**What it changes:** Your careful setup is scrambled. You cannot rely on one exact starting square.
+
+**How to play it:**
+- Use flexible pieces and simple formations. If every piece can fight from anywhere, the shuffle matters less.
+- Avoid builds that need one specific piece on one specific square.
+- Multiple queens or broad-coverage pieces are worth more here.
+
+**Common mistake:** Building a formation that only works from a fixed starting layout.
+
+---
+
+### 7. Tal the Cursed
+
+**Subtitle:** Fallen Prodigy
+**Modifier:** Places CURSED TILES on the board. Pieces that land on them are downgraded to pawns.
+
+**What it changes:** The board itself becomes hostile. Where you land matters as much as what you capture.
+
+**How to play it:**
+- Keep queens and rooks off cursed squares unless the trade is protected.
+- Ask before every queen move: can she reach the target without stepping on a curse?
+- If the answer is no, slow down and build another route.
+- Jumps Gambit and backup attackers give you alternate paths.
+
+**Common mistake:** Parking a promoted piece on a cursed tile and losing your whole carry.
+
+---
+
+### 8. Mighty Kasparov
+
+**Subtitle:** Eternal Grandmaster
+**Modifier:** When the boss captures one of your pieces, you skip your next turn.
+
+**What it changes:** Every loss costs double. Losing a piece is bad; losing the tempo after it is worse.
+
+**How to play it:**
+- Do not enter with one win condition. Protect your key pieces and keep a backup attacker.
+- Trade only when the trade is clearly in your favor.
+- Protective Tile and Trap Tile buy you the safe turns you cannot afford to lose.
+- Do not rush a first capture. Check long-range threats before you commit.
+
+**Common mistake:** Assuming you can absorb losses the way you do on a normal board. Here, each loss takes a turn from you too.
+
+{{< section-divider >}}
+
+## Boss Difficulty for First Clears
+
+This ranking reflects which bosses end runs for new players. The hardest bosses are the ones that attack your recovery system - losing a queen is bad, losing the Stock or tile plan meant to recover that queen is worse.
+
+| Rank | Boss | Why it hurts first-timers |
+|------|------|---------------------------|
+| 1 | Jawby Fisher | Eats your reserve, so one bad trade snowballs |
+| 2 | Tal the Cursed | Cursed tiles punish the high-value pieces you rely on |
+| 3 | Kev Borclick | STASIS blocks your cleanest capture lines and eats tempo |
+| 4 | Judit Polgeisha | Hidden formation removes your setup advantage |
+| 5 | Hikarul the Banished | No Stock means no mid-fight recovery |
+| 6 | M3CH4GNU5 C4RL53N | Shuffled setup breaks rigid builds |
+| 7 | Botezarro | Dangerous tile color alternates, but readable once you know |
+| 8 | Mighty Kasparov | Brutal modifier, but its pieces are the most predictable |
+
+## Universal Boss Preparation
+
+Most boss advice reduces to one rule: do not enter with only one plan. Before every boss checkpoint, check these five things.
+
+| Check | Why it matters |
+|-------|----------------|
+| Active board | Some bosses disable or punish Stock, so your board must already work |
+| Recovery money | You may win the boss and still need to rebuild after |
+| Backup attacker | One queen can die, get blocked, or become unsafe |
+| Defensive tile | Blessed, Protective, Trap, or Phantom turns bad trades into recoverable ones |
+| Boss modifier | Your first move should answer the modifier, not ignore it |
+
+**Tools that work against most bosses:**
+
+| Tool | Best use |
+|------|----------|
+| Queen | Flexible cleanup and emergency solving |
+| Rook | Row and column control on crowded boards |
+| Bishop | Long-range diagonal pressure |
+| Knight | Good when bosses create awkward protected positions |
+| Pawn | Cheap blocker, promotion route, Gambit trigger |
+| Blessed Tile | Recovers valuable pieces after capture |
+| Protective Tile | Gives a high-value piece one safer turn |
+| Trap Tile | Stops dangerous enemy pieces or buys time |
+| Phantom Tile | Creates disposable bait or sacrifice pieces |
+
+## The One Habit That Beats Bosses
+
+Read the boss preview in the shop. Every fight in Gambonanza tells you the modifier before you spend a single coin. The players who lose to Kev Borclick's STASIS or Tal's curses are usually the ones who bought generically strong upgrades instead of the tool that answered the rule in front of them.
+
+Buy the answer, not the power.

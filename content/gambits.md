@@ -263,7 +263,7 @@ These define your build strategy. Prioritize them in every shop.
   <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px">Boss-specific. Only equip before Queen Gambit fight.</span>
 </div>
 
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Queen's Gambit Counter also works against Pawn Storm promotions. If you're going Pawn Storm  Queen Gambit back-to-back, this one Gambit neutralizes both bosses' most dangerous mechanic.{{< /pro-tip >}}
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Queen's Gambit Counter also works against Mighty Kasparov promotions. If you're going Mighty Kasparov  Queen Gambit back-to-back, this one Gambit neutralizes both bosses' most dangerous mechanic.{{< /pro-tip >}}
 
 ---
 

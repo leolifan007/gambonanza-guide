@@ -95,7 +95,7 @@ description: "Complete Gambonanza economy guide for patch v1.1.0. S/A/B/C rated 
 
 <div style="margin: 12px 0">
   {{< phase-tag "late" >}}
-  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px"><strong>Phase 3: Dominate.</strong> Stock split: 30% Safe Haven / 40% Knight's Jump / 20% Bishop's Diagonal / 10% Gambler's Gambit. Target: 100+ stock buffer. Prioritize Legendary Gambits. Save 200+ stock before King of Spades.</span>
+  <span style="color:var(--cream-dark);font-size:0.9rem;margin-left:4px"><strong>Phase 3: Dominate.</strong> Stock split: 30% Safe Haven / 40% Knight's Jump / 20% Bishop's Diagonal / 10% Gambler's Gambit. Target: 100+ stock buffer. Prioritize Legendary Gambits. Save 200+ stock before Tal the Cursed.</span>
 </div>
 
 {{< section-divider >}}

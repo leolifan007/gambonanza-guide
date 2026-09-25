@@ -43,13 +43,13 @@ Knights are your best recoverers. Only sacrifice a knight when:
 
 - **It enables a Queen Gambit activation**: Queen is worth 3 knights in stock generation
 - **Your board is overcrowded (7\u00d77 mid-game)**: Trading 1 knight frees space for rook-based chains
-- **Blitzking is speed-activating**: Sacrificing a knight to trigger a fast Bishop Gambit can interrupt Blitzking\u2019s ability charge
+- **Kev Borclick is speed-activating**: Sacrificing a knight to trigger a fast Bishop Gambit can interrupt Kev Borclick\u2019s ability charge
 
 ## When to Sacrifice a Bishop
 
 Bishops are zone controllers. Sacrifice when:
 
-- **The King of Spades is about to lock a column**: Trade the bishop to break the lock pattern
+- **The Tal the Cursed is about to lock a column**: Trade the bishop to break the lock pattern
 - **You\u2019re running a Queen Supremacy build**: Bishop sacrifice accelerates Queen activation by clearing a rank
 - **Crumble is collapsing your side**: A bishop sacrifice on the collapsing side turns a dead piece into immediate stock
 
@@ -71,7 +71,7 @@ Otherwise, never sacrifice your Queen. Queen is worth 6\u201310x any other piece
 |-----------|-----------|---------------------|---------------|
 | Pawn | 1 stock potential | Free diagonal / blocks collapse | Opening, Crumble defense |
 | Knight | 3 stock potential | Frees space / enables Queen chain | Mid-game, 7\u00d77 boards |
-| Bishop | 4 stock potential | Zone break / lock interruption | King of Spades, Crumble |
+| Bishop | 4 stock potential | Zone break / lock interruption | Tal the Cursed, Crumble |
 | Rook | 5 stock potential | Full lane control | Board control reset |
 | Queen | 8+ stock potential | Immediate win condition | Emergency only |
 
@@ -79,11 +79,11 @@ Otherwise, never sacrifice your Queen. Queen is worth 6\u201310x any other piece
 
 ## Boss-Specific Trade Strategy
 
-### King of Spades
+### Tal the Cursed
 Trading is effective early. One bishop sacrifice in phase 1 can prevent his first column lock. After phase 2, stop trading \u2014 you need every piece to survive the endgame.
 
-### Blitzking
-Speed favors trades. The faster you activate Gambits via sacrifice, the less time Blitzking has to build his ability. Pawn + Knight = ideal trade package here.
+### Kev Borclick
+Speed favors trades. The faster you activate Gambits via sacrifice, the less time Kev Borclick has to build his ability. Pawn + Knight = ideal trade package here.
 
 ### Queen
 The Queen boss punishes piece clustering. Spread your trades out across the board. Sacrifice 1 piece per zone, never 2 in the same zone.

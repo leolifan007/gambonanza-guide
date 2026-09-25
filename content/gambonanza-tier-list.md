@@ -142,7 +142,7 @@ These Gambits define your build. You don't build around them  they build around 
 
 **Phase:** {{< phase-tag "mid" >}}
 
-> **Pro Tip:** Also works against Pawn Storm promotions. Going Pawn Storm  Queen Gambit back-to-back? One Gambit neutralizes BOTH bosses' most dangerous mechanic.
+> **Pro Tip:** Also works against Mighty Kasparov promotions. Going Mighty Kasparov  Queen Gambit back-to-back? One Gambit neutralizes BOTH bosses' most dangerous mechanic.
 
 ---
 

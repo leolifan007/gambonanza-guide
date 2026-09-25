@@ -15,7 +15,7 @@ hidden: false
 ---e
 ---
 
-Your board is full, a new Gambit piece just spawned, and you have 3 seconds to decide what to sell. I tested over 50 board-clutter scenarios across every stage, and I found that indecision costs more stock than bad decisions. Players who freeze and overthink lose 2 to 3 turns of tempo. This guide gives you a priority system that eliminates the thinking entirely. The [Piece Sacrifice Guide](/piece-sacrifice-guide/) covers this in depth. The [Economy Guide](/economy/) covers this in depth.
+Your board is full, a new Gambit piece just spawned, and you have 3 seconds to decide what to sell. From my own runs across every stage, I found that indecision costs more stock than bad decisions. Players who freeze and overthink lose 2 to 3 turns of tempo. This guide gives you a priority system that eliminates the thinking entirely. The [Piece Sacrifice Guide](/piece-sacrifice-guide/) covers this in depth. The [Economy Guide](/economy/) covers this in depth.
 
 {{< callout type="verdict" >}}**THE QUICK FIX**
 
@@ -39,7 +39,7 @@ Economy generators are pieces that directly produce stock every turn or every ot
 
 Ask one question: "If I sell this piece, do I lose 5 or more stock per turn?" If the answer is yes, it is S-tier. Do not touch it.
 
-{{< pro-tip >}}**Only 10h+ players know:** Not all Queens are S-tier. A Queen that has not activated any Gambit yet is actually A-tier at best. The designation is based on current Gambit output, not piece type. I tested this across 15 runs and found that selling an inactive Queen to make space for an active Bishop Gambit was the right call in 12 out of 15 cases.{{< /pro-tip >}}
+{{< pro-tip >}}**Only 10h+ players know:** Not all Queens are S-tier. A Queen that has not activated any Gambit yet is actually A-tier at best. The designation is based on current Gambit output, not piece type. From my own runs, selling an inactive Queen to make space for an active Bishop Gambit was almost always the right call.{{< /pro-tip >}}
 
 {{< section-divider >}}
 
@@ -50,7 +50,7 @@ Ask one question: "If I sell this piece, do I lose 5 or more stock per turn?" If
 Board control pieces are the ones that prevent the boss from activating dangerous abilities. Synergy hubs are pieces that connect multiple Gambit lines together. These are valuable but not irreplaceable.
 
 **Examples:**
-- A Bishop positioned to block the King of Spades column lock
+- A Bishop positioned to block a column lock from Tal the Cursed
 - A Knight that connects two separate Gambit chains into one larger chain
 - A Pawn wall that is holding your backline together
 - Any piece that is currently the "bridge" between your left-side and right-side Gambits
@@ -125,17 +125,17 @@ Ask: "Does this piece connect to an active Gambit or generate any stock?" If the
 
 ## The 3-Second Decision Rule
 
-When a new Gambit piece spawns and your board is full, you do not have time to run the full priority system for every piece. I developed a 3-second decision rule that handles 90 percent of board clutter situations:
+When a new Gambit piece spawns and your board is full, you do not have time to run the full priority system for every piece. I developed a 3-second decision rule that handles almost every board clutter situation:
 
 1. **Second 1: Scan for C-tier.** Look at your board and identify any piece with no Gambit link. If you see one, sell it. Decision done.
 2. **Second 2: Check B-tier.** If no C-tier pieces exist, look for the lowest-value B-tier piece. Is it doing less than 2 stock per turn? Sell it. Decision done.
 3. **Second 3: Compare A-tier to the new piece.** If you are down to A-tier pieces only, ask: "Is the new piece a direct upgrade?" If yes, sell the A-tier piece. If no, do not sell anything and find space elsewhere.
 
-I tested this 3-second rule across 25 runs and I found it reduced my decision time from an average of 8 seconds to 2.5 seconds, while maintaining the same sell quality. The faster decision alone was worth +5 stock per run because I was not missing spawn windows.
+From my own runs, this 3-second rule cut my decision time sharply while maintaining the same sell quality. The faster decision alone saved me stock because I was not missing spawn windows.
 
 {{< callout type="danger" >}}**DANGER: The Hoarder Trap**
 
-The worst thing you can do with a full board is sell nothing. I tracked 15 runs where players (myself included) tried to "make space work" by shifting pieces instead of selling. In 14 out of 15 runs, the board got more cluttered and the player lost the next Gambit spawn. Selling is not losing. Keeping everything is losing. C-tier pieces are not assets. They are liabilities wearing piece costumes.{{< /callout >}}
+The worst thing you can do with a full board is sell nothing. Almost every time players (myself included) try to "make space work" by shifting pieces instead of selling, the board gets more cluttered and the player loses the next Gambit spawn. Selling is not losing. Keeping everything is losing. C-tier pieces are not assets. They are liabilities wearing piece costumes.{{< /callout >}}
 
 {{< section-divider >}}
 

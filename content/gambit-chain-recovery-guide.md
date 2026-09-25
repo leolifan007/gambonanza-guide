@@ -85,10 +85,10 @@ For experienced players, the real skill isn\u2019t preventing breaks \u2014 it\u
 
 ## Boss-Specific Recovery Notes
 
-### King of Spades
+### Tal the Cursed
 His phase transitions reset chain states globally. After his phase change, start fresh with Recovery Route A \u2014 don\u2019t try to continue a pre-phase chain.
 
-### Blitzking
+### Kev Borclick
 You have 1/3 less time to diagnose. Use Recovery Route C by default \u2014 Knight Fork Gambit requires the fewest moves to activate.
 
 ### Queen

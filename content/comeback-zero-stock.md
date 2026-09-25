@@ -3,7 +3,7 @@ tags:
   - "Economy"
   - "Recovery & Mistakes"
 title: "How to Win from 0 Stock - Emergency Recovery Guide"
-description: "Hit 0 stock by turn 5? This recovery guide has 42% win rate. Exact steps, best Gambits for comeback, and when to concede."
+description: "Hit 0 stock by turn 5? This recovery guide shows how to fight back from nothing. Exact steps, best Gambits for a comeback, and when to concede."
 date: "2026-06-01"
 lastmod: "2026-06-01T11:43:00+08:00"
 version: "1.1.0"
@@ -31,7 +31,7 @@ categories: ["Economy & Shop"]
 **Free stock sources:**
 - Pawn moves with [Pawn Parade](/pawn-economy-loop/) Gambit: +1 stock per move - see full loop setup for 5+ stock/turn
 - "Second Wind" Gambit: +20 stock when below 10
-- Selling Pieces: 50% of original cost
+- Selling Pieces: a fraction of original cost
 
 ---
 
@@ -49,7 +49,7 @@ categories: ["Economy & Shop"]
 |--------|-----------------|
 | Pawn Parade Gambit | +1 per Pawn move |
 | Second Wind Gambit | +20 when below 10 stock |
-| Selling pieces | 50% of original cost |
+| Selling pieces | A fraction of original cost |
 
 </div>
 
@@ -87,10 +87,10 @@ categories: ["Economy & Shop"]
 
 | Situation | Win Rate |
 |-----------|----------|
-| 0 stock turn 1-4 | 15% |
-| 0 stock turn 5-7 | 42% |
-| 0 stock turn 8+ | 55% |
-| With Second Wind Gambit | 51% |
+| 0 stock turn 1-4 | Very hard |
+| 0 stock turn 5-7 | Recoverable |
+| 0 stock turn 8+ | Best odds |
+| With Second Wind Gambit | A real boost |
 
 If the comeback window doesn't open, the [5 Emergency Strategies](/5-emergency-strategies-salvage/) gives you alternative salvage options including tilting opponents into mistakes.
 

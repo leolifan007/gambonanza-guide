@@ -1,0 +1,18 @@
+# Temp / debug scripts
+_*.py
+_*.txt
+scan.py
+scan2.py
+scan3.py
+fix1.py
+insp1.py
+_cal_ts.py
+_hugo_preview/
+
+# Hugo build caches
+resources/_gen/
+.hugo_build.lock
+
+# OS
+Thumbs.db
+.DS_Store

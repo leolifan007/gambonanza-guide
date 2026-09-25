@@ -29,9 +29,9 @@ description: "Complete Gambonanza achievement guide for patch v1.1.0. All 22 Ste
 
 ### King Killer <span class="meta-badge meta-s">S</span>
 
-> *Defeat King of Spades without losing a single piece*
+> *Defeat Tal the Cursed without losing a single piece*
 
-**Why it's S-tier:** King of Spades' entire mechanic is piece removal. Not losing ANY piece while fighting the boss designed to remove pieces is brutally hard.
+**Why it's S-tier:** Tal the Cursed' entire mechanic is piece removal. Not losing ANY piece while fighting the boss designed to remove pieces is brutally hard.
 
 <div class="synergy-table" style="overflow-x:auto">
 
@@ -47,9 +47,9 @@ description: "Complete Gambonanza achievement guide for patch v1.1.0. All 22 Ste
 
 ---
 
-### Grandmaster Slayer <span class="meta-badge meta-s">S</span>
+### Mighty Kasparov Slayer <span class="meta-badge meta-s">S</span>
 
-> *Defeat The Grandmaster (final boss)*
+> *Defeat The Mighty Kasparov (final boss)*
 
 **Why it's S-tier:** Three phases, all piece types, requires full toolkit. See [Boss Battle Guide](/bosses/) for the complete strategy.
 
@@ -92,7 +92,7 @@ description: "Complete Gambonanza achievement guide for patch v1.1.0. All 22 Ste
 *Reach 1,000 total stock earned.* Cumulative across all runs-just play the game. Economy builds and Safe Haven compounding accelerate it.
 
 ### Boss Collector <span class="meta-badge meta-a">A</span>
-*Defeat all 8 bosses.* Beat them in order: Rook-Bishop-Knight-Queen-Pawn-Castle-King-Grandmaster. See [Boss Guide](/bosses/).
+*Defeat all 8 bosses.* Beat them in order: Rook-Bishop-Knight-Queen-Pawn-Castle-King-Mighty Kasparov. See [Boss Guide](/bosses/).
 
 {{< section-divider >}}
 
@@ -118,7 +118,7 @@ description: "Complete Gambonanza achievement guide for patch v1.1.0. All 22 Ste
 These unlock naturally through gameplay. No special strategy needed:
 
 - **Stock Market Pro**-earned in ~5-8 runs with economy build
-- **First Boss Kill**-beat Rook Rook with standard opener
+- **First Boss Kill**-beat Botezarro with standard opener
 - **Queen Takeover**-slightly harder, focus queen endgame
 
 {{< section-divider >}}
@@ -137,10 +137,10 @@ These unlock naturally through gameplay. No special strategy needed:
 1. **Runs 1-20:** Natural play-earn all Easy + C-tier + most B-tier
 2. **Runs 21-30:** Focus on specific B-tier achievements (Rook Victory, Bishop Victory)
 3. **Runs 31-40:** Economy achievements (Double Down, Millionaire)
-4. **Runs 41-50:** Boss achievements (Boss Collector-King Killer-Grandmaster Slayer)
+4. **Runs 41-50:** Boss achievements (Boss Collector-King Killer-Mighty Kasparov Slayer)
 5. **Post-game:** Full Arsenal grind, clean up any remaining
 
-{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Several achievements (King Killer, Grandmaster Slayer) share the same prerequisite Gambits. Farm the pre-boss economy together-get Jackpot Gambit + relevant boss counters in the same shop run. One good economy setup can unlock 2-3 achievements in a single session.{{< /pro-tip >}}
+{{< pro-tip >}}<strong>Only 10h+ players know:</strong> Several achievements (King Killer, Mighty Kasparov Slayer) share the same prerequisite Gambits. Farm the pre-boss economy together-get Jackpot Gambit + relevant boss counters in the same shop run. One good economy setup can unlock 2-3 achievements in a single session.{{< /pro-tip >}}
 
 ---
 

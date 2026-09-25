@@ -36,8 +36,8 @@ A good seed gives you three things:
 | Seed | Opening Gambits | First Shop Relic | Best Build | Why It's S-Tier |
 |------|----------------|-----------------|------------|-----------------|
 | **1238513920** | Double Gambit slot + Checkmate Engine | Economy Relic (Stock+20%) | All-round | Works for literally every playstyle |
-| **48827315** | King Bind + Castle Rush | Gambit Refresh | King of Spades | Two S-tier Gambits in opening pool |
-| **782993044** | Pawn Storm + Stock Boost | Double Safe Haven | Fast Farm | Economy snowball from turn 1 |
+| **48827315** | King Bind + Castle Rush | Gambit Refresh | Tal the Cursed | Two S-tier Gambits in opening pool |
+| **782993044** | Mighty Kasparov + Stock Boost | Double Safe Haven | Fast Farm | Economy snowball from turn 1 |
 | **729384710** | Royal Gambit + Phantom Leap | Relic Reroll | Queen Rush | Most consistent Queen build opener |
 
 </div>

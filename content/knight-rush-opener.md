@@ -5,7 +5,7 @@ tags:
   - "Meta & Builds"
   - "Strategy"
 title: "Best Knight Strategy - Win More Games with the Knight Rush Build"
-description: "The Knight Rush build has 62% win rate on 4x4 and 5x5 boards. Exact turn-by-turn setup, when to use it, and how to win even when it fails."
+description: "The Knight Rush build is one of the most consistent openers on 4x4 and 5x5 boards. Exact turn-by-turn setup, when to use it, and how to win even when it fails."
 date: "2026-05-29"
 lastmod: "2026-05-29T21:36:00+08:00"
 hidden: false
@@ -108,7 +108,7 @@ If you pivot away from Knight Rush, the [Pawn Economy Loop](/pawn-economy-loop/)
 
 | Metric | 4x4 | 5x5 | 6x6 | 7x7+ |
 |--------|-----|-----|-----|------|
-| Knight Rush Win Rate | 62% | 51% | 34% | 18% |
+| Knight Rush Reliability | High | High | Medium | Low |
 | Avg Turn to First Capture | 2.3 | 3.1 | 4.8 | 6.2 |
 | Pivot Required | 12% | 31% | 67% | 89% |
 
