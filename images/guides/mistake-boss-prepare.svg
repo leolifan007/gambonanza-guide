@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 200" width="100%" height="auto" style="max-width:660px;display:block;margin:0 auto" font-family="'Segoe UI','Inter',sans-serif">
+  <defs>
+    <filter id="s"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.5"/></filter>
+    <filter id="g"><feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.6"/></filter>
+    <marker id="arr" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#C09050"/>
+    </marker>
+  </defs>
+  <rect width="660" height="200" rx="10" fill="#120812" filter="url(#g)"/>
+  <text x="330" y="26" text-anchor="middle" fill="#E0D0C0" font-size="14" font-weight="bold" filter="url(#s)">⚠️ #1 Mistake: Entering Boss With Low Stock</text>
+  
+  <!-- Bad: Low stock -->
+  <g transform="translate(14,38)">
+    <rect width="200" height="130" rx="6" fill="#2D1A2D" stroke="#FF4444" stroke-width="1.5"/>
+    <rect width="200" height="28" rx="6" fill="#3A0A0A"/>
+    <text x="100" y="20" text-anchor="middle" fill="#FFF" font-size="11" font-weight="bold" filter="url(#s)">❌ LOW STOCK (45)</text>
+    <text x="100" y="58" text-anchor="middle" fill="#FF6B6B" font-size="18" font-weight="bold" filter="url(#s)">45 stock</text>
+    <text x="100" y="78" text-anchor="middle" fill="#FF4444" font-size="12">Boss fight incoming</text>
+    <text x="100" y="98" text-anchor="middle" fill="#C08870" font-size="11">Buy 1 more Gambit...</text>
+    <!-- Result -->
+    <rect x="16" y="106" width="168" height="22" rx="4" fill="#3A0A0A" stroke="#FF4444" stroke-width="1"/>
+    <text x="100" y="121" text-anchor="middle" fill="#FF6B6B" font-size="11">1 retry → dead → run over</text>
+    <text x="100" y="148" text-anchor="middle" fill="#FF4444" font-size="10">31% win rate</text>
+  </g>
+  <!-- Arrow X -->
+  <line x1="218" y1="102" x2="242" y2="102" stroke="#FF4444" stroke-width="2.5" marker-end="url(#arr)"/>
+  
+  <!-- VS -->
+  <g transform="translate(245,38)">
+    <text x="16" y="90" text-anchor="middle" fill="#C09050" font-size="28" font-weight="bold" filter="url(#s)">VS</text>
+  </g>
+  
+  <!-- Arrow check -->
+  <line x1="276" y1="102" x2="300" y2="102" stroke="#4CAF50" stroke-width="2.5" marker-end="url(#arr)"/>
+  
+  <!-- Good: High stock -->
+  <g transform="translate(300,38)">
+    <rect width="200" height="130" rx="6" fill="#142E1A" stroke="#4CAF50" stroke-width="1.5"/>
+    <rect width="200" height="28" rx="6" fill="#0E2A12"/>
+    <text x="100" y="20" text-anchor="middle" fill="#FFF" font-size="11" font-weight="bold" filter="url(#s)">✅ HIGH STOCK (50+)</text>
+    <text x="100" y="58" text-anchor="middle" fill="#81C784" font-size="18" font-weight="bold" filter="url(#s)">50+ stock</text>
+    <text x="100" y="78" text-anchor="middle" fill="#4CAF50" font-size="12">Boss fight incoming</text>
+    <text x="100" y="98" text-anchor="middle" fill="#81C784" font-size="11">Skip the roll, save stock</text>
+    <!-- Result -->
+    <rect x="16" y="106" width="168" height="22" rx="4" fill="#0E2A12" stroke="#4CAF50" stroke-width="1"/>
+    <text x="100" y="121" text-anchor="middle" fill="#81C784" font-size="11">2 retries → survive → win</text>
+    <text x="100" y="148" text-anchor="middle" fill="#4CAF50" font-size="10">72% win rate</text>
+  </g>
+  
+  <!-- Boss Weakness Table at bottom -->
+  <g transform="translate(14,172)">
+    <text x="316" y="12" text-anchor="middle" fill="#C09050" font-size="10">Rule: The 50-Stock Rule. Never enter a boss fight with less than 50 stock.</text>
+  </g>
+</svg>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gambits &amp; Combos on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/categories/gambits--combos/</link><description>Recent content in Gambits &amp; Combos on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 25 Sep 2026 15:00:00 +0800</lastBuildDate><atom:link href="https://gambonanzaguide.com/categories/gambits--combos/index.xml" rel="self" type="application/rss+xml"/><item><title>Gambonanza Gambit Chaining Guide - Stack Triggers in One Turn</title><link>https://gambonanzaguide.com/combo-chain-guide/</link><pubDate>Fri, 25 Sep 2026 15:00:00 +0800</pubDate><guid>https://gambonanzaguide.com/combo-chain-guide/</guid><description>&lt;h2 id="chaining-101"&gt;Chaining 101&lt;/h2&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;One Gambit per turn is fine. Three Gambits on one capture wins games.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A chain is not a script. It is a board you build so that one move satisfies several Gambit trigger conditions at once.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;See the &lt;a href="https://gambonanzaguide.com/gambits/"&gt;All Gambits Guide&lt;/a&gt; for the full list, and the &lt;a href="https://gambonanzaguide.com/deterministic-gambits-guide/"&gt;Deterministic Gambits Guide&lt;/a&gt; for the difference between guaranteed and chance-based triggers.&lt;/p&gt;
+
+&lt;hr class="section-divider"&gt;
+
+&lt;h2 id="how-chaining-really-works"&gt;How Chaining Really Works&lt;/h2&gt;
+&lt;p&gt;Every Gambit fires from a trigger condition. You do not &amp;ldquo;play&amp;rdquo; three Gambits in a row. Instead, you arrange the board so one action triggers several at once.&lt;/p&gt;</description></item><item><title>Stalemate &amp; Bunker's Gambit Rework - How v1.3.0 Changed Two Core Systems</title><link>https://gambonanzaguide.com/stalemate-bunker-rework-guide/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/stalemate-bunker-rework-guide/</guid><description>&lt;div class="callout callout-verdict"&gt;
+v1.3.0 made two significant system-level changes that don&amp;rsquo;t get enough attention: Stalemate now resets after every boss fight, and Bunker&amp;rsquo;s Gambit works globally (not just Crumble Mode). These changes affect &lt;strong&gt;every run&lt;/strong&gt;, regardless of build.
+&lt;/div&gt;
+
+&lt;h2 id="stalemate-revamp"&gt;Stalemate Revamp&lt;/h2&gt;
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/stalemate-reset-flow.svg" alt="Before and after comparison of Stalemate counter behavior" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;Left: Before v1.3, counter carries over stages. Right: After v1.3, boss win = full reset.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;h3 id="what-changed"&gt;What Changed&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Old behavior:&lt;/strong&gt; The Stalemate counter accumulated across all stages. Even after winning a boss fight, the count carried over.&lt;/p&gt;</description></item><item><title>I Sacrificed the Wrong Piece and Lost the Run - The Piece Evaluation Rubric That Fixes Your Next Decision</title><link>https://gambonanzaguide.com/sacrifice-postmortem/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/sacrifice-postmortem/</guid><description>&lt;h1 id="i-sacrificed-the-wrong-piece-and-lost-the-run---the-piece-evaluation-rubric-that-fixes-your-next-decision"&gt;I Sacrificed the Wrong Piece and Lost the Run - The Piece Evaluation Rubric That Fixes Your Next Decision&lt;/h1&gt;
+&lt;p&gt;I sacrificed a Knight on turn 8 because I thought I was being clever. I saved 5 stock, freed up a tile, and felt great about my efficiency. By turn 12, my economy had collapsed. By turn 15, I was out of the run. The Knight I sacrificed was anchoring a Gambit chain that generated 8 stock per turn. I saved 5 stock once and lost 40 stock over the next 5 turns.&lt;/p&gt;</description></item><item><title>Gambonanza Meta Report (v1.1.0) - Current Build Tier List &amp; Meta Analysis</title><link>https://gambonanzaguide.com/meta-report/</link><pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/meta-report/</guid><description>&lt;div class="callout callout-verdict"&gt;
+v1.1.0 is the Economy meta. Three S-tier Gambits dominate every run, while the rest of the 150+ pool fills out specific niches. The gap between S-tier and everything else has never been wider.
+&lt;/div&gt;
+
+&lt;p&gt;This report is based on community testing across the Gambonanza subreddit, YouTube pro runs, third-party analysis from GameBrief and GameStrategyHub, and internal data from our guides at gambonanzaguide.com.&lt;/p&gt;
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/build-comparison.svg" alt="Build archetype comparison" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;Build archetypes by difficulty and consistency. Pawn Economy is the most forgiving to learn.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+
+&lt;hr class="section-divider"&gt;
+
+&lt;h2 id="s-tier-gambits---game-warping"&gt;S-Tier Gambits - Game-Warping&lt;/h2&gt;
+&lt;h3 id="1-silver-forks-gambit---top-attack-gambit"&gt;1. Silver Fork&amp;rsquo;s Gambit - Top Attack Gambit&lt;/h3&gt;
+&lt;p&gt;Rare, $7. After a Knight moves, if it can capture 2 or more pieces, there is a 1/2 chance the enemy turn is skipped. Move your Knight so two capture lines are open at once and the coin flip keeps firing.&lt;/p&gt;</description></item><item><title>Gambonanza Gambit Combinations - How to Pick Gambits That Work Together</title><link>https://gambonanzaguide.com/gambit-synergy-chains/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/gambit-synergy-chains/</guid><description>&lt;h1 id="gambonanza-gambit-combinations---how-to-pick-gambits-that-work-together"&gt;Gambonanza Gambit Combinations - How to Pick Gambits That Work Together&lt;/h1&gt;
+&lt;h2 id="quick-fix"&gt;Quick Fix&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;You can only hold five Gambits, so every slot counts. Pick combinations whose triggers fire on the same action:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="synergy-table" style="overflow-x:auto"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Combination&lt;/th&gt;
+ &lt;th&gt;What lines them up&lt;/th&gt;
+ &lt;th&gt;Why it works&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tempo plus capture&lt;/td&gt;
+ &lt;td&gt;A capture that also skips the enemy turn&lt;/td&gt;
+ &lt;td&gt;You take a piece and keep the initiative&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Pawn payout stack&lt;/td&gt;
+ &lt;td&gt;Pawn moves and pawn captures&lt;/td&gt;
+ &lt;td&gt;Several payouts on the same pawn action&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Landing plus payout&lt;/td&gt;
+ &lt;td&gt;A landing you had to make anyway&lt;/td&gt;
+ &lt;td&gt;The turn earns twice&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Queen support&lt;/td&gt;
+ &lt;td&gt;A surviving queen plus capture payouts&lt;/td&gt;
+ &lt;td&gt;Your best piece both earns and carries&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Boss-answer flex&lt;/td&gt;
+ &lt;td&gt;The boss preview plus one swap&lt;/td&gt;
+ &lt;td&gt;You always have the right tool for the modifier&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="how-to-build-a-combination"&gt;How to Build a Combination&lt;/h2&gt;
+&lt;h3 id="rule-1-start-from-a-trigger-not-a-name"&gt;Rule 1: Start from a trigger, not a name&lt;/h3&gt;
+&lt;p&gt;Every Gambit fires from a condition. Before you buy, ask which of these your board already does every game:&lt;/p&gt;</description></item><item><title>When to Sacrifice Pieces in Gambonanza</title><link>https://gambonanzaguide.com/piece-sacrifice-guide/</link><pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/piece-sacrifice-guide/</guid><description>&lt;h2 id="sacrifice-u2014-tldr-check-tile-control-guide-for-the-full-breakdown-the-crumble-mechanic-guide-breaks-this-down-in-detail"&gt;Sacrifice \u2014 TL;DR Check &lt;a href="https://gambonanzaguide.com/tile-control-guide/"&gt;Tile Control Guide&lt;/a&gt; for the full breakdown. The &lt;a href="https://gambonanzaguide.com/crumble-mechanic-guide/"&gt;Crumble Mechanic Guide&lt;/a&gt; breaks this down in detail.&lt;/h2&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;In Gambonanza, sacrifice doesn\u2019t mean losing a piece. It means converting a piece into board advantage.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The rule: sacrifice when the resulting Gambit activation + stock gain is worth at least 2x the piece\u2019s current board value. Never sacrifice for no immediate return.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id="the-sacrifice-decision-framework"&gt;The Sacrifice Decision Framework&lt;/h2&gt;
+&lt;p&gt;Every move in Gambonanza has a calculated value. Before you sacrifice, run this three-question filter:&lt;/p&gt;</description></item><item><title>Your Combo Loop Backfired? How to Spot Self-Destructive Gambit Cycles Before They Wipe Your Run</title><link>https://gambonanzaguide.com/self-destructive-loop-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/self-destructive-loop-guide/</guid><description>&lt;p&gt;You built the infinite loop. Endless value. Unlimited economy. Everything was working. Then your gold hit zero in three turns.&lt;/p&gt;
+&lt;p&gt;I see this pattern in community run logs every week. A player discovers a gambit loop that produces endless triggers. They think they have won. But the loop has a hidden cost structure that drains their economy faster than it generates. By the time they notice, the board is full of worthless summons, their gold is empty, and the AI is one move away from wiping the board.&lt;/p&gt;</description></item></channel></rss>

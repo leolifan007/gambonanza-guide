@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="380" viewBox="0 0 700 380">
+<rect width="700" height="380" fill="#1A0F1A" rx="12"/>
+<text x="350" y="35" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Stage 4 Economy Drain - 3 Killers</text>
+
+<rect x="350" y="55" width="320" height="28" rx="4" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="510" y="73" fill="#D4A84A" font-family="'VT323',monospace" font-size="12" text-anchor="middle">You reach Stage 4: 50 stock. Boss arrives: 12 stock.</text>
+
+<!-- Killer 1 -->
+<rect x="30" y="100" width="200" height="170" rx="10" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="30" y="100" width="200" height="30" rx="10" fill="#4A9B9B" opacity="0.2"/>
+<text x="130" y="120" fill="#4A9B9B" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Killer #1</text>
+<text x="130" y="145" fill="#F5E6D3" font-size="13" font-weight="bold" text-anchor="middle">Shop Reset Timing</text>
+<text x="130" y="168" fill="#E8D5C0" font-size="11" text-anchor="middle">Reset at wrong turn:</text>
+<text x="130" y="186" fill="#E8D5C0" font-size="11" text-anchor="middle">- 8 stock per reset</text>
+<text x="130" y="204" fill="#E8D5C0" font-size="11" text-anchor="middle">- Reset 3x = -24 stock</text>
+<text x="130" y="222" fill="#E8D5C0" font-size="11" text-anchor="middle">- No gambit = no income</text>
+<text x="130" y="248" fill="#D4764A" font-size="12" text-anchor="middle">Fix: Reset only when</text>
+<text x="130" y="264" fill="#D4764A" font-size="11" text-anchor="middle">gambit pool is empty</text>
+
+<arrow x="240" y="185" fill="#E8D5C0" font-size="18">-></arrow>
+
+<!-- Killer 2 -->
+<rect x="250" y="100" width="200" height="170" rx="10" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<rect x="250" y="100" width="200" height="30" rx="10" fill="#A85D6A" opacity="0.2"/>
+<text x="350" y="120" fill="#A85D6A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Killer #2</text>
+<text x="350" y="145" fill="#F5E6D3" font-size="13" font-weight="bold" text-anchor="middle">Gambit Threshold</text>
+<text x="350" y="168" fill="#E8D5C0" font-size="11" text-anchor="middle">Stage 4 hidden cost jump:</text>
+<text x="350" y="186" fill="#E8D5C0" font-size="11" text-anchor="middle">- Econ gambit: 8->14 stock</text>
+<text x="350" y="204" fill="#E8D5C0" font-size="11" text-anchor="middle">- Activate costs +40%</text>
+<text x="350" y="222" fill="#E8D5C0" font-size="11" text-anchor="middle">- Same plays cost more</text>
+<text x="350" y="248" fill="#D4764A" font-size="12" text-anchor="middle">Fix: Pre-buy gambits</text>
+<text x="350" y="264" fill="#D4764A" font-size="11" text-anchor="middle">in Stage 3, not Stage 4</text>
+
+<arrow x="460" y="185" fill="#E8D5C0" font-size="18">-></arrow>
+
+<!-- Killer 3 -->
+<rect x="470" y="100" width="200" height="170" rx="10" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<rect x="470" y="100" width="200" height="30" rx="10" fill="#D4764A" opacity="0.2"/>
+<text x="570" y="120" fill="#D4764A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Killer #3</text>
+<text x="570" y="145" fill="#F5E6D3" font-size="13" font-weight="bold" text-anchor="middle">Board Transition</text>
+<text x="570" y="168" fill="#E8D5C0" font-size="11" text-anchor="middle">Mid-game -> Boss board:</text>
+<text x="570" y="186" fill="#E8D5C0" font-size="11" text-anchor="middle">- Sell 3+ pieces</text>
+<text x="570" y="204" fill="#E8D5C0" font-size="11" text-anchor="middle">- Lose gambit triggers</text>
+<text x="570" y="222" fill="#E8D5C0" font-size="11" text-anchor="middle">- Economy loop breaks</text>
+<text x="570" y="248" fill="#D4764A" font-size="12" text-anchor="middle">Fix: Transition limit</text>
+<text x="570" y="264" fill="#D4764A" font-size="11" text-anchor="middle">sell only 2 pieces max</text>
+
+<rect x="100" y="290" width="500" height="36" rx="6" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="350" y="312" fill="#D4A84A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">If you plan for Stage 4 in Stage 3, you skip all 3 killers.</text>
+
+<rect x="150" y="335" width="400" height="30" rx="4" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1"/>
+<text x="350" y="355" fill="#5CB85C" font-family="'VT323',monospace" font-size="13" text-anchor="middle">Tested 40+ runs - 68% survive rate with pre-planning</text>
+</svg>

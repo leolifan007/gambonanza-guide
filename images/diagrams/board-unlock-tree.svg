@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<text x="350" y="38" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Board Unlock Progression</text>
+
+<text x="60" y="75" fill="#E8D5C0" font-size="12">Default</text>
+<text x="60" y="115" fill="#E8D5C0" font-size="12">Easy</text>
+<text x="60" y="165" fill="#E8D5C0" font-size="12">Medium</text>
+<text x="60" y="230" fill="#E8D5C0" font-size="12">Hard</text>
+<text x="60" y="300" fill="#D4A84A" font-family="'VT323',monospace" font-size="14">Hidden</text>
+<text x="60" y="330" fill="#E8D5C0" font-size="12">Easter Egg</text>
+<text x="60" y="405" fill="#D4A84A" font-family="'VT323',monospace" font-size="14">Legend</text>
+
+<!-- Default -->
+<rect x="120" y="60" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#E8D5C0" stroke-width="1"/>
+<text x="185" y="79" fill="#F5E6D3" font-size="12" text-anchor="middle">Classic</text>
+<rect x="260" y="60" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#E8D5C0" stroke-width="1"/>
+<text x="325" y="79" fill="#F5E6D3" font-size="12" text-anchor="middle">Dark Mode</text>
+<rect x="400" y="60" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#E8D5C0" stroke-width="1"/>
+<text x="465" y="79" fill="#F5E6D3" font-size="12" text-anchor="middle">Marble</text>
+<rect x="540" y="60" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#E8D5C0" stroke-width="1"/>
+<text x="605" y="79" fill="#F5E6D3" font-size="12" text-anchor="middle">Wood</text>
+
+<!-- Arrow -->
+<line x1="350" y1="88" x2="350" y2="105" stroke="#E8D5C0" stroke-width="1.5" stroke-dasharray="3,3"/>
+<polygon points="345,103 350,111 355,103" fill="#E8D5C0"/>
+
+<!-- Easy -->
+<rect x="120" y="110" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="185" y="129" fill="#5CB85C" font-size="12" text-anchor="middle">Ruby</text>
+<rect x="260" y="110" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="325" y="129" fill="#5CB85C" font-size="12" text-anchor="middle">Sapphire</text>
+<rect x="400" y="110" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="465" y="129" fill="#5CB85C" font-size="12" text-anchor="middle">Golden</text>
+<rect x="540" y="110" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="605" y="129" fill="#5CB85C" font-size="12" text-anchor="middle">Ice</text>
+
+<!-- Arrow -->
+<line x1="350" y1="138" x2="350" y2="155" stroke="#E8D5C0" stroke-width="1.5" stroke-dasharray="3,3"/>
+<polygon points="345,153 350,161 355,153" fill="#E8D5C0"/>
+
+<!-- Medium -->
+<rect x="80" y="160" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="145" y="179" fill="#F5E6D3" font-size="12" text-anchor="middle">Lava</text>
+<rect x="220" y="160" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="285" y="179" fill="#F5E6D3" font-size="12" text-anchor="middle">Crystal</text>
+<rect x="360" y="160" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="425" y="179" fill="#F5E6D3" font-size="12" text-anchor="middle">Shadow</text>
+<rect x="500" y="160" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="565" y="179" fill="#F5E6D3" font-size="12" text-anchor="middle">Neon</text>
+<rect x="220" y="195" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="285" y="214" fill="#F5E6D3" font-size="12" text-anchor="middle">Galaxy</text>
+<rect x="360" y="195" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="425" y="214" fill="#F5E6D3" font-size="12" text-anchor="middle">Lunar</text>
+
+<!-- Arrow -->
+<line x1="350" y1="223" x2="350" y2="240" stroke="#E8D5C0" stroke-width="1.5" stroke-dasharray="3,3"/>
+<polygon points="345,238 350,246 355,238" fill="#E8D5C0"/>
+
+<!-- Hard -->
+<rect x="120" y="245" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="185" y="264" fill="#F5E6D3" font-size="12" text-anchor="middle">Sunset</text>
+<rect x="260" y="245" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="325" y="264" fill="#F5E6D3" font-size="12" text-anchor="middle">Void</text>
+<rect x="400" y="245" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="465" y="264" fill="#F5E6D3" font-size="12" text-anchor="middle">Phantom</text>
+
+<rect x="120" y="280" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="185" y="299" fill="#D4A84A" font-size="12" text-anchor="middle">Lighthouse</text>
+<rect x="260" y="280" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="325" y="299" fill="#D4A84A" font-size="12" text-anchor="middle">Beta</text>
+<rect x="400" y="280" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="465" y="299" fill="#D4A84A" font-size="12" text-anchor="middle">Stray Fawn</text>
+<rect x="540" y="280" width="130" height="28" rx="6" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="605" y="299" fill="#D4A84A" font-size="12" text-anchor="middle">Arcade</text>
+
+<!-- Bottom legend -->
+<rect x="40" y="370" width="620" height="55" rx="6" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1"/>
+<rect x="60" y="385" width="14" height="14" rx="3" fill="none" stroke="#E8D5C0" stroke-width="1.5"/>
+<text x="80" y="397" fill="#E8D5C0" font-size="11">Default (4)</text>
+<rect x="150" y="385" width="14" height="14" rx="3" fill="none" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="170" y="397" fill="#5CB85C" font-size="11">Easy (4)</text>
+<rect x="230" y="385" width="14" height="14" rx="3" fill="none" stroke="#D4764A" stroke-width="1.5"/>
+<text x="250" y="397" fill="#D4764A" font-size="11">Medium (6)</text>
+<rect x="340" y="385" width="14" height="14" rx="3" fill="none" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="360" y="397" fill="#A85D6A" font-size="11">Hard (3)</text>
+<rect x="440" y="385" width="14" height="14" rx="3" fill="none" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="460" y="397" fill="#D4A84A" font-size="11">Hidden (4)</text>
+<text x="350" y="415" fill="#E8D5C0" font-size="11" text-anchor="middle">Total: 21 boards (4 default + 17 unlockable)</text>
+</svg>

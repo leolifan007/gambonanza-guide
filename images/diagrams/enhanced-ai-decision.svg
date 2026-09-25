@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker></defs>
+<text x="350" y="34" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Enhanced AI Decision</text>
+<rect x="40" y="90" width="180" height="90" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="40" y="90" width="180" height="24" rx="8" fill="#4A9B9B" opacity="0.18"/>
+<text x="130" y="107" fill="#4A9B9B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">You want</text>
+<text x="130" y="130" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Traditional chess</text>
+<text x="130" y="148" fill="#E8D5C0" font-size="12.5" text-anchor="middle">feel, not rogue</text>
+<text x="130" y="166" fill="#E8D5C0" font-size="12.5" text-anchor="middle">chaos?</text>
+<rect x="260" y="70" width="180" height="110" rx="8" fill="#2D1A2D" stroke="#6BBF6B" stroke-width="1.5"/>
+<rect x="260" y="70" width="180" height="24" rx="8" fill="#6BBF6B" opacity="0.18"/>
+<text x="350" y="87" fill="#6BBF6B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Enable it</text>
+<text x="350" y="110" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Settings / Extras</text>
+<text x="350" y="128" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Safer AI, fewer</text>
+<text x="350" y="146" fill="#E8D5C0" font-size="12.5" text-anchor="middle">bad trades, late</text>
+<text x="350" y="164" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Crumble trigger</text>
+<rect x="260" y="230" width="180" height="110" rx="8" fill="#2D1A2D" stroke="#F5E6D3" stroke-width="1.5"/>
+<rect x="260" y="230" width="180" height="24" rx="8" fill="#F5E6D3" opacity="0.18"/>
+<text x="350" y="247" fill="#F5E6D3" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Keep default</text>
+<text x="350" y="270" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Full rogue mode</text>
+<text x="350" y="288" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Achievements and</text>
+<text x="350" y="306" fill="#E8D5C0" font-size="12.5" text-anchor="middle">extra rewards stay</text>
+<text x="350" y="324" fill="#E8D5C0" font-size="12.5" text-anchor="middle">active</text>
+<rect x="500" y="150" width="160" height="120" rx="8" fill="#2D1A2D" stroke="#C75B5B" stroke-width="1.5"/>
+<rect x="500" y="150" width="160" height="24" rx="8" fill="#C75B5B" opacity="0.18"/>
+<text x="580" y="167" fill="#C75B5B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Trade-off</text>
+<text x="580" y="190" fill="#E8D5C0" font-size="12.5" text-anchor="middle">No achievements</text>
+<text x="580" y="208" fill="#E8D5C0" font-size="12.5" text-anchor="middle">No extra rewards</text>
+<text x="580" y="226" fill="#E8D5C0" font-size="12.5" text-anchor="middle">while enabled</text>
+<text x="580" y="244" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Flip off to restore</text>
+<line x1="220" y1="135" x2="260" y2="125" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="220" y1="135" x2="260" y2="285" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="440" y1="125" x2="500" y2="190" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="440" y1="285" x2="500" y2="210" stroke="#D4A84A" stroke-width="2" marker-end="url(#ar)"/>
+</svg>

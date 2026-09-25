@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker></defs>
+<text x="350" y="34" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Three Gambit Revamps</text>
+<rect x="40" y="70" width="180" height="130" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<rect x="40" y="70" width="180" height="24" rx="8" fill="#D4A84A" opacity="0.18"/>
+<text x="130" y="87" fill="#D4A84A" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Clown's Gambit</text>
+<text x="130" y="110" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Replaces War Horse</text>
+<text x="130" y="128" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Promote to non-QUEEN</text>
+<text x="130" y="146" fill="#E8D5C0" font-size="12.5" text-anchor="middle">spawns a tile:</text>
+<text x="130" y="164" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Rook/Knight/Bishop/</text>
+<text x="130" y="182" fill="#E8D5C0" font-size="12.5" text-anchor="middle">King/PAWN each a type</text>
+<rect x="260" y="70" width="180" height="130" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="260" y="70" width="180" height="24" rx="8" fill="#4A9B9B" opacity="0.18"/>
+<text x="350" y="87" fill="#4A9B9B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">Enigma's Gambit</text>
+<text x="350" y="110" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Capture on a tile</text>
+<text x="350" y="128" fill="#E8D5C0" font-size="12.5" text-anchor="middle">flips its color</text>
+<text x="350" y="146" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Black to White</text>
+<text x="350" y="164" fill="#E8D5C0" font-size="12.5" text-anchor="middle">White to Black</text>
+<text x="350" y="182" fill="#E8D5C0" font-size="12.5" text-anchor="middle">new board control</text>
+<rect x="480" y="70" width="180" height="130" rx="8" fill="#2D1A2D" stroke="#6BBF6B" stroke-width="1.5"/>
+<rect x="480" y="70" width="180" height="24" rx="8" fill="#6BBF6B" opacity="0.18"/>
+<text x="570" y="87" fill="#6BBF6B" font-family="'VT323',monospace" font-size="15" text-anchor="middle">AFK's Gambit</text>
+<text x="570" y="110" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Stock full?</text>
+<text x="570" y="128" fill="#E8D5C0" font-size="12.5" text-anchor="middle">New piece now lands</text>
+<text x="570" y="146" fill="#E8D5C0" font-size="12.5" text-anchor="middle">directly on board</text>
+<text x="570" y="164" fill="#E8D5C0" font-size="12.5" text-anchor="middle">No more lost pieces</text>
+<text x="570" y="182" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Reliable late game</text>
+</svg>

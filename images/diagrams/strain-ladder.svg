@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker></defs>
+<text x="350.0" y="34" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Difficulty, Strains and the Graveyard</text>
+<rect x="70" y="60" width="560" height="52" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="100" y="92" fill="#4A9B9B" font-family="'VT323',monospace" font-size="18">PAWN</text>
+<text x="250" y="92" fill="#E8D5C0" font-size="12.5">No Strains - Graveyard on</text>
+<rect x="70" y="120" width="560" height="52" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="100" y="152" fill="#D4A84A" font-family="'VT323',monospace" font-size="18">ROOK</text>
+<text x="250" y="152" fill="#E8D5C0" font-size="12.5">Strains begin - Graveyard gone</text>
+<rect x="70" y="180" width="560" height="52" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="100" y="212" fill="#4A9B9B" font-family="'VT323',monospace" font-size="18">KNIGHT</text>
+<text x="250" y="212" fill="#E8D5C0" font-size="12.5">Enemy plays first - no buyback</text>
+<rect x="70" y="240" width="560" height="52" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="100" y="272" fill="#D4A84A" font-family="'VT323',monospace" font-size="18">BISHOP</text>
+<text x="250" y="272" fill="#E8D5C0" font-size="12.5">Harder prices and Stock</text>
+<rect x="70" y="300" width="560" height="52" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="100" y="332" fill="#4A9B9B" font-family="'VT323',monospace" font-size="18">QUEEN</text>
+<text x="250" y="332" fill="#E8D5C0" font-size="12.5">Tiles once per run</text>
+<rect x="70" y="360" width="560" height="52" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="100" y="392" fill="#D4A84A" font-family="'VT323',monospace" font-size="18">KING</text>
+<text x="250" y="392" fill="#E8D5C0" font-size="12.5">Maximum challenge</text>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Collection on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</title><link>https://gambonanzaguide.com/tags/collection/</link><description>Recent content in Collection on Gambonanza Guide - Complete Strategy, Gambits and Walkthrough</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 25 Sep 2026 15:00:00 +0800</lastBuildDate><atom:link href="https://gambonanzaguide.com/tags/collection/index.xml" rel="self" type="application/rss+xml"/><item><title>Gambonanza Achievements and Collection Guide - How Unlocks Work</title><link>https://gambonanzaguide.com/achievements/</link><pubDate>Fri, 25 Sep 2026 15:00:00 +0800</pubDate><guid>https://gambonanzaguide.com/achievements/</guid><description>&lt;h2 id="progress-in-gambonanza-explained"&gt;Progress in Gambonanza, Explained&lt;/h2&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;THE SHORT VERSION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gambonanza tracks your progress through a &lt;strong&gt;Collection&lt;/strong&gt; of roughly 200 entries, plus platform achievements. You do not unlock things with special tricks, you unlock them by playing and by clearing stage bosses.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;hr class="section-divider"&gt;
+
+&lt;h2 id="what-the-collection-tracks"&gt;What the Collection Tracks&lt;/h2&gt;
+&lt;div class="synergy-table" style="overflow-x:auto"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Category&lt;/th&gt;
+ &lt;th&gt;What filling it does&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Gambits&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Widens what appears in your shops&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Pieces&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Puts more shapes on the Piece Wheel at run start&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Tiles&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Adds more tile modifiers you can buy&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Enemy Modifiers&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;More variety in what you face&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Bosses&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Progress toward the full 8-boss roster&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Strains&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Additional run variants&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;Every category feeds the same loop: a fuller Collection means richer shops and more starting options, which makes later runs easier and more varied.&lt;/p&gt;</description></item><item><title>Gambonanza Collection and Piece Guide - Build a Better Starting Pool</title><link>https://gambonanzaguide.com/recommended-seeds/</link><pubDate>Fri, 25 Sep 2026 15:00:00 +0800</pubDate><guid>https://gambonanzaguide.com/recommended-seeds/</guid><description>&lt;h2 id="the-opening-pool-comes-from-your-collection"&gt;The Opening Pool Comes From Your Collection&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are no seed codes in Gambonanza. Your starting pieces come from the &lt;strong&gt;Piece Wheel&lt;/strong&gt;, and the pool it draws from is your unlocked &lt;strong&gt;Collection&lt;/strong&gt;. So the way to improve your openings is to widen your Collection and make better first decisions, not to type in a number.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&lt;p&gt;&lt;strong&gt;THE SHORT VERSION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you want a specific opening piece, the answer is not a seed, it is unlocking that piece and then using the Piece Wheel deliberately. This page explains how.&lt;/p&gt;</description></item><item><title>Gambonanza Custom Boards Guide - How to Unlock All 21 Boards (17 Unlockable)</title><link>https://gambonanzaguide.com/custom-boards-guide/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/custom-boards-guide/</guid><description>&lt;div class="callout callout-verdict"&gt;
+Added in v1.2.0, Board Customization lets you choose from &lt;strong&gt;21 different boards&lt;/strong&gt; (4 default + 17 unlockable). Each board is purely cosmetic. No gameplay advantage. But the unlock conditions range from trivial to genuinely challenging. This guide covers every board, how to unlock it, and the fastest unlock path.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/board-unlock-tree.svg" alt="Board unlock progression from easy to hard" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;21 boards grouped by unlock difficulty. Easy = Green, Medium = Orange, Hard = Red, Hidden = Purple.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;p&gt;Board customization unlocks in the main menu after your first win. Access it from the &amp;ldquo;Customize&amp;rdquo; tab.&lt;/p&gt;</description></item><item><title>Gambonanza Collection Unlock Guide - All 200 Items &amp; 6 Hidden Gambits</title><link>https://gambonanzaguide.com/collection-unlock-guide/</link><pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/collection-unlock-guide/</guid><description>&lt;p&gt;Gambonanza has a massive collection system with over 200 items to unlock across runs. Beyond the visible progression, there are 6 hidden gambits that require specific conditions to unlock. The Gambonanza Wiki barely documents most of these - this guide consolidates what the community has discovered.&lt;/p&gt;
+
+&lt;div class="callout callout-verdict"&gt;
+&amp;ldquo;gambonanza achievements&amp;rdquo; has 35 impressions with no dedicated page. Combined with &amp;ldquo;gambonanza cheats&amp;rdquo; (37 imp) and collection-related searches, there is clear demand for unlock/collection content.
+&lt;/div&gt;
+
+&lt;figure class="diagram-figure" style="margin:var(--space-lg) 0;text-align:center"&gt;
+ &lt;img src="https://gambonanzaguide.com/images/diagrams/hidden-gambit-path.svg" alt="Hidden gambit unlock path" style="max-width:100%;border-radius:8px;border:var(--border-thin);box-shadow:0 4px 20px rgba(0,0,0,0.3)"&gt;
+ 
+ &lt;figcaption style="margin-top:var(--space-sm);font-size:0.85rem;color:var(--cream-dark);font-style:italic"&gt;6 hidden gambits exist, with the 6th being the most mysterious - no unlock description at all.&lt;/figcaption&gt;
+ 
+&lt;/figure&gt;
+
+&lt;hr class="section-divider"&gt;
+&lt;h2 id="how-the-collection-system-works"&gt;How the Collection System Works&lt;/h2&gt;
+&lt;p&gt;Per GameBrief&amp;rsquo;s analysis: Gambonanza adds &amp;ldquo;a 200-item collection to unlock across runs&amp;rdquo; (&lt;a href="https://www.gamebrief.net/blog/gambonanza-complete-guide-2026" target="_blank" rel="noopener noreferrer"&gt;source&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Unlocked King Difficulty and Die Every Run? 4 Hidden Mechanic Changes That Are Killing You</title><link>https://gambonanzaguide.com/king-difficulty-hidden-changes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gambonanzaguide.com/king-difficulty-hidden-changes/</guid><description>&lt;h2 id="heading"&gt;'&lt;/h2&gt;
+&lt;p&gt;You beat Queen difficulty. You unlock King. You play exactly the same way and die by Stage 2.&lt;/p&gt;
+&lt;p&gt;I have been there. The community has been there. And for weeks, the conversation was the same: &amp;ldquo;King is just harder, keep grinding.&amp;rdquo; But that is not the full story. King difficulty does not simply increase enemy stats. It changes the underlying rules of the game. The pricing model. The boss scaling formula. The board collapse timer. The AI targeting logic. All of it shifts in ways the game never explicitly tells you.&lt;/p&gt;</description></item></channel></rss>

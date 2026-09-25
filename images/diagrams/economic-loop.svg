@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="600" height="420" viewBox="0 0 600 420">
+<rect width="600" height="420" fill="#1A0F1A" rx="12"/>
+<text x="300" y="38" fill="#D4A84A" font-family="'VT323',monospace" font-size="22" text-anchor="middle">Economic Gambit Loop</text>
+
+<circle cx="300" cy="220" r="130" fill="none" stroke="#D4A84A" stroke-width="2" stroke-dasharray="8,4"/>
+
+<rect x="200" y="60" width="200" height="50" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="300" y="83" fill="#4A9B9B" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Step 1</text>
+<text x="300" y="100" fill="#F5E6D3" font-size="13" text-anchor="middle">Take Economic Gambit</text>
+
+<rect x="370" y="195" width="200" height="50" rx="8" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="470" y="218" fill="#5CB85C" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Step 2</text>
+<text x="470" y="235" fill="#F5E6D3" font-size="13" text-anchor="middle">Pawn capture triggers Coin</text>
+
+<rect x="200" y="320" width="200" height="50" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="300" y="343" fill="#D4A84A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Step 3</text>
+<text x="300" y="360" fill="#F5E6D3" font-size="13" text-anchor="middle">Coin buys more Gambits</text>
+
+<rect x="30" y="195" width="200" height="50" rx="8" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="130" y="218" fill="#D4764A" font-family="'VT323',monospace" font-size="14" text-anchor="middle">Bonus</text>
+<text x="130" y="235" fill="#F5E6D3" font-size="13" text-anchor="middle">Gold Tile + Gambit = Double $$</text>
+
+<rect x="170" y="135" width="260" height="38" rx="6" fill="#3A2030" stroke="#D4A84A" stroke-width="1"/>
+<text x="300" y="155" fill="#D4A84A" font-size="12" font-weight="bold" text-anchor="middle">70%+ win rate - S-tier strategy</text>
+<text x="300" y="170" fill="#E8D5C0" font-size="11" text-anchor="middle">5+ stock per turn once loop is established</text>
+</svg>
