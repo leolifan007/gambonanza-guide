@@ -5,7 +5,7 @@ tags:
   - "Beginner"
 title: "Is Gambonanza Worth It in 2026? What $14.99 Actually Buys"
 description: "Gambonanza costs $14.99 on Windows and $5.99 elsewhere. Here is what you get for it: around 200 Gambits, 53 achievements, 6 difficulty tiers, Steam Deck Verified status, and single-player only."
-date: "2026-09-26T20:58:00+08:00"
+date: "2026-09-30T15:29:00+08:00"
 lastmod: "2026-09-26T20:58:00+08:00"
 version: "v1.5.0"
 last_reviewed: "2026-09-26"

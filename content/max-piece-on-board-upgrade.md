@@ -6,7 +6,7 @@ tags:
   - "Strategy"
 title: "Gambonanza Max Piece on Board: When the Upgrade Is Worth Buying"
 description: "Max Piece on Board raises how many pieces you can field, and the price climbs every time you buy it. Here is when the upgrade pays for itself and when the money is better spent elsewhere."
-date: "2026-09-26T20:46:00+08:00"
+date: "2026-09-28T14:17:00+08:00"
 lastmod: "2026-09-26T20:46:00+08:00"
 version: "v1.5.0"
 last_reviewed: "2026-09-26"

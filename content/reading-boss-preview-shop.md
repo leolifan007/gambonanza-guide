@@ -6,7 +6,7 @@ tags:
   - "Strategy"
 title: "Gambonanza Boss Preview: What the Shop Shows You Before You Spend"
 description: "The lower-left corner of every Gambonanza shop shows the next boss and its modifier. Here is how to read it, what each of the 8 bosses demands, and what to buy instead of generically strong upgrades."
-date: "2026-09-26T20:37:00+08:00"
+date: "2026-09-26T19:58:00+08:00"
 lastmod: "2026-09-26T20:37:00+08:00"
 version: "v1.5.0"
 last_reviewed: "2026-09-26"

@@ -6,7 +6,7 @@ tags:
   - "Strategy"
 title: "Gambonanza Tokens: Piece, Gambit or Tile - Which One to Take"
 description: "Every Gambonanza shop offers piece, Gambit and tile tokens. Here is what each actually gives you, when each one wins, and the run-state test that decides it in five seconds."
-date: "2026-09-26T20:41:00+08:00"
+date: "2026-09-27T10:23:00+08:00"
 lastmod: "2026-09-26T20:41:00+08:00"
 version: "v1.5.0"
 last_reviewed: "2026-09-26"

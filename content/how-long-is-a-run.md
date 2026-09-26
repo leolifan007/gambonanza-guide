@@ -5,7 +5,7 @@ tags:
   - "Beginner"
 title: "How Long Is a Gambonanza Run? Every Game and Checkpoint, Counted"
 description: "A full Gambonanza run is 25 games across 5 stages, with a boss every 5th game. Here is the exact structure, what makes individual games longer, and why no fixed hour count is honest."
-date: "2026-09-26T20:52:00+08:00"
+date: "2026-09-29T11:41:00+08:00"
 lastmod: "2026-09-26T20:52:00+08:00"
 version: "v1.5.0"
 last_reviewed: "2026-09-26"

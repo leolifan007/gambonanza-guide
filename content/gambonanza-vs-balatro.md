@@ -5,7 +5,7 @@ tags:
   - "Game Mechanics"
 title: "Gambonanza vs Balatro: Which Roguelike Rewards Planning More"
 description: "Gambonanza and Balatro both build a run out of escalating choices, but one rewards planning ahead and the other rewards reading the board. Here is how the two actually differ."
-date: "2026-09-26T21:04:00+08:00"
+date: "2026-10-01T13:07:00+08:00"
 lastmod: "2026-09-26T21:04:00+08:00"
 version: "v1.5.0"
 last_reviewed: "2026-09-26"
