@@ -10,9 +10,11 @@ title: "Stage 4 Economy Wall - 3 Reasons Your Gold Dies Before the Boss (and How
 description: "Stage 4 is the #1 quitting point in Gambonanza. 3 specific economy killers that wipe your gold before the boss fight, with turn-by-turn fixes for each."
 lastmod: 2026-09-25T15:00:00+08:00
 lastUpdated: '2026-09-25'
-version: 'v1.1.0'
+version: "v1.5.0"
 draft: false
 hidden: false
+last_reviewed: "2026-09-26"
+review_status: "current"
 ---
 
 You reach Stage 4 with a healthy wallet and by the time the boss fight starts you are broke. I tested this exact scenario across many different builds, and I found the same pattern every time. The economy does not crash randomly. It crashes for three specific, preventable reasons that most players never diagnose. The [Economy Guide](/economy/) covers this in depth. The [Economy Recovery Guide](/economy-recovery-guide/) covers this in depth.

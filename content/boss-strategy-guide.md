@@ -4,8 +4,8 @@ tags:
   - "Bosses"
   - "Strategy"
   - "Difficulty"
-title: "Gambonanza Boss Strategy Guide - How to Prepare for Every Fight"
-description: "How to beat Gambonanza bosses with the right preparation. Boss modifiers, shop decisions, universal tactics, and the five things to check before every checkpoint."
+title: "Gambonanza Boss Prep - What to Buy Before Each of the 5 Checkpoints"
+description: "The five boss checkpoints in every run, what each boss modifier does to your board, and what to buy in the shop beforehand. Read the boss preview, then spend."
 lastmod: "2026-09-25T16:00:00+08:00"
 version: "v1.5.0"
 ---

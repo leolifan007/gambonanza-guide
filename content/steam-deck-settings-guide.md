@@ -97,6 +97,8 @@ Here is a concrete sequence for a fresh install on the Deck:
 
 If you want to go deeper on the systems referenced here, read the [UI readability guide](/ui-text-readability-guide/) and [controller guide](/controller-gamepad-guide/). They cover the mechanics this patch touches in full detail.
 
+Most of the toggles that matter here arrived as quality-of-life options in 1.4.0 rather than as Deck-specific settings, so the [1.4 quality-of-life settings guide](/14-qol-settings-guide/) is worth reading alongside this one.
+
 {{< pro-tip >}}Trackpad hovering is the fastest way to read a Gambit tooltip on the Deck. It is more precise than the stick and the 1.5.3 fix made the text land in front of the menu.{{< /pro-tip >}}
 
 ## Community Resources

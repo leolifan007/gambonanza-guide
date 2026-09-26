@@ -3,8 +3,8 @@ categories: ["Gambits"]
 tags:
   - "Gambits"
   - "Meta & Builds"
-title: "Gambonanza All Gambits Guide v1.1.0 - 150+ Gambits Rated (S/A/B/C) | Meta-Validated"
-description: "Complete Gambonanza Gambit database for patch v1.1.0. 150+ Gambits with S/A/B/C meta ratings, PieceTile synergy tables, Early vs Late Game analysis, and Pro Tips. Updated for patch v1.1.0."
+title: "Gambonanza Gambits Guide - Every Gambit Rated S/A/B/C"
+description: "All Gambonanza Gambits with S/A/B/C ratings, prices, rarity, trigger conditions and the pieces they pair with. Updated for 1.5.x, where no Gambit numbers changed."
 ---
 
 ## The Gambit System  Rated, Ranked & Explained
@@ -458,7 +458,9 @@ For your first 10 runs, prioritize these Gambits in this exact order:
 
 ---
 
-*Gambit database based on my runs and gameplay analysis. 150+ Gambits total  I've catalogued the top 60 with full ratings. More added as meta evolves. Last updated: May 11, v1.1.0 (patch v1.1.0).*
+Two economy Gambits moved a long way in 1.4.0: Yin's and Yang's both went from a 1/3 trigger to a 1/2 trigger, and Rear Up's doubled its promotion payout. The [Yin, Yang and Rear Up buff guide](/yin-yang-rearup-buffs-guide/) covers the builds that use them.
+
+*Gambit database based on my runs and gameplay analysis. Around 200 Gambits exist in game, with the top picks rated in full here. Last reviewed September 26, 2026 for patch 1.5.x.*
 
 
 

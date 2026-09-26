@@ -5,10 +5,12 @@ tags:
   - "Rooks"
   - "Bishops"
   - "Pieces & Cards"
-title: 'Gambonanza Rook & Bishop Guide-Mastering the Support Pieces'
-description: 'Gambonanza Rook and Bishop guide. Rook suppression power, Bishop control tactics, Gambit combos, and advanced formations for these underrated pieces.'
+title: "Gambonanza Rook and Bishop Guide - When These Pieces Win Boards"
+description: "How Rooks and Bishops play on a growing Gambonanza board: why Rooks need an open file, why Bishops struggle early, and the Gambits that make both worth keeping."
 lastUpdated: '2026-09-25'
-version: 'v1.1.0'
+version: "v1.5.0"
+last_reviewed: "2026-09-26"
+review_status: "current"
 ---
 
 ## The Backbone, Not The Sidekick

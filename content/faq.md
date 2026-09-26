@@ -2,8 +2,8 @@
 categories: ["Beginner"]
 tags:
   - "Strategy"
-title: "Gambonanza FAQ - Straight Answers to the Questions That Cost Runs"
-description: "Gambonanza FAQ. Real answers on how a run works, the board, Gambits, gold, the 8 bosses, and the mistakes that lose runs. No filler questions."
+title: "Gambonanza FAQ - Run Length, Seeds, Board Size and 20 More Answers"
+description: "Direct answers to the questions players actually ask: is there a seed system, how long a run takes, how the board grows, what the Stalemate Counter does, and why runs end early."
 lastmod: "2026-09-25T15:00:00+08:00"
 version: "v1.5.0"
 ---

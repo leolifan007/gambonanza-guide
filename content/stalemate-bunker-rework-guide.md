@@ -5,8 +5,8 @@ tags:
 title: "Stalemate & Bunker's Gambit Rework - How v1.3.0 Changed Two Core Systems"
 description: "Gambonanza v1.3.0 revamped Stalemate to reset after boss fights and reworked Bunker's Gambit to be global. What these changes mean for your playstyle. Updated for v1.3.0."
 game_version: ">=v1.3.0"
-last_reviewed: "2026-07-13"
-review_status: "current"
+last_reviewed: "2026-09-26"
+review_status: "historical"
 date: "2026-07-13"
 ---
 

@@ -5,7 +5,9 @@ tags:
 title: "Queen Supremacy Guide"
 description: "Gambonanza Queen supremacy guide for patch v1.1.0. When to deploy the Queen, 3 best Gambit combos, and a 4-step flowchart that wins games. Updated for patch v1.1.0."
 lastUpdated: 'v1.1.0-05-17'
-version: 'v1.1.0'
+version: "v1.5.0"
+last_reviewed: "2026-09-26"
+review_status: "current"
 ---
 
 ## Queen Supremacy-TL;DR Check [All Gambits Guide](/gambits/) for the full breakdown. The [Rook & Bishop Guide](/rook-bishop-guide/) breaks this down in detail.

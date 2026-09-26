@@ -9,11 +9,13 @@ title: "Beat the Boss, Lost the Economy - How to Restart Stock Generation After 
 description: "Boss fights don't test your strength-they test your recovery. A step-by-step post-boss economic restart procedure for each stage transition in Gambonanza."
 keywords: [post-boss, economy restart, recovery, stage transition]
 lastUpdated: 'v1.1.0-06-18'
-version: 'v1.1.0'
+version: "v1.5.0"
 draft: false
 hidden: false
 lastmod: 2026-06-18T17:30:00+08:00
 ---0
+last_reviewed: "2026-09-26"
+review_status: "current"
 ---
 
 You beat the boss. Your economy loop is gone. Your gambit setup is scrambled. Now what? Check out [Economy & Shop Guide](/economy/) for more. The [Economy Recovery Guide](/economy-recovery-guide/) covers this in depth.

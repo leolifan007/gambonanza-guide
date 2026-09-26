@@ -87,6 +87,8 @@ Verified status does not mean the default settings are perfect for you. Text siz
 
 If you want to go deeper on the systems referenced here, read the [Steam Deck settings guide](/steam-deck-settings-guide/) and [enemy powers guide](/enemy-powers-warning-guide/). They cover the mechanics this patch touches in full detail.
 
+The follow-up hotfixes matter too. The [1.5.1 to 1.5.3 hotfix breakdown](/v151-153-hotfix-breakdown/) lists what was fixed after this release landed.
+
 {{< pro-tip >}}The enemy power warning is a reaction cue, not a pause button. Decide your response before it appears, and you will save more pieces than any defensive Gambit.{{< /pro-tip >}}
 
 ## Community Resources

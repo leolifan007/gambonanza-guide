@@ -90,6 +90,8 @@ Before you move to the next tier, check:
 
 If yes across the board, the next tier is ready.
 
+The highest tier changes more than the modifier list suggests, because it also hides an extra boss behind the usual roster. The [King difficulty hidden changes guide](/king-difficulty-hidden-changes/) covers what only appears once you are there.
+
 {{% section-divider %}}
 
 ## Related Guides

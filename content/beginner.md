@@ -2,8 +2,8 @@
 categories: ["Beginner"]
 tags:
   - "Beginner"
-title: "Gambonanza Beginner Guide - How to Win Your First Runs"
-description: "The Gambonanza beginner guide. How a run works, the fastest way to your first clear, and the habits that stop new players from losing runs they should win."
+title: "Gambonanza Beginner Guide - Your First Clear in 5 Runs"
+description: "What to do in your first five runs: which pieces to keep, what to buy in the first shop, when to restart, and the habits that stop new players losing winnable boards."
 lastmod: "2026-09-25T15:00:00+08:00"
 version: "v1.5.0"
 ---
@@ -210,7 +210,9 @@ Gambonanza is not a brutal game, it is an **unforgiving** one. The difference ma
 
 {{< meta-rating grade="S" label="Every run teaches you something. The player who wins consistently is not the one with the best Gambits, it is the one who stopped making the same error twice." >}}
 
-Next step: read the [Complete Walkthrough](/complete-walkthrough/) for a full run, or jump to the [Boss Battle Guide](/bosses/) if you want revenge on your first boss.
+Next step: read the [Complete Walkthrough](/complete-walkthrough/) for a full run, or jump to the [Boss Battle Guide](/bosses/) if you want revenge on your first boss. If you are starting on 1.5.x and the tutorial looks different from older guides, the [post-1.5 new player guide](/post-15-new-player-guide/) starts from what the current build actually shows you.
+
+The questions that come up over and over are answered in the [FAQ](/faq/), including how long a run takes, whether seed codes exist, and why the Stalemate Counter ends runs.
 
 ---
 

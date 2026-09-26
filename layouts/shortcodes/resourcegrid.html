@@ -1,0 +1,10 @@
+{{- /* resourcegrid: bottom resource link grid (SOP 11 Gate 9).
+       Usage:
+       {{< resourcegrid >}}
+       - [Official Steam News](https://...) - what it gives you
+       - [Gambonanza Wiki](https://...) - what it gives you
+       {{< /resourcegrid >}}
+*/}}
+<div class="resourcegrid">
+{{ .Inner | markdownify }}
+</div>

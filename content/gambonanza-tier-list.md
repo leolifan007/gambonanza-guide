@@ -3,11 +3,14 @@ categories: ["Gambits"]
 tags:
   - "Gambits"
   - "Meta & Builds"
-title: "Gambonanza Tier List (v1.1.0)  Best Gambits & Builds Ranked S/A/B/C"
-description: "Complete Gambonanza tier list for patch v1.1.0. All 150+ Gambits ranked S/A/B/C with synergies, pro tips, and best builds. Find the strongest Gambits for every strategy. Updated for patch v1.1.0."
+title: "Gambonanza Gambit Tier List - Best Gambits Ranked S/A/B/C (1.5.x)"
+description: "Current Gambonanza Gambit tier list for patch 1.5.x. Every top Gambit ranked S/A/B/C with synergies, phase tags, and the balance changes from 1.3.0 and 1.4.0 that moved picks."
+version: "v1.5.0"
+last_reviewed: "2026-09-26"
+review_status: "current"
 ---
 
-##Gambonanza Tier List v1.0  Every Gambit Ranked
+## Gambonanza Gambit Tier List - Every Gambit Ranked (1.5.x)
 
 <div class="callout callout-verdict" style="text-align:center;border-color:var(--gold);background:linear-gradient(135deg, rgba(212,175,55,0.15), rgba(212,175,55,0.05))">
   <strong style="font-family:var(--font-display);font-size:1.4rem;color:var(--gold)">?? Must-Pick Gambits to Break the Game in v1.0</strong><br>
@@ -30,7 +33,7 @@ For context on how these fit into a full-game strategy, the [Beginner Guide](/be
 ## <span id="s-tier">S-Tier  Game-Warping Gambits</span>
 
 <div style="background:linear-gradient(135deg, rgba(212,175,55,0.2), rgba(212,175,55,0.05));border:2px solid var(--gold);border-radius:12px;padding:24px;margin-bottom:24px">
-These three Gambits <strong>fundamentally rewrite the rules of the game.</strong> If you see one in the shop, mortgage everything. Build your entire run around them. 
+These three Gambits <strong>fundamentally rewrite the rules of the game.</strong> {{< game-icon name="bolt" >}}If you see one in the shop, mortgage everything. Build your entire run around them. 
 </div>
 
 ### 1 Jump's Gambit <span style="color:var(--gold)"> The Best Movement Gambit in the Game</span>
@@ -54,8 +57,8 @@ see_also:
     url: '/cards/'
 ---
 
-{{< callout type="warning" title="v1.3.0 Update Available" >}}
-**This tier list is from v1.1.0 and is now outdated.** The v1.3.0 balance patch significantly changed the meta: Templar nerfed (1/1 to 1/3), 6 Gambits buffed to guaranteed triggers, 2 new Gambits added, and 2 removed. See the **[v1.3.0 Tier List](/gambonanza-tier-list-v130/)** for current rankings.
+{{< callout type="tip" title="Balance Changes Already Applied Here" >}}
+This list reflects the balance patches that actually moved Gambits. **1.3.0** nerfed Templar's (1/1 to 1/3), buffed 6 Gambits to guaranteed triggers, added Missigno's and Graal's, and removed Shield's and Trojan's. **1.4.0** moved Yin's and Yang's from a 1/3 to a 1/2 trigger and doubled Rear Up's promotion payout from +$2 to +$4. **1.5.0 changed no Gambit numbers**, so everything here is current for 1.5.x.
 {{< /callout >}}
 
 
@@ -91,7 +94,7 @@ see_also:
 ## <span id="a-tier">A-Tier  Run-Defining Gambits</span>
 
 <div style="background:linear-gradient(135deg, rgba(45,180,150,0.2), rgba(45,180,150,0.05));border:2px solid var(--teal);border-radius:12px;padding:24px;margin-bottom:24px">
-These Gambits define your build. You don't build around them  they build around you. Prioritize them in every shop. An A-tier Gambit in the right deck is often stronger than a bad S-tier pick that doesn't fit your strategy.
+These Gambits define your build. {{< game-icon name="trending" >}}You don't build around them  they build around you. Prioritize them in every shop. An A-tier Gambit in the right deck is often stronger than a bad S-tier pick that doesn't fit your strategy.
 
 
 </div>
@@ -117,18 +120,6 @@ These Gambits define your build. You don't build around them  they build around 
 **Phase:** {{< phase-tag "early" >}} {{< phase-tag "mid" >}}
 
 > **Pro Tip:** The launch lands on a real square, so plan the diagonal so it ends on a Trap or Gold Tile. Kill, pressure, and tile effect from a single move.
-
----
-
-### Templar's Gambit <span style="color:var(--teal)"> Lasting Protection</span>
-
-{{< meta-rating grade="A" label="Gaining a Rook also drops a random Protective Tile. A lasting way to shield a key piece." >}}
-
-**Best with:** Rook (collect both the piece and the tile), any advanced piece you want to keep alive
-
-**Phase:** {{< phase-tag "early" >}} {{< phase-tag "mid" >}}
-
-> **Pro Tip:** A Protective Tile only saves the piece on the turn it moves in. Keep advancing the protected piece onto fresh tiles and it never sits exposed for a full enemy turn.
 
 ---
 
@@ -163,6 +154,15 @@ Excellent in the right build. Don't force them  pick them when they fit. A B-tie
 
 
 </div>
+
+### Templar's Gambit <span class="meta-badge meta-b">B</span>
+Gaining a Rook also drops a random Protective Tile. Dropped from A to B in 1.3.0, when the trigger moved from 1/1 to 1/3.
+
+**Phase:** {{< phase-tag "early" >}} {{< phase-tag "mid" >}}
+**Best with:** Rook builds / Any piece you must keep alive
+**Downside:** At a 1/3 trigger the tile no longer shows up on demand, so you cannot plan a turn around it
+
+>-A Protective Tile only saves the piece on the turn it moves in. Keep advancing the protected piece onto fresh tiles and it never sits exposed for a full enemy turn.
 
 <div class="split-col">
 <div class="col">
@@ -377,14 +377,19 @@ $6. Phantom Tiles may produce a permanent piece. Strong in tile builds, dead wei
   </div>
 </div>
 
-{{< pro-tip >}}<strong>Bookmark this page.</strong> I update the tier list every time the meta shifts. v1.0 data based on my runs and gameplay analysis. As new Gambits get discovered or patched, this is where you'll see it first.{{< /pro-tip >}}
+{{< pro-tip >}}<strong>Bookmark this page.</strong> I update the tier list when the meta shifts. 1.5.0 changed no Gambit numbers, so the rankings below carry straight over from 1.4.0.{{< /pro-tip >}}
 
 ---
 
-*Gambonanza Tier List v1.0  Last updated: May 7, v1.1.0. Based on my runs and gameplay analysis. 150+ Gambits total; top 22 ranked individually here.*
+*Gambonanza Gambit Tier List - last reviewed September 26, 2026 for patch 1.5.x. Around 200 Gambits exist in game; the top picks are ranked individually here.*
 
 ---
 
-*Guide last updated: May 11, v1.1.0 (patch v1.1.0).*
+{{< resourcegrid >}}
+- [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/) - patch notes and balance changes
+- [Gambonanza Wiki - Gambits](https://gambonanza.fandom.com/wiki/Gambits) - community Gambit reference
+{{< /resourcegrid >}}
+
+*Guide last updated: September 26, 2026 (patch 1.5.x).*
 
 

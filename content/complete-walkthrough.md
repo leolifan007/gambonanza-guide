@@ -1,6 +1,6 @@
 ---
-title: "Gambonanza Complete Walkthrough - Every Stage From First Board to Final Boss"
-description: "A full Gambonanza run broken down stage by stage: how the 5x5 opening works, when the board grows, how to spend in the shop, and how to prepare for each boss checkpoint."
+title: "Gambonanza Complete Walkthrough - All 25 Games, Stage by Stage"
+description: "Every game in a full run, in order: the 5x5 opening, how the board gains a row after each boss, what to buy between games, and how to reach the final checkpoint."
 categories: ["Beginner"]
 tags:
   - "Walkthrough"

@@ -16,12 +16,14 @@ A full run is roughly 25 games split into five stages. After every 4 normal game
 
 Two things matter more than anything else:
 
-1. **Boss order is not fixed.** Which of the 8 bosses you face, and in what order, varies between runs. You might get Kev Borclick and Tal the Cursed in the same run, or neither.
-2. **The shop before each fight shows you the next boss.** It sits in the lower-left corner of the shop UI. Read it before you spend. You are not buying generically good upgrades, you are buying against a specific mechanic.
+{{< game-icon name="warning" >}}1. **Boss order is not fixed.** Which of the 8 bosses you face, and in what order, varies between runs. You might get Kev Borclick and Tal the Cursed in the same run, or neither.
+{{< game-icon name="money" >}}2. **The shop before each fight shows you the next boss.** It sits in the lower-left corner of the shop UI. Read it before you spend. You are not buying generically good upgrades, you are buying against a specific mechanic.
 
 {{< callout type="verdict" >}}<strong>THE SHORT VERSION</strong>
 
 Bosses do not just have more pieces. Each one changes a rule. If you shop blind, you lose to a rule you never answered.{{< /callout >}}
+
+Because the modifier is visible before you spend, preparation is mostly a shopping problem rather than a tactics problem. The [boss prep guide](/boss-strategy-guide/) walks through what to buy before each of the five checkpoints.
 
 {{< section-divider >}}
 
@@ -174,6 +176,8 @@ This ranking reflects which bosses end runs for new players. The hardest bosses 
 | 7 | Botezarro | Dangerous tile color alternates, but readable once you know |
 | 8 | Mighty Kasparov | Brutal modifier, but its pieces are the most predictable |
 
+Difficulty tiers decide how punishing these are. Higher tiers stack negative modifiers, and the top tiers add a hidden sixth boss on top of the roster above, which the [difficulty guide](/difficulty-guide/) covers tier by tier.
+
 ## Universal Boss Preparation
 
 Most boss advice reduces to one rule: do not enter with only one plan. Before every boss checkpoint, check these five things.
@@ -185,6 +189,8 @@ Most boss advice reduces to one rule: do not enter with only one plan. Before ev
 | Backup attacker | One queen can die, get blocked, or become unsafe |
 | Defensive tile | Blessed, Protective, Trap, or Phantom turns bad trades into recoverable ones |
 | Boss modifier | Your first move should answer the modifier, not ignore it |
+
+Recovery money is the check people skip. Winning a boss does not mean you are safe, because you often have to rebuild straight afterwards, and the [money and shop guide](/economy/) explains what actually pays you between games.
 
 **Tools that work against most bosses:**
 
@@ -205,3 +211,16 @@ Most boss advice reduces to one rule: do not enter with only one plan. Before ev
 Read the boss preview in the shop. Every fight in Gambonanza tells you the modifier before you spend a single coin. The players who lose to Kev Borclick's STASIS or Tal's curses are usually the ones who bought generically strong upgrades instead of the tool that answered the rule in front of them.
 
 Buy the answer, not the power.
+
+Enemy waves also changed in 1.4.0, which added new enemy compositions on top of the boss roster. The [new enemy waves guide](/new-enemy-waves-14-guide/) breaks down what those waves look like and how they interact with boss checkpoints.
+
+## Community Verification & Resources
+
+Boss modifiers and names are checked against the shipped game and the official patch notes. If a patch changes a modifier, this page is updated.
+
+{{< resourcegrid >}}
+- [Official Gambonanza Steam News](https://store.steampowered.com/news/app/3509230/) - patch notes and boss changes
+- [Gambonanza Wiki - Bosses](https://gambonanza.fandom.com/wiki/Category:Bosses) - community boss reference
+{{< /resourcegrid >}}
+
+*Last reviewed September 26, 2026 for Gambonanza v1.5.x.*

@@ -8,8 +8,10 @@ tags:
 title: "Unlocked King Difficulty and Die Every Run? 4 Hidden Mechanic Changes That Are Killing You"
 description: "King difficulty doesn't just make enemies harder-it changes the rules. 4 hidden mechanic scaling changes that explain why your Queen Difficulty strategies stop working."
 lastUpdated: 'v1.1.0-06-18'
-version: 'v1.1.0'
+version: "v1.5.0"
 ---'
+last_reviewed: "2026-09-26"
+review_status: "current"
 ---
 
 You beat Queen difficulty. You unlock King. You play exactly the same way and die by Stage 2.

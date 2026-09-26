@@ -6,8 +6,8 @@ review_status: updated
 tags:
   - "Pawns"
   - "Meta & Builds"
-title: "Gambonanza Pawn Promotion Guide - Don't Break Your Build When Pawns Evolve"
-description: "Gambonanza Pawn promotion guide. When to promote, what to promote to, and how to keep your build intact when Peons evolve. Avoid breaking Gambit synergies. Updated for patch v1.4.0."
+title: "Gambonanza Pawn Promotion - When to Promote and What to Promote To"
+description: "Promotion in Gambonanza: the pieces you can promote into, which Gambits reward it, and how promoting at the wrong time breaks an economy build. Includes Rear Up's payout."
 ---
 
 {{< callout type="info" title="Updated for v1.4.0" >}}
@@ -141,6 +141,8 @@ A practical rule of thumb for sustainability:
 *Want to apply this to pawn-specific Gambits? See the [Gambits Guide](/gambits/)*
 
 ---
+
+If a promotion line keeps collapsing no matter which piece you promote into, the [pawn promotion troubleshooting guide](/pawn-promotion-troubleshooting/) walks through the specific failure cases and how to tell which one you are hitting.
 
 *Guide last updated: September 25, v1.4.0 (patch v1.4.0).*
 

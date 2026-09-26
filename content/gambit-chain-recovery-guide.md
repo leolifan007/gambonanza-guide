@@ -5,12 +5,14 @@ lastmod: 2026-05-22T08:41:17+08:00
 tags:
   - "Gambits"
   - "Combos & Synergy"
-title: "How to Fix a Broken Gambit Chain in Mid-Game"
-description: "Gambonanza gambit chain recovery guide v1.1.0. Why your combo stopped, how to restart it, salvage routes when you\u2019re stuck mid-board, and emergency fallback chains for v1.1.0."
+title: "Gambonanza Gambit Chain Broke? 4 Ways to Salvage the Run"
+description: "When your Gambit chain stops firing mid-run, do these four things: check the trigger condition, find a replacement trigger, convert to raw pieces, or pivot to economy."
 lastUpdated: 'v1.1.0-05-21'
-version: 'v1.1.0'
+version: "v1.5.0"
 draft: false
 hidden: false
+last_reviewed: "2026-09-26"
+review_status: "current"
 ---
 
 ## Gambit Chain Broken \u2014 TL;DR Check [All Gambits Guide](/gambits/) for the full breakdown. The [Combo Chain Guide](/combo-chain-guide/) breaks this down in detail.

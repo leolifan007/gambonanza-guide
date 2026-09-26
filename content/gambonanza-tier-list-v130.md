@@ -3,16 +3,20 @@ categories: ["Gambits"]
 tags:
   - "Gambits"
   - "Meta & Builds"
-title: "Gambonanza Tier List v1.3.0 - All Gambits Ranked After the Balance Patch"
-description: "Updated Gambonanza tier list for v1.3.0. Templar drops from S to B, Missigno and Graal join the pool, 6 Gambits move up. All 150+ Gambits ranked S/A/B/C with the latest balance data."
+title: "Gambonanza Tier List v1.3.0 (Archive) - Rankings From the July Balance Patch"
+description: "Archived Gambonanza tier list for v1.3.0, kept for reference. For current 1.5.x rankings see the main Gambit tier list."
 game_version: ">=v1.3.0"
-last_reviewed: "2026-07-13"
-review_status: "current"
+last_reviewed: "2026-09-26"
+review_status: "historical"
 date: "2026-07-13"
 ---
 
+{{< callout type="warning" title="This Is an Archived 1.3.0 Tier List" >}}
+You are looking at the tier list as it stood after the **1.3.0 balance patch (July 2026)**. The game is now on **1.5.x**. For current rankings, use the **[main Gambit tier list](/gambonanza-tier-list/)**, which folds in the 1.3.0 and 1.4.0 changes. Keep this page only if you want to see what moved in that patch.
+{{< /callout >}}
+
 {{< callout type="verdict" title="v1.3.0 Tier List at a Glance" >}}
-This tier list replaces the v1.1.0 version. **Templar drops from S to B-tier** (nerfed from 1/1 to 1/3). Six Gambits enter S and A-tier thanks to guaranteed triggers. Missigno's debuts in S-tier for lategame pivot potential. If you're still playing the v1.1.0 meta, your tier assumptions are wrong.
+This tier list replaced the v1.1.0 version at the time. **Templar dropped from S to B-tier** (nerfed from 1/1 to 1/3). Six Gambits enter S and A-tier thanks to guaranteed triggers. Missigno's debuts in S-tier for lategame pivot potential. If you're still playing the v1.1.0 meta, your tier assumptions are wrong.
 {{< /callout >}}
 
 {{< diagram src="tier-comparison-v11-v13.svg" alt="Tier comparison between v1.1.0 and v1.3.0" caption="Green arrows = moved up. Red arrows = moved down. New Gambits enter at their debut tier." >}}

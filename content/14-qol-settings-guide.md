@@ -3,8 +3,8 @@ categories: ["Beginner"]
 tags:
   - "Beginner"
   - "Game Mechanics"
-title: "Gambonanza 1.4 Quality-of-Life Settings: Skip Animations, Algebraic Notation & Unlock All"
-description: "A practical guide to every v1.4.0 quality-of-life setting in Gambonanza. Flip these first: Skip Animations, algebraic notation toggle, Unlock All, and more. Updated for patch v1.4.0."
+title: "Gambonanza Settings to Turn On First - Skip Animations, Notation, Unlock All"
+description: "The Gambonanza settings worth changing before your next run: skip animations for faster turns, algebraic notation for clearer moves, and what Unlock All actually does."
 game_version: ">=v1.4.0"
 last_reviewed: "2026-09-25"
 review_status: "current"

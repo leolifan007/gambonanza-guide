@@ -5,8 +5,8 @@ tags:
 title: "Gambonanza Tutorial Revamp (v1.3.0) - What Changed & How It Helps New Players"
 description: "Gambonanza v1.3.0 reworked the tutorial system. New players now get better onboarding. Here's what changed and what the revamped tutorial covers. Updated for v1.3.0."
 game_version: ">=v1.3.0"
-last_reviewed: "2026-07-13"
-review_status: "current"
+last_reviewed: "2026-09-26"
+review_status: "historical"
 date: "2026-07-13"
 ---
 

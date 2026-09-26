@@ -5,7 +5,9 @@ tags:
 title: "Tile Control Guide"
 description: "Gambonanza tile control guide. Tile value map visualization, center vs edge strategy, and a 5-rule checklist to own the board."
 lastUpdated: '2026-09-25'
-version: 'v1.1.0'
+version: "v1.5.0"
+last_reviewed: "2026-09-26"
+review_status: "current"
 ---
 
 ## Tile Control  TL;DR Check [Crumble Mechanic Guide](/crumble-mechanic-guide/) for the full breakdown. The [Decision Framework](/decision-framework-guide/) breaks this down in detail.

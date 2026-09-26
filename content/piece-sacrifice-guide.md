@@ -8,9 +8,11 @@ tags:
 title: "When to Sacrifice Pieces in Gambonanza"
 description: "Gambonanza piece sacrifice strategy guide v1.1.0. When to trade a pawn for board advantage, sacrificing a bishop to break a Boss defense, Queen sacrifice value analysis, and trade decision framework for v1.1.0."
 lastUpdated: 'v1.1.0-05-21'
-version: 'v1.1.0'
+version: "v1.5.0"
 draft: false
 hidden: false
+last_reviewed: "2026-09-26"
+review_status: "current"
 ---
 
 ## Sacrifice \u2014 TL;DR Check [Tile Control Guide](/tile-control-guide/) for the full breakdown. The [Crumble Mechanic Guide](/crumble-mechanic-guide/) breaks this down in detail.
