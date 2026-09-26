@@ -1704,3 +1704,35 @@ ul { list-style: none; padding: 0; }
     border-bottom: 1px solid rgba(245,230,211,0.08);
   }
 }
+/* --- resourcegrid (SOP 11 Gate 9) --- */
+.resourcegrid { margin: var(--space-lg) 0; }
+.resourcegrid ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: var(--space-md);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.resourcegrid li {
+  background: var(--dark-2);
+  border: var(--border-thin);
+  border-left: 3px solid var(--gold);
+  border-radius: var(--radius);
+  padding: var(--space-md);
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: var(--cream-dark);
+}
+.resourcegrid a {
+  color: var(--gold);
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 2px;
+}
+.resourcegrid a:hover { text-decoration: underline; }
+
+/* --- game-icon (SOP 11 Gate 5) --- */
+.game-icon { display: inline-flex; align-items: center; vertical-align: -3px; color: var(--gold); margin-right: 6px; }
+.game-icon svg { display: block; }
