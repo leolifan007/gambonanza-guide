@@ -4,7 +4,7 @@ tags:
   - "Bosses"
 title: "King of Spades Guide"
 description: "This page has been retired. King of Spades is not a boss in Gambonanza. See the real boss roster."
-_build:
+build:
   render: false
   list: false
 sitemap:

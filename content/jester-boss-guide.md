@@ -4,7 +4,7 @@ tags:
   - "Bosses"
 title: "Jester Boss Guide"
 description: "This page has been retired. The Jester is not a boss in Gambonanza. See the real boss roster."
-_build:
+build:
   render: false
   list: false
 sitemap:

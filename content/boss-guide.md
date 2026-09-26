@@ -5,7 +5,7 @@ tags:
   - "Bosses"
 title: "Gambonanza Boss Guide"
 description: "This page has been merged into the main boss guide. All 8 bosses with verified modifiers now live in one place."
-_build:
+build:
   render: false
   list: false
 sitemap:

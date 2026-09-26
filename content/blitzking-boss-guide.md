@@ -4,7 +4,7 @@ tags:
   - "Bosses"
 title: "Blitzking Boss Guide"
 description: "This page has been retired. Blitzking is not a boss in Gambonanza. See the real boss roster."
-_build:
+build:
   render: false
   list: false
 sitemap:
