@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="260" viewBox="0 0 700 260">
+<rect width="700" height="260" fill="#1A0F1A" rx="12"/>
+<defs>
+<marker id="aGold" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker>
+<marker id="aTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#4A9B9B"/></marker>
+<marker id="aRose" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#A85D6A"/></marker>
+</defs>
+<text x="350" y="33" fill="#D4A84A" font-size="22.0" text-anchor="middle" font-family="'VT323',monospace">What the $2 Actually Buys Back</text>
+<text x="350" y="53" fill="#8B7A8B" font-size="12.0" text-anchor="middle">One shop, one discount, one extra look</text>
+<rect x="45" y="88" width="170" height="66" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="130.0" y="125.0" fill="#F5E6D3" font-size="15.0" text-anchor="middle">WAS $10</text>
+<path d="M220,121 L280,121" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<rect x="285" y="88" width="170" height="66" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="370.0" y="125.0" fill="#F5E6D3" font-size="15.0" text-anchor="middle">NOW $8</text>
+<path d="M460,121 L520,121" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<rect x="525" y="88" width="130" height="66" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="590.0" y="125.0" fill="#F5E6D3" font-size="13.0" text-anchor="middle">1 REROLL</text>
+<text x="350" y="186" fill="#F5E6D3" font-size="12.0" text-anchor="middle">A shop offers 1 piece, 3 Gambits, 3 tokens; a reroll costs $2.</text>
+<text x="350" y="214" fill="#4A9B9B" font-size="12.0" text-anchor="middle">The discount changes the alternative, not the Gambit's power.</text>
+<text x="350" y="242" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Shop and reroll facts from GAMBONANZA-FACTS.md</text>
+</svg>

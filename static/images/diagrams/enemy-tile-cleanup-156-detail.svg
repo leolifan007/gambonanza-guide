@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="290" viewBox="0 0 700 290">
+<rect width="700" height="290" fill="#1A0F1A" rx="12"/>
+<defs>
+<marker id="aGold" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker>
+<marker id="aTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#4A9B9B"/></marker>
+<marker id="aRose" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#A85D6A"/></marker>
+</defs>
+<text x="350" y="33" fill="#D4A84A" font-size="22.0" text-anchor="middle" font-family="'VT323',monospace">Stale Square Versus Cleared Square</text>
+<text x="350" y="53" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Why the 1.5.6 cleanup fix changes a turn read</text>
+<text x="175" y="78" fill="#A85D6A" font-size="14.0" text-anchor="middle" font-family="'VT323',monospace">BEFORE</text>
+<rect x="45" y="92" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="109" y="92" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="173" y="92" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="237" y="92" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="45" y="134" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="109" y="134" width="56" height="34" rx="3" fill="#3A1F28" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="137" y="156" fill="#F5E6D3" font-size="12.0" text-anchor="middle">STALE</text>
+<rect x="173" y="134" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="237" y="134" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="45" y="176" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="109" y="176" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="173" y="176" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="237" y="176" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="510" y="78" fill="#D4A84A" font-size="14.0" text-anchor="middle" font-family="'VT323',monospace">AFTER</text>
+<rect x="380" y="92" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="444" y="92" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="508" y="92" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="572" y="92" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="380" y="134" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="444" y="134" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="508" y="134" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="572" y="134" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="380" y="176" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="444" y="176" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="508" y="176" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="572" y="176" width="56" height="34" rx="3" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="350" y="244" fill="#4A9B9B" font-size="12.0" text-anchor="middle">A square that no longer exists should not shape your next move.</text>
+<text x="350" y="272" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Schematic board; fix quoted from the official 1.5.6 post</text>
+</svg>

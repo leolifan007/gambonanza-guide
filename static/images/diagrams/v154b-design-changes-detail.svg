@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="260" viewBox="0 0 700 260">
+<rect width="700" height="260" fill="#1A0F1A" rx="12"/>
+<defs>
+<marker id="aGold" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker>
+<marker id="aTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#4A9B9B"/></marker>
+<marker id="aRose" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#A85D6A"/></marker>
+</defs>
+<text x="350" y="33" fill="#D4A84A" font-size="22.0" text-anchor="middle" font-family="'VT323',monospace">Nine Patch Lines, Two Actual Rules</text>
+<text x="350" y="53" fill="#8B7A8B" font-size="12.0" text-anchor="middle">What 1.5.4b contained, by line count</text>
+<text x="350" y="84" fill="#F5E6D3" font-size="14.0" text-anchor="middle" font-family="'VT323',monospace">2 DESIGN  /  6 FIX  /  1 ART</text>
+<rect x="40" y="102" width="133" height="30" rx="4" fill="#D4A84A" opacity="0.9"/>
+<rect x="176" y="102" width="400" height="30" rx="4" fill="#4A9B9B" opacity="0.7"/>
+<rect x="579" y="102" width="81" height="30" rx="4" fill="#A85D6A" opacity="0.7"/>
+<text x="106" y="122" fill="#1A0F1A" font-size="12.0" text-anchor="middle">DESIGN</text>
+<text x="376" y="122" fill="#1A0F1A" font-size="12.0" text-anchor="middle">FIX</text>
+<text x="619" y="122" fill="#1A0F1A" font-size="12.0" text-anchor="middle">ART</text>
+<text x="106" y="158" fill="#D4A84A" font-size="12.0" text-anchor="middle">protection</text>
+<text x="106" y="176" fill="#D4A84A" font-size="12.0" text-anchor="middle">and price</text>
+<text x="376" y="158" fill="#4A9B9B" font-size="12.0" text-anchor="middle">state, visual, platform</text>
+<text x="619" y="158" fill="#A85D6A" font-size="12.0" text-anchor="middle">8 VFX</text>
+<text x="350" y="214" fill="#F5E6D3" font-size="12.0" text-anchor="middle">Only the gold segment changes how you build.</text>
+<text x="350" y="242" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Line counts from the 30 September 2026 news post</text>
+</svg>

@@ -1,6 +1,6 @@
 ---
 title: "Gambonanza Guide - Complete Strategy, Best Builds & Beginner Help"
-description: "An independent Gambonanza guide: real Gambit reference, boss strategies for all 8 bosses, economy and board advice, and beginner help. Updated for v1.5.x."
+description: "An independent Gambonanza guide: real Gambit reference, boss strategies for all 8 bosses, economy and board advice, and beginner help. Updated for v1.5.7."
 ---
 
 ## Complete Guide-Pick Your Path
@@ -149,10 +149,10 @@ Which of the 8 bosses you face varies between runs. What does not vary is that p
 
 ---
 
-*Guide last updated: September 24, v1.5.0 (patch v1.5.x). UI and text revamp, Steam Deck Verified, clearer enemy power warnings, and the hotfix line where Stalemate now resets the Graveyard. Full [v1.5.0 patch breakdown](/v150-patch-breakdown/).*
+*Guide last updated: November 8, 2026, v1.5.7. Patch 1.5.4b changed two design rules and fixed six bugs, 1.5.6 cleaned up board state and the Magic Tiles Strain starting pool, and 1.5.7 adjusted two Gambit triggers. Full [1.5.4b design changes](/v154b-design-changes/).*
 
 <div class="update-banner">
-  <strong>v1.5.x Patch:</strong> UI and text revamp, Steam Deck Verified, clearer enemy power warnings, and Stalemate now resets the Graveyard! <a href="/v150-patch-breakdown/">v1.5.0 breakdown</a> | <a href="/steam-deck-settings-guide/">Steam Deck settings</a> | <a href="/v151-153-hotfix-breakdown/">Hotfix changes</a>
+  <strong>v1.5.7 Patch:</strong> Mercenary's Gambit now protects both pieces, Valhalla's Gambit costs $8, and six Gambit state bugs are fixed. <a href="/v154b-design-changes/">1.5.4b design changes</a> | <a href="/v154b-fix-checklist/">Six-fix checklist</a> | <a href="/v157-proc-odds-change/">1.5.7 odds change</a>
 </div>
 
 

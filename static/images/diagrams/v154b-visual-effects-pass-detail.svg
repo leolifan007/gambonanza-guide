@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="260" viewBox="0 0 700 260">
+<rect width="700" height="260" fill="#1A0F1A" rx="12"/>
+<defs>
+<marker id="aGold" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker>
+<marker id="aTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#4A9B9B"/></marker>
+<marker id="aRose" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#A85D6A"/></marker>
+</defs>
+<text x="350" y="33" fill="#D4A84A" font-size="22.0" text-anchor="middle" font-family="'VT323',monospace">How To Use The New Feedback</text>
+<text x="350" y="53" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Visibility helps you confirm a trigger, not change its odds</text>
+<rect x="30" y="96" width="195" height="62" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="127.5" y="131.0" fill="#F5E6D3" font-size="14.0" text-anchor="middle">TRIGGER</text>
+<text x="127" y="182" fill="#E8D5C0" font-size="12.0" text-anchor="middle">the Gambit fires</text>
+<path d="M227,127 L249,127" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<rect x="255" y="96" width="195" height="62" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="352.5" y="131.0" fill="#F5E6D3" font-size="14.0" text-anchor="middle">EFFECT</text>
+<text x="352" y="182" fill="#E8D5C0" font-size="12.0" text-anchor="middle">you can now see it</text>
+<path d="M452,127 L474,127" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<rect x="480" y="96" width="195" height="62" rx="8" fill="#2D1A2D" stroke="#5CB85C" stroke-width="1.5"/>
+<text x="577.5" y="131.0" fill="#F5E6D3" font-size="14.0" text-anchor="middle">CONFIRM</text>
+<text x="577" y="182" fill="#E8D5C0" font-size="12.0" text-anchor="middle">log what fired</text>
+<text x="350" y="220" fill="#4A9B9B" font-size="12.0" text-anchor="middle">Nothing about proc chance, price or effect text changed.</text>
+<text x="350" y="242" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Art pass quoted from the 1.5.4b ART line</text>
+</svg>

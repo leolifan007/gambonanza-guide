@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<defs>
+<marker id="aGold" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker>
+<marker id="aTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#4A9B9B"/></marker>
+<marker id="aRose" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#A85D6A"/></marker>
+</defs>
+<text x="350" y="33" fill="#D4A84A" font-size="22.0" text-anchor="middle" font-family="'VT323',monospace">Valhalla at $8 - Three Questions In Order</text>
+<text x="350" y="53" fill="#8B7A8B" font-size="12.0" text-anchor="middle">A decision tree, not a power ranking</text>
+<rect x="240" y="78" width="220" height="50" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="350.0" y="107.0" fill="#F5E6D3" font-size="13.0" text-anchor="middle">Q1  Free Gambit slot?</text>
+<rect x="35" y="84" width="150" height="38" rx="8" fill="#2D1A2D" stroke="#8B7A8B" stroke-width="1.5"/>
+<text x="110.0" y="107.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">5 Gambit slots</text>
+<path d="M185,103 L235,103" fill="none" stroke="#8B7A8B" stroke-width="1.8"/>
+<rect x="240" y="166" width="220" height="50" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="350.0" y="195.0" fill="#F5E6D3" font-size="13.0" text-anchor="middle">Q2  Board supports it?</text>
+<rect x="35" y="172" width="150" height="38" rx="8" fill="#2D1A2D" stroke="#8B7A8B" stroke-width="1.5"/>
+<text x="110.0" y="195.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">ADJACENT read</text>
+<path d="M185,191 L235,191" fill="none" stroke="#8B7A8B" stroke-width="1.8"/>
+<rect x="240" y="254" width="220" height="50" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="350.0" y="283.0" fill="#F5E6D3" font-size="13.0" text-anchor="middle">Q3  Preview overrides?</text>
+<rect x="35" y="260" width="150" height="38" rx="8" fill="#2D1A2D" stroke="#8B7A8B" stroke-width="1.5"/>
+<text x="110.0" y="283.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">boss preview</text>
+<path d="M185,279 L235,279" fill="none" stroke="#8B7A8B" stroke-width="1.8"/>
+<path d="M350,128 L350,162" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<path d="M350,216 L350,250" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<path d="M350,304 L350,332" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<text x="385" y="148" fill="#D4A84A" font-size="12.0" text-anchor="middle">YES</text>
+<text x="385" y="236" fill="#D4A84A" font-size="12.0" text-anchor="middle">YES</text>
+<text x="385" y="322" fill="#D4A84A" font-size="12.0" text-anchor="middle">NO</text>
+<path d="M462,106 L545,106" fill="none" stroke="#A85D6A" stroke-width="1.8" marker-end="url(#aRose)"/>
+<text x="503" y="99" fill="#A85D6A" font-size="12.0" text-anchor="middle">NO</text>
+<rect x="550" y="84" width="110" height="44" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="605.0" y="110.0" fill="#F5E6D3" font-size="14.0" text-anchor="middle">SKIP</text>
+<path d="M462,194 L545,194" fill="none" stroke="#A85D6A" stroke-width="1.8" marker-end="url(#aRose)"/>
+<text x="503" y="187" fill="#A85D6A" font-size="12.0" text-anchor="middle">NO</text>
+<rect x="550" y="172" width="110" height="44" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="605.0" y="198.0" fill="#F5E6D3" font-size="14.0" text-anchor="middle">SKIP</text>
+<path d="M462,282 L545,282" fill="none" stroke="#D4764A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<text x="503" y="275" fill="#D4764A" font-size="12.0" text-anchor="middle">YES</text>
+<rect x="550" y="260" width="110" height="44" rx="8" fill="#2D1A2D" stroke="#D4764A" stroke-width="1.5"/>
+<text x="605.0" y="286.0" fill="#F5E6D3" font-size="14.0" text-anchor="middle">WAIT</text>
+<rect x="250" y="330" width="200" height="48" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="350.0" y="358.0" fill="#F5E6D3" font-size="16.0" text-anchor="middle">BUY AT $8</text>
+<text x="350" y="402" fill="#4A9B9B" font-size="12.0" text-anchor="middle">$2 left for exactly one shop reroll</text>
+<text x="350" y="422" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Decision framework, not a simulated win rate</text>
+</svg>

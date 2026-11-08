@@ -1,4 +1,4 @@
-{{/* Latest 8 articles - 4x2 grid */}}
+{{/* Latest 12 articles - 4x3 grid (SOP 09: dynamic partial, never hardcode cards) */}}
 {{- $pages := where (where .Site.RegularPages "Draft" "==" false) "Params.hidden" "!=" true -}}
 
 {{- $sorted := slice -}}
@@ -12,7 +12,7 @@
 {{- end -}}
 
 {{- $sorted = sort $sorted "SortDate" "desc" -}}
-{{- $latest := first 8 $sorted -}}
+{{- $latest := first 12 $sorted -}}
 
 {{- range $item := $latest -}}
 {{- $page := $item.Page -}}
