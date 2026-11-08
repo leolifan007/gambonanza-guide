@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<defs>
+<marker id="aGold" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker>
+<marker id="aTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#4A9B9B"/></marker>
+<marker id="aRose" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#A85D6A"/></marker>
+</defs>
+<text x="350" y="33" fill="#D4A84A" font-size="22.0" text-anchor="middle" font-family="'VT323',monospace">Quick Restart Resets the Run, Not the Medal</text>
+<text x="350" y="53" fill="#8B7A8B" font-size="12.0" text-anchor="middle">The 1.5.4b fix restored a state boundary</text>
+<text x="130" y="84" fill="#A85D6A" font-size="15.0" text-anchor="middle" font-family="'VT323',monospace">BEFORE 1.5.4B</text>
+<text x="315" y="86" fill="#8B7A8B" font-size="12.0" text-anchor="middle">QUICK RESTART</text>
+<rect x="40" y="100" width="190" height="66" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="135.0" y="137.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">MEDAL PROGRESS</text>
+<path d="M234,133 L300,133" fill="none" stroke="#A85D6A" stroke-width="1.8" marker-end="url(#aRose)"/>
+<path d="M315,94 L315,172" stroke="#8B7A8B" stroke-width="2" stroke-dasharray="5,4"/>
+<path d="M330,133 L400,133" fill="none" stroke="#A85D6A" stroke-width="1.8" marker-end="url(#aRose)"/>
+<rect x="405" y="100" width="250" height="66" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="530.0" y="137.0" fill="#F5E6D3" font-size="14.0" text-anchor="middle">MEDAL WIPED</text>
+<path d="M649,127 l12,12 M661,127 l-12,12" stroke="#A85D6A" stroke-width="2.2"/>
+<text x="130" y="224" fill="#D4A84A" font-size="15.0" text-anchor="middle" font-family="'VT323',monospace">AFTER 1.5.4B</text>
+<text x="315" y="226" fill="#8B7A8B" font-size="12.0" text-anchor="middle">QUICK RESTART</text>
+<rect x="40" y="240" width="190" height="66" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="135.0" y="277.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">MEDAL PROGRESS</text>
+<path d="M234,273 L300,273" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<path d="M315,234 L315,312" stroke="#8B7A8B" stroke-width="2" stroke-dasharray="5,4"/>
+<path d="M330,273 L400,273" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<rect x="405" y="240" width="250" height="66" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="530.0" y="277.0" fill="#F5E6D3" font-size="14.0" text-anchor="middle">MEDAL KEPT</text>
+<rect x="35" y="345" width="300" height="56" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="185" y="368" fill="#F5E6D3" font-size="12.0" text-anchor="middle">RESETS: run, board, shop, pieces</text>
+<text x="185" y="388" fill="#8B7A8B" font-size="12.0" text-anchor="middle">current run only</text>
+<rect x="355" y="345" width="310" height="56" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="510" y="368" fill="#F5E6D3" font-size="12.0" text-anchor="middle">PERSISTS: medal progress</text>
+<text x="510" y="388" fill="#8B7A8B" font-size="12.0" text-anchor="middle">restart is safe again</text>
+<text x="350" y="422" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Behaviour quoted from the official 1.5.4b fix list</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<defs>
+<marker id="aGold" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker>
+<marker id="aTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#4A9B9B"/></marker>
+<marker id="aRose" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#A85D6A"/></marker>
+</defs>
+<text x="350" y="33" fill="#D4A84A" font-size="22.0" text-anchor="middle" font-family="'VT323',monospace">1.5.4b - Six Fixes By Symptom</text>
+<text x="350" y="53" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Grouped so each one can be verified in the client</text>
+<rect x="270" y="66" width="160" height="36" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="350.0" y="88.0" fill="#F5E6D3" font-size="14.0" text-anchor="middle">SIX FIX LINES</text>
+<path d="M320,102 L135,116" fill="none" stroke="#4A9B9B" stroke-width="1.8" marker-end="url(#aTeal)"/>
+<path d="M350,102 L350,116" fill="none" stroke="#4A9B9B" stroke-width="1.8" marker-end="url(#aTeal)"/>
+<path d="M380,102 L565,116" fill="none" stroke="#4A9B9B" stroke-width="1.8" marker-end="url(#aTeal)"/>
+<rect x="25" y="120" width="220" height="28" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="135.0" y="138.0" fill="#F5E6D3" font-size="13.0" text-anchor="middle">STATE BUGS (4)</text>
+<rect x="260" y="120" width="180" height="28" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="350.0" y="138.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">VISUAL / TILE (1)</text>
+<rect x="455" y="120" width="220" height="28" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="565.0" y="138.0" fill="#F5E6D3" font-size="13.0" text-anchor="middle">PLATFORM (1)</text>
+<rect x="25" y="158" width="220" height="200" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<rect x="42" y="176" width="12" height="12" rx="2" fill="none" stroke="#D4A84A" stroke-width="1.4"/>
+<path d="M43,181 l3,3 l5,-7" fill="none" stroke="#D4A84A" stroke-width="1.6"/>
+<text x="62" y="185" fill="#E8D5C0" font-size="12.0">Tooth payout missing</text>
+<text x="135" y="205" fill="#8B7A8B" font-size="12.0" text-anchor="middle">state, not balance</text>
+<rect x="42" y="218" width="12" height="12" rx="2" fill="none" stroke="#D4A84A" stroke-width="1.4"/>
+<path d="M43,223 l3,3 l5,-7" fill="none" stroke="#D4A84A" stroke-width="1.6"/>
+<text x="62" y="227" fill="#E8D5C0" font-size="12.0">Barter counter at 0</text>
+<text x="135" y="247" fill="#8B7A8B" font-size="12.0" text-anchor="middle">state, not balance</text>
+<rect x="42" y="260" width="12" height="12" rx="2" fill="none" stroke="#D4A84A" stroke-width="1.4"/>
+<path d="M43,265 l3,3 l5,-7" fill="none" stroke="#D4A84A" stroke-width="1.6"/>
+<text x="62" y="269" fill="#E8D5C0" font-size="12.0">Valhalla phantom piece</text>
+<text x="135" y="289" fill="#8B7A8B" font-size="12.0" text-anchor="middle">state, not balance</text>
+<rect x="42" y="302" width="12" height="12" rx="2" fill="none" stroke="#D4A84A" stroke-width="1.4"/>
+<path d="M43,307 l3,3 l5,-7" fill="none" stroke="#D4A84A" stroke-width="1.6"/>
+<text x="62" y="311" fill="#E8D5C0" font-size="12.0">Medal wiped on restart</text>
+<text x="135" y="331" fill="#8B7A8B" font-size="12.0" text-anchor="middle">state, not balance</text>
+<rect x="260" y="158" width="180" height="200" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="276" y="181" width="12" height="12" rx="2" fill="none" stroke="#4A9B9B" stroke-width="1.4"/>
+<path d="M277,186 l3,3 l5,-7" fill="none" stroke="#4A9B9B" stroke-width="1.6"/>
+<text x="296" y="190" fill="#E8D5C0" font-size="12.0">Tile Expiration</text>
+<text x="350" y="216" fill="#E8D5C0" font-size="12.0" text-anchor="middle">did not update</text>
+<text x="350" y="236" fill="#E8D5C0" font-size="12.0" text-anchor="middle">cursed tiles</text>
+<text x="350" y="262" fill="#A85D6A" font-size="12.0" text-anchor="middle">Looked permanent</text>
+<text x="350" y="306" fill="#8B7A8B" font-size="12.0" text-anchor="middle">1 line only</text>
+<rect x="455" y="158" width="220" height="200" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<rect x="471" y="181" width="12" height="12" rx="2" fill="none" stroke="#A85D6A" stroke-width="1.4"/>
+<path d="M472,186 l3,3 l5,-7" fill="none" stroke="#A85D6A" stroke-width="1.6"/>
+<text x="491" y="190" fill="#E8D5C0" font-size="12.0">Linux stretch</text>
+<text x="565" y="216" fill="#E8D5C0" font-size="12.0" text-anchor="middle">at some</text>
+<text x="565" y="236" fill="#E8D5C0" font-size="12.0" text-anchor="middle">resolutions</text>
+<text x="565" y="262" fill="#4A9B9B" font-size="12.0" text-anchor="middle">Display only</text>
+<text x="565" y="306" fill="#8B7A8B" font-size="12.0" text-anchor="middle">No rule change</text>
+<text x="350" y="386" fill="#4A9B9B" font-size="12.0" text-anchor="middle">VERIFY: check price -&gt; sell -&gt; restart -&gt; watch a curse expire</text>
+<text x="350" y="422" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Grouped from the official 1.5.4b fix list</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="260" viewBox="0 0 700 260">
+<rect width="700" height="260" fill="#1A0F1A" rx="12"/>
+<defs>
+<marker id="aGold" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker>
+<marker id="aTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#4A9B9B"/></marker>
+<marker id="aRose" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#A85D6A"/></marker>
+</defs>
+<text x="350" y="33" fill="#D4A84A" font-size="22.0" text-anchor="middle" font-family="'VT323',monospace">Two Reasons To Sell, One Was Missing</text>
+<text x="350" y="53" fill="#8B7A8B" font-size="12.0" text-anchor="middle">The slot always freed; the money did not</text>
+<text x="160" y="88" fill="#A85D6A" font-size="14.0" text-anchor="middle" font-family="'VT323',monospace">BEFORE 1.5.4b</text>
+<text x="540" y="88" fill="#D4A84A" font-size="14.0" text-anchor="middle" font-family="'VT323',monospace">AFTER 1.5.4b</text>
+<rect x="45" y="104" width="230" height="26" rx="4" fill="#4A9B9B" opacity="0.8"/>
+<rect x="425" y="104" width="230" height="26" rx="4" fill="#4A9B9B" opacity="0.8"/>
+<text x="160" y="122" fill="#F5E6D3" font-size="12.0" text-anchor="middle">SLOT FREED</text>
+<text x="540" y="122" fill="#F5E6D3" font-size="12.0" text-anchor="middle">SLOT FREED</text>
+<rect x="45" y="142" width="60" height="26" rx="4" fill="#A85D6A" opacity="0.8"/>
+<rect x="425" y="142" width="230" height="26" rx="4" fill="#D4A84A" opacity="0.8"/>
+<text x="75" y="160" fill="#F5E6D3" font-size="12.0" text-anchor="middle">0</text>
+<text x="540" y="160" fill="#1A0F1A" font-size="12.0" text-anchor="middle">MONEY CREDITED</text>
+<text x="160" y="196" fill="#A85D6A" font-size="12.0" text-anchor="middle">half the reason to sell</text>
+<text x="540" y="196" fill="#D4A84A" font-size="12.0" text-anchor="middle">the loop works again</text>
+<text x="350" y="242" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Payout behaviour quoted from the 1.5.4b fix list</text>
+</svg>

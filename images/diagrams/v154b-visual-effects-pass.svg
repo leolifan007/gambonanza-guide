@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<defs>
+<marker id="aGold" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker>
+<marker id="aTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#4A9B9B"/></marker>
+<marker id="aRose" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#A85D6A"/></marker>
+</defs>
+<text x="350" y="33" fill="#D4A84A" font-size="22.0" text-anchor="middle" font-family="'VT323',monospace">1.5.4b - Eight Gambits Got Visible VFX</text>
+<text x="350" y="53" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Same numbers, new trigger feedback</text>
+<rect x="30" y="82" width="150" height="46" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="105.0" y="109.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">Dainsleif's</text>
+<path d="M105,128 L350,212" fill="none" stroke="#4A9B9B" stroke-width="1.0" marker-end="url(#aTeal)"/>
+<rect x="195" y="82" width="150" height="46" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="270.0" y="109.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">King XI's</text>
+<path d="M270,128 L350,212" fill="none" stroke="#4A9B9B" stroke-width="1.0" marker-end="url(#aTeal)"/>
+<rect x="360" y="82" width="150" height="46" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="435.0" y="109.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">Resurrection Stone's</text>
+<path d="M435,128 L350,212" fill="none" stroke="#4A9B9B" stroke-width="1.0" marker-end="url(#aTeal)"/>
+<rect x="525" y="82" width="150" height="46" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="600.0" y="109.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">Anna's Family's</text>
+<path d="M600,128 L350,212" fill="none" stroke="#4A9B9B" stroke-width="1.0" marker-end="url(#aTeal)"/>
+<rect x="30" y="144" width="150" height="46" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="105.0" y="171.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">Zen's</text>
+<path d="M105,190 L350,212" fill="none" stroke="#4A9B9B" stroke-width="1.0" marker-end="url(#aTeal)"/>
+<rect x="195" y="144" width="150" height="46" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="270.0" y="171.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">Jockey's</text>
+<path d="M270,190 L350,212" fill="none" stroke="#4A9B9B" stroke-width="1.0" marker-end="url(#aTeal)"/>
+<rect x="360" y="144" width="150" height="46" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="435.0" y="171.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">Princess's</text>
+<path d="M435,190 L350,212" fill="none" stroke="#4A9B9B" stroke-width="1.0" marker-end="url(#aTeal)"/>
+<rect x="525" y="144" width="150" height="46" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="600.0" y="171.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">Warlock's</text>
+<path d="M600,190 L350,212" fill="none" stroke="#4A9B9B" stroke-width="1.0" marker-end="url(#aTeal)"/>
+<rect x="210" y="216" width="280" height="52" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="350.0" y="246.0" fill="#F5E6D3" font-size="13.0" text-anchor="middle">VISIBLE TRIGGER FEEDBACK</text>
+<rect x="30" y="292" width="300" height="106" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<rect x="30" y="292" width="300" height="24" rx="8" fill="#4A9B9B" opacity="0.18"/>
+<text x="180.0" y="309" fill="#4A9B9B" font-size="15.0" text-anchor="middle" font-family="'VT323',monospace">NO RULE CHANGE</text>
+<text x="180.0" y="338" fill="#E8D5C0" font-size="12.5" text-anchor="middle">No number changed</text>
+<text x="180.0" y="360" fill="#E8D5C0" font-size="12.5" text-anchor="middle">No trigger changed</text>
+<text x="180.0" y="382" fill="#E8D5C0" font-size="12.5" text-anchor="middle">No price changed</text>
+<rect x="370" y="292" width="300" height="106" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<rect x="370" y="292" width="300" height="24" rx="8" fill="#A85D6A" opacity="0.18"/>
+<text x="520.0" y="309" fill="#A85D6A" font-size="15.0" text-anchor="middle" font-family="'VT323',monospace">1.5.7 IS DIFFERENT</text>
+<text x="520.0" y="338" fill="#E8D5C0" font-size="12.5" text-anchor="middle">Dainsleif's now triggers</text>
+<text x="520.0" y="360" fill="#E8D5C0" font-size="12.5" text-anchor="middle">when a KING turns to Gold</text>
+<text x="520.0" y="382" fill="#E8D5C0" font-size="12.5" text-anchor="middle">That is a rule fix</text>
+<text x="350" y="422" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Lists quoted from the 1.5.4b ART line and the 1.5.7 post</text>
+</svg>

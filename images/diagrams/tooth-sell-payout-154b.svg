@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter,sans-serif" width="700" height="440" viewBox="0 0 700 440">
+<rect width="700" height="440" fill="#1A0F1A" rx="12"/>
+<defs>
+<marker id="aGold" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#D4A84A"/></marker>
+<marker id="aTeal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#4A9B9B"/></marker>
+<marker id="aRose" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#A85D6A"/></marker>
+</defs>
+<text x="350" y="33" fill="#D4A84A" font-size="22.0" text-anchor="middle" font-family="'VT323',monospace">Sell-for-Gold Loop After 1.5.4b</text>
+<text x="350" y="53" fill="#8B7A8B" font-size="12.0" text-anchor="middle">One broken edge is restored; the trade itself is unchanged</text>
+<text x="350" y="84" fill="#A85D6A" font-size="15.0" text-anchor="middle" font-family="'VT323',monospace">BEFORE 1.5.4b</text>
+<text x="350" y="244" fill="#D4A84A" font-size="15.0" text-anchor="middle" font-family="'VT323',monospace">AFTER 1.5.4b</text>
+<rect x="35" y="105" width="130" height="62" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="100.0" y="140.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">SELL TOOTH</text>
+<path d="M167,136 L199,136" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<rect x="205" y="105" width="130" height="62" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="270.0" y="140.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">SLOT FREED</text>
+<path d="M337,136 L369,136" fill="none" stroke="#A85D6A" stroke-width="1.8" marker-end="url(#aRose)"/>
+<rect x="375" y="105" width="130" height="62" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="440.0" y="140.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">NO MONEY</text>
+<path d="M507,136 L539,136" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<rect x="545" y="105" width="130" height="62" rx="8" fill="#2D1A2D" stroke="#A85D6A" stroke-width="1.5"/>
+<text x="610.0" y="140.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">LOOP POINTLESS</text>
+<rect x="35" y="265" width="130" height="62" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="100.0" y="300.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">SELL TOOTH</text>
+<path d="M167,296 L199,296" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<rect x="205" y="265" width="130" height="62" rx="8" fill="#2D1A2D" stroke="#4A9B9B" stroke-width="1.5"/>
+<text x="270.0" y="300.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">SLOT FREED</text>
+<path d="M337,296 L369,296" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<rect x="375" y="265" width="130" height="62" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="440.0" y="300.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">MONEY CREDITED</text>
+<path d="M507,296 L539,296" fill="none" stroke="#D4A84A" stroke-width="1.8" marker-end="url(#aGold)"/>
+<rect x="545" y="265" width="130" height="62" rx="8" fill="#2D1A2D" stroke="#D4A84A" stroke-width="1.5"/>
+<text x="610.0" y="300.0" fill="#F5E6D3" font-size="12.0" text-anchor="middle">REINVEST</text>
+<path d="M496,130 l12,12 M508,130 l-12,12" stroke="#A85D6A" stroke-width="2.2"/>
+<text x="350" y="196" fill="#8B7A8B" font-size="12.0" text-anchor="middle">The payout edge was broken; the other three steps always worked.</text>
+<text x="350" y="356" fill="#4A9B9B" font-size="12.0" text-anchor="middle">Real trade: cash now versus whatever the Gambit would proc later.</text>
+<text x="350" y="392" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Five slot limit; the shop comes between games.</text>
+<text x="350" y="422" fill="#8B7A8B" font-size="12.0" text-anchor="middle">Payout behaviour quoted from the 1.5.4b fix list</text>
+</svg>
