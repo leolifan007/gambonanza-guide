@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Title }} - {{ .Site.Title }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}All Gambonanza Guide articles filed under {{ .Title }}.{{ end }}">
+  {{/* Tag and category archive pages only list article links; keep them out of the index. */}}
+  <meta name="robots" content="noindex, follow">
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>

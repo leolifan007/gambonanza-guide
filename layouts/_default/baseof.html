@@ -14,6 +14,7 @@
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta name="keywords" content="{{ .Site.Params.keywords }}">
+  {{ if .Params.hidden }}<meta name="robots" content="noindex, follow">{{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="alternate" hreflang="en" href="{{ .Permalink }}">
   <link rel="alternate" hreflang="zh-CN" href="https://translate.google.com/translate?hl=zh-CN&sl=en&u={{ .Site.BaseURL }}{{ .Page.RelPermalink }}">
